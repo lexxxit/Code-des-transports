@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2010-12-01 00:00:01 +0100
+Version Consolidée au 2010-12-18
 
 # PARTIE LEGISLATIVE
 
@@ -2763,19 +2763,20 @@ Les périmètres de transport urbain sont annexés aux plans départementaux de 
 
 ###### Article L1231-7
 
-L'arrêté de création d'une communauté d'agglomération ou d'une communauté urbaine, ou l'arrêté de transformation d'un
-établissement public de coopération intercommunale en communauté d'agglomération ou en communauté urbaine vaut établissement
-d'un périmètre de transports urbains.
+L'acte de création d'une communauté d'agglomération, d'une communauté urbaine ou d'une métropole ou l'acte de transformation
+d'un établissement public de coopération intercommunale en communauté d'agglomération, en communauté urbaine ou en métropole
+vaut établissement d'un périmètre de transports urbains.
 
 Le principe posé à l'alinéa précédent ne fait pas obstacle à l'établissement d'un périmètre de transports urbains dans les
-conditions prévues à la présente section, lorsque la communauté d'agglomération ou la communauté urbaine décide de transférer
-sa compétence d'organisation des transports urbains à un syndicat mixte dans le périmètre duquel elle est incluse.
+conditions prévues à la présente section, lorsque la communauté d'agglomération, la communauté urbaine ou la métropole décide
+de transférer sa compétence d'organisation des transports urbains à un syndicat mixte dans le périmètre duquel elle est
+incluse.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 74 (VT), alinéas 1, 1er membre de phrase et 2
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
 
 	**Cité par**:
 
@@ -32166,21 +32167,30 @@ dispositions de l'article L. 1614-8 du code général des collectivités territo
 
 ###### Article L5314-4
 
-Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines ou les communautés d'agglomération,
-sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la plaisance.
+Les communes ou, le cas échéant, les communautés de communes, les communautés urbaines, les métropoles  ou les communautés
+d'agglomération, sont compétentes pour créer, aménager et exploiter les ports maritimes dont l'activité principale est la
+plaisance.
 
 Elles sont également compétentes pour aménager et exploiter les ports maritimes de commerce et de pêche qui leur sont
 transférés.
 
 Toutefois, les compétences exercées par d'autres collectivités territoriales ou groupements de collectivités territoriales
 sur les ports maritimes dont l'activité principale est la plaisance ne peuvent être transférées aux communes ou, le cas
-échéant, aux communautés de communes, aux communautés urbaines ou aux communautés d'agglomération, sans l'accord exprès de
-ces autres collectivités territoriales ou groupements de collectivités territoriales.
+échéant, aux communautés de communes, aux communautés urbaines, aux métropoles  ou aux communautés d'agglomération, sans
+l'accord exprès de ces autres collectivités territoriales ou groupements de collectivités territoriales.
 
 Le département ou un syndicat mixte peut également, à la demande d'une commune ou, le cas échéant, d'une communauté de
 communes, créer, aménager et exploiter un port maritime dont l'activité principale est la plaisance.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 17
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. L601-1 (Ab), alinéas 3 à 5, paragraphe III
 
 	**Cité par**:
 
