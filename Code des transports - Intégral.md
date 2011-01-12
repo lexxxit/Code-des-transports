@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-01-07
+Version Consolidée au 2011-01-13
 
 # PARTIE LEGISLATIVE
 
@@ -5611,19 +5611,23 @@ Les sanctions administratives, notamment la radiation du registre, ne peuvent ê
 commissionnaires de transport qu'après avis d'une commission des sanctions administratives placée auprès de l'autorité
 compétente dont la composition et les modalités de fonctionnement sont fixées par un décret en Conseil d'Etat.
 
+Une commission nationale des sanctions administratives placée auprès du ministre chargé des transports est saisie pour avis
+des recours hiérarchiques formés contre les sanctions administratives prononcées par l'autorité compétente après avis de la
+commission mentionnée à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 17 (M), alinéa 9
-
-	**Cité par**:
-
-	  - Code des transports - art. R3452-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 10
+
+	**Cité par**:
+
+	  - Code des transports - art. R3452-1 (VD)
 
 
 ##### Section 2 : Sanctions pénales
@@ -18841,13 +18845,13 @@ Les sanctions, notamment les mesures de retrait et d'immobilisation prévues par
 peuvent être prononcées qu'après avis d'une commission des sanctions administratives placée auprès de l'autorité
 administrative et présidée par un magistrat de l'ordre administratif. Elle comprend des représentants des entreprises qui
 participent aux opérations de transport, de leurs salariés et des différentes catégories d'usagers ainsi que des
-représentants de l'Etat.
+représentants de l'Etat. 
+
+Une commission nationale des sanctions administratives placée auprès du ministre chargé des transports est saisie pour avis
+des recours hiérarchiques formés contre les sanctions administratives prononcées par l'autorité compétente après avis de la
+commission mentionnée à l'alinéa précédent.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 17 (M), alinéa 9
 
 	**Cité par**:
 
@@ -18860,13 +18864,17 @@ représentants de l'Etat.
 	  - Code des transports - art. R3113-30 (VD)
 	  - Code des transports - art. R3452-1 (VD)
 
-	**Cite**:
-
-	  - Code des transports - art. L3452-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L3452-1 (V)
 
 
 ###### Article L3452-4
