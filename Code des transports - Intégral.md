@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-01-13
+Version Consolidée au 2011-02-26
 
 # PARTIE LEGISLATIVE
 
@@ -4292,16 +4292,22 @@ navigants des entreprises mentionnées à l'article L. 1321-1.
 
 ###### Article L1321-7
 
-Pour l'application des dispositions de l'article L. 3122-31 du code du travail, tout travail entre 22 heures et 5 heures est
-considéré comme travail de nuit. 
+Tout travail entre 22 heures et 5 heures est considéré comme travail de nuit. 
 
 Une autre période de sept heures consécutives comprise entre 21 heures et 7 heures, incluant l'intervalle entre 24 heures et
 5 heures, peut être substituée à la période fixée à l'alinéa précédent par une convention ou un accord collectif étendu ou
 une convention ou un accord d'entreprise ou d'établissement. A défaut d'accord et lorsque les caractéristiques particulières
 de l'activité de l'entreprise le justifient, cette substitution peut être autorisée par l'inspecteur du travail, après
-consultation des délégués syndicaux et avis du comité d'entreprise ou des délégués du personnel, s'ils existent.
+consultation des délégués syndicaux et avis du comité d'entreprise ou des délégués du personnel, s'ils existent. 
+
+Pour l'application des dispositions de l'article L. 3122-31 du code du travail, la période nocturne à retenir est celle
+définie en application des deux alinéas précédents.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 	**Cité par**:
 
@@ -4311,13 +4317,9 @@ consultation des délégués syndicaux et avis du comité d'entreprise ou des d�
 	  - Code des transports - art. L1821-8-1 (V)
 	  - Code des transports - art. L3312-1 (V)
 
-	**Anciens textes**:
-
-	  - Code du travail - art. L213-11 (VT), alinéas 2 et 3, paragraphe I
-
 	**Cite**:
 
-	  - Code du travail - art. L3122-31 (V)
+	  - Code du travail - art. L3122-31
 
 	**Codifié par**:
 
@@ -4774,6 +4776,16 @@ participation à cette grève.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+#### TITRE II : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE TRANSPORT
+
+##### Chapitre Ier : Durée du travail, travail de nuit et repos des salariés des entreprises de transport
+
+##### Chapitre II : Durée du travail et temps de repos des non-salariés des entreprises de transport
+
+##### Chapitre III : Aptitude à la conduite
+
+##### Chapitre IV : Dialogue social, prévention des conflits collectifs et exercice du droit de grève
+
 #### TITRE III : DISPOSITIONS APPLICABLES AUX SALARIES DES ENTREPRISES DE TRANSPORT ETABLIES HORS DE FRANCE
 
 ##### Chapitre unique
@@ -5139,6 +5151,31 @@ effectivement rendus. Elle est supportée par ceux qui en bénéficient.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L1431-3
+
+Toute personne qui commercialise ou organise une prestation de transport de personnes, de marchandises ou de déménagement
+doit fournir au bénéficiaire de la prestation une information relative à la quantité de dioxyde de carbone émise par le ou
+les modes de transport utilisés pour réaliser cette prestation.
+
+Le champ et les modalités d'application de cette disposition, notamment le calendrier de leur mise en œuvre selon la taille
+des entreprises de transport, les méthodes de calcul des émissions de dioxyde de carbone et la manière dont le bénéficiaire
+de la prestation est informé sont fixés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-1336 du 24 octobre 2011 - art. 2 (Ab)
+	  - Décret n°2011-1336 du 24 octobre 2011 - art. 3 (Ab)
+	  - Décret n°2017-639 du 26 avril 2017 (V)
+	  - Code des transports - art. D1431-2 (VD)
+	  - Code des transports - art. D1431-3 (VD)
 
 
 ##### Chapitre II : Les contrats de transport de marchandises
@@ -7912,18 +7949,25 @@ consacrés à chacune de ces collectivités dans le livre relatif à l'outre-mer
 
 ###### Article L1802-1
 
-Pour leur application dans les départements d'outre-mer, les dispositions du présent code sont ainsi adaptées :
+Pour leur application dans les départements de Guadeloupe, de Guyane, de Martinique et de La Réunion, les dispositions du
+présent code sont ainsi adaptées :
 
-1° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions dévolues au préfet maritime ;
+a) Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-2° Le directeur départemental des territoires et de la mer de la Guadeloupe exerce également ses attributions à Saint-
-Barthélemy et à Saint-Martin.
+b) Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 2 : Dispositions relatives à Mayotte
@@ -7940,13 +7984,14 @@ leurs présidents respectifs ;
 3° Les attributions du tribunal de grande instance et de son président ainsi que celles du tribunal d'instance et de son
 président sont exercées par le tribunal de première instance et son président ;
 
-4° Les références au département ou à la région sont remplacées par des références à la collectivité départementale de
-Mayotte ;
+4° Les références au département ou à la région sont remplacées par des références au Département de Mayotte (1)  ;
 
-5° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+5° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-6° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ;
+6° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
 7° Les références au code général des impôts et au code des douanes sont remplacées respectivement par des références aux
 textes applicables localement en matière fiscale et au code des douanes de Mayotte ;
@@ -7958,11 +8003,21 @@ textes applicables localement en matière fiscale et au code des douanes de Mayo
 10° Les dispositions des actes communautaires auxquelles il est fait référence dans le présent code sont applicables à
 Mayotte en tant qu'elles sont nécessaires à la mise en œuvre des dispositions du présent code dans cette collectivité.
 
+**Nota:**
+
+(1) Ordonnance n° 2011-204 du 24 février 2011 art 2 15° a) : A compter de la première réunion suivant le renouvellement du
+conseil général de Mayotte en 2011, au 4°, les mots : "à la collectivité départementale de Mayotte" sont remplacés par les
+mots : "au Département de Mayotte".
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 3 : Dispositions relatives à Saint-Barthélemy
@@ -7980,10 +8035,12 @@ régionaux et à leurs présidents respectifs ;
 3° Les références à la commune, au département ou à la région sont remplacées par des références à la collectivité d'outre-
 mer de Saint-Barthélemy ;
 
-4° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions dévolues au préfet maritime ;
+4° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-5° Le directeur départemental des territoires et de la mer de la Guadeloupe exerce également ses attributions à Saint-
-Barthélemy ;
+5° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
 6° Les références au code général des impôts, au code de l'urbanisme et au code de l'environnement sont remplacées par des
 références aux textes applicables localement en matière fiscale, d'urbanisme et d'environnement.
@@ -7993,6 +8050,10 @@ références aux textes applicables localement en matière fiscale, d'urbanisme 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 4 : Dispositions relatives à Saint-Martin
@@ -8010,10 +8071,12 @@ régionaux et à leurs présidents respectifs ;
 3° Les références à la commune, au département ou à la région sont remplacées par des références à la collectivité d'outre-
 mer de Saint-Martin ;
 
-4° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions dévolues au préfet maritime ;
+4° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-5° Le directeur départemental des territoires et de la mer de la Guadeloupe exerce également ses attributions à Saint-
-Martin ;
+5° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
 6° Les références au code général des impôts sont remplacées par des références aux textes applicables localement en matière
 fiscale.
@@ -8023,6 +8086,10 @@ fiscale.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 5 : Dispositions relatives à Saint-Pierre-et-Miquelon
@@ -8046,26 +8113,32 @@ président sont exercées par le tribunal de première instance et son présiden
 5° Les attributions du tribunal de commerce et de son président sont exercées par le tribunal de première instance statuant
 en matière commerciale ou par son président ;
 
-6° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+6° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ; 
 
-7° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ;
+7° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
-8° Le chef du service d'aviation civile exerce les attributions du directeur de région aéronautique ;
-
-9° Le directeur de l'équipement exerce les attributions de l'ingénieur en chef du service des bases aériennes ;
-
-10° Les références à la chambre de commerce et d'industrie sont remplacées par des références à la chambre d'agriculture, de
+8° Les références à la chambre de commerce et d'industrie sont remplacées par des références à la chambre d'agriculture, de
 commerce, d'industrie, de métiers et de l'artisanat ;
 
-11° Les références au code général des impôts, au code des douanes et au code de l'urbanisme sont remplacées par des
+9° Les références au code général des impôts, au code des douanes et au code de l'urbanisme sont remplacées par des
 références aux textes applicables localement en matière fiscale, douanière et d'urbanisme.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 6 : Dispositions relatives à la Nouvelle-Calédonie
@@ -8076,10 +8149,12 @@ Les dispositions du présent code applicables en Nouvelle-Calédonie sont ainsi 
 
 1° Le représentant de l'Etat en Nouvelle-Calédonie exerce les attributions dévolues au préfet de département et de région ;
 
-2° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+2° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ; 
 
-3° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ;
+3° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur ou chef de service compétent ;
 
 4° Les attributions du tribunal de grande instance et de son président ainsi que celles du tribunal d'instance et de son
 président sont exercées par le tribunal de première instance et son président ;
@@ -8095,6 +8170,10 @@ références aux textes applicables localement en la matière.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+
 
 ##### Section 7 : Dispositions relatives à la Polynésie française
 
@@ -8104,10 +8183,12 @@ Les dispositions du présent code applicables en Polynésie française sont ains
 
 1° Le représentant de l'Etat en Polynésie française exerce les attributions dévolues au préfet de département et de région ;
 
-2° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+2° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-3° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ;
+3° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur ou chef de service compétent ;
 
 4° Les attributions du tribunal de grande instance et de son président ainsi que celles du tribunal d'instance et de son
 président sont exercées par le tribunal de première instance et son président ;
@@ -8124,6 +8205,10 @@ localement en la matière.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+
 
 ##### Section 8 : Dispositions relatives à Wallis-et-Futuna
 
@@ -8133,13 +8218,15 @@ Les dispositions du présent code applicables à Wallis-et-Futuna sont ainsi ada
 
 1° Le représentant de l'Etat à Wallis-et-Futuna exerce les attributions dévolues au préfet de département et de région ; 
 
-2° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ; 
+2° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ; 
 
-3° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ; 
+3° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur ou chef de service compétent ; 
 
 4° Les attributions du tribunal de grande instance et de son président ainsi que celles du tribunal d'instance et de son
-président sont exercées par le tribunal de première instance et son président ; 
+président sont exercées par le tribunal de première instance et son président ;
 
 5° Les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 modifiée
 instituant un code du travail dans les territoires et territoires associés relevant du ministère chargé de l'outre-mer ; 
@@ -8150,11 +8237,15 @@ instituant un code du travail dans les territoires et territoires associés rele
 
 	**Cite**:
 
-	  - Loi n°52-1322 du 15 décembre 1952 (V)
+	  - Loi n°52-1322 du 15 décembre 1952
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 9 : Dispositions relatives aux Terres australes et antarctiques françaises
@@ -8166,10 +8257,12 @@ Les dispositions du présent code applicables dans les Terres australes et antar
 1° Le représentant de l'Etat dans les Terres australes et antarctiques françaises exerce les attributions dévolues au préfets
 de département et de région ;
 
-2° Le délégué du Gouvernement pour l'action de l'Etat en mer exerce les attributions du préfet maritime ;
+2° Les références au préfet maritime sont remplacées par des références au représentant de l'Etat compétent en mer ;
 
-3° Le chef du service des affaires maritimes exerce les attributions du directeur départemental des territoires et de la
-mer ;
+3° Les références au directeur départemental des territoires et de la mer, au directeur départemental ou interdépartemental
+des affaires maritimes, au directeur interrégional de la mer, au directeur régional des affaires maritimes ou au chef des
+services des affaires maritimes sont remplacées, selon les modalités d'organisation et les attributions des services chargés
+des activités maritimes, par des références au directeur de la mer ou à tout autre directeur ou chef de service compétent ;
 
 4° Les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 modifiée
 instituant un code du travail dans les territoires et territoires associés relevant du ministère chargé de l'outre-mer.
@@ -8183,6 +8276,10 @@ instituant un code du travail dans les territoires et territoires associés rele
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Chapitre III : La continuité territoriale entre les collectivités d'outre-mer et le territoire métropolitain
@@ -15768,11 +15865,20 @@ transporter.
 
 Ces contrats sont régis par l'article L. 1431-1.
 
+Les rapports entre les parties au contrat de services occasionnels sur les matières mentionnées au premier alinéa sont
+définis par une convention écrite conforme aux dispositions législatives régissant les contrats et, le cas échéant, aux
+dispositions impératives issues des conventions internationales.
+
+A défaut de convention écrite et sans préjudice des dispositions législatives régissant les contrats, les rapports entre les
+parties sont, de plein droit, fixés par des contrats types.
+
+Les clauses des contrats types sont établies par voie réglementaire.
+
+Sans préjudice des dispositions impératives issues des conventions internationales et à défaut de convention écrite
+définissant les rapports entre les parties au contrat sur les matières mentionnées au premier alinéa, les clauses des
+contrats types s'appliquent de plein droit aux contrats de transport international.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 8 (Ab), alinéas 5 et 6, ecqc les services occasionnels publics de transports routiers non urbains de personnes, paragraphe II
 
 	**Cité par**:
 
@@ -15780,11 +15886,15 @@ Ces contrats sont régis par l'article L. 1431-1.
 
 	**Cite**:
 
-	  - Code des transports - art. L1431-1 (V)
+	  - Code des transports - art. L1431-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 3
 
 
 ##### Chapitre III : Accès à la profession de transporteur public routier de personnes
@@ -17774,9 +17884,9 @@ sont soumises à des obligations spécifiques définies par un décret en Consei
 ###### Article L3312-1
 
 Lorsqu'un salarié appartenant au personnel roulant d'une entreprise de transport routier, à l'exception des entreprises de
-transport sanitaire, est un travailleur de nuit au sens de l'article L. 1321-7 ou lorsqu'il accomplit, sur une période de
-vingt-quatre heures, une partie de son travail dans l'intervalle compris entre 24 heures et 5 heures, sa durée quotidienne du
-travail ne peut excéder dix heures. 
+transport sanitaire, est un travailleur de nuit au sens de l'article L. 3122-31 du code du travail et sans préjudice de la
+période définie à l'article L. 1321-7 ou lorsqu'il accomplit, sur une période de vingt-quatre heures, une partie de son
+travail dans l'intervalle compris entre 24 heures et 5 heures, sa durée quotidienne du travail ne peut excéder dix heures. 
 
 Il ne peut être dérogé à ces dispositions qu'en cas de circonstances exceptionnelles, dans des conditions et selon des
 modalités fixées par voie réglementaire, après consultation des organisations syndicales représentatives au plan national des
@@ -17784,13 +17894,14 @@ employeurs et des salariés du secteur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail - art. L213-11 (Ab), paragraphe III
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 3
 
 	**Cite**:
 
-	  - Code des transports - art. L1321-7 (V)
+	  - Code du travail - art. L3122-31
+	  - Code des transports - art. L1321-7
 
 	**Cité par**:
 
@@ -17808,10 +17919,11 @@ employeurs et des salariés du secteur.
 
 Le personnel salarié roulant des entreprises de transport routier, autres que les entreprises de transport sanitaire ou de
 transport de fonds et valeurs, et à l'exception du personnel roulant des entreprises de transport routier de personnes
-affecté à des services réguliers dont le parcours de la ligne ne dépasse pas 50 kilomètres, bénéficie d'une pause d'au moins
-trente minutes lorsque le temps total de son travail quotidien est supérieur à six heures, le temps de pause étant porté à au
-moins quarante-cinq minutes lorsque le temps total de son travail quotidien est supérieur à neuf heures. Les pauses peuvent
-être subdivisées en périodes d'une durée d'au moins quinze minutes chacune.
+affecté à des services réguliers dont le parcours de la ligne ne dépasse pas 50 kilomètres, ne travaille en aucun cas pendant
+plus de six heures consécutives sans pause. Le temps de travail quotidien est interrompu par une pause d'au moins trente
+minutes lorsque le total des heures de travail est compris entre six et neuf heures, et d'au moins quarante-cinq minutes
+lorsque le total des heures de travail est supérieur à neuf heures. Les pauses peuvent être subdivisées en périodes d'une
+durée d'au moins quinze minutes chacune.
 
 L'application de ces dispositions ne peut avoir pour effet de réduire les pauses dues à raison du temps de conduite en
 application du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l'harmonisation de
@@ -17819,10 +17931,6 @@ certaines dispositions de la législation sociale dans le domaine des transports
 3821/85 et (CE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail - art. L220-3 (Ab)
 
 	**Cité par**:
 
@@ -17832,6 +17940,10 @@ certaines dispositions de la législation sociale dans le domaine des transports
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 3
 
 	**Cite**:
 
@@ -30269,18 +30381,15 @@ Sous réserve de contrôles inopinés, le procureur de la République est préal
 de la recherche des infractions par les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1 à L. 5243-4. Il
 peut s'opposer à ces opérations. 
 
-En cas d'infraction, il est immédiatement informé des constatations auxquelles elles ont donné lieu. 
+En cas d'infraction aux dispositions des articles L. 5241-11 à L. 5241-15 et L. 5242-9 à L. 5242-12, il est immédiatement
+informé des constatations auxquelles elles ont donné lieu. 
 
 Les procès-verbaux lui sont transmis dans les cinq jours par l'agent verbalisateur qui en adresse, dans les mêmes délais,
-copie à l'intéressé et au directeur départemental des affaires maritimes dont relève le lieu de l'infraction. 
+copie à l'intéressé et au directeur départemental des territoires et de la mer  dont relève le lieu de l'infraction. 
 
 Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 5 (Ab), alinéa 2
 
 	**Cité par**:
 
@@ -30288,30 +30397,43 @@ Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 	**Cite**:
 
-	  - Code des transports - art. L5243-1 (V)
+	  - Code des transports - art. L5243-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5243-6
 
-Les infractions aux dispositions du chapitre Ier et à celles des sous-sections 1 et 2 de la section 1 du chapitre II du
-présent titre sont jugées soit par le tribunal compétent du lieu de l'infraction, soit par le tribunal compétent dans le
-ressort duquel le navire est immatriculé.
+Les infractions aux dispositions                      visées aux articles L. 5241-11 à L. 5241-15 et L. 5242-9 à L. 5242-12
+sont jugées soit par le tribunal compétent du lieu de l'infraction, soit par le tribunal compétent dans le ressort duquel le
+navire est immatriculé.
 
 A défaut d'autre tribunal, le tribunal de grande instance de Paris est compétent.
 
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5243-6 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 5 (Ab), alinéa 3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
 ##### Section 2 : Dispositions particulières aux épaves
@@ -31113,7 +31235,8 @@ Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de délivrer
 bateaux de plaisance à moteur en mer et en eaux intérieures sans avoir obtenu l'agrément prévu par l'article L. 5272-1 ou en
 violation d'une mesure de suspension provisoire de celui-ci. 
 
-Est puni des mêmes peines le fait d'employer un formateur non titulaire d'une autorisation d'enseigner en cours de validité. 
+Est puni des mêmes peines le fait d'employer un formateur non titulaire d'une autorisation d'enseigner en cours de validité
+ou n'ayant pas rempli l'obligation de déclaration préalable à une première prestation sur le territoire national. 
 
 Les personnes physiques coupables de l'une des infractions définies aux alinéas précédents encourent également les peines
 complémentaires suivantes : 
@@ -31144,15 +31267,15 @@ produit.
 	  - Loi du 17 décembre 1926 - art. 37 (V)
 	  - Code des transports - art. L5273-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 17 (Ab), alinéas 24 à 29, paragraphe III
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 	**Cite**:
 
 	  - Code pénal - art. 131-27
-	  - Code pénal - art. 131-35 (V)
-	  - Code des transports - art. L5272-1 (V)
+	  - Code pénal - art. 131-35
+	  - Code des transports - art. L5272-1
 
 	**Codifié par**:
 
@@ -35750,25 +35873,25 @@ Les sommes recueillies au titre de sanctions pécuniaires sont affectées à des
 
 Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, pour le pilote : 
 
-1° De méconnaître ses obligations d'assistance à un navire en danger en application de l'article L. 5341-3 ;
+1° De méconnaître ses obligations d'assistance à un navire en danger en application de l'article L. 5341-2 ; 
 
 2° De conduire un navire sous l'empire d'un état alcoolique, tel qu'il est caractérisé par le I de l'article L. 234-1 du code
 de la route, même en l'absence de tout signe d'ivresse manifeste.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi du 28 mars 1928 - art. 15 (Ab)
-
 	**Cite**:
 
 	  - Code de la route. - art. L234-1
-	  - Code des transports - art. L5341-3 (V)
+	  - Code des transports - art. L5341-2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5344-6
@@ -37860,8 +37983,19 @@ international ayant la même portée en matière de droit au séjour et au trava
 ###### Article L5522-2
 
 Tout navire doit avoir à bord un effectif de marins suffisant en nombre et en niveau de qualification professionnelle pour
-garantir la sécurité du navire et de son personnel ainsi que le respect des dispositions relatives à la durée du travail et
-aux repos.
+garantir la sécurité du navire et des personnes à bord  ainsi que le respect des dispositions relatives à la durée du travail
+et aux repos.
+
+La fiche d'effectif désigne le document par lequel l'autorité maritime française atteste que l'effectif du navire satisfait
+aux exigences des conventions internationales suivantes et des mesures prises pour leur application :
+
+1° La convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974 modifiée ;
+
+2° La convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille, faite à
+Londres le 7 juillet 1978 modifiée ;
+
+3° La convention n° 180 sur la durée du travail des gens de mer et les effectifs des navires adoptée le 22 octobre 1996 par
+l'Organisation internationale du travail.
 
 Les modalités de fixation de l'effectif sont précisées par décret en Conseil d'Etat.
 
@@ -37889,9 +38023,17 @@ Les modalités de fixation de l'effectif sont précisées par décret en Conseil
 	  - Code des transports - art. R5232-8 (VD)
 	  - Code des transports - art. R5561-3 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - convention n°180
 
 
 ##### Chapitre III : Dispositions pénales
@@ -38035,6 +38177,27 @@ devant le conseil de discipline.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5524-3-1
+
+Les sanctions disciplinaires applicables à un pilote lorsqu'il n'est pas en service à bord d'un navire sont les sanctions
+professionnelles des 1° et 2° de l'article L. 5524-2. La suspension de plus d'un mois et la révocation interviennent après
+avis du conseil de discipline prévu au même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+	**Cite**:
+
+	  - Code des transports - art. L5524-2
 
 
 ###### Article L5524-4
@@ -41817,14 +41980,18 @@ a) Le premier alinéa est complété par les mots : " à bord " ;
 b) Le deuxième alinéa est complété par les mots : " ou des délégués de bord " ; 
 
 c) Au quatrième alinéa, les mots : " le montant annuel moyen des cotisations d'accidents du travail prélevé " sont remplacés
-par les mots : " la moitié du montant annuel moyen des cotisations dues à l'Etablissement national des invalides de la marine
-au titre de la caisse générale de prévoyance des marins ".
+par les mots : " la moitié du montant annuel moyen des cotisations dues au titre du régime de prévoyance des marins ".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail - art. L742-5 (Ab)
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+	**Cite**:
+
+	  - Code du travail - art. L4732-1 (V)
+	  - Code du travail - art. L4741-11 (V)
 
 	**Cité par**:
 
@@ -42564,22 +42731,22 @@ vieillesse des marins, le cas échéant postérieurement à la période en cause
 
 ###### Article L5552-14
 
-Entrent en compte pour leur durée effective, sauf s'ils ont déjà donné lieu à liquidation d'une pension au titre du régime
-des pensions civiles et militaires de retraite :
+Entrent en compte pour leur durée effective, sauf s'ils ont déjà donné lieu à liquidation d'une pension          au titre
+d'un autre régime obligatoire de retraite  : 
 
-1° Les services militaires dans l'armée active et, en cas de mobilisation, dans la réserve ;
+1° Les services militaires dans l'armée active et, en cas de mobilisation, dans la réserve ; 
 
 2° Les services conduisant à pension de l'Etat, accomplis en qualité de personnel civil de la marine ou dans les services des
-ports et des phares et balises.
+ports et des phares et balises. 
 
 La prise en compte de ces services ne peut excéder la moitié de la durée totale des services décomptés pour l'établissement
 du droit à pension au titre du régime d'assurance vieillesse des marins.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des pensions de retraite des marins frança... - art. L10 (Ab)
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 	**Cité par**:
 
@@ -42813,13 +42980,18 @@ Les pensions concédées sont revalorisées lorsque le salaire forfaitaire est r
 ###### Article L5552-21
 
 Lorsqu'une pension est concédée, qu'elle soit liquidée ou non, toute reprise d'activité entrainant affiliation au régime
-d'assurance vieillesse des marins ne peut ouvrir de nouveaux droits à pension ou donner lieu à révision de la pension.
+d'assurance vieillesse des marins ne peut ouvrir de nouveaux droits à pension ou donner lieu à révision de la pension sauf
+dans les cas mentionnés aux articles L. 5552-7 et L. 5552-10.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des pensions de retraite des marins frança... - art. L16 (Ab), alinéa 2
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+	**Cite**:
+
+	  - Code des transports - art. L5552-7
 
 	**Codifié par**:
 
@@ -44338,22 +44510,11 @@ présente partie.
 ###### Article L5612-3
 
 A bord des navires immatriculés au registre international français, les membres de l'équipage sont, dans une proportion d'au
-moins 35 % calculée sur la fiche d'effectif, des ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à
-l'accord sur l'Espace économique européen ou de la Confédération suisse.
-
-La fiche d'effectif désigne le document par lequel l'autorité maritime française atteste que l'effectif du navire satisfait
-aux exigences des conventions internationales suivantes et des mesures prises pour leur application :
-
-1° La convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974 modifiée ;
-
-2° La convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille, faite à
-Londres le 7 juillet 1978 modifiée ;
-
-3° La convention n° 180 sur la durée du travail des gens de mer et les effectifs des navires adoptée le 22 octobre 1996 par
-l'Organisation internationale du travail.
+moins 35 % calculée sur la fiche d'effectif mentionnée à l'article L. 5522-2, des ressortissants d'un Etat membre de l'Union
+européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse. 
 
 Le pourcentage visé au premier alinéa est fixé à 25 % pour les navires ne bénéficiant pas ou plus du dispositif d'aide
-fiscale attribué au titre de leur acquisition.
+fiscale attribué au titre de leur acquisition. 
 
 Le capitaine et l'officier chargé de sa suppléance, garants de la sécurité du navire et de son équipage, de la protection de
 l'environnement et de la sûreté, sont français, ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à
@@ -44367,17 +44528,18 @@ d'application de cette dernière disposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 5 (VT), alinéas 1 (phrase 1), et 2, sauf ecqc le mécanicien
+	  - Code des transports - art. L5522-2
+	  - convention n°180
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - convention n°180
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5612-4
@@ -45673,33 +45835,6 @@ Les dispositions du chapitre II du titre Ier du livre Ier ne sont pas applicable
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Navigation maritime
-
-###### Article L5722-1
-
-Les articles L. 5431-2 et L. 5431-3 sont applicables aux transports maritimes réguliers publics de personnes pour la desserte
-de ports ou appontements du littoral. 
-
-La collectivité territoriale organisatrice est celle visée à l'article L. 5431-1 ou, lorsqu'un périmètre de transport urbain
-a été constitué en application des dispositions de la section 1 du chapitre Ier du titre III du livre II de la première
-partie, les autorités mentionnées aux premier et troisième alinéas du même article.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Cite**:
-
-	  - Code des transports - art. L5431-1
-	  - Code des transports - art. L5431-2
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L5724-2 (M)
-
-
 ##### Chapitre III : Les ports maritimes
 
 
@@ -45748,6 +45883,30 @@ Les dispositions du livre III de la présente partie relative à la domanialité
 Les dispositions du chapitre Ier du titre III du livre IV ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5724-2
+
+Les articles L. 5431-2 et L. 5431-3 sont applicables aux transports maritimes réguliers publics de personnes pour la desserte
+de ports ou appontements du littoral. 
+
+La collectivité territoriale organisatrice est celle visée à l'article L. 5431-1 ou, lorsqu'un périmètre de transport urbain
+a été constitué en application des dispositions de la section 1 du chapitre Ier du titre III du livre II de la première
+partie, les autorités mentionnées aux premier et troisième alinéas du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L5722-1 (T)
 
 	**Codifié par**:
 
@@ -47594,19 +47753,22 @@ sur l'Espace économique européen ;
 française.
 
 Les conditions d'application du présent article et les conditions dans lesquelles l'autorité administrative peut, par
-dérogation, immatriculer des aéronefs exploités en France mais ne remplissant pas ces conditions sont fixées par arrêté
-ministériel.
+dérogation, immatriculer des aéronefs ne remplissant pas ces conditions, mais exploités en France ou en attente de
+certification dans le pays de leur exploitant, sont fixées par arrêté ministériel.
+
+Les aéronefs immatriculés en France à titre dérogatoire avant le 1er décembre 2010 conservent le bénéfice de cette
+dérogation.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 	**Cité par**:
 
 	  - Arrêté du 31 octobre 2011 - art. 1 (V)
 	  - Code des transports - art. L6111-4 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L121-3 (Ab)
 
 	**Codifié par**:
 
@@ -53230,18 +53392,18 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 Le contrat de transport des passagers est constaté par la délivrance d'un billet, individuel ou collectif.
 
-Le contrat de transport des bagages est constaté par bagage enregistré par la délivrance d'une fiche d'identification par
-bagage enregistré.
+Le contrat de transport des bagages est constaté par la délivrance d'une fiche d'identification pour chaque bagage
+enregistré.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L322-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ###### Article L6421-2
@@ -54353,7 +54515,7 @@ Le contrat de travail précise :
 
 4° Le cas échéant, les conditions d'accomplissement de la mission pour laquelle il a été conclu ; 
 
-5° Le cas échéant, les conditions de détachement du navigant sur un poste à l'étranger ; 
+5° Le cas échéant, les conditions d'affectation du navigant sur un poste à l'étranger ; 
 
 6° Le délai de préavis à observer en cas de résiliation du contrat par l'une ou l'autre des parties ; 
 
@@ -54364,13 +54526,13 @@ L. 6521-4 et L. 6521-5 ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L423-1 (VT), alinéas 2 et 3, ecqc les mentions du contrat et le salaire minimum
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 	**Cite**:
 
-	  - Code des transports - art. L6521-4 (V)
+	  - Code des transports - art. L6521-4
 
 	**Cité par**:
 
@@ -54416,27 +54578,27 @@ que soit son ancienneté.
 
 ###### Article L6523-5
 
-Le contrat conclu pour une durée déterminée indique le lieu de destination finale de la mission.
+Si le contrat est conclu pour une mission déterminée, il indique le lieu de destination finale de cette dernière et le moment
+à partir duquel elle est réputée accomplie. 
 
 Le contrat de travail à durée déterminée dont le terme survient au cours d'une mission est prorogé jusqu'à l'achèvement de la
 mission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L423-1 (VT), alinéa 6, contrat à durée déterminée
-	  - Code de l'aviation civile - art. L423-2 (Ab), alinéa 1, contrat de travail à durée indéterminée
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
 
 ###### Article L6523-6
 
-Le contrat de travail qui prévoit, à la demande de l'employeur, le détachement du navigant sur un poste à l'étranger,
-comporte les mentions suivantes :
+Le contrat de travail qui prévoit, à la demande de l'employeur, l'affectation du navigant sur un poste à l'étranger, comporte
+les mentions suivantes :
 
 1° La durée du séjour hors de France, qui ne peut excéder, sauf accord entre les deux parties, une durée fixée par voie
 réglementaire ;
@@ -54450,13 +54612,13 @@ préavis et aux frais de l'employeur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L423-1 (VT), alinéas 7, 8, 9, 10 et 11, ecqc l'expatriement du navigant
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ###### Article L6523-7
@@ -54700,22 +54862,28 @@ travail dans les collèges électoraux de personnels navigants techniques.
 ###### Article L6524-4
 
 Dans les entreprises dans lesquelles un collège électoral spécifique est créé pour les personnels navigants techniques,
-lorsque la convention de branche ou l'accord d'entreprise ou d'établissement ne concerne que les personnels navigants
-techniques, sa validité est constatée dans les conditions définies à l'article L. 2232-12 du code du travail.
+lorsque la convention ou l'accord d'entreprise ou d'établissement ne concerne que les personnels navigants techniques, sa
+validité est constatée dans les conditions définies à l'article L. 2232-12 du code du travail, appréciée dans ce collège.
+
+**Nota:**
+
+Le 
+  _a)_ du 12° de l'article 6 de l'ordonnance n° 2011-204 du 24 février 2011, introduisant les mots : ", appréciée dans ce
+collège" entre en vigueur le 1er décembre 2010 conformément à l'article 8 de ladite ordonnance.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L2232-12
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L423-10 (Ab), alinéa 1, conditions de la validité de l'accord d'entreprise
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
+	**Cite**:
+
+	  - Code du travail - art. L2232-12
 
 
 ###### Article L6524-5
@@ -55341,26 +55509,20 @@ un an, à dater de leur exigibilité :
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SANCTIONS PENALES ET ADMINISTRATIVES
+#### TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES
 
 ##### Chapitre unique : Sanctions pénales
 
-
-
-###### Article L6531-1
+###### Article L6541-1
 
 Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait de conduire un aéronef sans être titulaire d'un brevet ou
 d'une licence.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TRANSFERE: Ordonnance n°2011-204 du 24 février 2011 - art. 6
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L150-2 (Ab), alinéa 1, conduite sans brevet ou sans licence
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 	**Cité par**:
 
@@ -55368,12 +55530,12 @@ d'une licence.
 	  - Code des transports - art. L6765-1 (V)
 	  - Code des transports - art. L6775-1 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des transports - art. L6541-1 (V)
+	  - Code des transports - art. L6531-1 (T)
 
 
-###### Article L6531-2
+###### Article L6541-2
 
 Est puni d'un mois d'emprisonnement et de 3 750 € d'amende le fait d'exercer un des emplois correspondant aux brevets,
 licences et qualifications du personnel navigant professionnel de l'aéronautique civile en infraction aux dispositions du
@@ -55384,42 +55546,40 @@ remplissant pas les conditions exigées par les dispositions du même titre.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TRANSFERE: Ordonnance n°2011-204 du 24 février 2011 - art. 6
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 	**Anciens textes**:
 
-	  - Code de l'aviation civile - art. L427-1 (Ab)
+	  - Code des transports - art. L6531-2 (T)
 
-	**Nouveaux textes**:
+	**Cité par**:
 
-	  - Code des transports - art. L6541-2 (V)
+	  - Code des transports - art. L6765-1 (V)
+	  - Code des transports - art. L6775-1 (V)
 
 
-###### Article L6531-3
+###### Article L6541-3
 
 Est passible des peines de l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal le fait pour
 l'exploitant de retenir indûment la contribution ouvrière précomptée sur le salaire, en application de l'article L. 6527-10.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TRANSFERE: Ordonnance n°2011-204 du 24 février 2011 - art. 6
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 	**Cite**:
 
-	  - Code pénal - art. 314-1
-	  - Code des transports - art. L6527-10
+	  - Code pénal - art. 314-1 (V)
+	  - Code pénal - art. 314-10 (V)
+	  - Code des transports - art. L6527-10 (V)
 
 	**Anciens textes**:
 
-	  - Code de l'aviation civile - art. L427-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6541-3 (V)
+	  - Code des transports - art. L6531-3 (T)
 
 
 ### LIVRE VI : FORMATION AERONAUTIQUE AMATEURS
@@ -56157,14 +56317,19 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 ###### Article L6765-1
 
 Les dispositions du titre Ier, des chapitres Ier et II du titre II du livre V de la présente partie et celles des articles L.
-6527-9, L. 6531-1 et L. 6531-2 sont applicables en Nouvelle-Calédonie.
+6527-9, L. 6541-1 et L. 6541-2 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
 	**Cite**:
 
-	  - Code des transports - art. L6527-9 (V)
-	  - Code des transports - art. L6531-1 (V)
+	  - Code des transports - art. L6527-9
+	  - Code des transports - art. L6541-1
+	  - Code des transports - art. L6541-2
 
 	**Codifié par**:
 
@@ -56536,14 +56701,19 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 ###### Article L6775-1
 
 Les dispositions du titre Ier, des chapitres Ier et II du titre II du livre V de la présente partie et celles des articles L.
-6527-9, L. 6531-1 et L. 6531-2 sont applicables en Polynésie française.
+6527-9, L. 6541-1 et L. 6541-2 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
 	**Cite**:
 
-	  - Code des transports - art. L6527-9 (V)
-	  - Code des transports - art. L6531-1 (V)
+	  - Code des transports - art. L6527-9
+	  - Code des transports - art. L6541-1
+	  - Code des transports - art. L6541-2
 
 	**Codifié par**:
 
@@ -56927,14 +57097,18 @@ Les conditions d'application du présent article sont fixées par voie réglemen
 
 ###### Article L6785-1
 
-Les dispositions du titre Ier, des chapitres Ier, II et III du titre II, et du titre III du livre V de la présente partie
-sont applicables à Wallis-et-Futuna.
+Les dispositions du titre Ier, des chapitres Ier, II et III du titre II, et du titre IV du livre V de la présente partie sont
+applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ###### Article L6785-2
