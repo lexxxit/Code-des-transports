@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-02-26
+Version Consolidée au 2011-03-16
 
 # PARTIE LEGISLATIVE
 
@@ -4106,7 +4106,7 @@ une telle clause.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE TRANSPORT ET AUX ENTREPRISES D'ARMEMENT MARITIME
+#### TITRE II : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE TRANSPORT
 
 ##### Chapitre Ier : Durée du travail, travail de nuit et repos des salariés des entreprises de transport
 
@@ -4775,16 +4775,6 @@ participation à cette grève.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-
-#### TITRE II : DISPOSITIONS PARTICULIERES AUX ENTREPRISES DE TRANSPORT
-
-##### Chapitre Ier : Durée du travail, travail de nuit et repos des salariés des entreprises de transport
-
-##### Chapitre II : Durée du travail et temps de repos des non-salariés des entreprises de transport
-
-##### Chapitre III : Aptitude à la conduite
-
-##### Chapitre IV : Dialogue social, prévention des conflits collectifs et exercice du droit de grève
 
 #### TITRE III : DISPOSITIONS APPLICABLES AUX SALARIES DES ENTREPRISES DE TRANSPORT ETABLIES HORS DE FRANCE
 
@@ -7410,7 +7400,7 @@ l'exercice de laquelle l'infraction a été commise.
 
 ###### Article L1631-1
 
-Les conditions dans lesquelles l'autorité compétente peut prescrire la mise en œuvre de systèmes de vidéosurveillance par les
+Les conditions dans lesquelles l'autorité compétente peut prescrire la mise en œuvre de systèmes de vidéoprotection par les
 gestionnaires d'infrastructures, les autorités et personnes exploitant des transports collectifs relevant de l'activité de
 transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées par l'article 10-1 de la loi
 n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité.
@@ -7419,7 +7409,11 @@ n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la s�
 
 	**Cite**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10-1 (V)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 10-1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 17
 
 	**Codifié par**:
 
@@ -9287,7 +9281,7 @@ Le chapitre Ier du titre III du livre VI ainsi que les articles L. 1632-2 et L. 
 Pour son application à Wallis-et-Futuna, l'article 1631-1 est ainsi rédigé : 
 
 " Art.L. 1631-1.-Les conditions dans lesquelles le représentant de l'Etat peut prescrire la mise en œuvre de systèmes de
-vidéosurveillance par les gestionnaires d'infrastructures, les autorités et personnes exploitant des transports collectifs
+vidéoprotection par les gestionnaires d'infrastructures, les autorités et personnes exploitant des transports collectifs
 relevant de l'activité de transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées par
 l'article 10-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité. "
 
@@ -9296,6 +9290,10 @@ l'article 10-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de progra
 	**Cite**:
 
 	  - Loi n°95-73 du 21 janvier 1995 - art. 10-1
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 17
 
 	**Codifié par**:
 
@@ -14603,22 +14601,26 @@ Pour l'établissement des procès-verbaux, les agents de l'exploitant mentionné
 habilités selon les cas à recueillir ou à relever l'identité et l'adresse du contrevenant, dans les conditions prévues par
 l'article 529-4 du code de procédure pénale. 
 
-Si le contrevenant refuse ou se trouve dans l'impossibilité de justifier de son identité, ces agents en avisent sans délai et
-par tout moyen un officier de police judiciaire territorialement compétent. Sur l'ordre de ce dernier, les agents visés au
-premier alinéa du II de l'article 529-4 du code de procédure pénale peuvent être autorisés à retenir l'auteur de l'infraction
-le temps strictement nécessaire à l'arrivée de l'officier de police judiciaire ou, le cas échéant, à le conduire sur-le-champ
-devant lui.
+Si le contrevenant refuse ou se déclare dans l'impossibilité de justifier de son identité, les agents mentionnés au premier
+alinéa du II de l'article 529-4 du code de procédure pénale en avisent sans délai et par tout moyen un officier de police
+judiciaire territorialement compétent.
+
+Pendant le temps nécessaire à l'information et à la décision de l'officier de police judiciaire, le contrevenant est tenu de
+demeurer à la disposition d'un agent visé au même premier alinéa.
+
+Sur l'ordre de l'officier de police judiciaire, les agents peuvent conduire l'auteur de l'infraction devant lui ou bien le
+retenir le temps nécessaire à son arrivée ou à celle d'un agent de police judiciaire agissant sous son contrôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi du 15 juillet 1845 - art. 23-2 (Ab)
+	  - Loi n°2011-267 du 14 mars 2011 - art. 58
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 529-4 (V)
-	  - Code des transports - art. L2241-1 (V)
+	  - Code de procédure pénale - art. 529-4
+	  - Code des transports - art. L2241-1
 
 	**Codifié par**:
 
@@ -14702,13 +14704,15 @@ leur remise aux organisations mentionnées au deuxième alinéa.
 
 ###### Article L2241-6
 
-Toute personne qui contrevient en cours de transport aux dispositions tarifaires ou à des dispositions dont l'inobservation
-est susceptible soit de compromettre la sécurité des personnes ou la régularité des circulations, soit de troubler l'ordre
-public peut se voir enjoindre par les agents mentionnés au 4° du I de l'article L. 2241-1 de descendre du véhicule de
-transport ferroviaire ou guidé au premier point d'arrêt suivant la constatation des faits. 
+Toute personne qui contrevient aux dispositions tarifaires ou à des dispositions dont l'inobservation est susceptible soit de
+compromettre la sécurité des personnes ou la régularité des circulations, soit de troubler l'ordre public peut se voir
+enjoindre par les agents mentionnés au I de l'article L. 2241-1 de descendre du véhicule de transport ferroviaire ou routier
+au premier point d'arrêt suivant la constatation des faits ou de quitter sans délai les espaces, gares ou stations gérés par
+l'exploitant du réseau de transport public. 
 
 En cas de refus d'obtempérer, les agents spécialement désignés par l'exploitant peuvent contraindre l'intéressé à descendre
-du véhicule de transport ferroviaire ou guidé et, en tant que de besoin, requérir l'assistance de la force publique. 
+du véhicule ou à quitter sans délai les espaces, gares ou stations et, en tant que de besoin, requérir l'assistance de la
+force publique. 
 
 Ils informent de cette mesure, sans délai et par tout moyen, un officier de police judiciaire territorialement compétent. 
 
@@ -14717,6 +14721,10 @@ santé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 59
+
 	**Cité par**:
 
 	  - Décret n°2016-541 du 3 mai 2016 - art. 3 (V)
@@ -14724,7 +14732,7 @@ santé.
 
 	**Cite**:
 
-	  - Loi du 15 juillet 1845 - art. 23-2 (Ab)
+	  - Code des transports - art. L2241-1
 
 	**Codifié par**:
 
@@ -14876,9 +14884,15 @@ réfléchissants, lorsqu'elles sont de nature à créer un danger pour la circul
 apportent pour l'observation des signaux par les agents du chemin de fer ;
 
 8° De faire usage du signal d'alarme ou d'arrêt mis à la disposition des voyageurs de manière illégitime et dans l'intention
-de troubler ou d'entraver la mise en marche ou la circulation des trains.
+de troubler ou d'entraver la mise en marche ou la circulation des trains ;
+
+9° De pénétrer sans autorisation dans les espaces affectés à la conduite des trains.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 57
 
 	**Cité par**:
 
@@ -14887,10 +14901,6 @@ de troubler ou d'entraver la mise en marche ou la circulation des trains.
 	  - Décret n°2016-903 du 1er juillet 2016 - art. 1 (V)
 	  - Code des transports - art. L3114-3 (V)
 	  - Code des transports - art. R3116-33 (V)
-
-	**Anciens textes**:
-
-	  - Loi du 15 juillet 1845 - art. 21 (Ab)
 
 	**Codifié par**:
 
@@ -30654,6 +30664,31 @@ dispositions du chapitre unique du titre Ier du livre VII de la première partie
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5251-6
+
+Peuvent également accéder à bord des navires, pour la vérification du respect des dispositions de sûreté qui leur sont
+applicables : 
+
+- les commandants et commandants ou officiers en second des bâtiments de l'Etat ; 
+
+- les officiers de la marine nationale exerçant les fonctions relatives à la sûreté et à la protection d'éléments navals ; 
+
+- les officiers ou agents publics spécialement commissionnés par le préfet de département ou le préfet maritime ; 
+
+- les agents publics en charge de la sûreté désignés par le ministre chargé de la mer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 2 (V)
+	  - Décret n°2016-1693 du 9 décembre 2016 - art. 5
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 142
 
 
 ##### Chapitre II : Sanctions administratives
@@ -50987,11 +51022,28 @@ République. Ils ne procèdent à la fouille des bagages à main qu'avec le cons
 de sécurité qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité est faite par une personne du même
 sexe que la personne qui en fait l'objet.
 
+Ces fouilles et visites peuvent être réalisées, avec le consentement de la personne, au moyen d'un dispositif d'imagerie
+utilisant des ondes millimétriques dans les conditions visées à l'alinéa précédent. En cas de refus, la personne est soumise
+à un autre dispositif de contrôle (1). 
+
+L'analyse des images visualisées est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant
+visualiser simultanément celle-ci et son image produite par le scanner corporel.L'image produite par le scanner millimétrique
+doit comporter un système brouillant la visualisation du visage. Aucun stockage ou enregistrement des images n'est autorisé
+(1). 
+
+Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre de l'intérieur détermine les aéroports dans
+lesquels le recours au contrôle par dispositif d'imagerie utilisant les ondes millimétriques est autorisé (1). 
+
 Les agréments prévus par le deuxième alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne
 présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des
 personnes, de l'ordre public ou sont incompatibles avec l'exercice de ces missions.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+(1) Loi n° 2011-267 du 14 mars 2011 article 25 II : Les troisième à cinquième alinéas de l'article L. 6342-2 du code des
+transports sont applicables durant une période de trois années à compter de la promulgation de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -51011,13 +51063,13 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	  - Code des transports - art. L6773-7 (V)
 	  - Code des transports - art. L6783-7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 25
+
 	**Cite**:
 
 	  - Code de procédure pénale - art. 21
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L282-8 (Ab), dispositions sur la sûreté en métropole
 
 	**Codifié par**:
 
