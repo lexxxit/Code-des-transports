@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-11
 
 # PARTIE LEGISLATIVE
 
@@ -6759,10 +6759,12 @@ transport fluvial ;
 2° Les accidents ou incidents de transport terrestre s'entendent de ceux où l'accident ou l'incident est survenu sur le
 territoire national ; 
 
-3° Par " événement de mer ", on entend tout accident de mer et incident de mer tels que définis par le code de l'organisation
-maritime internationale pour les enquêtes sur les accidents ; 
+3° Par " événement de mer ", on entend tout accident de mer et incident de mer tels que définis par le code de normes
+internationales et pratiques recommandées applicables à une enquête de sécurité sur un accident de mer ou un incident de mer
+(code pour les enquêtes sur les accidents), adopté à Londres le 16 mai 2008 ; 
 
-4° Les événements de mer pouvant donner lieu à enquête technique sont : 
+4° Les événements de mer pouvant donner lieu à une enquête technique, conduite dans le respect du code mentionné au 3°
+sont : 
 
 a) Ceux affectant les navires civils battant pavillon français où qu'ils se trouvent ainsi que les navires civils battant un
 autre pavillon lorsque l'événement de mer s'est produit dans les eaux intérieures ou dans la mer territoriale française ; 
@@ -6773,9 +6775,9 @@ lesquels la France exerce sa juridiction.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéas 2 et 3, ecqc le champ géographique de l'accident ou incident de transport terrestre, paragraphe II
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -6790,7 +6792,7 @@ lesquels la France exerce sa juridiction.
 
 	**Cite**:
 
-	  - Code des transports - art. L2000-1 (VD)
+	  - Code des transports - art. L2000-1
 
 	**Codifié par**:
 
@@ -7152,7 +7154,10 @@ Les enquêteurs techniques peuvent rencontrer toute personne concernée et obtie
 secret professionnel, communication de toute information ou de tout document concernant les circonstances, entreprises,
 organismes et matériels en relation avec l'accident ou l'incident et concernant notamment la construction, la certification,
 l'entretien, l'exploitation des matériels, la préparation du transport, la conduite, l'information et le contrôle du ou des
-engins de transport impliqués.
+engins de transport impliqués. Les enquêteurs peuvent organiser ces rencontres en l'absence de toute personne qui pourrait
+avoir intérêt à entraver l'enquête de sécurité. Les témoignages, informations et documents recueillis ne peuvent être
+utilisés par les enquêteurs techniques à d'autres fins que l'enquête technique elle-même, à moins qu'un intérêt public
+supérieur ne justifie leur divulgation. 
 
 Dans les mêmes conditions, les enquêteurs techniques peuvent demander communication de toute information ou de tout document
 à caractère personnel concernant la formation, la qualification, l'aptitude à la conduite des personnels ou le contrôle de
@@ -7165,10 +7170,9 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 19 (VT), alinéas 1, 2 et 3, phrase 2
-	  - Code de l'aviation civile - art. L721-5 (VT)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -25617,8 +25621,9 @@ douanes.
 
 ###### Article L5113-1
 
-Les règles générales de construction destinées à assurer la sécurité, la sûreté, l'hygiène et l'habitabilité à bord des
-navires, ainsi que la prévention de la pollution par les navires, sont fixées par voie réglementaire.
+Les règles générales de construction destinées à assurer la sécurité, la sûreté, l'hygiène, la santé et la sécurité au
+travail et l'habitabilité à bord des navires, ainsi que la prévention de la pollution par les navires, sont fixées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -25630,6 +25635,10 @@ navires, ainsi que la prévention de la pollution par les navires, sont fixées 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 
 ##### Section 2 : Contrat de construction
@@ -26878,17 +26887,17 @@ limitation de la responsabilité en matière de créances maritimes, faite à Lo
 
 Toutefois, les limites de la responsabilité du propriétaire du navire dont la jauge est inférieure ou égale à 300 sont égales
 à la moitié de celles fixées par les dispositions de l'article 6 de la convention, pour les navires dont la jauge est
-inférieure ou égale à 500.
+inférieure ou égale à 2 000.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-5 du 3 janvier 1967 - art. 61 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Code des transports - art. L5121-3 (V)
+	  - Code des transports - art. L5121-3
 
 	**Cité par**:
 
@@ -27652,6 +27661,327 @@ dommages résultant de la pollution par les hydrocarbures sont fixées par les d
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+#### TITRE II : REGIMES DE RESPONSABILITE ET OBLIGATIONS D'ASSURANCE
+
+##### Chapitre Ier : Régime général de responsabilité
+
+##### Chapitre II : Régimes spéciaux de responsabilité
+
+##### Chapitre III : Obligations d'assurance 
+
+##### Section 1 : Obligations d'assurance générales 
+
+
+
+
+###### Article L5123-1
+
+Le propriétaire inscrit d'un navire ou toute autre personne, telle que l'affréteur coque nue, qui est responsable de
+l'exploitation du navire, souscrit une assurance ou une autre garantie financière, avec ou sans franchise, lorsque ce navire
+bat pavillon français ou entre dans un port français et que sa jauge brute est égale ou supérieure à 300. 
+
+L'assurance ou la garantie couvre les créances maritimes soumises à limitation au titre de la convention de 1976 modifiée sur
+la limitation de responsabilité en matière de créances maritimes, faite à Londres le 19 novembre 1976. Le montant de
+l'assurance, pour chaque navire et par événement, n'est pas inférieur au montant maximal applicable pour la limitation de
+responsabilité conformément à cette convention. 
+
+Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire. 
+
+Les renseignements devant figurer dans le certificat sont fixés par voie réglementaire. 
+
+Le présent article ne s'applique pas aux navires appartenant à un Etat ou exploités par lui et utilisés pour un service non
+commercial d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-967 du 27 octobre 1967 - art. 88 (Ab)
+	  - Décret n°67-967 du 27 octobre 1967 - art. 89 (Ab)
+	  - Décret n°67-967 du 27 octobre 1967 - art. 92 (Ab)
+	  - Code des transports - art. L5123-5 (V)
+	  - Code des transports - art. L5123-6 (V)
+	  - Code des transports - art. L5123-7 (V)
+	  - Code des transports - art. L5241-4-5 (V)
+	  - Code des transports - art. L5334-4 (V)
+	  - Code des transports - art. R5123-1 (V)
+	  - Code des transports - art. R5123-2 (V)
+	  - Code des transports - art. R5123-5 (V)
+	  - Code des transports - art. R5232-1 (VD)
+	  - Code des transports - art. R5333-4 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+##### Section 2 : Obligations d'assurance couvrant des risques particuliers 
+
+
+
+
+###### Article L5123-2
+
+I. ― Le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale de 2001
+sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, faite à Londres le 23 mars
+2001, souscrit une assurance ou une autre garantie financière satisfaisant aux exigences de cette convention lorsque ce
+navire est exploité sous pavillon français, ou touche ou quitte un port français ou une installation située dans la mer
+territoriale française. Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire. 
+
+II. ― Le transporteur qui assure effectivement tout ou partie d'un transport de passagers, au sens du point c du paragraphe 1
+de l'article 1er de la convention d'Athènes relative au transport par mer de passagers et de leurs bagages, telle que
+modifiée par son protocole fait à Londres le 1er novembre 2002, souscrit une assurance ou une autre garantie financière
+satisfaisant aux exigences de cette convention et du règlement (CE) n° 392/2009 du Parlement européen et du Conseil du 23
+avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident, lorsque ce navire est
+exploité sous pavillon français, ou touche ou quitte un port français. Un certificat attestant que la garantie est en cours
+de validité doit se trouver à bord du navire. Ces obligations s'imposent à compter de la date d'entrée en vigueur de la
+convention et au plus tard le 31 décembre 2012 si la convention n'est pas entrée en vigueur à cette date.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-142 du 10 février 2006 - art. 2 (VD)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Décret n°2015-1354 du 26 octobre 2015 - art. 2
+	  - Décret n°2017-942 du 10 mai 2017 - art. 11
+	  - Code des transports - art. L5123-3 (V)
+	  - Code des transports - art. L5123-6 (V)
+	  - Code des transports - art. L5721-2 (V)
+	  - Code des transports - art. L5751-2 (V)
+	  - Code des transports - art. L5781-2 (V)
+	  - Code des transports - art. L5791-2 (V)
+	  - Code des transports - art. R5123-15 (V)
+	  - Code des transports - art. R5232-1 (VD)
+	  - Code des transports - art. R5232-5 (VD)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+###### Article L5123-3
+
+I. ― La délivrance des certificats d'assurance des navires mentionnés à l'article L. 5123-2 peut être déléguée à des
+organismes agréés par l'autorité administrative, lorsqu'en application des instruments internationaux ou des textes européens
+pertinents ces certificats peuvent faire l'objet d'une délégation. Ces certificats sont alors délivrés pour le compte et sous
+la responsabilité de l'Etat. Leur délivrance peut donner lieu à perception d'une rémunération par le délégataire. 
+
+Les attributions et conditions d'agrément de ces organismes sont précisées par décret en Conseil d'Etat. 
+
+II. ― Une amende administrative d'un montant maximum de 100 000 € peut être prononcée par l'autorité administrative
+compétente à l'encontre d'un organisme habilité à délivrer les certificats d'assurance en application du présent article, si
+celui-ci n'exécute pas la mission de contrôle qui lui est déléguée dans les conditions normales requises pour la bonne
+exécution de ce service. 
+
+En cas de manquement grave ou répété dans l'exécution du service qui lui est délégué, ou en cas de non-paiement de l'amende
+administrative prononcée en application de l'alinéa précédent, la délégation peut être suspendue ou abrogée par l'autorité
+administrative compétente, dans les conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2006-142 du 10 février 2006 - art. 2 (VD)
+	  - Décret n°2015-1354 du 26 octobre 2015 - art. 2
+	  - Décret n°2017-942 du 10 mai 2017 - art. 11
+	  - Code des transports - art. L5123-4 (V)
+	  - Code des transports - art. R5123-15 (V)
+	  - Code des transports - art. R5123-6 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-2
+
+
+###### Article L5123-4
+
+Les dispositions relatives à l'obligation d'assurance des propriétaires de navires pour les dommages résultant de la
+pollution par les hydrocarbures sont fixées par les dispositions de la sous-section 1 de la section 1 du chapitre VIII du
+titre Ier du livre II du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code des transports - art. R5123-18 (V)
+	  - Code des transports - art. R5123-19 (V)
+	  - Code des transports - art. R5123-20 (V)
+
+
+##### Section 3 : Sanctions des obligations d'assurance 
+
+
+
+
+###### Article L5123-5
+
+Lorsqu'un navire ne dispose pas d'un certificat d'assurance conforme à l'article L. 5123-1, l'autorité administrative
+compétente peut, sans préjudice des mesures d'immobilisation ou d'ajournement de départ du navire qui peuvent être rendues
+nécessaires pour des motifs de sécurité, prendre une décision d'expulsion du navire. 
+
+Les modalités d'application du présent article sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-967 du 27 octobre 1967 - art. 90 (Ab)
+	  - Décret n°67-967 du 27 octobre 1967 - art. 92 (Ab)
+	  - Code des transports - art. L5123-6 (V)
+	  - Code des transports - art. L5241-4-5 (V)
+	  - Code des transports - art. R5123-3 (V)
+	  - Code des transports - art. R5123-5 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-1
+
+
+###### Article L5123-6
+
+I. ― Est puni de 45 000 € d'amende : 
+
+1° Le fait pour les personnes mentionnées à l'article L. 5123-1 de ne pas respecter les obligations prévues au même
+article ; 
+
+2° Le fait pour le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale
+de 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, faite à Londres le
+23 mars 2001, de ne pas respecter les obligations prévues au I de l'article L. 5123-2 ; 
+
+3° Le fait pour le transporteur qui assure effectivement la totalité ou une partie du transport, au sens du point c du
+paragraphe 1 de l'article 1er de la convention d'Athènes de 1974 relative au transport par mer de passagers et de leurs
+bagages, telle que modifiée par son protocole fait à Londres le 1er novembre 2002, de ne pas respecter les obligations
+prévues au II de l'article L. 5123-2. 
+
+II. ― Est puni d'un an d'emprisonnement et de 75 000 € d'amende : 
+
+1° Le fait de faire obstacle à l'exercice des fonctions des agents mentionnés à l'article L. 5123-7 ; 
+
+2° Le fait de ne pas obtempérer à une injonction prononcée en application de l'article L. 5123-5 ou de faire obstacle à une
+mesure d'exécution forcée visant à ce que le navire quitte le port.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-1
+	  - Code des transports - art. L5123-2
+	  - Code des transports - art. L5123-5
+
+	**Cité par**:
+
+	  - Code des transports - art. L5123-7 (V)
+
+
+##### Section 4 : Constatation des infractions 
+
+
+
+
+###### Article L5123-7
+
+I. ― Outre les officiers et agents de police judiciaire, sont habilités à rechercher et constater les infractions prévues par
+l'article L. 5123-6 : 
+
+1° Les administrateurs des affaires maritimes ; 
+
+2° Les inspecteurs des affaires maritimes ; 
+
+3° Les officiers du corps technique et administratif des affaires maritimes ; 
+
+4° Les agents de l'Etat habilités par le ministre chargé de la mer en qualité d'inspecteurs de la sécurité des navires et de
+la prévention des risques professionnels maritimes ; 
+
+5° Les techniciens experts du service de sécurité de la navigation maritime ; 
+
+6° Les contrôleurs des affaires maritimes ; 
+
+7° Les syndics des gens de mer ; 
+
+8° Les agents des douanes. 
+
+II. ― Ont accès à bord de tout navire pour vérifier la présence des certificats prévus aux articles L. 5123-1 et L. 5123-2
+les agents mentionnés au I.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-967 du 27 octobre 1967 - art. 89 (Ab)
+	  - Code des transports - art. L5123-6 (V)
+	  - Code des transports - art. R5123-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-1
+
+
+###### Article L5123-8
+
+Les procès-verbaux de constatation d'infraction sont transmis dans les cinq jours qui suivent la constatation des faits au
+procureur de la République par l'agent verbalisateur qui en adresse en même temps copie aux services intéressés. Ces procès-
+verbaux font foi jusqu'à preuve contraire.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5123-8 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article L5123-9
+
+Les infractions aux dispositions du présent chapitre sont jugées soit par le tribunal compétent du lieu de l'infraction, soit
+par le tribunal compétent dans le ressort duquel le navire est immatriculé. 
+
+A défaut d'autre tribunal, le tribunal de grande instance de Paris est compétent.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5123-9 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
 #### TITRE III : REPARATION DES ACCIDENTS DE NAVIGATION
 
 ##### Chapitre Ier : Abordage
@@ -27822,16 +28152,46 @@ ou omission de manœuvre, soit par inobservation des règlements, à un autre na
 
 ###### Article L5132-1
 
-Les dispositions du présent chapitre s'appliquent à l'assistance des navires en danger, y compris les navires de guerre,
-ainsi qu'aux services de même nature rendus entre navires et bateaux, sans tenir compte des eaux où elle a été rendue.
+I. ― Sans préjudice des dispositions du chapitre II du titre VI du livre II, sont applicables aux opérations d'assistance les
+dispositions du présent chapitre chaque fois qu'une action judiciaire ou arbitrale est introduite devant une juridiction ou
+une instance arbitrale française. 
 
-Pour l'application des dispositions du présent chapitre, tout engin flottant est assimilé soit au navire, soit au bateau.
+Les dispositions du présent chapitre présentent un caractère supplétif, à l'exception de celles figurant aux articles L.
+5132-2 et L. 5132-6 et de celles tendant à prévenir ou limiter les dommages à l'environnement. 
+
+Elles sont susceptibles de s'appliquer, dans toutes les eaux, aux navires, bateaux et biens, à la condition que les
+opérations d'assistance répondent à l'une au moins des deux conditions suivantes : 
+
+1° Les opérations se déroulent, en tout ou partie, dans les eaux maritimes ; 
+
+2° Un navire est concerné soit comme assisté, soit comme assistant. 
+
+Pour l'application des dispositions du présent chapitre, tout engin flottant est assimilé, selon le cas, soit aux navires,
+soit aux bateaux. 
+
+II. ― Les dispositions du présent chapitre sont applicables aux navires et bateaux de l'Etat ou à ceux affectés à un service
+public. Le III du présent article et le II de l'article L. 5132-7 ne sont pas applicables aux navires et bateaux de l'Etat. 
+
+III. ― Les dispositions du présent chapitre s'appliquent même si le navire ou bateau assisté et le navire ou bateau assistant
+appartiennent au même propriétaire. 
+
+IV. ― Les dispositions du présent chapitre ne s'appliquent pas lorsque est en cause un bien maritime culturel présentant un
+intérêt préhistorique, archéologique ou historique et qui se trouve au fond de la mer. 
+
+V. ― Dans les dispositions des sections 2 à 4 ci-après, le terme : " navire " désigne le navire ou le bateau ou, conformément
+au dernier alinéa du I, tout engin flottant qui leur est assimilé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-545 du 7 juillet 1967 - art. 9 (Ab), art. 21 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5132-2
+	  - Code des transports - art. L5132-6
+	  - Code des transports - art. L5132-7
 
 	**Cité par**:
 
@@ -27843,21 +28203,12 @@ Pour l'application des dispositions du présent chapitre, tout engin flottant es
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Rémunération de l'assistance aux navires et bateaux
-
 ###### Article L5132-2
 
-Tout fait d'assistance ayant eu un résultat utile donne lieu, dans ce cas seulement, à une rémunération équitable dont le
-montant ne peut dépasser la valeur des choses sauvées.
-
-Une rémunération est due même si l'assistance a eu lieu entre navires appartenant au même propriétaire. Toutefois, les
-dispositions du présent alinéa ne sont pas applicables aux navires ou bateaux de l'Etat.
+Le capitaine peut conclure des contrats d'assistance au nom du propriétaire du navire. Le capitaine ou le propriétaire du
+navire peut conclure de tels contrats au nom du propriétaire des biens se trouvant à bord du navire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 10 (Ab), art. 13 (Ab)
 
 	**Cité par**:
 
@@ -27867,18 +28218,26 @@ dispositions du présent alinéa ne sont pas applicables aux navires ou bateaux 
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+##### Section 2 : Rémunération de l'assistance
 
 ###### Article L5132-3
 
-Il n'est dû aucune rémunération pour les personnes sauvées. Toutefois, les sauveteurs des vies humaines qui sont intervenus à
-l'occasion des mêmes dangers ont droit à une équitable part de la rémunération accordée aux sauveteurs du navire, de la
-cargaison et de leurs accessoires.
+I.-Les opérations d'assistance qui ont eu un résultat utile donnent droit à une rémunération au profit de la ou des personnes
+qui ont fourni une assistance. Sous réserve de l'article L. 5132-5, aucun paiement n'est dû en application du présent
+chapitre si les opérations d'assistance n'ont pas eu de résultat utile. 
+
+II.-Les services rendus malgré la défense expresse et raisonnable du propriétaire ou du capitaine du navire ou du
+propriétaire de tout autre bien en danger qui n'est pas ou n'a pas été à bord du navire ne donnent pas droit à rémunération. 
+
+III.-Aucune rémunération n'est due pour des services rendus en vertu de contrats conclus avant que le danger ne survienne, à
+moins que les services rendus n'excèdent ce qui peut raisonnablement être considéré comme l'exécution normale du contrat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 17 (Ab)
 
 	**Cité par**:
 
@@ -27888,17 +28247,47 @@ cargaison et de leurs accessoires.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-4
 
-N'ont droit à aucune rémunération les personnes qui ont pris part aux opérations de secours malgré la défense expresse et
-raisonnable du navire secouru.
+I. ― La rémunération est fixée en vue d'encourager les opérations d'assistance et compte tenu des critères suivants, sans
+tenir compte de l'ordre dans lequel ils sont mentionnés : 
+
+1° La valeur du navire et des autres biens sauvés ; 
+
+2° L'habileté et les efforts des assistants pour prévenir ou limiter les dommages à l'environnement ; 
+
+3° L'étendue du succès obtenu par l'assistant ; 
+
+4° La nature et l'importance du danger ; 
+
+5° L'habileté et les efforts des assistants pour sauver le navire, les autres biens et les vies humaines ; 
+
+6° Le temps passé, les dépenses effectuées et les pertes subies par les assistants ; 
+
+7° Le risque de responsabilité et les autres risques encourus par les assistants ou leur matériel ; 
+
+8° La promptitude des services rendus ; 
+
+9° La disponibilité et l'usage de navires ou d'autres matériels destinés aux opérations d'assistance ; 
+
+10° L'état de préparation ainsi que l'efficacité et la valeur du matériel de l'assistant. 
+
+II. ― Le paiement d'une rémunération fixée conformément au I doit être effectué par toutes les parties intéressées en
+proportion de la valeur respective du navire et des autres biens sauvés. 
+
+III. ― Les rémunérations, à l'exclusion de tous intérêts et frais juridiques récupérables qui peuvent être dus à cet égard,
+ne dépassent pas la valeur du navire et des autres biens sauvés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-545 du 7 juillet 1967 - art. 11 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -27912,18 +28301,43 @@ raisonnable du navire secouru.
 
 ###### Article L5132-5
 
-Les services du remorqueur ne sont rémunérés pour l'assistance du navire qu'il a remorqué ou de sa cargaison que lorsqu'il
-s'agit de services exceptionnels ne pouvant être considérés comme l'accomplissement du contrat de remorquage.
+I. ― L'assistant qui a réalisé des opérations d'assistance à un navire qui, par lui-même ou du fait de sa cargaison, menaçait
+de causer des dommages à l'environnement et n'a pu obtenir, en application de l'article L. 5132-3, une rémunération au moins
+égale à l'indemnité spéciale calculée conformément au présent article a droit de la part du propriétaire du navire à cette
+indemnité. 
+
+II. ― Si, dans les circonstances mentionnées au I, l'assistant a prévenu ou limité des dommages à l'environnement par ses
+opérations d'assistance, l'indemnité spéciale due par le propriétaire du navire à l'assistant en vertu du I peut être
+augmentée jusqu'à un maximum de 30 % des dépenses engagées par l'assistant. Toutefois, si le tribunal le juge équitable et
+juste, compte tenu des critères pertinents énoncés au I de l'article L. 5132-4, il peut encore augmenter cette indemnité
+spéciale, sans que l'augmentation totale représente plus de 100 % des dépenses engagées par l'assistant. 
+
+III. ― Les dépenses de l'assistant prises en compte pour l'application du présent article comprennent les débours
+raisonnablement engagés par l'assistant dans les opérations d'assistance ainsi qu'une somme équitable pour le matériel et le
+personnel effectivement et raisonnablement utilisés dans les opérations d'assistance, compte tenu des critères énoncés aux
+8°, 9° et 10° du I de l'article L. 5132-4. 
+
+IV. ― L'indemnité spéciale totale n'est payée que dans le cas et dans la mesure où elle excède la rémunération pouvant être
+obtenue par l'assistant en vertu de l'article L. 5132-3. 
+
+V. ― Si l'assistant a été négligent et n'a pu, de ce fait, prévenir ou limiter les dommages à l'environnement, il peut être
+privé de tout ou partie de l'indemnité spéciale due en application du présent article. 
+
+VI. ― Les dispositions du présent article ne privent pas de ses droits de recours le propriétaire du navire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-545 du 7 juillet 1967 - art. 12 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code des transports - art. L5132-3 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5132-4
 
 	**Codifié par**:
 
@@ -27932,39 +28346,51 @@ s'agit de services exceptionnels ne pouvant être considérés comme l'accomplis
 
 ###### Article L5132-6
 
-Il n'est dû aucune rémunération d'assistance pour les envois postaux de toute nature.
+Un contrat ou certaines de ses clauses peuvent être annulés ou modifiés, si : 
+
+1° Le contrat a été conclu sous une pression abusive ou sous l'influence du danger et que ses clauses ne sont pas
+équitables ; ou 
+
+2° Si le paiement convenu en vertu du contrat est beaucoup trop élevé ou beaucoup trop faible pour les services effectivement
+rendus.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 20 (Ab)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5132-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code des transports - art. L5132-1 (V)
+
 
 ###### Article L5132-7
 
-La convention des parties, et, à défaut, la juridiction compétente, détermine le montant de la rémunération et la proportion
-dans laquelle cette rémunération est répartie, soit entre les sauveteurs, soit entre les propriétaires, le capitaine et
-l'équipage de chacun des navires assistants.
+I.-La répartition entre assistants de la rémunération se fait sur la base des critères mentionnés à l'article L. 5132-4. 
+
+II.-La répartition entre le propriétaire, le capitaine et les autres personnes au service de chaque navire assistant est
+déterminée par la législation du pavillon du navire assistant. Si l'assistance n'a pas été réalisée à partir d'un navire, la
+répartition s'opère selon la législation régissant le contrat conclu entre l'assistant et ses préposés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-545 du 7 juillet 1967 - art. 14 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code des transports - art. L5132-1 (V)
 	  - Code des transports - art. L5544-46 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5132-4
 
 	**Codifié par**:
 
@@ -27973,46 +28399,37 @@ l'équipage de chacun des navires assistants.
 
 ###### Article L5132-8
 
-Toute convention d'assistance peut, à la requête de l'une des parties, être annulée ou modifiée par la juridiction
-compétente, si elle estime que les conditions convenues ne sont pas équitables, compte tenu du service rendu et des bases de
-rémunération indiquées à l'article L. 5132-9 ou que le service rendu ne présente pas les caractères d'une véritable
-assistance, quelque qualification que les parties lui aient donnée.
+Il n'est dû aucune rémunération pour les personnes sauvées. 
+
+Toutefois, le sauveteur de vies humaines qui a participé aux services rendus à l'occasion de l'accident ayant donné lieu aux
+opérations d'assistance a droit à une part équitable du paiement alloué à l'assistant pour avoir sauvé le navire ou d'autres
+biens ou pour avoir prévenu ou limité les dommages à l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 15 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5132-9 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-9
 
-Pour fixer le montant de la rémunération et la proportion dans laquelle elle est répartie, la juridiction compétente se
-fonde, selon les circonstances :
+I. - Toute action en paiement intentée en application du présent chapitre est prescrite si une procédure judiciaire ou
+arbitrale n'a pas été engagée dans un délai de deux ans. Le délai de prescription court du jour où les opérations
+d'assistance ont été terminées. 
 
-1° Sur le succès obtenu, les efforts et le mérite de ceux qui ont prêté secours, le danger couru par le navire assisté, par
-ses passagers et son équipage, par sa cargaison, par les sauveteurs et par le navire assistant, le temps employé, les frais
-et dommages subis et les risques de responsabilité et autres encourus par les sauveteurs, la valeur du matériel exposé par
-eux, en tenant compte, le cas échéant, de l'appropriation spéciale du navire assistant ;
-
-2° Sur la valeur des choses sauvées, le fret et le prix du passage.
-
-La juridiction compétente peut réduire ou supprimer la rémunération s'il apparaît que les sauveteurs ont, par leur faute,
-rendu l'assistance nécessaire ou qu'ils se sont rendus coupables de vols, recels ou autres actes frauduleux.
+II. - La personne contre laquelle une créance a été formée peut à tout moment, pendant le délai de prescription, prolonger
+celui-ci par une déclaration adressée au créancier. Le délai peut, de la même façon, être à nouveau prolongé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°67-545 du 7 juillet 1967 - art. 16 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -28023,57 +28440,46 @@ rendu l'assistance nécessaire ou qu'ils se sont rendus coupables de vols, recel
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 3 : Conditions d'exécution des opérations d'assistance
+
 ###### Article L5132-10
 
-L'action en paiement de la rémunération se prescrit par deux ans à compter du jour où les opérations d'assistance sont
-terminées.
+L'assistant a l'obligation : 
 
-Toutefois, ce délai de prescription ne court pas lorsque le navire assisté n'a pu être saisi dans les eaux soumises à la
-juridiction française. Les dispositions du présent alinéa ne sont pas applicables aux navires ou bateaux de l'Etat ou
-affectés à un service public.
+1° D'exécuter les opérations d'assistance avec le soin voulu ; 
+
+2° Lorsqu'il s'acquitte de l'obligation mentionnée à l'alinéa précédent, d'agir avec le soin voulu pour prévenir ou limiter
+les dommages à l'environnement ; 
+
+3° Chaque fois que les circonstances l'exigent raisonnablement, de chercher à obtenir l'aide d'autres assistants ; 
+
+4° D'accepter l'intervention d'autres assistants lorsqu'il est raisonnablement prié de le faire par le capitaine ou le
+propriétaire du navire ou des autres biens en danger ; le montant de sa rémunération n'est pas affecté s'il s'avère que cette
+demande n'était pas raisonnable.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 18 (Ab), art. 21 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-##### Section 3 : Responsabilité de l'assistant
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-11
 
-La responsabilité de l'assistant, à raison des dommages corporels ou matériels en relation directe avec des opérations
-d'assistance ou de sauvetage, au sens de la convention sur la limitation de la responsabilité en matière de créances
-maritimes faite à Londres le 19 novembre 1976 modifiée, ainsi qu'à raison de tous autres préjudices résultant de ces
-opérations, peut être soumise à limitation, quel que soit le fondement de la responsabilité. 
+Le capitaine, le propriétaire du navire et le propriétaire des autres biens en danger ont l'obligation : 
 
-Cette limitation est soumise aux conditions applicables à la limitation de responsabilité du propriétaire de navire prévue
-par le chapitre Ier du titre II du présent livre. 
+1° De coopérer pleinement avec l'assistant pendant les opérations d'assistance ; 
 
-Les préposés de l'assistant ont le droit de se prévaloir de la limitation de responsabilité dans les mêmes conditions que
-l'assistant lui-même. 
+2° Ce faisant, d'agir avec le soin voulu pour prévenir ou limiter les dommages à l'environnement ; 
 
-Les limites de responsabilité de l'assistant agissant à partir d'un navire autre que celui auquel il fournit ses services
-d'assistance sont calculées suivant les règles fixées par l'article L. 5121-5.
-
-Les limites de responsabilité de l'assistant n'agissant pas à partir d'un navire ou agissant uniquement à bord du navire
-auquel il fournit ses services d'assistance sont calculées selon les mêmes règles et sur la base d'une jauge de 1 500 au sens
-des dispositions du 5 de l'article 6 de la convention mentionnée au premier alinéa du présent article.
+3° Lorsque le navire ou les autres biens ont été conduits en lieu sûr, d'en accepter la restitution lorsque l'assistant le
+leur demande raisonnablement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°67-545 du 7 juillet 1967 - art. 21 bis (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5121-5 (V)
 
 	**Cité par**:
 
@@ -28082,6 +28488,54 @@ des dispositions du 5 de l'article 6 de la convention mentionnée au premier ali
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+##### Section 4 : Responsabilité de l'assistant 
+
+
+
+
+###### Article L5132-12
+
+I. ― La responsabilité de l'assistant, engagée à raison des dommages corporels ou matériels qui sont en relation directe avec
+des opérations d'assistance ou de sauvetage, au sens de la convention de 1976 sur la limitation de la responsabilité en
+matière de créances maritimes faite à Londres le 19 novembre 1976, telle que modifiée, ainsi qu'à raison de tous autres
+préjudices résultant de ces opérations, peut être soumise à limitation, quel que soit le fondement de la responsabilité. 
+
+II. ― Cette limitation est soumise aux mêmes conditions que celles applicables à la limitation de la responsabilité du
+propriétaire de navire mentionnée au chapitre Ier du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+###### Article L5132-13
+
+I. ― Les préposés de l'assistant ont le droit de se prévaloir de la limitation de responsabilité dans les mêmes conditions
+que l'assistant lui-même. 
+
+II. ― Les limites de responsabilité de l'assistant agissant à partir d'un navire autre que celui auquel il fournit des
+services d'assistance sont calculées suivant les règles prévues pour le propriétaire de navire à l'article L. 5121-5. 
+
+III. ― Les limites de responsabilité de l'assistant n'agissant pas à partir d'un navire ou agissant uniquement à bord du
+navire auquel il fournit des services d'assistance sont calculées selon les mêmes règles et sur la base d'une jauge de 2000.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L5121-5
 
 
 ##### Chapitre III : Avaries
@@ -28968,24 +29422,34 @@ titre et aux dispositions réglementaires prises pour leur application :
 
 ###### Article L5222-2
 
-Les procès-verbaux établis par les commandants des bâtiments de l'Etat sont transmis au directeur départemental des
-territoires et de la mer dans la circonscription duquel ils se trouvent et, en cas d'empêchement, au premier directeur
-départemental des territoires et de la mer avec lequel ils peuvent entrer en contact. 
+Les procès-verbaux établis par les commandants des bâtiments de l'Etat sont transmis au directeur interrégional de la mer
+dans la circonscription duquel ils se trouvent. 
 
-Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 2° à 7° de l'article L. 5222-1 sont transmis au
-directeur départemental des territoires et de la mer dont ils relèvent. 
+Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 1° à 7° de l'article L. 5222-1 et au 3° de
+l'article L. 5336-5 sont également transmis au directeur départemental des territoires et de la mer dans le ressort duquel a
+été commise l'infraction. 
 
 Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5222-2 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 27 (VT), ecqc les infractions au titre II
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-1 (V)
+	  - Code des transports - art. L5222-1
+	  - Code des transports - art. L5336-5
 
 	**Cité par**:
 
@@ -29318,12 +29782,15 @@ réglementaire.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Entretien des navires
+##### Section 2 : Entretien et exploitation des navires
 
 ###### Article L5241-2
 
-Les mesures d'entretien destinées à assurer la sécurité à bord des navires et la prévention de la pollution par les navires
-sont fixées par voie réglementaire.
+Les règles générales d'entretien et d'exploitation destinées à assurer la sécurité et la sûreté à bord des navires,
+l'habitabilité de ces derniers ainsi que la prévention des risques professionnels maritimes et la prévention de la pollution
+par les navires sont fixées par voie réglementaire.
+
+Le propriétaire ou l'exploitant du navire maintient le navire et ses équipements en conformité avec ces règles générales.
 
 **Liens relatifs à cet article**
 
@@ -29338,6 +29805,10 @@ sont fixées par voie réglementaire.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 
 ##### Section 3 : Titres de sécurité et certificats de prévention de la pollution
@@ -29373,17 +29844,13 @@ pollution prévus, selon le type de navire, par voie réglementaire.
 ###### Article L5241-4
 
 Les titres de sécurité ou les certificats de prévention de la pollution sont délivrés par l'autorité administrative ou par
-des sociétés de classification agréées.
+des sociétés de classification habilitées dans des conditions fixées par décret en Conseil d'Etat.
 
 Ils peuvent faire l'objet de mesures de suspension ou de retrait.
 
 Leur délivrance, leur renouvellement et leur validation sont subordonnés à des visites du navire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 3 (Ab), alinéa 1
 
 	**Cité par**:
 
@@ -29396,8 +29863,138 @@ Leur délivrance, leur renouvellement et leur validation sont subordonnés à de
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-##### Section 4 : Mesures d'immobilisation 
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+###### Article L5241-4-1
+
+I. - Une amende administrative d'un montant maximum de 100 000 € peut être prononcée par l'autorité administrative à
+l'encontre des sociétés de classification habilitées qui méconnaissent leurs obligations professionnelles de contrôle
+définies par voie réglementaire. En cas de réitération d'un manquement dans un délai de deux ans, le plafond de l'amende est
+doublé.
+
+II. - Toutefois, lorsque les manquements constatés ont déjà donné lieu au prononcé d'une amende par la Commission européenne
+en application de l'article 6 du règlement (CE) n° 391/2009 du Parlement européen et du Conseil du 23 avril 2009 établissant
+des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires, le
+montant cumulé des deux amendes ne peut être supérieur au pourcentage du chiffre d'affaires mentionné au paragraphe 3 du même
+article.
+
+III. - En cas de manquement grave ou répété dans l'exécution du service, ou en cas de non-paiement d'une amende
+administrative prononcée en application des dispositions du I, l'autorité administrative peut suspendre ou retirer
+l'habilitation selon des modalités définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code des transports - art. L5241-4-2 (V)
+
+
+##### Section 3 bis : Autres titres et certificats
+
+
+
+
+###### Article L5241-4-2
+
+Les autres titres ou certificats requis par les conventions internationales, notamment les certificats relatifs aux
+cargaisons mentionnées à l'article L. 5241-10-1, peuvent être délivrés par des organismes agréés dans des conditions fixées
+par décret en Conseil d'Etat. 
+
+Les dispositions de l'article L. 5241-4-1 sont applicables à ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 42-7 (V)
+	  - Code des transports - art. L5241-14 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-10-1 (V)
+	  - Code des transports - art. L5241-4-1
+
+
+##### Section 3 ter : Contrôle par l'Etat du port
+
+
+
+
+###### Article L5241-4-3
+
+Les navires battant pavillon d'un Etat étranger qui font escale dans un port ou un mouillage français sont susceptibles de
+faire l'objet d'inspections dans les conditions précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Arrêté du 5 juin 2015 (V)
+	  - Code des transports - art. L5241-4-4 (V)
+	  - Code des transports - art. R5561-1 (VD)
+
+
+###### Article L5241-4-4
+
+Les frais liés aux inspections prévues par l'article L. 5241-4-3 sont à la charge du propriétaire ou de l'exploitant du
+navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-4-3
+
+
+##### Section 4 : Refus d'accès au port et mesures d'immobilisations
+
+###### Article L5241-4-5
+
+Sous réserve des dispositions de l'article L. 5331-3, l'autorité administrative refuse l'accès aux ports : 
+
+1° A tout navire présentant un risque élevé pour la sécurité maritime, la sûreté maritime ou pour l'environnement, dans les
+cas fixés par décret en Conseil d'Etat ; 
+
+2° A tout navire ayant fait l'objet d'une décision d'expulsion en application de l'article L. 5123-5 ou d'une décision
+analogue prise par l'autorité compétente d'un autre Etat membre de l'Union européenne, tant que le propriétaire ou exploitant
+du navire ne justifie pas disposer du certificat requis par l'article L. 5123-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 41-9 (V)
+	  - Code des transports - art. L5334-4 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-1
+	  - Code des transports - art. L5123-5
+	  - Code des transports - art. L5331-3
+
 
 ###### Article L5241-5
 
@@ -29405,26 +30002,38 @@ Au cas où le navire ne pourrait prendre la mer sans risque pour la sécurité o
 embarquées, le milieu marin et ses intérêts connexes ou les autres navires, son départ peut être interdit ou ajourné, après
 visite.
 
+L'autorité administrative peut également interdire ou ajourner le départ de tout navire n'ayant pas respecté, préalablement à
+son arrivée au port ou au mouillage, l'obligation de signalement aux autorités maritimes ou portuaires des informations
+relatives à la sécurité maritime dont le contenu est fixé par voie réglementaire, ou qui n'est pas équipé d'un dispositif
+permettant d'assurer la sécurité de l'accès à bord en vue d'une inspection.
+
+Les frais engendrés par l'inspection d'un navire immobilisé ou dont le départ a été ajourné sont à la charge du propriétaire
+ou de l'exploitant du navire.
+
+Un décret en Conseil d'Etat fixe les conditions et les modalités de cette interdiction ou cet ajournement de départ.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 3 (Ab), alinéas 2 et 3
-
-	**Cité par**:
-
-	  - Code des transports - art. L5241-13 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code des transports - art. L5241-13 (V)
+
 
 ###### Article L5241-6
 
-L'exploitation d'un navire ou toute opération connexe peut être interdite ou arrêtée d'urgence, par l'autorité
-administrative, si elle présente un risque manifeste pour la sécurité ou la santé des passagers ou de l'équipage, pour les
-autres navires ou pour l'environnement marin.
+L'exploitation d'un navire ou toute opération connexe présentant un risque manifeste pour la sécurité ou la santé des
+passagers ou de l'équipage, pour les autres navires, ou pour l'environnement peut être limitée ou interdite par l'autorité
+administrative, après réalisation d'une étude de conformité ou d'une visite.
+
+Elle peut dans les mêmes conditions être arrêtée d'urgence, en cas de risque manifeste et imminent. 
 
 Le propriétaire, l'armateur ou l'exploitant et le capitaine du navire donnent accès, à tout moment, au navire, à l'exception
 des locaux à usage exclusif d'habitation, dans les conditions prévues par les dispositions du chapitre unique du titre Ier du
@@ -29436,24 +30045,28 @@ livre VII de la première partie.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-##### Section 5 : Visites des navires
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+##### Section 5 : Visites et inspections des navires
 
 ###### Article L5241-7
 
 Un décret en Conseil d'Etat fixe la liste des fonctionnaires et personnes ayant libre accès à bord pour procéder aux visites
-prévues par les dispositions du présent chapitre ou y participer.
+et inspections prévues par les dispositions du présent chapitre ou y participer.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 3 (Ab), alinéas 4 à 19
 
 	**Cité par**:
 
 	  - Décret n°84-810 du 30 août 1984 - art. 2 (V)
 	  - Décret n°2016-1693 du 9 décembre 2016 - art. 5
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 	**Codifié par**:
 
@@ -29462,8 +30075,8 @@ prévues par les dispositions du présent chapitre ou y participer.
 
 ###### Article L5241-8
 
-Les modalités d'application des dispositions du présent chapitre relative aux visites des navires sont précisées par décret
-en Conseil d'Etat.
+Les modalités d'application des dispositions du présent chapitre relative aux visites et inspections des navires sont
+précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -29475,6 +30088,10 @@ en Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 
 ##### Section 6 : Mesures de prévention de la pollution
@@ -29504,42 +30121,64 @@ par la section 5 du chapitre VIII du titre Ier du livre II du code de l'environn
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 6 bis : Cargaisons 
+
+
+###### Article L5241-10-1
+
+Les marchandises dangereuses, les substances nuisibles ainsi que les autres cargaisons ne peuvent être proposées au
+chargement à bord d'un navire par le chargeur ou acceptées à bord par le transporteur, si les règles de sécurité ou de
+prévention de la pollution relatives à ces cargaisons fixées par voie réglementaire ne sont pas respectées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 42-8 (V)
+	  - Code des transports - art. L5241-11 (V)
+	  - Code des transports - art. L5241-4-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+###### Article L5241-10-2
+
+Les certificats relatifs aux cargaisons peuvent être suspendus ou retirés, pour des motifs liés à la sécurité du transport ou
+à la prévention de la pollution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
 ##### Section 7 : Sanctions pénales
 
 ###### Article L5241-11
 
-I. ― Est puni de 7 500 € d'amende, le fait, pour le constructeur, l'armateur, le propriétaire ou le capitaine, d'enfreindre
-les stipulations des conventions internationales suivantes :
+Est puni de 75 000 € d'amende le fait, pour tout propriétaire ou exploitant, de faire naviguer ou tenter de faire naviguer un
+navire soumis à la convention internationale sur les lignes de charges, faite à Londres le 5 avril 1966, qui ne dispose pas
+de marques de franc-bord ou dont les lignes de charge appropriées, marquées sur le bordé, sont immergées pendant le voyage ou
+à l'arrivée. 
 
-1° Convention n° 92 sur le logement des équipages, adoptée le 18 juin 1949 par l'Organisation internationale du travail, en
-ce qui concerne l'habitabilité et l'hygiène ;
+Le capitaine qui a commis l'une des infractions visées au premier alinéa est passible de la même peine que le propriétaire ou
+l'exploitant. Toutefois le maximum de l'amende est de 15 000 € s'il a reçu un ordre du propriétaire ou de l'exploitant. 
 
-2° Convention internationale sur les lignes de charge, faite à Londres le 5 avril 1966, en ce qui concerne les conditions de
-délivrance des titres de sécurité et l'organisation des contrôles des navires ;
-
-3° Convention internationale pour la prévention de la pollution par les navires, faite à Londres le 2 novembre 1973, telle
-qu'elle a été modifiée par le protocole du 17 février 1978, en ce qui concerne la délivrance des certificats de prévention de
-la pollution, l'organisation des contrôles des navires et les dispositions relatives à la prévention de la pollution, à
-l'exclusion des rejets ;
-
-4° Convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974, en ce qui
-concerne la construction des navires, la protection contre l'incendie, les installations électriques, la sécurité de la
-navigation, le transport des cargaisons et des marchandises dangereuses, les radiocommunications, le sauvetage, la délivrance
-des titres de sécurité et l'organisation des contrôles des navires ;
-
-5° Protocole relatif à la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, fait à Londres le 17
-février 1978, en ce qui concerne la délivrance des titres de sécurité et l'organisation des contrôles des navires, la
-construction des navires, la protection contre l'incendie, les installations électriques, la sécurité de la navigation.
-
-II. ― La même peine est applicable aux responsables des opérations de chargement, de déchargement, d'emballage et de
-manutention qui ne respectent pas les stipulations des conventions internationales mentionnées au I, en ce qui concerne le
-transport des cargaisons, des marchandises dangereuses et des substances nuisibles.
+La même peine est applicable aux responsables des opérations de chargement, de déchargement, de classification, d'emballage,
+de marquage, d'étiquetage, de déclaration et de manutention qui enfreignent les règles mentionnées à l'article L. 5241-10-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-581 du 5 juillet 1983 - art. 6 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-10-1
 
 	**Cité par**:
 
@@ -29550,21 +30189,34 @@ transport des cargaisons, des marchandises dangereuses et des substances nuisibl
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5241-11-1
+
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait pour tout constructeur, capitaine, propriétaire ou
+exploitant d'un navire, d'installer sans autorisation des postes de couchage à l'avant du navire au-delà de la cloison
+d'abordage ou en dessous de la ligne de charge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
 ###### Article L5241-12
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour l'armateur ou le propriétaire d'un navire, de faire
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait, pour l'exploitant ou le propriétaire d'un navire, de faire
 naviguer ou de tenter de faire naviguer celui-ci sans titre de sécurité ou certificat de prévention de la pollution en cours
 de validité.
 
 Le capitaine qui a commis une des infractions définies par le premier alinéa est passible des mêmes peines que l'armateur ou
-le propriétaire. Toutefois, le maximum de l'emprisonnement est de trois mois et celui de l'amende de 3 750 € s'il est prouvé
-que le capitaine a reçu un ordre de l'armateur ou du propriétaire.
+le propriétaire. Toutefois, le maximum de l'emprisonnement est de trois mois et celui de l'amende de 1 500 € s'il est prouvé
+que le capitaine a reçu un ordre de l'exploitant ou du propriétaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7 (Ab), alinéas 1 et 2
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 	**Cité par**:
 
@@ -29578,40 +30230,43 @@ que le capitaine a reçu un ordre de l'armateur ou du propriétaire.
 
 ###### Article L5241-13
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour l'armateur ou le propriétaire d'un navire, de faire
-naviguer celui-ci en violation de l'interdiction de départ prévue à l'article L. 5241-5. 
+Est puni de deux ans d'emprisonnement et de 150 000 € d'amende le fait, pour l'exploitant ou le propriétaire d'un navire, de
+faire naviguer celui-ci en violation de l'interdiction de départ prévue à l'article L. 5241-5. 
 
 Est puni des mêmes peines le capitaine qui fait naviguer un tel navire en violation d'une telle interdiction.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7-1 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5241-5 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-###### Article L5241-14
-
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait pour quiconque de s'opposer à l'exercice des missions de
-contrôle dont sont chargés les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1 à L. 5243-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7 (Ab), alinéa 3
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 	**Cite**:
 
-	  - Code des transports - art. L5243-1 (V)
+	  - Code des transports - art. L5241-5
+
+
+###### Article L5241-14
+
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait pour quiconque de s'opposer à l'exercice des missions de
+contrôle dont sont chargés les fonctionnaires et agents de l'Etat mentionnés à l'article L. 5243-5 et les personnels des
+sociétés de classification habilitées et des organismes agréés mentionnés aux articles L. 5241-4 et L. 5241-4-2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-4
+	  - Code des transports - art. L5241-4-2
+	  - Code des transports - art. L5243-5
 
 	**Codifié par**:
 
@@ -29620,9 +30275,9 @@ contrôle dont sont chargés les fonctionnaires et agents de l'Etat mentionnés 
 
 ###### Article L5241-15
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de vendre à un utilisateur des matériels de sécurité ou de
-prévention de la pollution n'ayant pas obtenu l'approbation, la marque européenne de conformité ou l'autorisation d'usage
-exigée.
+Est puni d'un an d'emprisonnement et de 150 000 € d'amende le fait de vendre ou de proposer à la vente, d'installer ou de
+faire installer des matériels de sécurité ou de prévention de la pollution ou d'autres équipements marins requis par la
+réglementation n'ayant pas obtenu l'approbation, la marque européenne de conformité ou l'autorisation d'usage exigée.
 
 Les mêmes peines sont applicables au fabricant qui, ayant obtenu l'approbation ou l'autorisation d'usage pour un prototype de
 navire ou de matériel de sécurité ou de prévention de la pollution, livre un matériel de série qui n'est pas identique à ce
@@ -29642,13 +30297,13 @@ prototype.
 	  - Loi du 17 décembre 1926 - art. 36 (V)
 	  - Loi du 17 décembre 1926 - art. 37 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 8 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 
 ###### Article L5241-16
@@ -29750,14 +30405,20 @@ France, par l'autorité maritime compétente ou par le commandant d'un navire de
 
 ###### Article L5242-3
 
-I. ― Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, pour le capitaine ou le chef de quart d'un
-navire battant pavillon français ou étranger, d'enfreindre, y compris par imprudence ou négligence, les règles fixées par la
+I. ― Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait, pour le capitaine ou le chef de quart d'un navire
+battant pavillon français ou étranger, d'enfreindre, y compris par imprudence ou négligence, les règles fixées par la
 convention sur le règlement international de 1972 pour prévenir les abordages en mer, faite à Londres le 20 octobre 1972, et
 relatives : 
 
 1° Aux feux à allumer la nuit et aux signaux à faire en temps de brume ; 
 
-2° A la route à suivre et aux manœuvres à exécuter en cas de rencontre d'un navire ou autre bâtiment. 
+2° A la route à suivre et aux manœuvres à exécuter en cas de rencontre d'un navire ou autre bâtiment ;
+
+3° A la veille visuelle et auditive à assurer en permanence avec tous les moyens disponibles et adaptés aux circonstances et
+aux conditions existantes, de manière à permettre une pleine appréciation du risque d'abordage ;
+
+4° Au maintien en permanence d'une vitesse de sécurité permettant de prendre des mesures appropriées et efficaces pour éviter
+un abordage et de s'arrêter sur une distance adaptée aux circonstances et aux conditions existantes. 
 
 La peine est portée au double si l'infraction est commise par une personne exerçant le commandement dans des conditions
 irrégulières au sens de l'article L. 5523-2. 
@@ -29770,10 +30431,9 @@ intérieures maritimes ou les eaux territoriales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 80 (Ab)
-	  - Code disciplinaire et pénal de la marine marcha... - art. 87 (Ab), alinéas 1 et 3
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 	**Cité par**:
 
@@ -29781,7 +30441,7 @@ intérieures maritimes ou les eaux territoriales.
 
 	**Cite**:
 
-	  - Code des transports - art. L5523-2 (V)
+	  - Code des transports - art. L5523-2
 
 	**Codifié par**:
 
@@ -29790,7 +30450,7 @@ intérieures maritimes ou les eaux territoriales.
 
 ###### Article L5242-4
 
-I. ― Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, pour le capitaine, le chef de quart ou le pilote
+I. ― Est puni de six mois d'emprisonnement et de 15 000 € d'amende le fait, pour le capitaine, le chef de quart ou le pilote
 d'un navire, de commettre l'une des infractions définies par l'article L. 5242-3 ou tout autre fait de négligence
 occasionnant, pour le navire ou un autre navire : 
 
@@ -29798,33 +30458,39 @@ occasionnant, pour le navire ou un autre navire :
 
 2° Soit un échouement ou un choc contre un obstacle visible ou connu ; 
 
-3° Soit une avarie grave du navire ou de sa cargaison. 
+3° Soit une avarie grave du navire ou de sa cargaison ; 
 
-II. ― Les peines prévues par le I sont portées à deux ans d'emprisonnement et 3 750 € d'amende si l'infraction a entraîné : 
+4° Soit des blessures n'ayant pas entraîné d'incapacité totale de travail ou d'une durée inférieure ou égale à trois mois
+pour une ou plusieurs personnes. 
+
+II. ― Les peines prévues par le I sont portées à deux ans d'emprisonnement et 30 000 € d'amende si l'infraction a entraîné : 
 
 1° Soit la perte ou l'innavigabilité absolue d'un navire ; 
 
 2° Soit la perte d'une cargaison ; 
 
-3° Soit des blessures graves ou la mort pour une ou plusieurs personnes. 
+3° Soit des blessures ayant entraîné une incapacité totale de travail d'une durée supérieure à trois mois pour une ou
+plusieurs personnes. 
 
-III. ― Les peines prévues par le I et le II sont portées au double si l'infraction est commise par une personne exerçant le
+III.-Les peines prévues aux I et II sont portées à trois ans d'emprisonnement et 75 000 € d'amende si l'infraction a entraîné
+la mort pour une ou plusieurs personnes. 
+
+IV.-Les peines prévues aux I, II et III sont portées au double si l'infraction est commise par une personne exerçant le
 commandement dans des conditions irrégulières au sens de l'article L. 5523-2. 
 
-IV.-Lorsque le navire est étranger, les dispositions du présent article sont applicables lorsque l'infraction est commise
-dans les eaux intérieures maritimes ou les eaux territoriales.
+V.-Lorsque le navire est étranger, les dispositions du présent article sont applicables lorsque l'infraction est commise dans
+les eaux intérieures maritimes ou les eaux territoriales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 81 (Ab)
-	  - Code disciplinaire et pénal de la marine marcha... - art. 87 (Ab), alinéas 1 et 3
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 	**Cite**:
 
-	  - Code des transports - art. L5242-3 (V)
-	  - Code des transports - art. L5523-2 (V)
+	  - Code des transports - art. L5242-3
+	  - Code des transports - art. L5523-2
 
 	**Cité par**:
 
@@ -29878,6 +30544,18 @@ territoriales ou dans les eaux maritimes intérieures.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5242-6-1
+
+Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait d'utiliser ou d'envoyer, en dehors de toute situation
+de danger, des signaux internationaux de détresse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 
 ##### Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons
@@ -29941,7 +30619,7 @@ ses avaries ;
 
 ###### Article L5242-9
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire français transportant en colis une cargaison constituée
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire français transportant en colis une cargaison constituée
 de tout ou partie de marchandises dangereuses au sens de la convention internationale pour la sauvegarde de la vie humaine en
 mer, faite à Londres le 1er novembre 1974, qui a subi un événement de mer entraînant ou risquant d'entraîner la perte par-
 dessus bord en mer de telles marchandises, de ne pas adresser, dès qu'il en a eu connaissance, un compte rendu aussi détaillé
@@ -29949,9 +30627,9 @@ que possible des circonstances de cet événement à l'autorité compétente de 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 1
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 	**Cité par**:
 
@@ -29966,7 +30644,7 @@ que possible des circonstances de cet événement à l'autorité compétente de 
 
 ###### Article L5242-10
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire étranger transportant en colis une cargaison constituée
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire étranger transportant en colis une cargaison constituée
 de tout ou partie de marchandises dangereuses au sens de la convention internationale pour la sauvegarde de la vie humaine en
 mer, faite à Londres le 1er novembre 1974, et qui, naviguant dans les eaux territoriales, a subi un événement de mer
 entraînant ou risquant d'entraîner la perte par-dessus bord en mer de telles marchandises, de ne pas adresser, dès qu'il en a
@@ -29988,33 +30666,33 @@ en matière douanière, fiscale ou sanitaire ou constituer un danger :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 	**Cité par**:
 
 	  - Code des transports - art. L5242-11 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5242-11
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire mentionné à l'article L. 5242-10 naviguant dans la zone
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire mentionné à l'article L. 5242-10 naviguant dans la zone
 économique mentionnée à l'article 1er de la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
 protection écologique au large des côtes du territoire de la République, d'omettre de remplir l'obligation mentionnée au même
-article, dès lors que la perte ou le risque de perte de marchandises dangereuses peut constituer une menace :
+article, dès lors que la perte ou le risque de perte de marchandises dangereuses peut constituer une menace : 
 
 1° Pour l'exploration, l'exploitation, la conservation et la gestion des ressources naturelles, biologiques ou non
 biologiques, des eaux surjacentes aux fonds marins, des fonds marins et de leur sous-sol, ainsi qu'en ce qui concerne
-d'autres activités tendant à l'exploration et à l'exploitation de la zone à des fins économiques ;
+d'autres activités tendant à l'exploration et à l'exploitation de la zone à des fins économiques ; 
 
-2° Pour la mise en place et l'utilisation d'îles artificielles, d'installations et d'ouvrages ;
+2° Pour la mise en place et l'utilisation d'îles artificielles, d'installations et d'ouvrages ; 
 
-3° Pour la recherche scientifique marine ;
+3° Pour la recherche scientifique marine ; 
 
 4° Pour la protection et la préservation du milieu marin.
 
@@ -30023,14 +30701,15 @@ d'autres activités tendant à l'exploration et à l'exploitation de la zone à 
 	**Cite**:
 
 	  - Loi n°76-655 du 16 juillet 1976 - art. 1
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 3
+	  - Code des transports - art. L5242-10 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 
 ###### Article L5242-12
@@ -30262,6 +30941,77 @@ d'intérêt public. Toutefois, les directeurs de ces groupements sont nommés ap
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 5 : Dommages aux installations de signalisation maritime ou d'aide à la navigation
+
+
+
+
+###### Article L5242-21
+
+Sans préjudice des sanctions pénales encourues, tout dommage causé à une installation de signalisation maritime ou d'aide à
+la navigation située en dehors des limites administratives d'un port et jusqu'à la limite des eaux sous juridiction française
+constitue une contravention de grande voirie, réprimée par une amende d'un montant de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code des transports - art. L5243-2-2 (V)
+
+
+###### Article L5242-22
+
+Le fait de ne pas déclarer la destruction, le déplacement ou la dégradation d'une installation de signalisation maritime ou
+d'aide à la navigation située en dehors des limites administratives d'un port et jusqu'à la limite des eaux sous juridiction
+française est puni de six mois d'emprisonnement et de 7 500 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+
+###### Article L5242-23
+
+Sans préjudice de l'obligation de réparation du dommage causé, le fait de détruire, déplacer, abattre ou dégrader une
+installation de signalisation maritime ou d'aide à la navigation située en dehors des limites administratives d'un port et
+jusqu'à la limite des eaux sous juridiction française, ou de porter atteinte au bon fonctionnement d'une telle installation,
+est puni de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+
+###### Article L5242-24
+
+Les procès-verbaux de constatation d'infraction sont transmis dans les cinq jours qui suivent la constatation des faits au
+procureur de la République par l'agent verbalisateur qui en adresse en même temps copie au directeur interrégional de la mer
+dont relève le lieu de l'infraction. Ces procès-verbaux font foi jusqu'à preuve du contraire.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5242-24 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
 ##### Chapitre III : Constatation des infractions
 
 ##### Section 1 : Dispositions générales
@@ -30324,6 +31074,78 @@ infractions réprimées par les dispositions du présent titre qui relèvent de 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5243-2-1
+
+Les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes habilités par le ministre
+chargé de la mer peuvent rechercher et constater les infractions réprimées par les dispositions du présent titre ou aux
+dispositions réglementaires prises pour leur application dans leur domaine de compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+
+###### Article L5243-2-2
+
+Les commandants des bâtiments de l'Etat, les contrôleurs des affaires maritimes, les syndics des gens de mer et les agents
+mentionnés au 3° de l'article L. 5336-5 sont habilités à rechercher et à constater les infractions prévues par les articles
+L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application, dans les conditions prévues à
+l'article L. 5222-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5242-21
+	  - Code des transports - art. L5336-5
+
+	**Cité par**:
+
+	  - Code des transports - art. L5762-2 (V)
+	  - Code des transports - art. L5772-3 (V)
+	  - Code des transports - art. L5782-3 (V)
+	  - Code des transports - art. L5792-3 (V)
+
+
+###### Article L5243-2-3
+
+Les inspecteurs et les contrôleurs du travail sont habilités à rechercher et à constater les infractions réprimées par les
+dispositions du présent titre qui relèvent de leur domaine particulier de compétence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+
+###### Article L5243-2-4
+
+Les commandants des bâtiments de l'Etat sont habilités à rechercher et à constater les infractions prévues aux articles L.
+5241-12 et L. 5241-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-12
+
+	**Cité par**:
+
+	  - Code des transports - art. L5243-5 (V)
+
+
 ###### Article L5243-3
 
 Les agents des douanes sont habilités à constater : 
@@ -30368,13 +31190,9 @@ Ils peuvent visiter le navire et demander la communication des titres, certifica
 recueillir les renseignements et justifications utiles à leur mission.
 
 Toutefois, ils ne peuvent accéder aux parties du navire qui sont à usage exclusif d'habitation sauf en cas de contrôle
-portant sur les conditions d'habitabilité et de sécurité.
+portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé et de sécurité au travail.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-581 du 5 juillet 1983 - art. 5 (Ab), alinéa 1
 
 	**Cité par**:
 
@@ -30384,38 +31202,46 @@ portant sur les conditions d'habitabilité et de sécurité.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
 
 ###### Article L5243-5
 
 Sous réserve de contrôles inopinés, le procureur de la République est préalablement informé des opérations envisagées en vue
-de la recherche des infractions par les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1 à L. 5243-4. Il
-peut s'opposer à ces opérations. 
+de la recherche des infractions par les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1, L. 5243-2, L.
+5243-2-1, L. 5243-2-2, L. 5243-2-4, L. 5243-3 et L. 5243-4. Il peut s'opposer à ces opérations. 
 
 En cas d'infraction aux dispositions des articles L. 5241-11 à L. 5241-15 et L. 5242-9 à L. 5242-12, il est immédiatement
 informé des constatations auxquelles elles ont donné lieu. 
 
-Les procès-verbaux lui sont transmis dans les cinq jours par l'agent verbalisateur qui en adresse, dans les mêmes délais,
-copie à l'intéressé et au directeur départemental des territoires et de la mer  dont relève le lieu de l'infraction. 
+Les procès-verbaux lui sont transmis dans les meilleurs délais par l'agent verbalisateur qui en adresse, dans les mêmes
+délais, copie à l'intéressé et au directeur interrégional de la mer dont relève le lieu de l'infraction. 
 
 Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-11
+	  - Code des transports - art. L5242-9
+	  - Code des transports - art. L5243-1
+	  - Code des transports - art. L5243-2-4
+	  - Code des transports - art. L5243-3
+
 	**Cité par**:
 
 	  - Code des transports - art. L5241-14 (V)
 
-	**Cite**:
-
-	  - Code des transports - art. L5243-1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5243-6
@@ -32792,18 +33618,17 @@ de leur application.
 
 L'Etat détermine les conditions d'accueil des navires en difficulté.
 
-Le ministre chargé des ports maritimes ou son représentant peut, pour assurer la sécurité des personnes ou des biens ou
-prévenir des atteintes à l'environnement, enjoindre à l'autorité portuaire d'accueillir un navire en difficulté. Il peut
-également, pour les mêmes motifs, autoriser ou ordonner son mouvement dans le port.
+L'autorité administrative enjoint s'il y a lieu à l'autorité portuaire d'accueillir un navire ayant besoin d'assistance. Elle
+peut également, s'il y a lieu, autoriser ou ordonner son mouvement dans le port. 
 
 La réparation des dommages causés par un navire en difficulté accueilli dans un port peut être demandée au propriétaire, à
 l'armateur, ou à l'exploitant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L302-2 (Ab)
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 7
 
 	**Cité par**:
 
@@ -33478,15 +34303,26 @@ l'armateur, ou à l'exploitant.
 
 ###### Article L5334-4
 
-L'accès au port est interdit aux navires qui, présentant un risque pour la sécurité maritime, la sûreté maritime ou pour
-l'environnement, font l'objet d'un refus d'accès décidé par le ministre chargé des transports ou par une autorité compétente
-d'un Etat membre de l'Union européenne ou d'un Etat agissant en exécution d'un mémorandum d'entente sur le contrôle des
-navires par l'Etat du port auquel la France adhère.
+L'accès au port est interdit : 
+
+1° A tout navire qui, présentant un risque pour la sécurité maritime, la sûreté maritime ou pour l'environnement, a fait
+l'objet d'une décision de refus d'accès par l'autorité administrative en application des dispositions du 1° de l'article L.
+5241-4-5 ou par une autorité compétente d'un Etat membre de l'Union européenne ou d'un Etat agissant en exécution d'un
+mémorandum d'entente sur le contrôle des navires par l'Etat du port auquel la France adhère ; 
+
+2° A tout navire ayant fait l'objet d'une décision de refus d'accès par l'autorité administrative en application des
+dispositions du 2° de l'article L. 5241-4-5 ou par l'autorité compétente d'un Etat membre de l'Union européenne, tant que le
+propriétaire ou l'exploitant ne justifie pas disposer du certificat requis par l'article L. 5123-1 ; 
+
+3° A tout navire dont le propriétaire ou l'exploitant ne justifie pas disposer du certificat requis par l'article L. 5123-1. 
 
 Toutefois, l'autorité investie du pouvoir de police portuaire peut autoriser l'accès d'un navire au port en cas de force
 majeure, pour des raisons de sécurité impératives, notamment pour supprimer ou réduire le risque de pollution ou pour
 permettre que soient faites des réparations urgentes, sous réserve que des mesures appropriées aient été prises par le
-propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité de son entrée au port.
+propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité de son entrée au port. 
+
+Les dispositions du présent article ne sont pas applicables lorsqu'il est enjoint à l'autorité portuaire d'accueillir un
+navire ayant besoin d'assistance en application des dispositions de l'article L. 5331-3.
 
 **Liens relatifs à cet article**
 
@@ -33499,13 +34335,19 @@ propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité
 	  - Décret n°2016-1693 du 9 décembre 2016 - art. 5
 	  - Décret n°2016-1693 du 9 décembre 2016 - art. 58
 
-	**Anciens textes**:
-
-	  - Code des ports maritimes - art. L311-4 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 7
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-1
+	  - Code des transports - art. L5241-4-5
+	  - Code des transports - art. L5331-3
 
 
 ###### Article L5334-5
@@ -36443,6 +37285,18 @@ L'action en responsabilité contre un consignataire se prescrit par un an.
 #### TITRE II : LES CONTRATS  RELATIFS A L'EXPLOITATION DU NAVIRE
 
 ##### Chapitre Ier : Le transport de personnes
+
+###### Article L5420-1
+
+Les dispositions du présent chapitre ne s'appliquent pas aux transports régis par le règlement (CE) n° 392/2009 du Parlement
+européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 8
+
 
 ##### Section 1 : Le contrat de passage
 
@@ -45876,6 +46730,27 @@ Les dispositions du chapitre II du titre Ier du livre Ier ne sont pas applicable
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5721-2
+
+Pour l'application du II de l'article L. 5123-2 à Mayotte, les mots : " et du règlement (CE) n° 392/2009 du Parlement
+européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident
+" sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-2
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -46573,6 +47448,27 @@ Les dispositions du chapitre II du titre Ier du livre Ier ne sont pas applicable
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5751-2
+
+Pour l'application du II de l'article L. 5123-2 à Saint-Pierre-et-Miquelon, les mots : " et du règlement (CE) n° 392/2009 du
+Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas
+d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -46866,6 +47762,28 @@ mars 1999.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5762-2
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Nouvelle-Calédonie, les mots : " et au 3° de l'article L. 5336-5
+" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5243-2-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -46995,9 +47913,15 @@ Les articles L. 5000-1 à L. 5000-6 sont applicables en Polynésie française.
 
 Les dispositions du chapitre Ier du titre Ier du livre Ier sont applicables en Polynésie française, ainsi que celles des
 chapitres Ier et II du titre III lorsque l'événement de mer se produit en dehors des eaux maritimes intérieures de la
-Polynésie française, et celles des chapitres Ier et II du titre IV.
+Polynésie française, et celles des chapitres Ier et II du titre IV. 
+
+Les dispositions de l'article L. 5113-1 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5113-1 (V)
 
 	**Cité par**:
 
@@ -47006,6 +47930,10 @@ Polynésie française, et celles des chapitres Ier et II du titre IV.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
 ##### Chapitre II : Navigation maritime
@@ -47026,6 +47954,28 @@ de 160 tonneaux de jauge brute qui ne sont pas destinés au transport des passag
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5772-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Polynésie française, les mots : " et au 3° de l'article L. 5336-5
+" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5243-2-2
 
 
 ##### Chapitre IV : Le transport maritime
@@ -47146,6 +48096,27 @@ Les dispositions du livre Ier, à l'exception de celles du chapitre II du titre 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5781-2
+
+Pour l'application du II de l'article L. 5123-2 à Wallis-et-Futuna, les mots : " et du règlement (CE) n° 392/2009 du
+Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas
+d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
 ##### Chapitre II : Navigation maritime
 
 
@@ -47155,6 +48126,28 @@ Les dispositions du livre II, à l'exception de celles de la sous-section 3 de l
 du titre IV sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5782-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 à Wallis-et-Futuna, les mots : " et au 3° de l'article L. 5336-5 "
+et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5243-2-2
 
 	**Codifié par**:
 
@@ -47364,6 +48357,27 @@ antarctiques françaises.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5791-2
+
+Pour l'application du II de l'article L. 5123-2 aux Terres australes et antarctiques françaises, les mots : " et du règlement
+(CE) n° 392/2009 du Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de
+passagers par mer en cas d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
 ##### Chapitre II : Navigation maritime
 
 
@@ -47377,6 +48391,28 @@ du titre IV sont applicables aux Terres australes et antarctiques françaises.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5792-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 aux Terres australes et antarctiques françaises, les mots : " et au
+3° de l'article L. 5336-5 " et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et
+les agents chargés de la constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5243-2-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
 ##### Chapitre III : Les ports maritimes
