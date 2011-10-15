@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-06-11
+Version Consolidée au 2011-10-16
 
 # PARTIE LEGISLATIVE
 
@@ -26764,7 +26764,7 @@ les conditions de la vente du navire.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : REGIMES DE RESPONSABILITE
+#### TITRE II : REGIMES DE RESPONSABILITE ET OBLIGATIONS D'ASSURANCE
 
 ##### Chapitre Ier : Régime général de responsabilité
 
@@ -27660,12 +27660,6 @@ dommages résultant de la pollution par les hydrocarbures sont fixées par les d
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-
-#### TITRE II : REGIMES DE RESPONSABILITE ET OBLIGATIONS D'ASSURANCE
-
-##### Chapitre Ier : Régime général de responsabilité
-
-##### Chapitre II : Régimes spéciaux de responsabilité
 
 ##### Chapitre III : Obligations d'assurance 
 
@@ -51483,9 +51477,16 @@ Il peut faire l'objet, pour des motifs d'intérêt général, de modulations lim
 atteintes à l'environnement, améliorer l'utilisation des infrastructures, favoriser la création de nouvelles liaisons ou
 répondre à des impératifs de continuité et d'aménagement du territoire.
 
-Le produit global de ces redevances ne peut excéder le coût des services rendus sur l'aéroport.
+Le produit global de ces redevances ne peut excéder le coût des services rendus sur l'aérodrome ou sur le système
+d'aérodromes desservant la même ville ou agglomération urbaine concerné, système défini au sens du présent chapitre comme un
+groupe d'aérodromes desservant la même ville ou agglomération urbaine, géré par un même exploitant et désigné comme tel par
+l'autorité compétente de l'Etat.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1300 du 14 octobre 2011 - art. 1
 
 	**Cité par**:
 
@@ -51505,10 +51506,6 @@ Le produit global de ces redevances ne peut excéder le coût des services rendu
 	**Cite**:
 
 	  - Code de commerce - art. L410-2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L224-2 (Ab), alinéas 1, 2, 3 et 4 du paragraphe I, redevances aéroportuaires
 
 	**Codifié par**:
 
@@ -51654,6 +51651,51 @@ obligations en cette matière sont fixées par décret en Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L6325-7
+
+I.-Pour les aérodromes mentionnés à l'article L. 6323-2 et les aérodromes appartenant à l'Etat, lorsque la fixation des
+tarifs des redevances donne lieu à des consultations, les usagers transmettent à l'exploitant d'aérodrome des informations
+concernant notamment : 
+
+1° Les prévisions de trafic sur le ou les aérodromes concernés ; 
+
+2° Les prévisions quant à la composition et l'utilisation envisagée de leur flotte sur le ou les aérodromes concernés ; 
+
+3° Leurs projets de développement et leurs besoins sur le ou les aérodromes concernés ; 
+
+4° Les données sur le trafic existant. 
+
+Dans le cadre de ces consultations, les exploitants d'aérodromes transmettent aux usagers ou aux représentants d'usagers des
+informations sur les éléments servant de base à la détermination des tarifs des redevances et des informations permettant
+d'apprécier l'utilisation des infrastructures et des informations sur les programmes d'investissement. 
+
+Les modalités d'application des dispositions du présent I sont fixées par décret en Conseil d'Etat. 
+
+II.-Les usagers ou représentants d'usagers et les exploitants d'aérodrome veillent à la confidentialité des informations qui
+leur sont transmises dans le cadre des consultations mentionnées au I.
+
+**Nota:**
+
+Conformément à l'article 3 de l'ordonnance n° 2011-1300 du 14 octobre 2011, les dispositions de l'article L. 6325-7 du code
+des transports sont applicables aux redevances mentionnées à l'article L. 6325-1 pour lesquelles la fixation des tarifs fait
+l'objet d'une consultation engagée après la publication de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-1300 du 14 octobre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 16 janvier 2012 - art. 5 (V)
+	  - Code de l'aviation civile - art. R224-3 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L6323-2
 
 
 ##### Chapitre VI : Services d'assistance en escale
