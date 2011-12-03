@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-10-16
+Version Consolidée au 2011-12-04
 
 # PARTIE LEGISLATIVE
 
@@ -18288,11 +18288,10 @@ Les activités de transport routier public de personnes ou de marchandises et de
 conducteur destinés au transport de marchandises s'effectuent sous le couvert d'une licence communautaire ou d'une licence de
 transport intérieur. 
 
-La licence communautaire est délivrée dans les conditions prévues par le règlement (CEE) n° 684/92 du Conseil du 16 mars 1992
-établissant des règles communes pour les transports internationaux de voyageurs effectués par autocars et autobus ou le
-règlement (CEE) n° 881/92 du Conseil du 26 mars 1992 concernant l'accès au marché des transports de marchandises par route
-dans la Communauté exécutés au départ ou à destination du territoire d'un Etat membre, ou traversant le territoire d'un ou de
-plusieurs Etats membres. 
+La licence communautaire est délivrée dans les conditions prévues par le règlement (CE) n° 1073/2009 du Parlement européen et
+du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services de transport
+par autocars et autobus ou le règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant
+des règles communes pour l'accès au marché du transport international de marchandises par route. 
 
 La licence de transport intérieur est délivrée aux entreprises inscrites au registre mentionné aux articles L. 3113-1 et L.
 3211-1 et qui n'ont pas l'obligation de détenir une licence communautaire. Elle est exigée de toute entreprise de transport
@@ -18307,6 +18306,10 @@ spécificités de chaque type de transport.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 15
+
 	**Cite**:
 
 	  - Code des transports - art. L3113-1 (V)
@@ -18318,10 +18321,6 @@ spécificités de chaque type de transport.
 	  - Code des transports - art. L3452-6 (V)
 	  - Code des transports - art. L3521-4 (M)
 	  - Code des transports - art. L3551-4 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 36 (Ab)
 
 	**Codifié par**:
 
@@ -18337,29 +18336,25 @@ spécificités de chaque type de transport.
 ###### Article L3421-1
 
 Dans le cas de services occasionnels, un véhicule utilisé par une entreprise de transport de personnes non résidente, pour
-effectuer sur le territoire français des prestations de cabotage prévues par le règlement (CE) n° 12/98 du Conseil du 11
-décembre 1997 fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par
-route dans un Etat membre, ne peut rester sur ce territoire plus de trente jours consécutifs, ni plus de quarante-cinq jours
-sur une période de douze mois.
+effectuer sur le territoire français des prestations de cabotage prévues par le règlement (CE) n° 1073/2009 du Parlement
+européen et du Conseil du 21 octobre 2009 établissant les règles communes pour l'accès au marché international des services
+de transport par autocars et autobus, ne peut rester sur ce territoire plus de trente jours consécutifs, ni plus de quarante-
+cinq jours sur une période de douze mois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 6-1 (M), alinéa 5, paragraphe I bis
-
-	**Cité par**:
-
-	  - Code des transports - art. L3421-9 (V)
-	  - Code des transports - art. L3452-7 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - règlement (CE) n°12/98
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 15
+
+	**Cité par**:
+
+	  - Code des transports - art. L3421-9 (V)
+	  - Code des transports - art. L3452-7 (V)
 
 
 ###### Article L3421-2
@@ -18536,9 +18531,9 @@ cabotage dans les sept jours suivant le déchargement des marchandises ayant fai
 
 Sans préjudice de l'article L. 3421-2, un transporteur non résident ne peut se prévaloir des dispositions du règlement (CE)
 n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du
-transport international de marchandises par route, ni celles du règlement (CE) n° 12/98 du Conseil du 11 décembre 1997 fixant
-les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par route dans un Etat
-membre, lorsqu'il exerce sur le territoire national : 
+transport international de marchandises par route, ni celles du règlement (CE) n° 1073/2009 du Parlement européen et du
+Conseil du 21 octobre 2009 fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de
+voyageurs par route dans un Etat membre, lorsqu'il exerce sur le territoire national : 
 
 1° Une activité de transport intérieur de façon habituelle, continuelle ou régulière ; 
 
@@ -18549,16 +18544,15 @@ Dans ces situations, le transporteur est assujetti aux dispositions des articles
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 6-2 (M)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 15
 
 	**Cite**:
 
 	  - Code des transports - art. L3113-1 (V)
 	  - Code des transports - art. L3211-1 (V)
-	  - règlement (CE) n°1072/2009
-	  - règlement (CE) n°12/98
+	  - Code des transports - art. L3421-2 (V)
 
 	**Cité par**:
 
@@ -19110,9 +19104,11 @@ Est puni d'un an d'emprisonnement et de 15 000 € d'amende :
 
 1° Le fait d'exercer une activité de transporteur public routier, de déménageur, de loueur de véhicules industriels avec
 conducteur, alors que l'entreprise n'y a pas été autorisée en application des articles L. 3113-1, L. 3211-1 et L. 3411-1, du
-règlement (CEE) n° 881/92 du Conseil du 26 mars 1992, d'un accord bilatéral conclu avec un Etat tiers ou, à défaut d'un tel
-accord, d'une décision expresse de l'autorité administrative. Le tribunal peut, en outre, prononcer la peine complémentaire
-d'interdiction d'effectuer des opérations de transport sur le territoire national pendant une durée d'un an au plus ; 
+règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour
+l'accès au marché du transport international de marchandises par route, d'un accord bilatéral conclu avec un Etat tiers ou, à
+défaut d'un tel accord, d'une décision expresse de l'autorité administrative. Le tribunal peut, en outre, prononcer la peine
+complémentaire d'interdiction d'effectuer des opérations de transport sur le territoire national pendant une durée d'un an au
+plus ; 
 
 2° Le fait d'utiliser une autorisation, une licence ou une copie conforme délivrée pour l'exercice d'une activité réglementée
 de transport, de location de véhicules industriels avec conducteur, alors que ce titre est périmé, a été suspendu ou est
@@ -19132,16 +19128,12 @@ b) L'affichage ou la diffusion de la décision dans les conditions prévues par 
 5° Le fait, pour une entreprise de transport routier de marchandises non résidente ou, dans le cas de services occasionnels,
 pour une entreprise de transport de personnes non résidente, d'effectuer, sans y être admise, un transport intérieur dit de
 cabotage au sens des règlements (CE) n° 1072/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des
-règles communes pour l'accès au marché du transport international de marchandises par route et (CE) n° 12/98 du Conseil du 11
-décembre 1997 fixant les conditions de l'admission des transporteurs non résidents aux transports nationaux de voyageurs par
-route dans un Etat membre. Le tribunal peut, en outre, prononcer la peine complémentaire d'interdiction d'effectuer des
-opérations de transport sur le territoire national pendant une durée d'un an au plus.
+règles communes pour l'accès au marché du transport international de marchandises par route et (CE) n° 1073/2009 du Parlement
+européen et du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché international des services
+de transport par autocars et autobus. Le tribunal peut, en outre, prononcer la peine complémentaire d'interdiction
+d'effectuer des opérations de transport sur le territoire national pendant une durée d'un an au plus.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-401 du 14 avril 1952 - art. 25 (Ab), alinéas 8 à 10 et 12 à 17, paragraphe II
 
 	**Cité par**:
 
@@ -19152,14 +19144,17 @@ opérations de transport sur le territoire national pendant une durée d'un an a
 	  - Code des transports - art. R3113-26 (VD)
 	  - Code des transports - art. R3211-27 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 15
+
 	**Cite**:
 
-	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-35 (V)
 	  - Code des transports - art. L3113-1 (V)
 	  - Code des transports - art. L3211-1 (V)
-	  - Code des transports - art. L3411-1 (VT)
+	  - Code des transports - art. L3411-1 (V)
 	  - Code des transports - art. L3452-1 (V)
-	  - règlements (CE) n°1072/2009
 
 	**Codifié par**:
 
