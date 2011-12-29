@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2011-12-30
 
 # PARTIE LEGISLATIVE
 
@@ -22544,13 +22544,16 @@ habitants ;
 
 c) 30,49 € par mètre carré pour une emprise située dans une commune de plus de 100 000 habitants ; 
 
-Pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au a) quelle que soit la population de la commune
-où est situé l'ouvrage. 
+Pour les ouvrages destinés à un usage agricole, le plafond est celui fixé au a quelle que soit la population de la commune où
+est situé l'ouvrage. 
 
 2° Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1,5 € et 7 €
-par millier de mètres cubes prélevables ou rejetables, et identique pour tous les usagers.A ce deuxième élément est appliqué
+par millier de mètres cubes prélevables ou rejetables, et identique pour tous les usagers. A ce deuxième élément est appliqué
 un coefficient d'abattement compris entre 90 % et 97 % pour les usages agricoles et entre 10 % et 30 % pour les usages
-industriels. 
+industriels. Ce coefficient d'abattement est fixé à 97 % pour l'alimentation en eau d'un canal de navigation. 
+
+Ce résultat est majoré de 40 % en cas de rejet sédimentaire constaté dans les conditions mentionnées à l'article L. 4316-10
+et induisant des prestations supplémentaires pour rétablir le bon fonctionnement de l'ouvrage de navigation. 
 
 Dans les cas particuliers où un acte de concession a prévu la réalisation par le concessionnaire d'ouvrages hydrauliques
 visant à rétablir des prélèvements ou des écoulements d'eau existants au profit de tiers, la taxe est due par ces derniers,
@@ -22560,10 +22563,11 @@ au prorata de leurs volumes prélevables ou rejetables.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 153
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 122
 
 	**Cite**:
 
+	  - Code des transports - art. L4316-10 (V)
 	  - Code des transports - art. L4316-3
 
 	**Cité par**:
@@ -22741,18 +22745,19 @@ Ils constatent par procès-verbaux, qui font foi jusqu'à preuve du contraire, l
 ###### Article L4316-11
 
 Les agents de Voies navigables de France mentionnés au premier alinéa de l'article L. 4316-10 peuvent procéder à des
-contrôles de l'assiette de la taxe due par les titulaires d'ouvrages hydrauliques. Ces opérations sont précédées de l'envoi
-d'un avis portant mention de la date et de l'objet du contrôle.
+contrôles de l'assiette de la taxe due par les titulaires d'ouvrages hydrauliques et les bénéficiaires ou occupants d'une
+installation irrégulière. Ces opérations sont précédées de l'envoi d'un avis portant mention de la date et de l'objet du
+contrôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°91-1385 du 31 décembre 1991 - art. 2 (Ab), alinéa 9, paragraphe IV
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 122
 
 	**Cite**:
 
-	  - Code des transports - art. L4316-10 (V)
+	  - Code des transports - art. L4316-10
 
 	**Cité par**:
 
