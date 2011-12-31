@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -11768,16 +11768,19 @@ ferroviaires.
 Ce droit est constaté et recouvré dans les mêmes délais et sous les mêmes garanties et sanctions que ceux applicables en
 matière de taxes sur le chiffre d'affaires.
 
+Le produit de ce droit est affecté à l'Autorité de régulation des activités ferroviaires dans la limite du plafond prévu au I
+de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 21 (Ab), alinéas 5 à 10, paragraphe II
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
 
 	**Cite**:
 
-	  - Code des transports - art. L2122-1 (V)
-	  - Code des transports - art. L2221-6 (V)
+	  - Code des transports - art. L2122-1
+	  - Code des transports - art. L2221-6
 
 	**Cité par**:
 
@@ -14131,9 +14134,9 @@ partie.
 
 Les ressources de l'Etablissement public de sécurité ferroviaire sont constituées par : 
 
-1° Un droit de sécurité dû par les entreprises ferroviaires qui utilisent les réseaux mentionnés à l'article L. 2221-1. Le
-montant de ce droit est fixé par les ministres chargés des transports et du budget sur proposition du conseil
-d'administration de l'établissement public. Ce droit comprend, selon le cas : 
+1° Une fraction du produit d'un droit de sécurité dû par les entreprises ferroviaires qui utilisent les réseaux mentionnés à
+l'article L. 2221-1. Le montant de ce droit est fixé par les ministres chargés des transports et du budget sur proposition du
+conseil d'administration de l'établissement public. Ce droit comprend, selon le cas : 
 
 a) Un pourcentage du montant des redevances d'utilisation du réseau ferré national versées à Réseau ferré de France dans la
 limite du centième de ce montant et de 0,20 € par kilomètre parcouru ; 
@@ -14156,11 +14159,10 @@ l'article L. 2221-1, autres que celles visant à obtenir la qualité d'entrepris
 
 4° Les dons, legs, produits de cession et concours divers.
 
+La fraction prévue au 1° est plafonnée conformément au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de
+finances pour 2012.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 3 (Ab)
 
 	**Cité par**:
 
@@ -14170,9 +14172,13 @@ l'article L. 2221-1, autres que celles visant à obtenir la qualité d'entrepris
 	  - Code des transports - art. L1261-20 (V)
 	  - Code des transports - art. L2132-13 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (MMN)
+
 	**Cite**:
 
-	  - Code des transports - art. L2221-1 (V)
+	  - Code des transports - art. L2221-1
 
 	**Codifié par**:
 
@@ -22492,9 +22498,10 @@ effectué au profit d'une autre collectivité publique que l'Etat.
 
 ###### Article L4316-3
 
-Dans les conditions prévues par la présente section, Voies navigables de France perçoit à son profit une taxe sur les
-titulaires d'ouvrages de prise d'eau, rejet d'eau ou autres ouvrages hydrauliques destinés à prélever ou à évacuer des
-volumes d'eau sur le domaine public fluvial qui lui est confié. 
+Dans les conditions prévues par la présente section, Voies navigables de France, dans la limite du plafond prévu au I de
+l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, perçoit une taxe sur les titulaires d'ouvrages
+de prise d'eau, rejet d'eau ou autres ouvrages hydrauliques destinés à prélever ou à évacuer des volumes d'eau sur le domaine
+public fluvial qui lui est confié. 
 
 Sont exclus de cette taxe les ouvrages hydroélectriques concédés et leurs ouvrages et équipements annexes tels qu'ils sont
 prévus dans les cahiers des charges relatifs à ces concessions ainsi que les ouvrages hydrauliques ayant pour objectif
@@ -22502,17 +22509,26 @@ d'utiliser le refroidissement par eau de rivière dans le cadre de la production
 urbain en délégation de service public. Pour les ouvrages hydroélectriques concédés précités et leurs ouvrages et équipements
 annexes, l'Etat continue de percevoir le produit des redevances mentionnées aux articles 9 et 9-1 de la loi du 16 octobre
 1919 relative à l'utilisation de l'énergie hydraulique ; la fraction non affectée aux collectivités locales est reversée à
-l'établissement public.
+l'établissement public. 
+
+En cas d'installation irrégulière d'ouvrages mentionnés au premier alinéa, l'occupant ou le bénéficiaire de ces ouvrages est
+immédiatement redevable de la taxe prévue par la présente section, après établissement d'un procès-verbal constatant
+l'occupation sans titre conformément à la procédure prévue aux articles L. 2132-20 et L. 2132-21 du code général de la
+propriété des personnes publiques. La taxe est majorée de 30 %, sans préjudice des mesures de police de la conservation du
+domaine.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi du 16 octobre 1919 (V)
+	  - Loi du 16 octobre 1919
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+	  - Code général de la propriété des personnes publ... - art. L2132-20 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°90-1168 du 29 décembre 1990 - art. 124 (Ab), alinéas 3 et 4
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 122
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
 
 	**Cité par**:
 
