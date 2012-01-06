@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-07
 
 # PARTIE LEGISLATIVE
 
@@ -3688,29 +3688,24 @@ matières exclues du transport.
 ###### Article L1252-2
 
 Outre les officiers de police judiciaire, sont chargés de constater les infractions aux dispositions législatives ou
-réglementaires concernant le transport de marchandises dangereuses par voie ferroviaire ou guidé, routière ou fluviale :
+réglementaires concernant le transport de marchandises dangereuses par voie ferroviaire ou guidé, routière ou fluviale : 
 
 1° Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres sous l'autorité du ministre chargé
-des transports ;
+des transports ; 
 
-2° Les agents des douanes ;
+2° Les agents des douanes ; 
 
-3° Les agents ayant qualité pour constater les délits ou les contraventions en matière de circulation routière ;
+3° Les agents ayant qualité pour constater les délits ou les contraventions en matière de circulation routière ; 
 
 4° Les inspecteurs et contrôleurs du travail et les fonctionnaires ou agents ayant qualité pour constater les infractions à
-la législation sociale dans les établissements soumis au contrôle technique du ministre chargé de l'industrie ;
+la législation sociale dans les établissements soumis au contrôle technique du ministre chargé de l'industrie ; 
 
 5° Les fonctionnaires et agents des services déconcentrés relevant des ministres chargés des transports et de l'environnement
-assermentés et commissionnés à cet effet ;
+assermentés et commissionnés à cet effet ; 
 
-6° Les inspecteurs de la sûreté nucléaire remplissant les conditions prévues par l'article 46 de la loi n° 2006-686 du 13
-juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
+6° Les inspecteurs de la sûreté nucléaire remplissant les conditions prévues par l'article L596-2 du code de l'environnement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-1335 du 31 décembre 1975 - art. 3 (VT), alinéas 1 à 7
 
 	**Cité par**:
 
@@ -3720,9 +3715,13 @@ juin 2006 relative à la transparence et à la sécurité en matière nucléaire
 	  - Code des transports - art. L1252-3 (VD)
 	  - Code des transports - art. L1252-4 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
+
 	**Cite**:
 
-	  - Loi n°2006-686 du 13 juin 2006 - art. 46
+	  - Code de l'environnement - art. L596-2 (V)
 
 	**Codifié par**:
 
@@ -3890,8 +3889,8 @@ du code de la défense.
 
 ###### Article L1252-10
 
-Les règles relatives au transport des substances radioactives sont fixées par les dispositions du titre IV de la loi n°
-2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
+Les règles relatives au transport des substances radioactives sont fixées par les dispositions du chapitre V du titre IX du
+livre V du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -3902,6 +3901,10 @@ Les règles relatives au transport des substances radioactives sont fixées par 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-6 du 5 janvier 2012 - art. 5, v. init.
 
 
 ###### Article L1252-11
