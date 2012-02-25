@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-01-25
+Version Consolidée au 2012-02-26
 
 # PARTIE LEGISLATIVE
 
@@ -4911,17 +4911,19 @@ d'Etat.
 ###### Article L1421-3
 
 La capacité professionnelle mentionnée à l'article L. 1421-2 peut être reconnue par un organisme présentant des garanties
-d'impartialité et de compétence, habilité à cet effet dans des conditions fixées par décret en Conseil d'Etat.
+d'impartialité et de compétence, habilité à cet effet dans des conditions fixées par décret en Conseil d'Etat. Les frais de
+gestion des procédures de reconnaissance de la capacité professionnelle et de délivrance des documents relatifs à cette
+reconnaissance sont à la charge des candidats, selon les modalités fixées par ce décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 7 (VT), alinéa 2, paragraphe I
+	  - Loi n°2012-260 du 22 février 2012 - art. 9
 
 	**Cite**:
 
-	  - Code des transports - art. L1421-2 (VD)
+	  - Code des transports - art. L1421-2
 
 	**Codifié par**:
 
@@ -5042,17 +5044,19 @@ transport peuvent être fixées par décret en Conseil d'Etat.
 ###### Article L1422-4
 
 La capacité professionnelle mentionnée à l'article L. 1422-2 peut être reconnue par un organisme présentant des garanties
-d'impartialité et de compétence, habilité à cet effet dans des conditions fixées par décret en Conseil d'Etat.
+d'impartialité et de compétence, habilité à cet effet dans des conditions fixées par décret en Conseil d'Etat. Les frais de
+gestion des procédures de reconnaissance de la capacité professionnelle et de délivrance des documents relatifs à cette
+reconnaissance sont à la charge des candidats, selon les modalités fixées par ce décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 8 (Ab), alinéa 4, paragraphe I
+	  - Loi n°2012-260 du 22 février 2012 - art. 9
 
 	**Cite**:
 
-	  - Code des transports - art. L1422-2 (VD)
+	  - Code des transports - art. L1422-2
 
 	**Codifié par**:
 
@@ -16000,6 +16004,24 @@ pour les infractions les plus graves aux actes de droit de l'Union européenne m
 	  - Code des transports - art. L3551-1 (V)
 
 
+###### Article L3113-3
+
+Les modalités selon lesquelles, en application du règlement mentionné à l'article L. 3113-2, les autorités compétentes
+délivrent les autorisations d'exercer la profession de transporteur par route, suspendent ou retirent ces autorisations sont
+fixées par le décret prévu à l'article L. 3113-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-260 du 22 février 2012 - art. 9
+
+	**Cite**:
+
+	  - Code des transports - art. L3113-1
+	  - Code des transports - art. L3113-2
+
+
 ##### Chapitre IV : Sanctions administratives et sanctions pénales
 
 ##### Section 1 : Recherche, constatation et poursuite des infractions
@@ -17019,6 +17041,24 @@ exercer la profession de transporteur par route, et abrogeant la directive 96/26
 
 	  - Code des transports - art. L3211-3 (V)
 	  - Code des transports - art. L3551-1 (V)
+
+
+###### Article L3211-3
+
+Les modalités selon lesquelles, en application du règlement mentionné à l'article L. 3211-2, les autorités compétentes
+délivrent les autorisations d'exercer la profession de transporteur par route, suspendent ou retirent ces autorisations sont
+fixées par le décret prévu à l'article L. 3211-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-260 du 22 février 2012 - art. 9
+
+	**Cite**:
+
+	  - Code des transports - art. L3211-1
+	  - Code des transports - art. L3211-2
 
 
 #### TITRE II : LES CONTRATS
@@ -46490,14 +46530,14 @@ partie sont applicables à la présente partie.
 
 ###### Article L5713-1
 
-Dans les départements d'outre-mer, les ports relevant de l'Etat auxquels s'applique le livre III de la présente partie
-figurent sur une liste fixée par décret en Conseil d'Etat.
+En Guadeloupe, en Guyane, en Martinique et à La Réunion, les ports relevant de l'Etat auxquels s'applique le livre III de la
+présente partie figurent sur une liste fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L100-1 (Ab) (4°)
+	  - Loi n°2012-260 du 22 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -46510,12 +46550,119 @@ figurent sur une liste fixée par décret en Conseil d'Etat.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5713-2
+###### Article L5713-1-1
 
-Les conditions et modalités d'adaptation dans les départements d'outre-mer des dispositions du chapitre III du titre Ier du
-livre III de la présente partie sont déterminées par décret en Conseil d'Etat.
+Pour son application aux ports relevant de l'Etat mentionnés à l'article L. 5713-1, le chapitre II du titre Ier du livre III
+de la présente partie fait l'objet des adaptations suivantes : 
+
+1° L'article L. 5312-2 est complété par un 9° ainsi rédigé : 
+
+" 9° S'il y a lieu, l'acquisition et l'exploitation des outillages. ” ; 
+
+2° Au début du premier alinéa de l'article L. 5312-3, les mots : " Sous réserve des limitations prévues par l'article L.
+5312-4 en ce qui concerne l'exploitation des outillages, ” sont supprimés ; 
+
+3° L'article L. 5312-4 n'est pas applicable ; 
+
+4° L'article L. 5312-7 est ainsi rédigé : 
+
+" Art. L. 5312-7. ― Le conseil de surveillance est composé de : 
+
+" a) Quatre représentants de l'Etat ; 
+
+" b) Quatre représentants des collectivités territoriales et de leurs groupements en Martinique et à La Réunion et cinq
+représentants des collectivités territoriales et de leurs groupements en Guyane et en Guadeloupe. En Guadeloupe et à La
+Réunion, sont membres du conseil de surveillance au moins un représentant de la région et un représentant du département, en
+Guyane, deux représentants de l'assemblée de Guyane et, en Martinique, deux représentants de l'assemblée de Martinique ; 
+
+" c) Trois représentants du personnel de l'établissement public, dont un représentant des cadres et assimilés ; 
+
+" d) Six personnalités qualifiées en Martinique et à La Réunion et cinq personnalités qualifiées en Guyane et en Guadeloupe,
+nommées par l'autorité compétente de l'Etat après avis des collectivités territoriales et de leurs groupements dont une
+partie du territoire est située dans la circonscription du port, parmi lesquelles trois représentants élus de la chambre de
+commerce et d'industrie territorialement compétente et un représentant du monde économique ; 
+
+" Le conseil de surveillance élit son président. La voix du président est prépondérante en cas de partage égal des voix. ” ; 
+
+5° L'article L. 5312-11 est complété par une phrase ainsi rédigée : 
+
+" Le conseil de développement comprend au moins un représentant des consommateurs. ” ; 
+
+6° L'article L. 5312-17 est ainsi modifié : 
+
+a) Le premier alinéa est complété par les mots : " ou à un port non autonome relevant de l'Etat ” ; 
+
+b) Au 1°, après les mots : " Le conseil d'administration ”, sont insérés les mots : " ou le conseil portuaire ”.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-260 du 22 février 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. R163-13 (Ab)
+	  - Code des ports maritimes - art. R163-14 (Ab)
+	  - Code des transports - art. R5713-22 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5312-11
+	  - Code des transports - art. L5312-17
+	  - Code des transports - art. L5312-2
+	  - Code des transports - art. L5312-3
+	  - Code des transports - art. L5312-4
+	  - Code des transports - art. L5713-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5713-1-2
+
+Il est institué entre les grands ports maritimes de Guadeloupe, de Guyane et de Martinique un conseil de coordination
+interportuaire associant des représentants de l'Etat, des collectivités territoriales et de leurs groupements, des ports
+concernés, ainsi que des personnalités qualifiées.
+
+Ce conseil adopte un document de coordination relatif aux grandes orientations en matière de développement, de projets
+d'investissement et de promotion des ports qui y sont représentés. Ce document peut proposer des modalités de mutualisation
+de leurs moyens.
+
+Les collectivités territoriales de Guadeloupe, de Guyane et de Martinique, ou leurs groupements, responsables de la gestion
+d'un port maritime, peuvent, à leur demande, être associés à ses travaux.
+
+La composition du conseil de coordination interportuaire, les modalités de désignation de ses membres, ses règles de
+fonctionnement et les conditions d'élaboration du document de coordination sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-260 du 22 février 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-383 du 28 mars 2014 - art. 1 (Ab)
+	  - Décret n°2014-383 du 28 mars 2014 - art. 8 (Ab)
+	  - Code des transports - art. D5713-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5713-2
+
+Les conditions et modalités d'adaptation en Guadeloupe, en Guyane, en Martinique et à La Réunion des dispositions du chapitre
+III du titre Ier du livre III de la présente partie sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-260 du 22 février 2012 - art. 1
 
 	**Codifié par**:
 
@@ -46525,13 +46672,13 @@ livre III de la présente partie sont déterminées par décret en Conseil d'Eta
 ###### Article L5713-3
 
 Les conditions d'application du chapitre III et de la section première du chapitre IV du titre IV du livre III de la présente
-partie aux départements d'outre-mer sont fixées par voie réglementaire.
+partie en Guadeloupe, en Guyane, en Martinique et à La Réunion sont fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L541-1 (Ab)
+	  - Loi n°2012-260 du 22 février 2012 - art. 1
 
 	**Codifié par**:
 
@@ -46757,6 +46904,16 @@ fixe ".
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+#### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION
+
+##### Chapitre III : Les ports maritimes
+
+##### Chapitre IV : Le transport maritime
+
+##### Chapitre V : Les gens de mer
+
 
 
 #### TITRE II : MAYOTTE
