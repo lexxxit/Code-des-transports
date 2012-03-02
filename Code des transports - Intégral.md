@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-02-26
+Version Consolidée au 2012-03-03
 
 # PARTIE LEGISLATIVE
 
@@ -46524,7 +46524,7 @@ partie sont applicables à la présente partie.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER
+#### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION
 
 ##### Chapitre III : Les ports maritimes
 
@@ -46904,16 +46904,6 @@ fixe ".
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-#### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION
-
-##### Chapitre III : Les ports maritimes
-
-##### Chapitre IV : Le transport maritime
-
-##### Chapitre V : Les gens de mer
-
 
 
 #### TITRE II : MAYOTTE
@@ -52174,20 +52164,26 @@ aérodromes et des installations à usage aéronautique, sont, en tant que de be
 
 ###### Article L6341-1
 
-Les agents civils et militaires de l'Etat ainsi que les personnels des entreprises agissant pour le compte et sous le
-contrôle de l'administration et habilités à cet effet par l'autorité administrative vérifient que les entreprises ou
-organismes installés sur les aérodromes respectent les mesures de prévention en matière de sûreté. Pour l'exercice de ces
-missions, ils ont accès à tout moment aux locaux et terrains à usage professionnel.
+Les agents civils et militaires de l'Etat ainsi que les organismes ou personnes agissant pour le compte et sous le contrôle
+de l'administration et certifiés à cet effet par l'autorité administrative compétente vérifient que les personnes,
+entreprises et organismes mentionnés à l'article L. 6341-2, installés sur les aérodromes ou implantés à l'extérieur de ceux-
+ci, respectent les mesures de sûreté mentionnées au même article. 
 
-Lorsque cet accès leur est refusé, les agents habilités ne peuvent procéder aux visites de locaux, lieux et installations que
-sur autorisation de l'autorité judiciaire dans les conditions fixées au titre Ier du livre VII de la partie 1 du présent
-code.
+A cet effet, les agents de l'Etat, ainsi que les personnes ou organismes mentionnés au premier alinéa, ont accès à tout
+moment aux terrains et locaux à usage professionnel ainsi qu'aux installations et aéronefs, ou tout autre lieu où s'exercent
+les activités contrôlées à l'exclusion des pièces réservées exclusivement à l'habitation, dans les conditions prévues par les
+dispositions du chapitre unique du titre Ier du livre VII de la première partie. 
+
+Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tout colis, bagage, véhicule, remorque ou
+engin en présence du responsable de l'entreprise ou de l'organisme, ou d'un de ses préposés en cas d'absence de celui-ci. 
+
+Ils se font communiquer les documents de toute nature en relation avec les opérations pour lesquelles le contrôle est exercé.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L213-2-1 (Ab), partie sur la sûreté
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
 
 	**Cité par**:
 
@@ -52196,6 +52192,10 @@ code.
 	  - Code de l'aviation civile - art. R213-7 (V)
 	  - Code de l'aviation civile - art. R217-3 (V)
 
+	**Cite**:
+
+	  - Code des transports - art. L6341-2 (V)
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -52203,20 +52203,39 @@ code.
 
 ###### Article L6341-2
 
-Sauf dans les cas où, en application notamment de l'article L. 6342-2, leur mise en œuvre est assurée par les services de
-l'Etat, les mesures prescrites en application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
-2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
-pour son application par la Commission européenne sont mises en œuvre, sous l'autorité du titulaire des pouvoirs de police
-mentionné à l'article L. 6332-2, par les exploitants d'aérodromes, les entreprises de transport aérien, les prestataires de
-service d'assistance en escale, les entreprises ou organismes agréés au sens des articles L. 6342-1 et L. 6343-1, les
-employeurs des agents mentionnés à l'article L. 6342-2, les entreprises qui leur sont liées par contrat et les autres
-personnes autorisées à occuper ou à utiliser les zones non librement accessibles au public des aérodromes, chacun dans son
-domaine d'activité. 
+I.-Sauf dans les cas où leur mise en œuvre est assurée par les services de l'Etat, les mesures de sûreté destinées à protéger
+l'aviation civile contre les actes d'intervention illicite sont mises en œuvre par :
 
-Les catégories de mesures qui incombent à chacune des personnes mentionnées au présent article sont précisées par décret en
-Conseil d'Etat.
+- les exploitants d'aérodromes ;
+
+- les entreprises de transport aérien ;
+
+- les agents habilités, les chargeurs connus et les clients en compte ;
+
+- les fournisseurs habilités et les fournisseurs connus ;
+
+- les autres personnes ou organismes autorisés à occuper ou utiliser la zone côté piste de l'aérodrome ;
+
+- les personnes ou organismes liés par contrat aux personnes ou organismes ci-dessus mentionnés, et notamment les employeurs
+des agents mentionnés aux II et V de l'article L. 6342-4. 
+
+II.-Les mesures de sûreté sont mises en œuvre sous l'autorité du titulaire des pouvoirs de police mentionné à l'article L.
+6332-2.
+
+III.-Les mesures de sûreté résultent de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11
+mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile, des règlements pris
+pour son application par la Commission européenne et des normes de sûreté prévues par la réglementation nationale. 
+
+Les obligations relatives à la mise en œuvre des mesures de sûreté sont définies en fonction des domaines d'activité
+respectifs des exploitants d'aérodromes, des entreprises de transport aérien et des autres personnes et organismes précités. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
 
 	**Cité par**:
 
@@ -52241,45 +52260,49 @@ Conseil d'Etat.
 	  - Code des transports - art. L6783-6 (V)
 	  - Code des transports - art. L6783-8 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L213-3 (Ab), alinéa 2 sur la sûreté
-
 	**Cite**:
 
 	  - Code des transports - art. L6332-2 (V)
-	  - Code des transports - art. L6343-1 (V)
-	  - règlement (CE) n°300/2008
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Protection de la zone réservée
+###### Article L6341-3
 
-###### Article L6342-1
-
-En vue d'assurer préventivement la sûreté des vols, l'entreprise ou l'organisme implanté à l'extérieur de la zone réservée
-doit, pour y accéder afin de livrer des biens et produits utilisés à bord des aéronefs, être agréé par l'autorité
-administrative en qualité d'établissement connu.L'entreprise ou l'établissement agréé en qualité d'établissement connu met en
-œuvre des mesures de sûreté appropriées pendant le conditionnement de ces biens et produits et préserve leur intégrité
-jusqu'à leur entrée en zone réservée.
-
-L'agrément peut être refusé ou retiré lorsque l'entreprise ou l'organisme ne se conforme pas aux obligations prévues par le
-présent article ou peut constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque
-pour la sûreté. Il peut faire l'objet d'une suspension immédiate en cas d'urgence. 
-
-Les agents mentionnés à l'article L. 6372-1 ainsi que des organismes techniques habilités à cet effet vérifient que les
-entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité d'établissement connu. 
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+En cas de dommage résultant d'un acte malveillant commis au moyen de l'expédition d'un courrier postal, d'un colis postal ou
+de fret, sécurisée par un agent habilité ou ayant fait l'objet de contrôles de sûreté par un chargeur connu, la
+responsabilité de ces personnes ne peut être engagée qu'en raison de l'inobservation des procédures et mesures mentionnées à
+l'article L. 6341-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Code de l'aviation civile - art. L213-4 (Ab), alinéas 1 à 3 et 5
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-2
+
+
+##### Chapitre II : Autorisations nécessaires pour mettre en œuvre des mesures de sûreté
+
+###### Article L6342-1
+
+Pour la mise en œuvre dans leur domaine d'activité respectif des mesures de sûreté mentionnées à l'article L. 6341-2, les
+entreprises, personnes et organismes mentionnés au même article et appartenant à l'une des catégories fixées, en fonction des
+caractéristiques de leur activité, par le décret en Conseil d'Etat mentionné au second alinéa doivent être titulaires d'une
+autorisation administrative individuelle délivrée par l'autorité administrative compétente. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 	**Cité par**:
 
@@ -52289,10 +52312,6 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	  - Code des transports - art. L6341-2 (V)
 	  - Code des transports - art. L6342-3 (V)
 
-	**Cite**:
-
-	  - Code des transports - art. L6372-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -52300,38 +52319,14 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 ###### Article L6342-2
 
-En vue d'assurer préventivement la sûreté des vols, tant en régime intérieur qu'international, d'une part les officiers de
-police judiciaire ainsi que, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents
-de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale et d'autre
-part, les agents des douanes, peuvent procéder à la fouille et à la visite, par tous moyens appropriés, des personnes, des
-bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans les zones non librement
-accessibles au public des aérodromes et de leurs dépendances ou sortant de celles-ci.
+L'accès à la zone côté piste de l'aérodrome et la circulation dans cette zone sont soumis à autorisation. 
 
-Sont également habilités à procéder à ces fouilles et visites, sous le contrôle des officiers de police judiciaire ou des
-agents des douanes, les agents de nationalité française ou ressortissants d'un autre Etat membre de l'Union européenne
-désignés par les entreprises de transport aérien, les exploitants d'aérodromes ou les entreprises qui leur sont liées par
-contrat. Ces agents sont préalablement agréés par le représentant de l'Etat dans le département et le procureur de la
-République. Ils ne procèdent à la fouille des bagages à main qu'avec le consentement de leur propriétaire et à des palpations
-de sécurité qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité est faite par une personne du même
-sexe que la personne qui en fait l'objet.
+Les personnes accédant aux zones de sûreté à accès réglementé et y circulant sont tenues de détenir, outre le cas échéant
+l'habilitation mentionnée au premier alinéa de l'article L. 6342-3, un titre de circulation ou l'un des documents mentionnés
+au point 1.2.2.2 de l'annexe au règlement (UE) n° 185/2010 de la Commission du 4 mars 2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile. 
 
-Ces fouilles et visites peuvent être réalisées, avec le consentement de la personne, au moyen d'un dispositif d'imagerie
-utilisant des ondes millimétriques dans les conditions visées à l'alinéa précédent. En cas de refus, la personne est soumise
-à un autre dispositif de contrôle (1). 
-
-L'analyse des images visualisées est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant
-visualiser simultanément celle-ci et son image produite par le scanner corporel.L'image produite par le scanner millimétrique
-doit comporter un système brouillant la visualisation du visage. Aucun stockage ou enregistrement des images n'est autorisé
-(1). 
-
-Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre de l'intérieur détermine les aéroports dans
-lesquels le recours au contrôle par dispositif d'imagerie utilisant les ondes millimétriques est autorisé (1). 
-
-Les agréments prévus par le deuxième alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne
-présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des
-personnes, de l'ordre public ou sont incompatibles avec l'exercice de ces missions.
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
@@ -52358,11 +52353,12 @@ transports sont applicables durant une période de trois années à compter de l
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 25
+	  - Loi n°2011-267 du 14 mars 2011 - art. 25 (V)
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 21
+	  - Code des transports - art. L6342-3
 
 	**Codifié par**:
 
@@ -52371,21 +52367,28 @@ transports sont applicables durant une période de trois années à compter de l
 
 ###### Article L6342-3
 
-L'accès aux lieux de préparation et de stockage des biens et produits mentionnés au premier alinéa de l'article L. 6342-1 est
-soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris, par le
-préfet de police.
+Les personnes ayant accès aux zones de sûreté à accès réglementé des aérodromes ou aux approvisionnements de bord sécurisés,
+ainsi que celles ayant accès au fret, aux colis postaux ou au courrier postal, sécurisés par un agent habilité ou ayant fait
+l'objet de contrôles de sûreté par un chargeur connu et identifiés comme devant être acheminés par voie aérienne, doivent
+être habilitées par l'autorité administrative compétente. 
 
-L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+La délivrance de cette habilitation est précédée d'une enquête administrative donnant lieu, le cas échéant, à consultation du
 bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
 police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article et notamment les personnes réputées
+détenir cette habilitation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (V)
-	  - Code des transports - art. L6342-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 	**Cité par**:
 
@@ -52402,178 +52405,97 @@ l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'ide
 	  - Code des transports - art. L6342-2 (V)
 	  - Code des transports - art. L6342-4 (V)
 
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L213-5 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Sûreté du fret et des colis postaux 
-avant leur embarquement
+###### Article L6342-4
 
-###### Article L6343-1
+I. ― Les opérations d'inspection-filtrage prévues par les mesures de sûreté mentionnées à l'article L. 6341-2 peuvent être
+exécutées par les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police
+judiciaire et les agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de
+procédure pénale ainsi que les agents des douanes. 
 
-En vue d'assurer préventivement la sûreté des vols, le transporteur aérien met en œuvre les mesures de sûreté sur le fret et
-les colis postaux préalablement à leur embarquement dans les aéronefs. 
+A cet effet, ils peuvent procéder à la fouille et à la visite par tous moyens appropriés des personnes, des bagages, du
+courrier postal, des colis postaux, du fret, des approvisionnements de bord, des fournitures destinées aux aérodromes, des
+aéronefs et des véhicules pénétrant ou se trouvant dans la zone côté piste des aérodromes et dans tout autre lieu où sont
+mises en œuvre les mesures de sûreté précitées, ou sortant de ceux-ci. 
 
-Le transporteur aérien : 
+II. ― Les opérations d'inspection-filtrage des personnes, des objets qu'elles transportent et des bagages ainsi que les
+opérations d'inspection des véhicules peuvent être réalisées, sous le contrôle des officiers de police judiciaire et des
+agents des douanes, par des agents de nationalité française ou ressortissant d'un Etat membre de l'Union européenne, désignés
+par les entreprises ou organismes mentionnés à l'article L. 6341-2 ou les entreprises qui leur sont liées par contrat. 
 
-1° Soit effectue les visites de sûreté mentionnées à l'article L. 6342-2 du fret et des colis postaux qui lui sont remis ; 
+Ces agents doivent avoir été préalablement agréés par le représentant de l'Etat dans le département et le procureur de la
+République. Ils ne procèdent à la fouille des bagages à main et des autres objets transportés qu'avec le consentement de leur
+propriétaire et à des palpations de sûreté qu'avec le consentement de la personne. La palpation de sûreté est faite par une
+personne du même sexe que la personne qui en fait l'objet. 
 
-2° Soit s'assure que ce fret ou ces colis postaux lui sont remis par un agent habilité. 
+III. ― L'inspection-filtrage d'une personne peut être réalisée, avec son consentement, au moyen d'un dispositif d'imagerie
+utilisant des ondes millimétriques dans les conditions prévues au II. En cas de refus, la personne est soumise à un autre
+dispositif de contrôle. 
 
-Le fret ou les colis postaux qui ne peuvent faire l'objet de contrôle après leur conditionnement en raison de leurs
-caractéristiques sont remis à l'agent habilité exclusivement par un chargeur connu. 
+L'analyse des images visualisées est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant
+visualiser simultanément celle-ci et son image produite par le dispositif d'imagerie utilisant des ondes millimétriques.
+L'image produite par le dispositif d'imagerie utilisant des ondes millimétriques doit comporter un système brouillant la
+visualisation du visage. Aucun stockage ou enregistrement des images n'est autorisé. 
 
-Peut être agréé en qualité d'agent habilité par l'autorité administrative l'entreprise ou l'organisme qui intervient dans
-l'organisation du transport de fret ou de colis postaux et qui met en place des contrôles et des procédures appropriées. 
+Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre de l'intérieur détermine les aéroports dans
+lesquels le recours au contrôle par dispositif d'imagerie utilisant les ondes millimétriques est autorisé. 
 
-Peut être agréé en qualité de chargeur connu par l'autorité administrative l'entreprise ou l'organisme qui met en œuvre
-directement ou sous son contrôle des mesures appropriées pendant le conditionnement du fret et des colis postaux expédiés à
-sa demande et qui préserve l'intégrité de ces marchandises jusqu'à leur remise à un agent habilité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L321-7 (M), alinéas 1 à 7, sûreté du fret et des colis postaux et agréments des agents habilités
-
-	**Cité par**:
-
-	  - Code de la sécurité intérieure - art. R114-4 (VD)
-	  - Code des transports - art. L6341-2 (V)
-	  - Code des transports - art. L6343-3 (Ab)
-	  - Code des transports - art. L6343-4 (Ab)
-	  - Code des transports - art. L6343-5 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L6342-2
-
-
-###### Article L6343-2
-
-Les militaires de la gendarmerie et les fonctionnaires de police, sous le contrôle des officiers de police judiciaire, ainsi
-que les agents des douanes vérifient que les entreprises ou organismes respectent les conditions de délivrance de l'agrément
-en qualité d'agent habilité.A cet effet, ils ont accès à tout moment aux locaux et terrains à usage professionnel des
-entreprises ou organismes titulaires de l'agrément ou qui en demandent le bénéfice, à l'exclusion des pièces exclusivement
-réservées à l'habitation. 
-
-Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tous colis, bagages et véhicules
-professionnels en présence du responsable de l'entreprise ou de l'organisme, ou de ses préposés en cas d'absence de celui-ci,
-et se faire communiquer les documents comptables, financiers, commerciaux ou techniques propres à faciliter l'accomplissement
-de leurs contrôles. 
-
-Les agents mentionnés à l'article L. 6372-1 ainsi que des organismes techniques habilités à cet effet vérifient que les
-entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité de chargeur connu. 
-
-Lorsque l'accès aux locaux est refusé aux agents mentionnés au premier alinéa, ceux-ci ne peuvent procéder aux visites de
-locaux, lieux et installations que sur autorisation de l'autorité judiciaire dans les conditions fixées au titre Ier du livre
-VII de la première partie du présent code.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L321-7 (M), alinéas 10 et 11, pouvoirs de contrôle sur les agents habilités
-
-	**Cite**:
-
-	  - Code des transports - art. L6372-1
-
-
-###### Article L6343-3
-
-L'accès aux lieux de traitement, de conditionnement et de stockage du fret et des colis postaux mentionnés à l'article L.
-6343-1 est soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris,
-par le préfet de police.
-
-L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+IV. ― Les agréments prévus au II sont précédés d'une enquête administrative donnant lieu, le cas échéant, à consultation du
 bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
 police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+L'enquête diligentée dans le cadre de la délivrance de l'habilitation mentionnée à l'article L. 6342-3 vaut enquête décrite
+au précédent alinéa, lorsque les demandes d'habilitation et d'agrément sont concomitantes. 
+
+Les agréments sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne présentent pas les garanties
+requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes ou de l'ordre public ou sont
+incompatibles avec l'exercice des missions susmentionnées. 
+
+V. ― Les mesures d'inspection-filtrage du courrier postal, des colis postaux, du fret, des approvisionnements de bord, des
+fournitures destinées aux aérodromes ainsi que les inspections d'aéronefs peuvent être réalisées par des agents autres que
+ceux mentionnés aux I et II. 
+
+Ces agents sont titulaires de l'habilitation mentionnée à l'article L. 6342-3. 
+
+VI. ― Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code des transports - art. L6343-1
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (V)
+	  - Code de procédure pénale - art. 21 (V)
+	  - Code des transports - art. L6342-3 (V)
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L321-8 (Ab)
-
-
-###### Article L6343-4
-
-En cas de dommage résultant d'un acte malveillant et causé par des colis postaux ou du fret mentionnés au présent chapitre,
-la responsabilité d'une entreprise ou d'un organisme agréé ne peut être engagée qu'en raison de l'inobservation des
-procédures et mesures prévues par la présente partie. 
-
-Les agréments mentionnés à l'article L. 6343-1 peuvent être refusés ou retirés lorsque l'entreprise ou l'organisme ne se
-conforme pas aux obligations prévues par l'article L. 6343-1 ou peut constituer, par ses méthodes de travail ou le
-comportement de ses dirigeants ou agents, un risque pour la sûreté. Ils peuvent faire l'objet d'une suspension immédiate en
-cas d'urgence.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L321-7 (M), alinéas 8 et 9, responsabilité des agents habilités, refus de délivrance et retrait des agréments
-
-	**Cite**:
-
-	  - Code des transports - art. L6343-1
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 	**Cité par**:
 
-	  - Code des transports - art. L6343-5 (Ab)
-
-
-###### Article L6343-5
-
-Les conditions d'application des articles L. 6343-1, L. 6343-2 et L. 6343-4 sont fixées par décret en Conseil d'Etat. Ce
-décret tient compte des contraintes propres à chacune des catégories de personnes mentionnées à ces articles. Il peut prévoir
-que le fret ou les colis postaux, mentionnés aux articles L. 6343-1 et L. 6343-4 ainsi que les correspondances et le
-transport de la presse, sont soumis à des règles particulières ou sont exemptés de procédure de sûreté. 
-
-Il détermine également les prescriptions que les agents habilités doivent respecter en matière de réception et de contrôle
-pour éviter des dépôts et des expéditions anonymes.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L321-7 (M), alinéas 12 et 13, conditions d'application
-
-	**Cite**:
-
-	  - Code des transports - art. L6343-1
-	  - Code des transports - art. L6343-4
+	  - Arrêté du 4 février 2013 - art. 3 (V)
+	  - Arrêté du 12 septembre 2013 - art. 1 (VD)
+	  - Décret n°2016-528 du 27 avril 2016 - art. 1
+	  - Arrêté du 1er juillet 2016 - art. (V)
+	  - Arrêté du 1er juillet 2016 - art. 2 (V)
+	  - Arrêté du 27 février 2017 - art. 7 (V)
+	  - Code de l'aviation civile - art. R213-5 (V)
+	  - Code de l'aviation civile - art. R213-5-3 (V)
+	  - Code de l'aviation civile - art. R213-5-5 (V)
+	  - Code de l'aviation civile - art. R217-3 (V)
+	  - Code de la sécurité intérieure - art. R114-2 (V)
+	  - Code de la sécurité intérieure - art. R612-31 (VD)
+	  - Code de la sécurité intérieure - art. R625-7 (VD)
+	  - Code de la sécurité intérieure - art. R625-8 (VD)
+	  - Code des transports - art. L6341-2 (V)
+	  - Code des transports - art. L6763-6 (V)
+	  - Code des transports - art. L6773-7 (V)
+	  - Code des transports - art. L6783-7 (V)
 
 
 #### TITRE V : SUJETIONS AUX ABORDS DES AERODROMES
@@ -57039,23 +56961,54 @@ dérogations ne réduisent pas le niveau de sécurité.
 
 ###### Article L6723-1
 
-Pour l'application à Mayotte du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement (CE) n°
+Pour l'application à Mayotte des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement (CE) n°
 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de
 la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont remplacés par
-les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du Parlement européen
-et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile
-et des règlements pris pour son application par la Commission européenne ".
+les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif à
+l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L6341-2 (V)
-	  - règlement (CE) n°300/2008
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-2
+
+
+###### Article L6723-1-1
+
+Pour l'application à Mayotte des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un des
+documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en
+œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-2
 
 
 ###### Article L6723-2
@@ -57198,17 +57151,61 @@ l'article LO 6252-8 du code général des collectivités territoriales ".
 
 ###### Article L6731-2
 
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
+(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
+domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
+remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
+à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-2
+
+
+###### Article L6731-3
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un
+des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
+en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-2
+
+
+###### Article L6731-4
+
 Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Créé par**:
 
-	  - TRANSFERE: Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code des transports - art. L6731-4 (Ab)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L6731-2 (T)
 
 
 #### TITRE IV : SAINT MARTIN
@@ -57278,12 +57275,17 @@ dérogations ne réduisent pas le niveau de sécurité.
 
 ###### Article L6753-1
 
-Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article L. 6341-2,les mots : " en application du
-règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes
-dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne "
-sont remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic
+commercial international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du
+11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements
+pris pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en
+vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la
+sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
 Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -57293,12 +57295,35 @@ l'aviation civile et des règlements pris pour son application par la Commission
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (V)
-	  - règlement (CE) n°300/2008
+	  - Code des transports - art. L6341-2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 7
+
+
+###### Article L6753-2
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 6342-2, les mots : " un titre de circulation
+ou l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les
+mots : " un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du
+règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de
+la sûreté de l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 7
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-2 (V)
 
 
 ##### Chapitre IV : Le transport aérien
@@ -57516,32 +57541,51 @@ deuxième alinéa de l'article L. 410-2 du code de commerce " sont supprimés.
 
 ###### Article L6763-4
 
-Pour l'application en Nouvelle-Calédonie de l'article L. 6332-2, les mots : " par l'article L. 2212-2 du code général des
-collectivités territoriales " sont remplacés par les mots : " par l'article L. 131-2 du code des communes de Nouvelle-
-Calédonie ".
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6332-2, les mots : "dans le département" sont
+remplacés par les mots : "en Nouvelle-Calédonie", les mots : "par l'article L. 2212-2 du code général des collectivités
+territoriales" sont remplacés par les mots : "par l'article L. 131-2 du code des communes de Nouvelle-Calédonie" et les
+mots : "notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs
+mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements" sont supprimés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2212-2
-	  - Code des transports - art. L6332-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
+
+	**Liens**:
+
+	  - RECTIFICATION: Ordonnance n°2012-289 du 1er mars 2012 - art., v. init.
+
+	**Cite**:
+
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-2 (V)
+	  - Code des transports - art. L6332-2 (V)
+
 
 ###### Article L6763-5
 
-Pour l'application en Nouvelle-Calédonie du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
-remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
 Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
 
 	**Cité par**:
 
@@ -57549,7 +57593,7 @@ l'aviation civile et des règlements pris pour son application par la Commission
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (V)
+	  - Code des transports - art. L6341-2
 	  - règlement (CE) n°300/2008
 
 	**Codifié par**:
@@ -57559,14 +57603,27 @@ l'aviation civile et des règlements pris pour son application par la Commission
 
 ###### Article L6763-6
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 en Nouvelle-Calédonie, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la
+mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : "
+un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ". 
+
+II.-Pour l'application en Nouvelle-Calédonie des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à
+un Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : "
+en Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
+
 	**Cite**:
 
-	  - Code des transports - art. L6342-2 (V)
+	  - Code des transports - art. L6342-2
+	  - Code des transports - art. L6342-4
 
 	**Codifié par**:
 
@@ -57878,16 +57935,45 @@ supprimés.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L6773-5
+###### Article L6773-4-1
 
-Pour l'application en Polynésie française du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
-remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
-Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+Pour l'application en Polynésie française des dispositions de l'article L. 6332-2, les mots : " dans le département " sont
+remplacés par les mots : " en Polynésie française ", les mots : " par l'article L. 2212-2 du code général des collectivités
+territoriales " sont remplacés par les mots : " en matière de police municipale en Polynésie française " et les mots : "
+notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à
+cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code des transports - art. L6332-2
+
+
+###### Article L6773-5
+
+Pour l'application en Polynésie française des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
 
 	**Cité par**:
 
@@ -57895,8 +57981,7 @@ l'aviation civile et des règlements pris pour son application par la Commission
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (V)
-	  - règlement (CE) n°300/2008
+	  - Code des transports - art. L6341-2
 
 	**Codifié par**:
 
@@ -57921,18 +58006,31 @@ l'Etat.
 
 ###### Article L6773-7
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 en Polynésie française, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application en Polynésie française des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la
+mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : "
+un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ". 
+
+II.-Pour l'application en Polynésie française des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à
+un Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : "
+en Polynésie française ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L6342-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-2
+	  - Code des transports - art. L6342-4
 
 
 ###### Article L6773-8
@@ -58230,15 +58328,22 @@ alinéa de l'article L. 410-2 du code de commerce " sont supprimés.
 
 ###### Article L6783-5
 
-Pour l'application à Wallis-et-Futuna de l'article L. 6332-2, les mots : " dans le département qui exerce, à cet effet, dans
-leur emprise, les pouvoirs impartis au maire par l'article L. 2212-2 du code général des collectivités territoriales " sont
-supprimés.
+Pour l'application à Wallis-et-Futuna de l'article L. 6332-2, les mots : " dans le département " sont remplacés par les
+mots : " à Wallis-et-Futuna ", les mots : " par l'article L. 2212-2 du code général des collectivités territoriales " sont
+remplacés par les mots : " en matière de police municipale à Wallis-et-Futuna " et les mots : " notamment les conditions dans
+lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à cet article lorsque l'emprise
+de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
+
 	**Cite**:
 
-	  - Code des transports - art. L6332-2 (V)
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code des transports - art. L6332-2
 
 	**Codifié par**:
 
@@ -58247,14 +58352,27 @@ supprimés.
 
 ###### Article L6783-6
 
-Pour l'application à Wallis-et-Futuna du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement (CE)
-n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine
-de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont remplacés
-par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du Parlement
-européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation
-civile et des règlements pris pour son application par la Commission européenne ".
+Pour l'application à Wallis-et-Futuna des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
 
 	**Cité par**:
 
@@ -58262,24 +58380,32 @@ civile et des règlements pris pour son application par la Commission européenn
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2 (V)
-	  - règlement (CE) n°300/2008
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L6341-2
 
 
 ###### Article L6783-7
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 à Wallis-et-Futuna, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application à Wallis-et-Futuna des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués à l'article 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les
+mots : " un document équivalent à ceux requis en métropole en vertu de l'application de l'article 1.2.2.2 de l'annexe au
+règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de
+la sûreté de l'aviation civile ". 
+
+II.-Pour l'application à Wallis-et-Futuna des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à un
+Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : " à
+Wallis-et-Futuna ".
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
+
 	**Cite**:
 
-	  - Code des transports - art. L6342-2 (V)
+	  - Code des transports - art. L6342-2
+	  - Code des transports - art. L6342-4
 
 	**Codifié par**:
 
