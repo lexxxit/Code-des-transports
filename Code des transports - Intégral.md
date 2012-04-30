@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-05-01
 
 # PARTIE LEGISLATIVE
 
@@ -7641,22 +7641,14 @@ l'exercice de laquelle l'infraction a été commise.
 
 Les conditions dans lesquelles l'autorité compétente peut prescrire la mise en œuvre de systèmes de vidéoprotection par les
 gestionnaires d'infrastructures, les autorités et personnes exploitant des transports collectifs relevant de l'activité de
-transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées par l'article 10-1 de la loi
-n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité.
+transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées par le
+  <font size="1">chapitre III du titre II du livre II du code de la sécurité intérieure</font>.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10-1
-
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 17
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 3 (V)
 
 
 ###### Article L1631-2
@@ -9524,22 +9516,14 @@ Pour son application à Wallis-et-Futuna, l'article 1631-1 est ainsi rédigé :
 
 " Art.L. 1631-1.-Les conditions dans lesquelles le représentant de l'Etat peut prescrire la mise en œuvre de systèmes de
 vidéoprotection par les gestionnaires d'infrastructures, les autorités et personnes exploitant des transports collectifs
-relevant de l'activité de transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées par
-l'article 10-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité. "
+relevant de l'activité de transport intérieur et les exploitants d'aéroports ouverts au trafic international, sont fixées
+  <font size="1"> au chapitre III du titre II du livre II du code de la sécurité intérieure</font>. "
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10-1
-
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 17
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 3 (V)
 
 
 ##### Chapitre IV : Autres dispositions générales
@@ -31948,67 +31932,6 @@ infractions définies par les dispositions du présent titre encourent :
 
 
 #### TITRE VI : SECOURS, ASSISTANCE EN MER  ET EVENEMENTS DE MER
-
-##### Chapitre Ier : Recherche et sauvetage en mer
-
-###### Article L5261-1
-
-L'Etat coordonne la mise en œuvre opérationnelle de l'ensemble des moyens de secours pour la recherche et le sauvetage des
-personnes en détresse en mer.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°86-2 du 3 janvier 1986 - art. 34 (Ab), alinéa 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L742-8 (V)
-
-
-###### Article L5261-2
-
-Les organismes de secours et de sauvetage en mer sont agréés par l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°86-2 du 3 janvier 1986 - art. 34 (Ab), alinéa 2
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L742-9 (V)
-
-
-###### Article L5261-3
-
-Les modalités d'organisation et de mise en œuvre du secours et du sauvetage en mer ainsi que les conditions de l'agrément et
-de l'exercice des activités des organismes de secours sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°86-2 du 3 janvier 1986 - art. 34 (Ab), alinéa 3
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la sécurité intérieure - art. L742-10 (V)
-
 
 ##### Chapitre II : Assistance
 
