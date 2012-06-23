@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-06-15
+Version Consolidée au 2012-06-24
 
 # PARTIE LEGISLATIVE
 
@@ -18188,7 +18188,9 @@ sont soumises à des obligations spécifiques définies par un décret en Consei
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Durée du travail du personnel roulant des entreprises de transport public routier
+##### Chapitre II : Durée du travail des conducteurs de transport public routier
+
+##### Section 1 : Durée du travail du personnel roulant des entreprises de transport public routier 
 
 ###### Article L3312-1
 
@@ -18203,9 +18205,9 @@ employeurs et des salariés du secteur.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 3
+	  - DEPLACE: Ordonnance n°2012-814 du 22 juin 2012 - art. 1
 
 	**Cite**:
 
@@ -18250,13 +18252,9 @@ certaines dispositions de la législation sociale dans le domaine des transports
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 3
-
-	**Cite**:
-
-	  - règlement (CE) n°561/2006
+	  - DEPLACE: Ordonnance n°2012-814 du 22 juin 2012 - art. 1
 
 
 ###### Article L3312-3
@@ -18268,9 +18266,9 @@ peuvent être autorisées par l'autorité administrative compétente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code du travail - art. L212-4-4 (M), alinéa 3, dernière phrase
+	  - DEPLACE: Ordonnance n°2012-814 du 22 juin 2012 - art. 1
 
 	**Cite**:
 
@@ -18283,6 +18281,126 @@ peuvent être autorisées par l'autorité administrative compétente.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Section 2 : Durée du travail des conducteurs indépendants du transport public routier
+
+###### Article L3312-4
+
+Est un conducteur indépendant, au sens de la présente section, toute personne physique exerçant, dans les conditions prévues
+par les articles L. 8221-6 et L. 8221-6-1 du code du travail, une activité de transport public routier de personnes, au moyen
+d'un véhicule construit ou aménagé de façon permanente pour pouvoir assurer le transport de plus de neuf personnes,
+conducteur compris, et destiné à cet usage, ou une activité de transport public routier de marchandises, au moyen d'un
+véhicule, y compris d'un véhicule à remorque ou à semi-remorque, dont la masse maximale autorisée dépasse 3,5 tonnes.
+
+Ne sont pas inclus dans le champ d'application de la présente section, les conducteurs effectuant des transports non soumis
+aux dispositions du règlement (CE) n° 561/2006 du Parlement européen et du Conseil du 15 mars 2006 relatif à l'harmonisation
+de certaines dispositions de la législation sociale dans le domaine des transports par route, soit à raison du véhicule
+utilisé, soit à raison de dérogations établies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L8221-6
+
+	**Cité par**:
+
+	  - Code des transports - art. L3551-2 (V)
+
+
+###### Article L3312-5
+
+Au sens de la présente section, la durée du travail est le temps pendant lequel le conducteur indépendant accomplit les
+tâches nécessaires à l'exécution d'un contrat de transport, à l'exclusion de toute autre tâche, notamment administrative, non
+directement imputable à l'exécution d'un tel contrat.
+
+Sont décomptés comme temps de travail, les temps de conduite, les temps de chargement et de déchargement, les temps consacrés
+à l'assistance aux passagers à la montée et à la descente du véhicule, au nettoyage et à l'entretien technique et tout temps
+donnant lieu à enregistrement comme temps de conduite ou autre tâche en application des dispositions de l'article 15,
+paragraphe 3, second tiret, point b, du règlement (CEE) 3821/85 du Conseil du 20 décembre 1985 concernant l'appareil de
+contrôle dans le domaine des transports par route.
+
+Ne sont pas décomptés comme temps de travail, les temps de pause et les temps de repos donnant lieu à enregistrement en tant
+que tels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
+
+
+###### Article L3312-6
+
+Au cours d'une même semaine, la durée du travail du conducteur indépendant ne peut dépasser soixante heures.
+
+La durée hebdomadaire moyenne du travail calculée sur quatre mois consécutifs ne peut dépasser quarante-huit heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-921 du 26 juillet 2012 - art. 1 (VT)
+	  - Code des transports - art. L1325-1 (V)
+	  - Code des transports - art. R3315-4 (VD)
+
+
+###### Article L3312-7
+
+Lorsque le conducteur indépendant accomplit, sur une période de vingt-quatre heures débutant après un repos quotidien ou un
+repos hebdomadaire, une partie de son travail dans l'intervalle compris entre minuit et 5 heures, sa durée de travail sur
+cette période ne peut excéder dix heures.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. R3315-3 (VD)
+
+
+###### Article L3312-8
+
+Les dispositions de l'article L. 3312-2 du présent code sont applicables aux conducteurs indépendants au sens de la présente
+section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L3312-2
+
+	**Cité par**:
+
+	  - Code des transports - art. R3315-4 (VD)
+
+
+###### Article L3312-9
+
+Le conducteur indépendant établit et conserve les documents nécessaires au décompte de sa durée de travail, dans les
+conditions fixées par le règlement (CEE) n° 3821/85 du 20 décembre 1985.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 1
 
 
 ##### Chapitre III : Temps de conduite et de repos des conducteurs
@@ -19716,9 +19834,28 @@ Le titre II du livre IV de la présente partie n'est pas applicable à Mayotte.
 
 Les dispositions de la présente partie ne sont pas applicables à Saint-Barthélemy, à l'exception de celles prévues aux
 articles L. 3114-3, L. 3124-4, L. 3124-5, L. 3124-8, L. 3124-10, L. 3221-1 à L. 3224-1, L. 3241-1 à L. 3242-5, L. 3311-1 à L.
-3315-6, L. 3441-1 à L. 3441-6, L. 3451-1, L. 3452-2 à L. 3452-6.
+3312-3, L. 3313-1 à L. 3315-6, L. 3441-1 à L. 3441-6, L. 3451-1, L. 3452-2 à L. 3452-6.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L3114-3
+	  - Code des transports - art. L3124-10 (Ab)
+	  - Code des transports - art. L3124-4
+	  - Code des transports - art. L3124-5 (V)
+	  - Code des transports - art. L3124-8 (Ab)
+	  - Code des transports - art. L3221-1
+	  - Code des transports - art. L3241-1
+	  - Code des transports - art. L3311-1
+	  - Code des transports - art. L3313-1
+	  - Code des transports - art. L3441-1
+	  - Code des transports - art. L3451-1
+	  - Code des transports - art. L3452-2
 
 	**Codifié par**:
 
@@ -19814,17 +19951,23 @@ Le deuxième alinéa de l'article L. 3122-1 ne s'applique pas à Saint-Pierre-et
 
 ###### Article L3551-2
 
-Le deuxième alinéa de l'article L. 3312-2 ne s'applique pas à Saint-Pierre-et-Miquelon.
+Le deuxième alinéa de l'article L. 3312-2 ainsi que les articles L. 3312-4 à L. 3312-9 ne s'appliquent pas à Saint-Pierre-et-
+Miquelon.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L3312-1 (V)
+	  - Code des transports - art. L3312-2 (V)
+	  - Code des transports - art. L3312-4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-814 du 22 juin 2012 - art. 2 (V)
 
 
 ###### Article L3551-3
