@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2012-07-14
 
 # PARTIE LEGISLATIVE
 
@@ -7066,15 +7066,17 @@ lesquels la France exerce sa juridiction.
 Sous réserve des dispositions de l'article L. 1621-1, tout accident ou incident de transport terrestre, tout événement de
 mer, peut faire l'objet d'une enquête technique. 
 
-Il en va de même pour tout accident ou incident d'aviation civile. Toutefois, tout accident ou incident grave d'aviation
-civile au sens des dispositions de l'article L. 6222-3 fait l'objet d'une enquête technique dans les conditions fixées aux
-articles L. 6222-1 et suivants.
+Tout accident ou incident grave d'aviation civile fait l'objet d'une enquête de sécurité dans les conditions prévues par les
+articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes
+et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que dans
+celles déterminées le cas échéant par l'accord passé entre l'autorité responsable des enquêtes de sécurité et les autorités
+judiciaires conformément à l'article 12 dudit règlement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéa 1, 1re partie, phrase 1, paragraphe I
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cité par**:
 
@@ -7096,9 +7098,7 @@ articles L. 6222-1 et suivants.
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-1 (VD)
-	  - Code des transports - art. L6222-1 (VD)
-	  - Code des transports - art. L6222-3 (VD)
+	  - Code des transports - art. L1621-1
 
 	**Codifié par**:
 
@@ -7107,19 +7107,18 @@ articles L. 6222-1 et suivants.
 
 ###### Article L1621-3
 
-L'enquête technique prévue à l'article L. 1621-2 a pour seul objet de prévenir de futurs événements de mer, accidents ou
-incidents de transport terrestre ou d'aviation civile. 
+L'enquête technique et l'enquête de sécurité prévues à l'article L. 1621-2 ont pour seul objet de prévenir de futurs
+événements de mer, accidents ou incidents de transport terrestre ou d'aviation civile. 
 
-Sans préjudice, le cas échéant, de l'enquête judiciaire qui peut être ouverte, elle consiste à collecter et analyser les
+Sans préjudice, le cas échéant, de l'enquête judiciaire qui peut être ouverte, elles consistent à collecter et analyser les
 informations utiles, à déterminer les circonstances et les causes certaines ou possibles de l'événement, de l'accident ou de
 l'incident et, s'il y a lieu, à établir des recommandations de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéa 1 (phrases 1, 2e partie, et 2), paragraphe I
-	  - Code de l'aviation civile - art. L711-1 (VT), alinéa 3, phrase2, paragraphe III, alinéa 1, paragraphe I
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cité par**:
 
@@ -7132,7 +7131,7 @@ l'incident et, s'il y a lieu, à établir des recommandations de sécurité.
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-2 (VD)
+	  - Code des transports - art. L1621-2 (V)
 
 	**Codifié par**:
 
@@ -7141,20 +7140,20 @@ l'incident et, s'il y a lieu, à établir des recommandations de sécurité.
 
 ###### Article L1621-4
 
-Un rapport d'enquête technique est établi par l'organisme permanent mentionné à l'article L. 1621-6 qui le rend public, au
-terme de l'enquête technique, sous une forme appropriée. Ce rapport n'indique pas le nom des personnes. Il ne fait état que
-des informations résultant de l'enquête nécessaires à la détermination des circonstances et des causes de l'accident ou de
-l'incident et à la compréhension des recommandations de sécurité. 
+Un rapport d'enquête technique ou d'enquête de sécurité est établi par l'organisme permanent ou par l'autorité responsable
+des enquêtes de sécurité mentionnés à l'article L. 1621-6 qui le rendent public, au terme de l'enquête, sous une forme
+appropriée. Ce rapport n'indique pas les noms des personnes. Il ne fait état que des informations résultant de l'enquête
+nécessaires à la détermination des circonstances et des causes de l'accident ou de l'incident et à la compréhension des
+recommandations de sécurité. 
 
-Avant que le rapport ne soit rendu public, les enquêteurs techniques peuvent recueillir les observations des autorités,
-entreprises et personnels intéressés qui sont tenus au secret professionnel concernant les éléments de cette consultation.
+Avant que le rapport ne soit rendu public, les enquêteurs peuvent recueillir les observations des autorités, entreprises et
+personnels intéressés qui sont tenus au secret professionnel concernant les éléments de cette consultation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 23 (VT), alinéas 2 et 3
-	  - Code de l'aviation civile - art. L731-3 (VT)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cité par**:
 
@@ -7163,7 +7162,7 @@ entreprises et personnels intéressés qui sont tenus au secret professionnel co
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-6 (VD)
+	  - Code des transports - art. L1621-6 (V)
 
 	**Codifié par**:
 
@@ -7189,26 +7188,25 @@ Le procureur de la République reçoit copie du rapport d'enquête technique en 
 
 ###### Article L1621-6
 
-L'enquête technique mentionnée à l'article L. 1621-2 est effectuée par un organisme permanent spécialisé ou sous son contrôle
-dans les conditions suivantes : 
+L'enquête technique et l'enquête de sécurité mentionnées à l'article L. 1621-2 sont effectuées respectivement par un
+organisme permanent spécialisé et par l'autorité responsable des enquêtes de sécurité ou sous leur contrôle, dans les
+conditions suivantes : 
 
 1° Pour les événements de mer et les accidents ou incidents de transport terrestre, ont la qualité d'enquêteurs techniques
 les membres de l'organisme permanent, les membres des corps d'inspection et de contrôle auxquels l'organisme peut faire appel
 et, le cas échéant, les membres d'une commission d'enquête constituée à la demande de l'organisme auprès du ministre chargé
 des transports ; 
 
-2° Pour les accidents ou incidents d'aviation civile, ont seuls la qualité d'enquêteurs techniques les membres de l'organisme
-permanent. Toutefois des enquêteurs de première information appartenant aux corps techniques de l'aviation civile peuvent
-être agréés pour effectuer, sous le contrôle et l'autorité de l'organisme permanent, les opérations d'enquête prévues au
-présent titre. La commission d'enquête instituée, le cas échéant, par le ministre chargé des transports pour un accident
-d'aviation civile déterminé, assiste l'organisme permanent.
+2° Pour les accidents ou incidents d'aviation civile, ont seuls la qualité d'enquêteurs de sécurité les membres de l'autorité
+responsable des enquêtes de sécurité. Toutefois des enquêteurs de première information peuvent être agréés pour effectuer,
+sous le contrôle et l'autorité de l'autorité responsable des enquêtes de sécurité, les opérations d'enquête prévues au
+présent titre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéa 5, paragraphe III
-	  - Code de l'aviation civile - art. L711-2 (VT), alinéa 1, art. L711-3 (VT), alinéas 1 et 2
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cité par**:
 
@@ -7221,7 +7219,7 @@ d'aviation civile déterminé, assiste l'organisme permanent.
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-2 (VD)
+	  - Code des transports - art. L1621-2 (V)
 
 	**Codifié par**:
 
@@ -7230,27 +7228,26 @@ d'aviation civile déterminé, assiste l'organisme permanent.
 
 ###### Article L1621-7
 
-Dans le cadre de l'enquête technique, l'organisme et les personnes chargées de l'enquête agissent en toute indépendance et ne
-reçoivent ni ne sollicitent d'instructions d'aucune autorité ni d'aucun organisme dont les intérêts pourraient entrer en
-conflit avec la mission qui leur est confiée.
+Dans le cadre de l'enquête technique ou de l'enquête de sécurité, l'organisme et les personnes chargées de l'enquête agissent
+en toute indépendance et ne reçoivent ni ne sollicitent d'instructions d'aucune autorité ni d'aucun organisme dont les
+intérêts pourraient entrer en conflit avec la mission qui leur est confiée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéa 7, paragraphe III
-	  - Code de l'aviation civile - art. L711-2 (VT), alinéa 2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
 
 ###### Article L1621-8
 
-Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques et des personnes chargées des
-enquêtes, les conditions d'agrément des enquêteurs de première information et les conditions de nomination des membres des
-commissions d'enquête.
+Un décret en Conseil d'Etat fixe les conditions de commissionnement des enquêteurs techniques des enquêteurs de sécurité et
+des personnes chargées des enquêtes, les conditions d'agrément des enquêteurs de première information et les conditions de
+nomination des membres des commissions d'enquête.
 
 Il définit également dans quels cas et selon quelles procédures les enquêteurs techniques de nationalité étrangère peuvent
 être autorisés à participer à des investigations sur le territoire national ou à bord de navires français, lorsque leur
@@ -7258,14 +7255,13 @@ participation est nécessaire au bon déroulement de l'enquête.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéa 8, paragraphe III
-	  - Code de l'aviation civile - art. L711-3 (VT), alinéa 3
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 
 ###### Article L1621-9
@@ -7294,8 +7290,9 @@ la République.
 
 ###### Article L1621-10
 
-Les enquêteurs techniques et les enquêteurs de première information peuvent immédiatement accéder au lieu de l'accident ou de
-l'incident, à l'engin de transport ou à son épave et à son contenu pour procéder sur place à toute constatation utile.
+Les enquêteurs techniques les enquêteurs de sécurité et les enquêteurs de première information peuvent immédiatement accéder
+au lieu de l'accident ou de l'incident, à l'engin de transport ou à son épave et à son contenu pour procéder sur place à
+toute constatation utile.
 
 L'autorité judiciaire est préalablement informée de l'intervention des enquêteurs.
 
@@ -7304,16 +7301,15 @@ Si nécessaire, les enquêteurs techniques ou, à défaut, les enquêteurs de pr
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 15 (VT), alinéas 1, phrase 1 et partie de la phrase 2 et 2
-	  - Code de l'aviation civile - art. L721-1 (VT)
-
 	**Cité par**:
 
 	  - Décret n°2004-85 du 26 janvier 2004 - art. 14-1 (Ab)
 	  - Code des transports - art. L1622-1 (V)
 	  - Code des transports - art. R1621-32 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Codifié par**:
 
@@ -7322,9 +7318,10 @@ Si nécessaire, les enquêteurs techniques ou, à défaut, les enquêteurs de pr
 
 ###### Article L1621-11
 
-Les enquêteurs techniques ont accès sans retard au contenu des enregistreurs de bord et des dispositifs techniques
-enregistrant des données, notamment les paramètres utiles à la compréhension des causes et circonstances de l'accident ou de
-l'incident, et peuvent procéder à leur exploitation dans les conditions suivantes : 
+I.-Pour les accidents ou incidents de transport terrestre et les événements de mer les enquêteurs techniques ont accès sans
+retard au contenu des enregistreurs de bord et des dispositifs techniques enregistrant des données, notamment les paramètres
+utiles à la compréhension des causes et circonstances de l'accident ou de l'incident, et peuvent procéder à leur exploitation
+dans les conditions suivantes : 
 
 1° Lorsqu'il y a ouverture d'une enquête ou d'une information judiciaire, les enregistreurs et les supports d'enregistrement,
 préalablement saisis par l'autorité judiciaire selon les modalités prévues par les articles 97 et 163 du code de procédure
@@ -7335,19 +7332,23 @@ officier de police judiciaire, des éléments qu'ils renferment ;
 d'enregistrement peuvent être prélevés par les enquêteurs techniques, ou, sur instruction de l'organisme permanent, par les
 enquêteurs de première information, en présence d'un officier de police judiciaire. 
 
-Le concours de l'officier de police judiciaire est sollicité par l'intermédiaire du procureur de la République.
+Le concours de l'officier de police judiciaire est sollicité par l'intermédiaire du procureur de la République. 
+
+II.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve
+sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le second alinéa de
+l'article L. 1621-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 16 (VT)
-	  - Code de l'aviation civile - art. L721-2 (VT)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 163 (V)
-	  - Code de procédure pénale - art. 97 (V)
+	  - Code de procédure pénale - art. 163
+	  - Code de procédure pénale - art. 97
+	  - Code des transports - art. L1621-2 (V)
 
 	**Codifié par**:
 
@@ -7356,25 +7357,37 @@ Le concours de l'officier de police judiciaire est sollicité par l'intermédiai
 
 ###### Article L1621-12
 
-Lorsqu'il n'y a pas ouverture d'une enquête ou d'une information judiciaire, les enquêteurs techniques ou, sur instruction de
-l'organisme permanent, les enquêteurs de première information peuvent, en présence d'un officier de police judiciaire,
-prélever, aux fins d'examen ou d'analyse, les débris, fluides, pièces, organes, ensembles ou mécanismes qu'ils estiment
-propres à contribuer à la détermination des circonstances et des causes de l'accident ou de l'incident.
+I.-Pour les accidents ou incidents de transport terrestre et les événements de mer lorsqu'il n'y a pas ouverture d'une
+enquête ou d'une information judiciaire, les enquêteurs techniques ou, sur instruction de l'organisme permanent, les
+enquêteurs de première information peuvent, en présence d'un officier de police judiciaire, prélever, aux fins d'examen ou
+d'analyse, les débris, fluides, pièces, organes, ensembles ou mécanismes qu'ils estiment propres à contribuer à la
+détermination des circonstances et des causes de l'accident ou de l'incident. 
 
-Le concours de l'officier de police judiciaire est sollicité par l'intermédiaire du procureur de la République.
+Le concours de l'officier de police judiciaire est sollicité par l'intermédiaire du procureur de la République. 
 
-Les objets ou les documents retenus par les enquêteurs techniques sont restitués dès lors que leur conservation n'apparaît
-plus nécessaire à la détermination des circonstances et des causes de l'accident ou de l'incident.
+II.-Pour les accidents ou incidents de transport terrestre ou d'aviation civile et les événements de mer les objets ou les
+documents retenus par les enquêteurs techniques ou par les enquêteurs de sécurité sont restitués dès lors que leur
+conservation n'apparaît plus nécessaire à la détermination des circonstances et des causes de l'accident ou de l'incident. 
+
+Si une enquête judiciaire est menée, le procureur de la République ou le juge d'instruction saisi de l'éventualité de cette
+restitution est préalablement avisé. 
 
 La rétention et, le cas échéant, l'altération ou la destruction, pour les besoins de l'enquête, des objets ou des documents
-soumis à examen ou à l'analyse n'entraînent aucun droit à indemnité.
+soumis à examen ou à l'analyse n'entraînent aucun droit à indemnité. 
+
+III.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve
+sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le second alinéa de
+l'article L. 1621-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 17 (VT)
-	  - Code de l'aviation civile - art. L721-4 (VT)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 	**Codifié par**:
 
@@ -7383,25 +7396,32 @@ soumis à examen ou à l'analyse n'entraînent aucun droit à indemnité.
 
 ###### Article L1621-13
 
-Lorsqu'une enquête ou une information judiciaire a été ouverte, les enquêteurs techniques peuvent procéder, avec l'accord du
-procureur de la République ou du juge d'instruction, au prélèvement, aux fins d'examen ou d'analyse, de débris, fluides,
-pièces, organes, ensembles ou mécanismes qu'ils estiment propres à contribuer à la détermination des circonstances et des
-causes de l'accident ou de l'incident.
+I.-Pour les accidents ou incidents de transport terrestre et les événements de mer lorsqu'une enquête ou une information
+judiciaire a été ouverte, les enquêteurs techniques peuvent procéder, avec l'accord du procureur de la République ou du juge
+d'instruction, au prélèvement, aux fins d'examen ou d'analyse, de débris, fluides, pièces, organes, ensembles ou mécanismes
+qu'ils estiment propres à contribuer à la détermination des circonstances et des causes de l'accident ou de l'incident. 
 
 Les enquêteurs techniques ne peuvent soumettre les débris, fluides, pièces, organes, ensembles et mécanismes qui ont fait
 l'objet d'une saisie, à des examens ou analyses susceptibles de les modifier, altérer ou détruire, qu'avec l'accord de
-l'autorité judiciaire.
+l'autorité judiciaire. 
 
 A défaut d'accord, ils sont informés des opérations d'expertise diligentées par l'autorité judiciaire compétente. Ils ont
 droit d'y assister et d'exploiter les constatations faites dans le cadre de ces opérations pour les besoins de l'enquête
-technique.
+technique. 
+
+II.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve
+sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le second alinéa de
+l'article L. 1621-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 18 (VT)
-	  - Code de l'aviation civile - art. L721-3 (VT)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 	**Codifié par**:
 
@@ -7410,29 +7430,38 @@ technique.
 
 ###### Article L1621-14
 
-Les enquêteurs techniques peuvent rencontrer toute personne concernée et obtiennent, sans que puisse leur être opposé le
-secret professionnel, communication de toute information ou de tout document concernant les circonstances, entreprises,
-organismes et matériels en relation avec l'accident ou l'incident et concernant notamment la construction, la certification,
-l'entretien, l'exploitation des matériels, la préparation du transport, la conduite, l'information et le contrôle du ou des
-engins de transport impliqués. Les enquêteurs peuvent organiser ces rencontres en l'absence de toute personne qui pourrait
-avoir intérêt à entraver l'enquête de sécurité. Les témoignages, informations et documents recueillis ne peuvent être
-utilisés par les enquêteurs techniques à d'autres fins que l'enquête technique elle-même, à moins qu'un intérêt public
-supérieur ne justifie leur divulgation. 
+I.-Pour les accidents ou incidents de transport terrestre et les événements de mer les enquêteurs techniques peuvent
+rencontrer toute personne concernée et obtiennent, sans que puisse leur être opposé le secret professionnel, communication de
+toute information ou de tout document concernant les circonstances, entreprises, organismes et matériels en relation avec
+l'accident ou l'incident et concernant notamment la construction, la certification, l'entretien, l'exploitation des
+matériels, la préparation du transport, la conduite, l'information et le contrôle du ou des engins de transport impliqués.
+Les enquêteurs peuvent organiser ces rencontres en l'absence de toute personne qui pourrait avoir intérêt à entraver
+l'enquête de sécurité. Les témoignages, informations et documents recueillis ne peuvent être utilisés par les enquêteurs
+techniques à d'autres fins que l'enquête technique elle-même, à moins qu'un intérêt public supérieur ne justifie leur
+divulgation. 
 
 Dans les mêmes conditions, les enquêteurs techniques peuvent demander communication de toute information ou de tout document
 à caractère personnel concernant la formation, la qualification, l'aptitude à la conduite des personnels ou le contrôle de
 ces engins. Toutefois, celles de ces informations qui ont un caractère médical ne peuvent être communiquées qu'aux médecins
-rattachés à l'organisme permanent ou désignés pour assister ces enquêteurs.
+rattachés à l'organisme permanent ou désignés pour assister ces enquêteurs. 
 
-Il est établi une copie des documents placés sous scellés par l'autorité judiciaire à l'intention de ces enquêteurs.
+Il est établi une copie des documents placés sous scellés par l'autorité judiciaire à l'intention de ces enquêteurs. 
 
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+Les conditions d'application du I du présent article sont fixées par décret en Conseil d'Etat. 
+
+II.-Pour les accidents ou incidents d'aviation civile, le recueil, la conservation et l'exploitation des éléments de preuve
+sont assurés par l'autorité responsable des enquêtes de sécurité dans les conditions prévues par le second alinéa de
+l'article L. 1621-2.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 1
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 	**Cité par**:
 
@@ -7472,20 +7501,20 @@ légale concernant les victimes.
 
 ###### Article L1621-16
 
-Les personnels de l'organisme permanent, les personnes chargées de l'enquête, y compris les enquêteurs de première
-information et les membres des commissions d'enquête ainsi que les experts auxquels il est éventuellement fait appel sont
-tenus au secret professionnel dans les conditions et sous les peines prévues par l'article 226-13 du code pénal.
+Les personnels de l'organisme permanent ou de l'autorité responsable des enquêtes de sécurité, les personnes chargées de
+l'enquête, y compris les enquêteurs de première information et les membres des commissions d'enquête ainsi que les experts
+auxquels il est éventuellement fait appel sont tenus au secret professionnel dans les conditions et sous les peines prévues
+par l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 22 (VT), alinéa 1, paragraphe I
-	  - Code de l'aviation civile - art. L731-1 (VT), alinéa 1, paragraphe I
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
 
 	**Cité par**:
 
@@ -7498,9 +7527,10 @@ tenus au secret professionnel dans les conditions et sous les peines prévues pa
 
 ###### Article L1621-17
 
-I. ― Par dérogation aux dispositions de l'article L. 1621-16, le responsable de l'organisme permanent est habilité à
-transmettre des informations résultant de l'enquête technique, s'il estime qu'elles sont de nature à prévenir un événement de
-mer ou un accident ou un incident de transport terrestre ou d'aviation civile : 
+I. ― Par dérogation aux dispositions de l'article L. 1621-16, le responsable de l'organisme permanent ou de l'autorité
+responsable des enquêtes de sécurité est habilité à transmettre des informations résultant de l'enquête technique ou de
+l'enquête de sécurité, s'il estime qu'elles sont de nature à prévenir un événement de mer ou un accident ou un incident de
+transport terrestre ou d'aviation civile : 
 
 1° Aux autorités administratives chargées de la sécurité ; 
 
@@ -7511,16 +7541,16 @@ mer ou un accident ou un incident de transport terrestre ou d'aviation civile :
 
 4° Aux personnes physiques et morales chargées de la formation des personnels. 
 
-II. ― Le responsable de l'organisme permanent et, le cas échéant, les présidents des commissions d'enquête sont habilités,
-dans le cadre de leur mission, à rendre publiques des informations à caractère technique sur les constatations faites par les
-enquêteurs, le déroulement de l'enquête technique et, éventuellement, ses conclusions provisoires.
+II. ― Le responsable de l'organisme permanent ou de l'autorité responsable des enquêtes de sécurité et, le cas échéant, les
+présidents des commissions d'enquête sont habilités, dans le cadre de leur mission, à rendre publiques des informations à
+caractère technique sur les constatations faites par les enquêteurs, le déroulement de l'enquête technique ou de l'enquête de
+sécurité et, éventuellement, ses conclusions provisoires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 22 (VT), alinéa 2, paragraphe II
-	  - Code de l'aviation civile - art. L731-1 (VT), alinéas 2 et 3, paragraphe II
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cité par**:
 
@@ -7528,7 +7558,7 @@ enquêteurs, le déroulement de l'enquête technique et, éventuellement, ses co
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-16 (VD)
+	  - Code des transports - art. L1621-16
 
 	**Codifié par**:
 
@@ -7562,30 +7592,25 @@ conditions et sous les peines prévues par les articles 226-13 et 226-14 du code
 ###### Article L1621-19
 
 Les informations ou documents relevant du secret de l'enquête ou de l'instruction judiciaires peuvent être communiqués aux
-enquêteurs techniques avec l'accord du procureur de la République.
+enquêteurs techniques et aux enquêteurs de sécurité avec l'accord du procureur de la République.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 19 (VT), alinéa 3, phrase 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
 
 ###### Article L1621-20
 
-En cours d'enquête technique, l'organisme permanent peut émettre des recommandations de sécurité s'il estime que leur mise en
-œuvre immédiate est de nature à prévenir un accident ou un incident.
+Au cours de leurs enquêtes, l'organisme permanent ou l'autorité responsable des enquêtes de sécurité peuvent émettre des
+recommandations de sécurité s'ils estiment que leur mise en œuvre immédiate est de nature à prévenir un accident ou incident.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 23 (VT), alinéa 1
-	  - Code de l'aviation civile - art. L731-2 (VT)
 
 	**Cité par**:
 
@@ -7595,13 +7620,17 @@ En cours d'enquête technique, l'organisme permanent peut émettre des recommand
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
 
 ##### Chapitre II : Sanctions relatives à l'enquête technique
 
 ###### Article L1622-1
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'entraver l'action des enquêteurs techniques mentionnés
-aux articles L. 1621-6 et L. 1621-10 : 
+Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'entraver l'action des enquêteurs techniques et des
+enquêteurs de sécurité mentionnés aux articles L. 1621-6 et L. 1621-10 : 
 
 1° Soit en s'opposant à l'exercice des fonctions dont ils sont chargés ; 
 
@@ -7610,15 +7639,14 @@ dissimulant, en les altérant ou en les faisant disparaître.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 24 (VT), alinéas 1 à 3, paragraphe I
-	  - Code de l'aviation civile - art. L741-2 (VT)
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-10 (VD)
-	  - Code des transports - art. L1621-6 (VD)
+	  - Code des transports - art. L1621-10
+	  - Code des transports - art. L1621-6
 
 	**Cité par**:
 
@@ -7657,6 +7685,20 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+
+#### TITRE II : DISPOSITIONS COMMUNES RELATIVES A L'ENQUETE TECHNIQUE ET A L'ENQUETE DE SECURITE APRES UN ACCIDENT OU UN INCIDENT DE TRANSPORT
+
+##### Chapitre Ier : Les conditions de l'enquête technique et de l'enquête de sécurité
+
+##### Section 1 : Définitions
+
+##### Section 2 : La procédure
+
+##### Section 3 : Les pouvoirs d'investigation
+
+##### Section 4 : Dispositions relatives au secret de l'enquête judiciaire et au secret professionnel
+
+##### Chapitre II : Sanctions relatives à l'enquête technique
 
 #### TITRE III : ATTEINTES A LA SECURITE  OU A LA SURETE DES TRANSPORTS
 
@@ -9115,6 +9157,29 @@ partie et par le titre II du livre V de la sixième partie du présent code appl
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L1821-9
+
+Pour l'application du second alinéa de l'article L. 1621-2 à Mayotte, les mots : "dans les conditions prévues par les
+articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes
+et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que dans
+celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
+l'article 12 dudit règlement." sont remplacés par les mots : "dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement.".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+
 #### TITRE III : SAINT-BARTHELEMY
 
 ##### Chapitre unique
@@ -9147,6 +9212,29 @@ des transports. Ce rapport annuel est transmis au Gouvernement.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L1831-3
+
+Pour l'application du second alinéa de l'article L. 1621-2 à Saint-Barthélemy, les mots : " dans les conditions prévues par
+les articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que
+dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
+l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 
 #### TITRE IV : SAINT-MARTIN
@@ -9239,6 +9327,29 @@ L'article L. 1331-1 n'est pas applicable à Saint-Pierre-et-Miquelon.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L1851-4
+
+Pour l'application du second alinéa de l'article L. 1621-2 à Saint-Pierre-et-Miquelon, les mots : " dans les conditions
+prévues par les articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur
+les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi
+que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément
+à l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
+
+
 #### TITRE VI : NOUVELLE-CALEDONIE
 
 ##### Chapitre Ier : Les contrats de transport de marchandises
@@ -9263,19 +9374,21 @@ Les dispositions des articles L. 1432-1 et L. 1432-7 sont applicables en Nouvell
 
 ###### Article L1862-1
 
-Les chapitres Ier et II du titre II du livre VI sont applicables en Nouvelle-Calédonie sous réserve de l'exercice par cette
-collectivité des compétences de l'Etat qui lui ont été transférées sur le fondement de l'article 100 de la loi organique n°
-99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie en matière de police et sécurité de la circulation maritime
-s'effectuant entre tous points de la Nouvelle-Calédonie et de sauvegarde de la vie humaine en mer dans les eaux
-territoriales, d'une part, et en matière de police et de sécurité de la circulation aérienne intérieure et à l'égard des
-exploitants établis en Nouvelle-Calédonie dont l'activité principale n'est pas le transport aérien international, d'autre
-part.
+Les chapitres Ier et II du titre II du livre VI sont applicables en Nouvelle-Calédonie dans leur rédaction issue de
+l'ordonnance n° 2012-872 du 12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil en
+matière d'aviation civile sous réserve de l'exercice par cette collectivité des compétences de l'Etat qui lui ont été
+transférées sur le fondement de l'article 100 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie
+en matière de police et sécurité de la circulation maritime s'effectuant entre tous points de la Nouvelle-Calédonie et de
+sauvegarde de la vie humaine en mer dans les eaux territoriales, d'une part, et en matière de police et de sécurité de la
+circulation aérienne intérieure et à l'égard des exploitants établis en Nouvelle-Calédonie dont l'activité principale n'est
+pas le transport aérien international, d'autre part.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 - art. 100 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 100
+	  - Ordonnance n°2012-872 du 12 juillet 2012
 
 	**Cité par**:
 
@@ -9286,29 +9399,39 @@ part.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
 
 ###### Article L1862-2
 
-Pour son application en Nouvelle-Calédonie, le chapitre Ier du titre II du livre VI est ainsi modifié : 
+Les dispositions du chapitre Ier du titre II du livre VI ne sont pas applicables en Nouvelle-Calédonie en ce qu'elles
+concernent les incidents ou les accidents de transport terrestre. 
 
-1° A l'article 1621-1, les 1° et 2° sont supprimés ; 
-
-2° Au premier alinéa de l'article L. 1621-2, les mots : " tout accident ou incident de transport terrestre " sont
-supprimés ; 
-
-3° Au premier alinéa de l'article L. 1621-3, les mots : " de transport terrestre ou " sont supprimés.
+Pour l'application du second alinéa de l'article L. 1621-2 en Nouvelle-Calédonie, les mots : " dans les conditions prévues
+par les articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que
+dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
+l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11,12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L1621-1 (V)
-	  - Code des transports - art. L1621-2 (V)
-	  - Code des transports - art. L1621-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 
 ###### Article L1862-3
@@ -9364,10 +9487,12 @@ effectuées dans le cadre des missions de police administrative prévues en mati
 
 ###### Article L1871-1
 
-Les chapitres Ier et II du titre II du livre VI sont applicables en Polynésie française sous réserve des compétences dévolues
-à cette collectivité par la loi organique n° 2004-192 du 27 février 2004 sur le domaine maritime, dans les eaux intérieures
-et en matière de sécurité des navires d'au plus 160 de jauge brute qui ne sont pas destinés au transport des passagers ainsi
-qu'en en matière de sécurité de la circulation et de la navigation dans les eaux intérieures.
+Les chapitres Ier et II du titre II du livre VI sont applicables en Polynésie française dans leur rédaction issue de
+l'ordonnance n° 2012-872 du 12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil en
+matière d'aviation civile sous réserve des compétences dévolues à cette collectivité par la loi organique n° 2004-192 du 27
+février 2004 sur le domaine maritime, dans les eaux intérieures et en matière de sécurité des navires d'au plus 160 de jauge
+brute qui ne sont pas destinés au transport des passagers ainsi qu'en en matière de sécurité de la circulation et de la
+navigation dans les eaux intérieures.
 
 **Liens relatifs à cet article**
 
@@ -9378,35 +9503,46 @@ qu'en en matière de sécurité de la circulation et de la navigation dans les e
 
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 (V)
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Ordonnance n°2012-872 du 12 juillet 2012
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 
 ###### Article L1871-2
 
-Pour son application en Polynésie française, le chapitre Ier du titre II du livre VI est ainsi modifié : 
+Les dispositions du chapitre Ier du titre II du livre VI ne sont pas applicables en Polynésie française en ce qu'elles
+concernent les incidents ou les accidents de transport terrestre. 
 
-1° A l'article 1621-1, les 1° et 2° sont supprimés ; 
-
-2° Au premier alinéa de l'article L. 1621-2, les mots : " tout accident ou incident de transport terrestre " sont
-supprimés ; 
-
-3° Au premier alinéa de l'article L. 1621-3, les mots : " de transport terrestre ou " sont supprimés.
+Pour l'application du second alinéa de l'article L. 1621-2 en Polynésie française, les mots : " dans les conditions prévues
+par les articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que
+dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
+l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement. "
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L1621-1 (V)
-	  - Code des transports - art. L1621-2 (V)
-	  - Code des transports - art. L1621-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1621-2 (V)
 
 
 ###### Article L1871-3
@@ -9480,42 +9616,55 @@ Les dispositions des articles L. 1432-1 et L. 1432-7 sont applicables à Wallis-
 
 ###### Article L1882-1
 
-Les chapitres Ier et II du titre II du livre VI ainsi que les articles L. 1632-2 et L. 1632-3 sont applicables à Wallis-et-
-Futuna.
+Les chapitres Ier et II du titre II du livre VI dans leur rédaction issue de l'ordonnance n° 2012-872 du 12 juillet 2012
+portant application de divers règlements du Parlement européen et du Conseil en matière d'aviation civile ainsi que les
+articles L. 1632-2 et L. 1632-3 sont applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L1632-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+	  - Code des transports - art. L1632-2 (V)
+	  - Code des transports - art. L1632-3 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 
 ###### Article L1882-2
 
-Pour son application à Wallis-et-Futuna, le chapitre Ier du titre II du livre VI est ainsi modifié : 
+Les dispositions du chapitre Ier du titre II du livre VI ne sont pas applicables à Wallis-et-Futuna en ce qu'elles concernent
+les incidents ou les accidents de transport terrestre. 
 
-1° A l'article 1621-1, les 1° et 2° sont supprimés ; 
-
-2° Au premier alinéa de l'article L. 1621-2, les mots : " tout accident ou incident de transport terrestre " sont
-supprimés ; 
-
-3° Au premier alinéa de l'article L. 1621-3, les mots : " de transport terrestre ou " sont supprimés.
+Pour l'application du second alinéa de l'article L. 1621-2 à Wallis-et-Futuna, les mots : " dans les conditions prévues par
+les articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les
+enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que
+dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
+l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par les règles applicables en
+métropole en vertu des articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
+2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
+CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
+conformément à l'article 12 dudit règlement. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-1 (V)
 	  - Code des transports - art. L1621-2 (V)
-	  - Code des transports - art. L1621-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 
 ##### Chapitre III : Lutte contre le terrorisme
@@ -9592,7 +9741,9 @@ fixées par les dispositions des articles L. 6422-1 à L. 6422-5 pour le transpo
 
 ###### Article L1892-1
 
-Les chapitres Ier et II du titre II du livre VI sont applicables dans les Terres australes et antarctiques françaises.
+Les chapitres Ier et II du titre II du livre VI dans leur rédaction issue de l'ordonnance n° 2012-872 du 12 juillet 2012
+portant application de divers règlements du Parlement européen et du Conseil en matière d'aviation civile sont applicables
+dans les Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
@@ -9600,30 +9751,43 @@ Les chapitres Ier et II du titre II du livre VI sont applicables dans les Terres
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
+
 
 ###### Article L1892-2
 
-Pour son application dans les Terres australes et antarctiques françaises, le chapitre Ier du titre II du livre VI est ainsi
-modifié : 
+Les dispositions du chapitre Ier du titre II du livre VI ne sont pas applicables dans les Terres australes et antarctiques
+françaises en ce qu'elles concernent les incidents ou les accidents de transport terrestre. 
 
-1° A l'article 1621-1, les 1° et 2° sont supprimés ; 
-
-2° Au premier alinéa de l'article L. 1621-2, les mots : " tout accident ou incident de transport terrestre " sont
-supprimés ; 
-
-3° Au premier alinéa de l'article L. 1621-3, les mots : " de transport terrestre ou " sont supprimés.
+Pour l'application du second alinéa de l'article L. 1621-2 dans les Terres australes et antarctiques françaises, les mots : "
+dans les conditions prévues par les articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil
+du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la
+directive 94/56 CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités
+judiciaires conformément à l'article 12 dudit règlement. " sont remplacés par les mots : " dans les conditions prévues par
+les règles applicables en métropole en vertu des articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et
+du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et
+abrogeant la directive 94/56 CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et
+les autorités judiciaires conformément à l'article 12 dudit règlement. "
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L1621-1 (V)
 	  - Code des transports - art. L1621-2 (V)
-	  - Code des transports - art. L1621-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
 
 
 ###### Article L1892-3
@@ -50689,19 +50853,20 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile
+##### Chapitre II : Enquêtes de sécurité relatives à un accident ou à un incident d'aviation civile
 
 ###### Article L6222-1
 
-Les dispositions du présent chapitre sont applicables sans préjudice des dispositions du titre II du livre VI de la première
-partie du présent code en cas d'accident ou d'incident survenu à tout aéronef, à l'exclusion de ceux mentionnés à l'article
-L. 6222-2.
+Fait l'objet d'une enquête de sécurité tout accident ou incident grave d'aviation civile survenu à un aéronef qui n'est pas
+affecté à des opérations militaires, douanières ou policières ou qui n'est pas visé à l'annexe II du règlement (CE) n°
+216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation
+civile et instituant une Agence européenne de la sécurité aérienne.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - RECTIFICATION: Ordonnance n°2010-1307 du 28 octobre 2010, v. init.
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 	**Cité par**:
 
@@ -50719,10 +50884,6 @@ L. 6222-2.
 	  - Code des transports - art. L6782-3 (V)
 	  - Code des transports - art. L6792-3 (V)
 
-	**Cite**:
-
-	  - Code des transports - art. L6222-2 (VD)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -50730,15 +50891,15 @@ L. 6222-2.
 
 ###### Article L6222-2
 
-Les aéronefs conçus exclusivement à usage militaire ou exploités en circulation aérienne militaire ou ceux appartenant à un
-Etat qui ne sont pas inscrits au registre d'immatriculation prévu par l'article 17 de la convention relative à l'aviation
-civile internationale signée à Chicago le 7 décembre 1944 ne relèvent pas des dispositions du présent chapitre.
+Aucune sanction administrative, disciplinaire ou professionnelle ne peut être infligée à une personne qui a rendu compte d'un
+accident ou d'un incident d'aviation civile, qu'elle ait été ou non impliquée dans cet accident ou incident, sauf si elle
+s'est elle-même rendue coupable d'un manquement délibéré ou répété aux règles de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L711-1 (Ab), paragraphe II, sur les aéronefs exclus
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 	**Cité par**:
 
@@ -50752,49 +50913,20 @@ civile internationale signée à Chicago le 7 décembre 1944 ne relèvent pas de
 
 ###### Article L6222-3
 
-Fait l'objet d'une enquête technique tout accident ou incident grave d'aviation civile survenu à un aéronef muni d'un
-certificat de navigabilité délivré en conformité avec la convention relative à l'aviation civile internationale.
-
-On entend par :
-
-1° Accident : un événement, lié à l'utilisation d'un aéronef, qui se produit entre le moment où une personne monte à bord
-avec l'intention d'effectuer un vol et le moment où toutes les personnes qui sont montées dans cette intention sont
-descendues, et au cours duquel :
-
-a) Une personne est mortellement ou grièvement blessée du fait qu'elle se trouve :
-
-― soit dans l'aéronef ;
-
-― soit en contact direct avec une partie quelconque de l'aéronef, y compris les parties qui s'en sont détachées ;
-
-― soit directement exposée au souffle des réacteurs,
-
-sauf s'il s'agit de lésions dues à des causes naturelles, de blessures infligées à la personne par elle-même ou par d'autres
-ou de blessures subies par un passager clandestin caché hors des zones auxquelles les passagers et l'équipage ont normalement
-accès ;
-
-b) L'aéronef subit des dommages ou une rupture structurelle :
-
-― qui altèrent ses caractéristiques de résistance structurelle, de performances ou de vol et
-
-― qui devraient normalement nécessiter une réparation importante ou le remplacement de l'élément endommagé,
-
-sauf s'il s'agit d'une panne de moteur ou d'avaries de moteur, lorsque les dommages sont limités au moteur, à ses capotages
-ou à ses accessoires, ou encore de dommages limités aux hélices, aux extrémités d'ailes, aux antennes, aux pneumatiques, aux
-freins, aux carénages, ou à de petites entailles ou perforations du revêtement ;
-
-c) L'aéronef a disparu ou est totalement inaccessible ;
-
-2° Incident : un événement, autre qu'un accident, lié à l'utilisation d'un aéronef, qui compromet ou pourrait compromettre la
-sécurité de l'exploitation ;
-
-3° Incident grave : un incident dont les circonstances indiquent qu'un accident a failli se produire.
+Les dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
+entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal ne s'appliquent ni aux
+documents recueillis pour l'établissement du rapport d'enquête de sécurité, ni aux comptes rendus d'accidents ou d'incidents
+d'aviation civile, ni aux documents s'y rapportant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'aviation civile - art. L711-1 (Ab), paragraphe II (début de phrase) et paragraphe III (phrase1), enquête et définitions des accidents et incidents graves
+	  - Loi n°78-753 du 17 juillet 1978
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 	**Cité par**:
 
@@ -50805,188 +50937,6 @@ sécurité de l'exploitation ;
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L6222-4
-
-L'enquête technique relève de la compétence des autorités françaises pour les accidents et les incidents d'aviation civile
-qui sont survenus :
-
-1° Sur le territoire ou dans l'espace aérien français ;
-
-2° En dehors du territoire ou de l'espace aérien français, si l'accident ou l'incident concerne un aéronef immatriculé en
-France ou exploité par une personne physique ou morale ayant en France son siège statutaire ou son principal établissement et
-si :
-
-― l'accident ou l'incident survenant sur le territoire ou dans l'espace aérien d'un autre Etat, ce dernier n'ouvre pas une
-enquête technique ;
-
-― l'accident ou l'incident concernant un aéronef immatriculé dans un autre Etat, ce dernier n'ouvre pas une enquête
-technique.
-
-Les autorités françaises peuvent déléguer à un Etat membre de l'Union européenne la réalisation de tout ou partie de
-l'enquête technique. Elles peuvent également déléguer à un Etat non membre de l'Union européenne la réalisation d'une enquête
-portant sur un incident survenu à un aéronef immatriculé dans cet Etat ou des investigations liées à des événements survenus
-sur le territoire de cet Etat. Les autorités françaises peuvent accepter la délégation par un Etat étranger de la réalisation
-de tout ou partie d'une enquête technique.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L711-1 (Ab), paragraphe IV, autorités compétentes pour l'enquête
-
-
-###### Article L6222-5
-
-Les recommandations de sécurité prévues par l'article L. 1621-20 ne s'appliquent qu'à un accident ou un incident d'aviation
-civile répondant au caractère de gravité défini par l'article L. 6222-3.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L731-2 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L1621-20
-	  - Code des transports - art. L6222-3
-
-
-###### Article L6222-6
-
-Les opérations mentionnées à l'article L. 1621-14 donnent lieu à des procès-verbaux établis par les enquêteurs techniques.
-
-L'autorité judiciaire reçoit copie de ces procès-verbaux en cas d'ouverture d'une procédure judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L723-1 (VT), alinéas 1 et 3, procès-verbaux
-
-	**Cite**:
-
-	  - Code des transports - art. L1621-14
-
-
-###### Article L6222-7
-
-Il est interdit à toute personne de modifier l'état des lieux où s'est produit un accident, d'y effectuer des prélèvements
-quelconques, de se livrer sur l'aéronef ou sur son épave à quelque manipulation ou prélèvement que ce soit, de procéder à son
-déplacement ou à son enlèvement, sauf si ces actions sont commandées par des exigences de sécurité ou par la nécessité de
-porter secours aux victimes ou si elles ont été autorisées par l'autorité judiciaire après avis de l'enquêteur technique ou,
-à défaut, de l'enquêteur de première information.
-
-En cas d'accident ou d'incident, l'équipage concerné, le propriétaire ou l'exploitant de l'aéronef ainsi que les personnes ou
-entreprises en relation avec l'accident ou l'incident et leurs préposés prennent toutes les dispositions de nature à
-préserver les documents, matériels et enregistrements pouvant être utiles à l'enquête, notamment à éviter l'effacement après
-le vol de l'enregistrement des conversations et alarmes sonores.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L722-1 (Ab)
-
-
-###### Article L6222-8
-
-Toute personne qui, dans l'exercice d'une activité régie par les dispositions de la présente partie, a connaissance d'un
-accident ou d'un incident d'aviation civile est tenue d'en rendre compte sans délai à l'organisme permanent, au ministre
-chargé des transports ou, le cas échéant, à son employeur selon les modalités fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L722-2 (Ab), alinéa 1, obligation de rendre compte d'un accident ou d'un incident
-
-	**Cité par**:
-
-	  - Code de l'aviation civile - art. R722-6 (V)
-	  - Code de l'aviation civile - art. R722-7 (V)
-	  - Code des transports - art. L6222-9 (Ab)
-	  - Code des transports - art. L6232-10 (V)
-
-
-###### Article L6222-9
-
-Aucune sanction administrative, disciplinaire ou professionnelle ne peut être infligée à une personne qui a rendu compte d'un
-accident ou d'un incident d'aviation civile, dans les conditions prévues par l'article L. 6222-8, qu'elle ait été ou non
-impliquée dans cet accident ou incident, sauf si elle s'est elle-même rendue coupable d'un manquement délibéré ou répété aux
-règles de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L722-3 (Ab), accident et sanction
-
-	**Cite**:
-
-	  - Code des transports - art. L6222-8
-
-
-###### Article L6222-10
-
-Les dispositions du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations
-entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal ne s'appliquent ni aux
-documents recueillis pour l'établissement du rapport d'enquête technique, ni aux comptes rendus d'accidents ou d'incidents
-d'aviation civile, ni aux documents s'y rapportant. 
-
-Sans préjudice du respect des secrets protégés par la loi, leur diffusion et leur utilisation sont limitées à ce qui est
-nécessaire à l'amélioration de la sécurité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°78-753 du 17 juillet 1978
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L731-4 (Ab), enquêtes techniques pour accidents
-
-
-###### Article L6222-11
-
-Les conditions d'application des dispositions du présent chapitre sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
 ##### Chapitre III : Compte rendu d'événements
@@ -51379,22 +51329,24 @@ La confiscation des objets et appareils régulièrement saisis est prononcée pa
 
 
 
+##### Section 5 : Enquêtes de sécurité relatives aux incidents et aux accidents d'aviation civile
+
 ###### Article L6232-10
 
 Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour les personnes qui, de par leurs fonctions, sont
-appelées à connaître d'un accident ou d'un incident mentionné à l'article L. 6222-1, de ne pas en rendre compte dans les
-conditions fixées à l'article L. 6222-8.
+appelées à connaître d'un accident ou d'un incident grave définis à l'article 2 du règlement (UE) n° 996/2010 du Parlement
+européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation
+civile et survenus à un aéronef visé à l'article L. 6222-1, de ne pas en rendre compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L741-1 (Ab), incident/accident
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 	**Cite**:
 
 	  - Code des transports - art. L6222-1 (V)
-	  - Code des transports - art. L6222-8 (V)
 
 	**Cité par**:
 
@@ -57305,6 +57257,53 @@ dérogations ne réduisent pas le niveau de sécurité.
 	  - règlement (CE) n°550/2004
 
 
+###### Article L6722-2
+
+Pour l'application de l'article L. 6222-1 à Mayotte, les mots : " qui n'est pas visé à l'annexe II du règlement (CE) n°
+216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation
+civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas visé par
+les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et du Conseil
+du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de
+la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1
+
+
+###### Article L6722-3
+
+Pour l'application de l'article L. 6232-10 à Mayotte, les mots : " définis à l'article 2 du règlement (UE) n° 996/2010 du
+Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans
+l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu de l'article 2
+du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des
+accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
+
+
 ##### Chapitre III : Les aérodromes
 
 ###### Article L6723-1
@@ -57475,69 +57474,184 @@ Les dispositions du chapitre IV du titre II du livre V de la présente partie ne
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SAINT BARTHELEMY
+#### TITRE III : SAINT-BARTHÉLEMY
 
-##### Chapitre unique
+##### Chapitre Ier : La circulation aérienne
 
 ###### Article L6731-1
 
-Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : " impartis au maire par l'article L. 2212-2 du code
-général des collectivités territoriales " sont remplacés par les mots : " impartis au président du conseil territorial par
-l'article LO 6252-8 du code général des collectivités territoriales ".
+Pour l'application de l'article L. 6222-1 à Saint-Barthélemy, les mots : " qui n'est pas visé à l'annexe II du règlement (CE)
+n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas
+visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et
+du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence
+européenne de la sécurité aérienne ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6252-8 (V)
-	  - Code des transports - art. L6332-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-###### Article L6731-2
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
-remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
-à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
-application par la Commission européenne ".
+	**Liens**:
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
 
 	**Cite**:
 
-	  - Code des transports - art. L6341-2
+	  - Code des transports - art. L6222-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6732-1 (V)
+
+
+###### Article L6731-2
+
+Pour l'application de l'article L. 6232-10 à Saint-Barthélemy, les mots : " définis à l'article 2 du règlement (UE) n°
+996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
+incidents dans l'aviation civile. " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu
+de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6732-2 (V)
 
 
 ###### Article L6731-3
 
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un
-des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
-en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
-document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
-185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
-l'aviation civile ".
+Pour l'application à Saint-Barthélemy du premier alinéa de l'article L. 6221-1, les mots : " par le règlement (CE) n°
+216/2008 du 20 février 2008 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation
+civile et instituant une Agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et
+du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
+remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
+du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
+Agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+". 
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6221-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6732-3 (M)
+
+
+##### Chapitre II : Les aérodromes
+
+###### Article L6732-1
+
+Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : "impartis au maire par l'article L. 2212-2 du code
+général des collectivités territoriales” sont remplacés par les mots : "impartis au président du conseil territorial par
+l'article LO 6252-8 du code général des collectivités territoriales”.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
 
 	**Cite**:
 
-	  - Code des transports - art. L6342-2
+	  - Code général des collectivités territoriales - art. L2212-2 (V)
+	  - Code général des collectivités territoriales - art. LO6252-8 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6733-1 (V)
 
 
-###### Article L6731-4
+###### Article L6732-2
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
+(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
+domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne ” sont
+remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
+à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6733-2 (M)
+
+
+###### Article L6732-3
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : "un titre de circulation ou l'un
+des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
+en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile” sont remplacés par les mots : "un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6733-3 (V)
+
+
+###### Article L6732-4
 
 Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 
@@ -57545,15 +57659,15 @@ Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 
 	**Créé par**:
 
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Code des transports - art. L6731-2 (T)
+	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L6733-4 (V)
 
 
 #### TITRE IV : SAINT MARTIN
@@ -57617,6 +57731,45 @@ dérogations ne réduisent pas le niveau de sécurité.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L6752-2
+
+Pour l'application de l'article L. 6222-1 à Saint-Pierre-et-Miquelon, les mots : " qui n'est pas visé à l'annexe II du
+règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le
+domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : "
+qui n'est pas visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement
+européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant
+une Agence européenne de la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1
+
+
+###### Article L6752-3
+
+Pour l'application de l'article L. 6232-10 à Saint-Pierre-et-Miquelon, les mots : " définis à l'article 2 du règlement (UE)
+n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
+incidents dans l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu
+de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
 
 
 ##### Chapitre III : Les aérodromes
@@ -57782,13 +57935,24 @@ Les dispositions du livre Ier sont applicables en Nouvelle-Calédonie.
 
 ###### Article L6762-1
 
-Les dispositions du livre II sont applicables en Nouvelle-Calédonie.
+Les dispositions du livre II sont applicables en Nouvelle-Calédonie. 
+
+Le chapitre II du titre II du livre II est applicable en Nouvelle-Calédonie dans sa version issue de l'ordonnance n° 2012-872
+du 12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil en matière d'aviation civile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
 ###### Article L6762-2
@@ -57826,6 +57990,45 @@ dérogations ne réduisent pas le niveau de sécurité.
 	**Modifié par**:
 
 	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
+
+###### Article L6762-3
+
+Pour l'application de l'article L. 6222-1 en Nouvelle-Calédonie, les mots : " qui n'est pas visé à l'annexe II du règlement
+(CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas
+visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et
+du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence
+européenne de la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1 (V)
+
+
+###### Article L6762-4
+
+Pour l'application de l'article L. 6232-10 en Nouvelle-Calédonie, les mots : " définis à l'article 2 du règlement (UE) n°
+996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
+incidents dans l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu
+de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code des transports - art. L6762-4 (V)
 
 
 ##### Chapitre III : Les aérodromes
@@ -58162,13 +58365,25 @@ Les dispositions du titre Ier et du titre IV du livre Ier de la présente partie
 
 ###### Article L6772-1
 
-Les dispositions du livre II sont applicables en Polynésie française.
+Les dispositions du livre II sont applicables en Polynésie française. 
+
+Le chapitre II du titre II du livre II est applicable en Polynésie française dans sa version issue de l'ordonnance n°
+2012-872 du 12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil en matière
+d'aviation civile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
 ###### Article L6772-2
@@ -58206,6 +58421,45 @@ dérogations ne réduisent pas le niveau de sécurité.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L6772-3
+
+Pour l'application de l'article L. 6222-1 en Polynésie française, les mots : " qui n'est pas visé à l'annexe II du règlement
+(CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas
+visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et
+du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence
+européenne de la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1 (V)
+
+
+###### Article L6772-4
+
+Pour l'application de l'article L. 6232-10 en Polynésie française, les mots : " définis à l'article 2 du règlement (UE) n°
+996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
+incidents dans l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu
+de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
 
 
 ##### Chapitre III : Les aérodromes
@@ -58570,13 +58824,24 @@ Les dispositions du livre Ier de la présente partie sont applicables à Wallis-
 
 ###### Article L6782-1
 
-Les dispositions du livre II de la présente partie sont applicables à Wallis-et-Futuna.
+Les dispositions du livre II de la présente partie sont applicables à Wallis-et-Futuna. 
+
+Le chapitre II du titre II du livre II est applicable à Wallis-et-Futuna dans sa version issue de l'ordonnance n° 2012-872 du
+12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil en matière d'aviation civile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
 ###### Article L6782-2
@@ -58614,6 +58879,45 @@ dérogations ne réduisent pas le niveau de sécurité.
 	  - Code des transports - art. L6221-1
 	  - règlement (CE) n°216/2008 du 20 février 2008
 	  - règlement (CE) n°550/2004
+
+
+###### Article L6782-3
+
+Pour l'application de l'article L. 6222-1 à Wallis-et-Futuna, les mots : " qui n'est pas visé à l'annexe II du règlement (CE)
+n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de
+l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas
+visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et
+du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence
+européenne de la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1
+
+
+###### Article L6782-4
+
+Pour l'application de l'article L. 6232-10 à Wallis-et-Futuna, les mots : " définis à l'article 2 du règlement (UE) n°
+996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
+incidents dans l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu
+de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la
+prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
 
 
 ##### Chapitre III : Les aérodromes
@@ -59021,13 +59325,25 @@ Les dispositions du livre Ier de la présente partie sont applicables aux Terres
 
 ###### Article L6792-1
 
-Les dispositions du livre II de la présente partie sont applicables aux Terres australes et antarctiques françaises.
+Les dispositions du livre II de la présente partie sont applicables aux Terres australes et antarctiques françaises. 
+
+Le chapitre II du titre II du livre II est applicable aux Terres australes et antarctiques françaises dans sa version issue
+de l'ordonnance n° 2012-872 du 12 juillet 2012 portant application de divers règlements du Parlement européen et du Conseil
+en matière d'aviation civile.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
 ###### Article L6792-2
@@ -59060,5 +59376,44 @@ dérogations ne réduisent pas le niveau de sécurité.
 	  - Code des transports - art. L6221-1
 	  - règlement (CE) n°216/2008 du 20 février 2008
 	  - règlement (CE) n°550/2004
+
+
+###### Article L6792-3
+
+Pour l'application de l'article L. 6222-1 aux Terres australes et antarctiques françaises, les mots : " qui n'est pas visé à
+l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles
+communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés
+par les mots : " qui n'est pas visé par les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n°
+216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation
+civile et instituant une Agence européenne de la sécurité aérienne ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6222-1 (V)
+
+
+###### Article L6792-4
+
+Pour l'application de l'article L. 6232-10 aux Terres australes et antarctiques françaises, les mots : " définis à l'article
+2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des
+accidents et des incidents dans l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en
+métropole en vertu de l'article 2 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur
+les enquêtes et la prévention des accidents et des incidents dans l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L6232-10
 
 
