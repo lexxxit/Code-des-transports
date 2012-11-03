@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-07-14
+Version Consolidée au 2012-11-04
 
 # PARTIE LEGISLATIVE
 
@@ -7003,9 +7003,9 @@ de transport sont fixées par l'article L. 551-2 du code de l'environnement.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : DISPOSITIONS COMMUNES RELATIVES A L'ENQUETE TECHNIQUE APRES UN ACCIDENT OU UN INCIDENT DE TRANSPORT
+#### TITRE II : DISPOSITIONS COMMUNES RELATIVES A L'ENQUETE TECHNIQUE ET A L'ENQUETE DE SECURITE APRES UN ACCIDENT OU UN INCIDENT DE TRANSPORT
 
-##### Chapitre Ier : Les conditions de l'enquête technique
+##### Chapitre Ier : Les conditions de l'enquête technique et de l'enquête de sécurité
 
 ##### Section 1 : Définitions
 
@@ -7685,20 +7685,6 @@ l'exercice de laquelle l'infraction a été commise.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-
-#### TITRE II : DISPOSITIONS COMMUNES RELATIVES A L'ENQUETE TECHNIQUE ET A L'ENQUETE DE SECURITE APRES UN ACCIDENT OU UN INCIDENT DE TRANSPORT
-
-##### Chapitre Ier : Les conditions de l'enquête technique et de l'enquête de sécurité
-
-##### Section 1 : Définitions
-
-##### Section 2 : La procédure
-
-##### Section 3 : Les pouvoirs d'investigation
-
-##### Section 4 : Dispositions relatives au secret de l'enquête judiciaire et au secret professionnel
-
-##### Chapitre II : Sanctions relatives à l'enquête technique
 
 #### TITRE III : ATTEINTES A LA SECURITE  OU A LA SURETE DES TRANSPORTS
 
@@ -26225,6 +26211,15 @@ réglementaire.
 Est puni de 3 750 € d'amende le capitaine qui ne se conforme pas aux dispositions réglementaires prévues à l'article
 précédent sur les marques extérieures d'identification des navires, ou qui efface, altère, couvre ou masque ces marques.
 
+Ces  dispositions sont également applicables aux personnes embarquées sur un  navire ou engin muni d'un permis de circulation
+ou d'une carte de  circulation. Est alors considérée comme capitaine la personne qui, en  fait, dirige le navire ou engin. 
+
+Lorsqu'il  prononce des amendes en application du présent article à l'encontre du  capitaine, du chef de quart ou de toute
+personne exerçant la conduite du  navire, le tribunal peut, compte tenu des circonstances de fait et  notamment des
+conditions d'exercice de ses fonctions, mettre, en  totalité ou en partie, à la charge du propriétaire ou de l'exploitant du
+navire le paiement des amendes ainsi prononcées. Il ne peut user de  cette faculté que si le propriétaire ou l'exploitant du
+navire a été  cité à l'audience.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -26240,13 +26235,44 @@ précédent sur les marques extérieures d'identification des navires, ou qui ef
 	  - Loi du 17 décembre 1926 - art. 37 (V)
 	  - Code des transports - art. L5111-3 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 78 (V)
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 9
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5111-3
+
+Est  passible de la peine prévue à l'article L. 5111-2 le propriétaire du  navire, l'exploitant du navire ou leur
+représentant légal ou dirigeant  de fait s'il s'agit d'une personne morale, ou toute autre personne  exerçant, en droit ou en
+fait, un pouvoir de contrôle ou de direction  dans la gestion ou la marche du navire, lorsque ce propriétaire, cet
+exploitant ou cette personne a été à l'origine de l'infraction définie à  l'article L. 5111-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 9
+
+
+###### Article L5111-4
+
+Sont habilités à constater les infractions aux dispositions du présent chapitre ou aux dispositions réglementaires prises
+pour leur application les fonctionnaires et agents mentionnés aux 1° à 10° de l'article L. 5222-1, ainsi que les agents des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 5
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
 
 
 ##### Chapitre II : Francisation
@@ -30011,7 +30037,7 @@ la liste est fixée par voie réglementaire.
 Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
 titre et aux dispositions réglementaires prises pour leur application : 
 
-1° Les commandants des bâtiments de l'Etat ; 
+1° Les commandants ou commandants en second des bâtiments de l'Etat et les chefs de bord des aéronefs de l'Etat ;
 
 2° Les administrateurs des affaires maritimes ; 
 
@@ -30025,13 +30051,20 @@ titre et aux dispositions réglementaires prises pour leur application :
 
 7° Les syndics des gens de mer ; 
 
-8° Les capitaines des navires à bord desquels les délits ont été commis.
+8° Le délégué à la mer et au littoral ; 
+
+9° Les inspecteurs de l'environnement et les agents publics  commissionnés et assermentés des parcs nationaux, des parcs
+naturels  marins et des réserves naturelles marines ; 
+
+10° Les agents publics commissionnés à cet effet par décision du directeur interrégional de la mer et assermentés ; 
+
+11° Les capitaines des navires à bord desquels les délits ont été commis.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
 
 	**Cité par**:
 
@@ -30982,26 +31015,39 @@ infractions définies par les dispositions de la présente section encourent :
 
 ###### Article L5242-1
 
-I. ― Est puni de deux ans d'emprisonnement et de 7 500 € d'amende le fait, pour le capitaine d'un navire battant pavillon
-français ou étranger, d'enfreindre, y compris par imprudence ou négligence, dans les eaux territoriales ou les eaux
-intérieures maritimes françaises :
+I. ― Est puni de deux ans d'emprisonnement et de 7 500 € d'amende le fait, pour tout capitaine, chef de quart ou toute
+personne exerçant la responsabilité ou la conduite d'un navire, d'enfreindre, y compris par imprudence ou négligence, dans
+les eaux territoriales ou dans les eaux intérieures maritimes françaises : 
 
 1° Les règles de circulation maritime édictées en application de la convention sur le règlement international de 1972 pour
-prévenir les abordages en mer, faite à Londres le 20 octobre 1972, et relatives aux dispositifs de séparation de trafic ;
+prévenir les abordages en mer, faite à Londres le 20 octobre 1972, et relatives aux dispositifs de séparation de trafic ainsi
+que les instructions particulières des préfets maritimes et les ordres des agents des centres régionaux opérationnels de
+surveillance et de sauvetage et des agents chargés de la police de la navigation, édictés pour mettre en œuvre ces
+dispositifs de séparation de trafic ; 
 
-2° Les règles relatives aux distances minimales de passage le long des côtes françaises édictées par les préfets maritimes.
+2° Les règles édictées par le ministre chargé de la mer et les préfets maritimes relatives : 
 
-L'amende est portée à 150 000 € lorsque l'infraction est commise par le capitaine d'un navire transportant une cargaison
-d'hydrocarbures ou d'autres substances dangereuses définies par voie réglementaire.
+― aux distances minimales de passage le long des côtes françaises ; 
 
-II. ― Est puni des mêmes peines le capitaine d'un navire battant pavillon français qui, en dehors des eaux territoriales, ne
-se conforme pas aux règles mentionnées au 1° du I.
+― à la circulation dans les zones maritimes et fluviales de régulation définies à l'article L. 5331-1 ; 
+
+― à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à
+Wallis-et-Futuna, et dans les Terres australes et antarctiques françaises, à la circulation dans une zone maritime et
+fluviale de régulation comprenant, en dehors des limites administratives du port, les espaces nécessaires à l'approche et au
+départ du port. Ces espaces sont constitués des chenaux d'accès au port et des zones d'attente et de mouillage. 
+
+L'amende est portée à 150 000 € lorsque l'infraction est commise par le capitaine, chef de quart ou toute personne exerçant
+la responsabilité ou la conduite d'un navire transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses
+définies par voie réglementaire. 
+
+II. ― Est puni des mêmes peines le capitaine chef de quart ou toute personne exerçant la responsabilité ou la conduite d'un
+navire battant pavillon français qui, en dehors des eaux territoriales, ne se conforme pas aux règles mentionnées au 1° du I.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 63 (M), alinéas 3 et 4
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
 
 	**Cité par**:
 
@@ -31013,6 +31059,10 @@ se conforme pas aux règles mentionnées au 1° du I.
 	  - Code des transports - art. L5242-6-5 (V)
 	  - Code des transports - art. L5243-1 (V)
 
+	**Cite**:
+
+	  - Code des transports - art. L5331-1
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -31020,20 +31070,37 @@ se conforme pas aux règles mentionnées au 1° du I.
 
 ###### Article L5242-2
 
-Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait, pour toute personne embarquée sur un navire battant
-pavillon français ou étranger, de ne pas se conformer, dans les eaux intérieures maritimes ou les eaux territoriales
-françaises, aux règlements et aux ordres émanant des autorités maritimes et relatifs, soit à la police des eaux et rades,
-soit à la police de la navigation maritime.
+I.  ― Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait  pour une personne embarquée sur un navire de ne
+pas se conformer, dans  les eaux intérieures maritimes et jusqu'à la limite extérieure des eaux  territoriales françaises : 
 
-Est puni des mêmes peines le fait, pour toute personne embarquée sur un navire battant pavillon français, de ne pas se
-conformer, en dehors des eaux territoriales, aux ordres régulièrement donnés par un consul général, consul ou vice-consul de
-France, par l'autorité maritime compétente ou par le commandant d'un navire de guerre français.
+1° Aux règlements pris par le ministre chargé de la mer et les préfets maritimes relatifs : 
+
+a) Aux zones ou périodes d'interdiction de la navigation, du mouillage  ou de certaines activités, édictés en vue d'assurer
+la sécurité de la  navigation ou le maintien de l'ordre public en mer ; 
+
+b) Aux obligations de signalement ou d'information, de veille de fréquences et de réponse aux appels ; 
+
+c) Aux restrictions ou prescriptions particulières de navigation  relatives au passage inoffensif, ou au transport de
+matières sensibles ;  
+
+d) A la conduite à tenir en cas de découverte d'engins dangereux ; 
+
+2° Aux instructions particulières des préfets maritimes et aux ordres  des agents des centres régionaux opérationnels de
+surveillance et de  sauvetage et des agents chargés de la police de la navigation, relatives  à la sécurité de la navigation
+maritime ou au maintien de l'ordre  public en mer. 
+
+II. ― Est puni des mêmes peines le  fait, en dehors des eaux territoriales, pour tout capitaine, chef de  quart ou toute
+personne exerçant la responsabilité ou la conduite d'un  navire battant pavillon français, de ne pas se conformer aux décrets
+pris pour l'instauration d'un contrôle naval, aux instructions  particulières émanant des préfets maritimes ou d'une autorité
+consulaire  ou aux ordres des agents des centres régionaux opérationnels de  surveillance et de sauvetage, des commandants
+des bâtiments de l'Etat et  des agents chargés de la police de la navigation, relatifs à la  sécurité de la navigation
+maritime.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code disciplinaire et pénal de la marine marcha... - art. 63 (M), alinéas 1 et 2
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
 
 	**Cité par**:
 
@@ -31043,6 +31110,22 @@ France, par l'autorité maritime compétente ou par le commandant d'un navire de
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5242-2-1
+
+Les peines prévues par les articles L. 5242-1 et L. 5242-2 peuvent être portées au triple si les infractions ont été commises
+en temps de guerre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5242-1
 
 
 ###### Article L5242-3
@@ -31198,6 +31281,91 @@ de danger, des signaux internationaux de détresse.
 	**Créé par**:
 
 	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+
+###### Article L5242-6-2
+
+Le  fait pour une personne embarquée sur un navire étranger de pratiquer la  navigation dans les eaux territoriales ou les
+eaux intérieures  maritimes françaises, alors qu'elle fait l'objet d'une interdiction  temporaire ou définitive d'y naviguer,
+est puni d'une amende de 3 750 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+
+###### Article L5242-6-3
+
+En dehors du cas prévu par l'article L. 321-5 du code de justice militaire pour l'armée de mer, le fait pour un capitaine en
+mer de ne pas obéir à l'appel d'un navire de guerre français et de le contraindre à faire usage de la force est puni de deux
+ans d'emprisonnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code de justice militaire. - art. L321-5
+
+
+###### Article L5242-6-4
+
+Est passible des peines prévues aux articles L. 5242-1 à L. 5242-4 et à l'article L. 5242-6 le propriétaire du navire,
+l'exploitant du navire ou leur représentant légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre
+personne exerçant, en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire,
+lorsque ce propriétaire, cet exploitant ou cette personne a été à l'origine de l'infraction prévue par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5242-1
+	  - Code des transports - art. L5242-6 (V)
+
+
+###### Article L5242-6-5
+
+Lorsqu'il prononce des amendes en application des articles L. 5242-1 à L. 5242-4 ou L. 5242-6 à l'encontre du capitaine, du
+chef de quart ou de toute personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et
+notamment des conditions d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de
+l'exploitant du navire le paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou
+l'exploitant du navire a été cité à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5242-1
+	  - Code des transports - art. L5242-6 (V)
+
+
+###### Article L5242-6-6
+
+Les  infractions et les peines prévues au présent chapitre sont applicables  aux personnes embarquées sur un bateau muni d'un
+titre de navigation  intérieure lorsqu'il pratique la navigation maritime en aval de la  limite transversale de la mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 65
 
 
 ##### Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons
@@ -31672,8 +31840,7 @@ les dispositions du présent titre ou les dispositions réglementaires prises po
 4° Les techniciens experts du service de la sécurité de la navigation maritime. 
 
 Les infractions réprimées par les articles L. 5242-1 à L. 5242-8 ou par les dispositions réglementaires prises pour leur
-application peuvent en outre être recherchées et constatées par les agents mentionnés à l'article L. 5222-1, dans les
-conditions prévues par l'article L. 5222-2.
+application peuvent en outre être recherchées et constatées par les agents mentionnés à l'article L. 5222-1.
 
 **Liens relatifs à cet article**
 
@@ -31686,12 +31853,11 @@ conditions prévues par l'article L. 5222-2.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
 
 	**Cite**:
 
 	  - Code des transports - art. L5222-1
-	  - Code des transports - art. L5222-2
 	  - Code des transports - art. L5242-1
 
 	**Codifié par**:
@@ -31733,18 +31899,16 @@ dispositions réglementaires prises pour leur application dans leur domaine de c
 
 Les commandants des bâtiments de l'Etat, les contrôleurs des affaires maritimes, les syndics des gens de mer et les agents
 mentionnés au 3° de l'article L. 5336-5 sont habilités à rechercher et à constater les infractions prévues par les articles
-L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application, dans les conditions prévues à
-l'article L. 5222-2.
+L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application .
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-2
 	  - Code des transports - art. L5242-21
 	  - Code des transports - art. L5336-5
 
@@ -31828,13 +31992,24 @@ c) Le non-respect des dispositions relatives aux catégories de navigation et di
 Les fonctionnaires et agents de l'Etat mentionnés aux articles précédents peuvent accéder à bord des navires pour exercer les
 compétences qui leur sont reconnues par ces dispositions.
 
-Ils peuvent visiter le navire et demander la communication des titres, certificats et autres documents professionnels et
-recueillir les renseignements et justifications utiles à leur mission.
+Ils peuvent visiter le navire et recueillir  tous renseignements et justifications nécessaires ou exiger la  communication de
+tous documents, titres, certificats ou pièces utiles,  quel qu'en soit le support, et en prendre copie. 
 
 Toutefois, ils ne peuvent accéder aux parties du navire qui sont à usage exclusif d'habitation sauf en cas de contrôle
-portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé et de sécurité au travail.
+portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé et de sécurité au travail. Les  parties à usage
+d'habitation ne peuvent être visitées qu'entre six  heures et vingt et une heures, avec l'assentiment de l'occupant ou, à
+défaut, en présence d'un officier de police agissant conformément aux  dispositions du code de procédure pénale relatives
+aux perquisitions, visites domiciliaires et saisies des pièces à  conviction. Cet assentiment doit faire l'objet d'une
+déclaration écrite  de la main de l'intéressé ou si celui-ci ne sait écrire, il en est fait  mention au procès-verbal, ainsi
+que de son assentiment.
+
+Les officiers et agents mentionnés au premier alinéa du présent article peuvent procéder à la pose de scellés.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
 
 	**Cité par**:
 
@@ -31843,10 +32018,6 @@ portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
 
 
 ###### Article L5243-5
@@ -32238,6 +32409,34 @@ sont chargés les fonctionnaires et agents habilités à constater les infractio
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5253-2-1
+
+Est  puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait pour  un membre d'équipage, après une sommation
+formelle du capitaine ou d'un  officier spécialement désigné à cet effet par le capitaine, de refuser  d'obéir ou de résister
+à un ordre concernant le service, donné pour  assurer la sûreté du navire et lorsque la non-exécution de cet ordre est  de
+nature à entraîner des conséquences dommageables. 
+
+Si ce membre d'équipage est un officier ou un maître, les peines prévues à l'alinéa précédent sont portées au double.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+
+###### Article L5253-2-2
+
+Est  puni de six mois d'emprisonnement et d'une amende de 7 500 € le fait  pour un officier, un maître ou tout autre membre
+d'équipage d'être  absent irrégulièrement à bord, lorsqu'il est affecté à un poste de  sûreté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+
 ###### Article L5253-3
 
 Les personnes morales reconnues pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des
@@ -32331,33 +32530,22 @@ l'obligation d'assistance prévue par l'article précédent.
 ###### Article L5262-4
 
 Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
-chapitre : 
-
-1° Les commandants des bâtiments de l'Etat ; 
-
-2° Les administrateurs des affaires maritimes ; 
-
-3° Les officiers du corps technique et administratif des affaires maritimes ; 
-
-4° Les inspecteurs des affaires maritimes ; 
-
-5° Les techniciens experts du service de la sécurité de la navigation maritime ; 
-
-6° Les contrôleurs des affaires maritimes ; 
-
-7° Les syndics des gens de mer ; 
-
-8° Les capitaines des navires à bord desquels les délits ont été commis.
+chapitre ou aux dispositions réglementaires prises pour leur application les fonctionnaires et agents mentionnés aux 1° à 10°
+de l'article L. 5222-1, ainsi que les capitaines mentionnés au 11° du même article.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5262-5
@@ -32420,26 +32608,71 @@ dans des conditions irrégulières au sens de l'article L. 5523-2.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5262-6-1
+
+Est passible des peines prévues aux articles L. 5262-5 et L. 5262-6 le propriétaire du navire, l'exploitant du navire ou leur
+représentant légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre personne exerçant, en droit ou en
+fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire, lorsque ce propriétaire, cet exploitant
+ou cette personne a été à l'origine de l'infraction prévue par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5262-5
+
+
+###### Article L5262-6-2
+
+Lorsqu'il prononce des amendes en application des articles L. 5262-5 ou L. 5262-6 à l'encontre du capitaine, du chef de quart
+ou de toute personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et notamment des
+conditions d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de l'exploitant du
+navire le paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou l'exploitant du
+navire a été cité à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5262-5
+
+	**Cité par**:
+
+	  - Code des transports - art. L5262-7 (V)
+
+
 ###### Article L5262-7
 
-Les dispositions de l'article L. 5262-1 et          de l'article L. 5262-2 sont applicables : 
+Les dispositions des articles L. 5262-1, L. 5262-2, L. 5262-5, L. 5262-6 et L. 5262-6-2 sont applicables : 
 
 1° Aux personnes, même étrangères, qui se trouvent sur un navire étranger, lorsque l'infraction a lieu dans les eaux
 intérieures maritimes ou les eaux territoriales ; 
 
 2° Aux personnes qui se trouvent sur un navire ou autre engin muni d'un permis de circulation ou d'une carte de circulation.
-Est alors considérée comme capitaine la personne qui, en fait, dirige le navire ou autre engin flottant.
+Est alors considérée comme capitaine la personne qui, en fait, dirige le navire ou autre engin flottant ; 
+
+3° Aux personnes embarquées sur un bateau muni d'un titre de navigation intérieure lorsqu'il pratique la navigation maritime
+en aval de la limite transversale de la mer.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
 
 	**Cite**:
 
-	  - Code des transports - art. L5262-1
-	  - Code des transports - art. L5262-2
+	  - Code des transports - art. L5262-1 (V)
+	  - Code des transports - art. L5262-5 (V)
+	  - Code des transports - art. L5262-6-2 (V)
 
 	**Codifié par**:
 
@@ -32532,6 +32765,60 @@ commandement dans des conditions irrégulières au sens de l'article L. 5523-2.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5263-4
+
+Est passible des peines prévues aux articles L. 5263-1 et L. 5263-2 le propriétaire du navire, l'exploitant du navire ou leur
+représentant légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre personne exerçant, en droit ou en
+fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire lorsque ce propriétaire, cet exploitant
+ou cette personne a été à l'origine de l'infraction prévue par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5263-1
+
+
+###### Article L5263-5
+
+Lorsqu'il prononce des amendes en application des articles L. 5263-1 ou L. 5263-2 à l'encontre du capitaine, du chef de quart
+ou de toute personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et notamment des
+conditions d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de l'exploitant du
+navire le paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou l'exploitant du
+navire a été cité à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L5263-1
+
+
+###### Article L5263-6
+
+Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
+chapitre ou aux dispositions réglementaires prises pour leur application les fonctionnaires et agents mentionnés aux 1° à 10°
+de l'article L. 5222-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
 
 
 #### TITRE VII : FORMATION A LA CONDUITE DES NAVIRES  ET BATEAUX DE PLAISANCE A MOTEUR
@@ -32799,6 +33086,23 @@ produit.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5273-4
+
+Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
+titre ou aux dispositions réglementaires prises pour leur application les fonctionnaires et agents mentionnés aux 1° à 10° de
+l'article L. 5222-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
 
 
 ### LIVRE III : LES PORTS MARITIMES
@@ -35479,18 +35783,18 @@ République.
 
 Cet envoi a lieu dans les dix jours au plus tard, y compris celui où le fait, objet du procès-verbal, a été constaté.
 
-Copie en est adressée simultanément à l'autorité hiérarchique dont relève l'agent verbalisateur et à l'autorité portuaire.
-Ces autorités font connaître leurs observations au procureur de la République.
+Copie en est adressée simultanément à l'autorité hiérarchique dont relève l'agent verbalisateur, au directeur interrégional
+de la mer et à l'autorité portuaire. Ces autorités font connaître leurs observations au procureur de la République.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 7
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 529
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes - art. L345-5 (Ab)
 
 	**Cité par**:
 
@@ -39572,6 +39876,51 @@ fonction du bord sans satisfaire aux conditions exigées par le présent titre.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5523-3
+
+Est passible des peines prévues à l'article L. 5523-2 le propriétaire du navire, l'exploitant du navire ou leur représentant
+légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre personne exerçant, en droit ou en fait, un
+pouvoir de contrôle ou de direction dans la gestion ou la marche du navire lorsque ce propriétaire, cet exploitant ou cette
+personne a été à l'origine de l'infraction prévue par cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code des transports - art. L5523-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5523-4
+
+Lorsqu'il prononce des amendes en application de l'article L. 5523-2 à l'encontre du capitaine, du chef de quart ou de toute
+personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et notamment des conditions
+d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de l'exploitant du navire le
+paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou l'exploitant du navire a
+été cité à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5523-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+
 ##### Chapitre IV : Sanctions professionnelles
 
 ##### Section unique : Dispositions communes
@@ -40022,6 +40371,51 @@ est ressortissant ou, à défaut, l'autorité locale.
 	**Anciens textes**:
 
 	  - Code disciplinaire et pénal de la marine marcha... - art. 67 (Ab), alinéa 2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5531-14-1
+
+Est passible des peines prévues à l'article L. 5531-14 le propriétaire du navire, l'exploitant du navire ou leur représentant
+légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre personne exerçant, en droit ou en fait, un
+pouvoir de contrôle ou de direction dans la gestion ou la marche du navire lorsque ce propriétaire, cet exploitant ou cette
+personne a été à l'origine de l'infraction prévue par cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code des transports - art. L5531-14
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5531-14-2
+
+Lorsqu'il prononce des amendes en application de l'article L. 5531-14 à l'encontre du capitaine, du chef de quart ou de toute
+personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et notamment des conditions
+d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de l'exploitant du navire le
+paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou l'exploitant du navire a
+été cité à l'audience.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code des transports - art. L5531-14
 
 	**Codifié par**:
 
@@ -41531,6 +41925,138 @@ La peine est portée à six mois d'emprisonnement et 15 000 € d'amende en cas 
 	**Cite**:
 
 	  - Code des transports - art. L5542-29 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5542-51
+
+Est puni des peines sanctionnant le délit prévu par l'article L. 1254-2 du code du travail le fait pour l'employeur : 
+
+1° De recruter un marin sans avoir établi ou sans lui avoir transmis dans le délai prévu à l'article L. 5542-5 du présent
+code un contrat de travail écrit ; 
+
+2° De recruter un marin en ayant conclu un contrat de travail ne comportant pas les mentions prévues aux articles L. 5542-3
+et L. 5542-4 ou comportant ces mentions volontairement inexactes ; 
+
+3° De recruter un marin en ayant conclu un contrat au voyage ne comportant pas, outre les mentions prévues aux articles L.
+5542-3 et L. 5542-4, celles figurant à l'article L. 5542-9.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 2 (V)
+	  - Loi du 17 décembre 1926 - art. 30 (VD)
+	  - Loi du 17 décembre 1926 - art. 31 (VD)
+	  - Loi du 17 décembre 1926 - art. 32 (VD)
+	  - Loi du 17 décembre 1926 - art. 33 (VD)
+	  - Loi du 17 décembre 1926 - art. 34 (V)
+	  - Loi du 17 décembre 1926 - art. 35 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L1254-2
+	  - Code des transports - art. L5542-5
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+
+###### Article L5542-52
+
+Est puni des peines sanctionnant le délit prévu aux articles L. 1248-5 et L. 1248-10 du code du travail le fait de
+méconnaître les dispositions de l'article L. 5542-8 du présent code relatives à la durée du contrat à durée déterminée, ou de
+renouveler le contrat de travail à durée déterminée en méconnaissance de ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail - art. L1248-10 (V)
+	  - Code du travail - art. L1248-5 (V)
+	  - Code des transports - art. L5542-8
+
+	**Cité par**:
+
+	  - Code des transports - art. L5549-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5542-53
+
+Est puni des peines sanctionnant le délit prévu à l'article L. 1248-3 du code du travail le fait de méconnaître les
+dispositions de l'article L. 5542-10 du présent code relatives à l'interdiction en matière de conclusion de contrat au
+voyage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail - art. L1248-3
+	  - Code des transports - art. L5542-10
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5542-54
+
+Est puni des peines sanctionnant le délit prévu à l'article L. 1248-11 du code du travail le fait de méconnaître les
+dispositions de l'article L. 5542-11 du présent code relatives à la succession de contrats pour remplacer le marin dont le
+contrat a pris fin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail - art. L1248-11
+	  - Code des transports - art. L5542-11
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5542-55
+
+Dans le cas où un contrat de travail à durée déterminée ou un contrat au voyage a été conclu au titre de l'article L.
+5542-14, la méconnaissance des dispositions de cet article est punie des peines sanctionnant le délit prévu à l'article L.
+1248-2 du code du travail
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code du travail - art. L1248-2
+	  - Code des transports - art. L5542-14
 
 	**Codifié par**:
 
@@ -43151,6 +43677,39 @@ proviennent de son fait, ainsi que l'article L. 5544-53.
 	**Cité par**:
 
 	  - Code des transports - art. L5725-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Section 6 : Sanctions pénales
+
+###### Article L5544-63
+
+Est puni d'une amende de 3 750 € le fait pour un marin de méconnaître : 
+
+1° L'obligation prévue à l'article L. 5542-35 en matière de sauvetage ; 
+
+2° L'obligation prévue aux premier et deuxième alinéas de l'article L. 5544-13 en matière de sécurité et d'organisation des
+secours. 
+
+La récidive est punie d'une amende de 7 500 € et d'un emprisonnement de six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-35 (V)
+	  - Code des transports - art. L5544-13 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5612-1 (V)
 
 	**Codifié par**:
 
@@ -47021,6 +47580,30 @@ partie sont applicables à la présente partie.
 
 #### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION
 
+##### Chapitre II : Navigation maritime
+
+
+###### Article L5712-1
+
+Pour l'application de l'article L. 5222-1, en Guadeloupe, en Guyane et à la Martinique les attributions du délégué à la mer
+et au littoral sont exercées par le directeur de la mer. A La Réunion, elles sont exercées par le directeur de la mer sud
+océan Indien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+
 ##### Chapitre III : Les ports maritimes
 
 ###### Article L5713-1
@@ -47178,6 +47761,27 @@ partie en Guadeloupe, en Guyane, en Martinique et à La Réunion sont fixées pa
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5713-4
+
+Pour l'application de l'article L. 5336-6 en Guadeloupe, en Guyane et à la Martinique, les mots : " au directeur
+interrégional de la mer " sont remplacés par les mots : " au directeur de la mer ". A La Réunion, ils sont remplacés par les
+mots : " directeur de la mer sud océan Indien ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5336-6
 
 
 ##### Chapitre IV : Le transport maritime
@@ -47439,6 +48043,28 @@ européen et du Conseil du 23 avril 2009 relatif à la responsabilité des trans
 	  - Code des transports - art. L5123-2
 
 
+##### Chapitre II : Navigation maritime
+
+###### Article L5722-1
+
+Pour l'application à Mayotte de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont exercées par le
+directeur de la mer sud océan Indien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -47521,11 +48147,23 @@ partie, les autorités mentionnées aux premier et troisième alinéas du même 
 
 ###### Article L5725-1
 
-Les dispositions des articles L. 5541-1 à L. 5542-17, L. 5542-21 à L. 5542-38, L. 5542-40 à L. 5542-50, L. 5543-1 à L.
-5543-4, L. 5544-1 à L. 5544-60, L. 5544-62, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5549-3 ainsi que celles du titre V du
-livre V de la présente partie ne sont pas applicables à Mayotte.
+Les dispositions des articles L. 5541-1 à L. 5542-17, L. 5542-21 à L. 5542-38, L. 5542-40 à L. 5542-55, L. 5543-1 à L.
+5543-4, L. 5544-1 à L. 5544-60, L. 5544-62, L. 5544-63, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5549-3 ainsi que celles du
+titre V du livre V de la présente partie ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5541-1
+	  - Code des transports - art. L5542-40
+	  - Code des transports - art. L5544-1
+	  - Code des transports - art. L5545-1
+	  - Code des transports - art. L5549-3
 
 	**Codifié par**:
 
@@ -47547,6 +48185,26 @@ chargé des gens de mer.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5725-2-2
+
+Pour l'application à Mayotte de l'article L. 5336-6, les mots : " au directeur interrégional de la mer " sont remplacés par
+les mots : " au directeur de la mer sud océan Indien ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5336-6
 
 
 ###### Article L5725-3
@@ -47580,6 +48238,29 @@ les mots : " Par exception aux dispositions de l'article L. 5541-1, " sont suppr
 
 
 #### TITRE III : SAINT-BARTHELEMY
+
+##### Chapitre II : Navigation maritime
+
+
+###### Article L5732-1
+
+Pour l'application à Saint-Barthélemy de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont
+exercées par le directeur de la mer en Guadeloupe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
 
 ##### Chapitre III : Les ports maritimes
 
@@ -47624,6 +48305,26 @@ Pour son application à Saint-Barthélemy, le deuxième alinéa de l'article L. 
 	**Cite**:
 
 	  - Code des transports - art. L5331-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5733-2-1
+
+Pour l'application à Saint-Barthélemy de l'article L. 5336-6, les mots : " au directeur interrégional de la mer ” sont
+remplacés par les mots : " au directeur de la mer en Guadeloupe ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5336-6
 
 	**Codifié par**:
 
@@ -47850,6 +48551,30 @@ mots : " à l'article L. 755-19 du code de la sécurité sociale, dans les condi
 
 #### TITRE IV : SAINT-MARTIN
 
+##### Chapitre II : Navigation maritime
+
+
+
+###### Article L5742-1
+
+Pour l'application à Saint-Martin de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont exercées
+par le directeur de la mer en Guadeloupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -47893,6 +48618,26 @@ Pour son application à Saint-Martin, le deuxième alinéa de l'article L. 5331-
 	**Cite**:
 
 	  - Code des transports - art. L5331-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5743-2-1
+
+Pour l'application à Saint-Martin de l'article L. 5336-6, les mots : " au directeur interrégional de la mer ” sont remplacés
+par les mots : " au directeur de la mer en Guadeloupe ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5336-6 (V)
 
 	**Codifié par**:
 
@@ -48157,6 +48902,29 @@ d'accident " sont supprimés.
 	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
+##### Chapitre II : Navigation maritime
+
+
+###### Article L5752-1
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 5222-1, les attributions du délégué à la mer et au littoral
+sont exercées par le directeur des territoires, de l'alimentation et de la mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -48193,6 +48961,26 @@ Saint-Pierre-et-Miquelon.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5753-3
+
+Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 5336-6, les mots : " au directeur interrégional de la mer ”
+sont remplacés par les mots : " au directeur des territoires, de l'alimentation et de la mer ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des transports - art. L5336-6
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 
 ##### Chapitre IV : Le transport maritime
@@ -48450,22 +49238,42 @@ mars 1999.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5762-2
+###### Article L5762-1-1
 
-Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Nouvelle-Calédonie, les mots : " et au 3° de l'article L. 5336-5
-" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
-constatation des infractions à la police de la signalisation maritime ".
+Pour l'application en Nouvelle-Calédonie de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont
+exercées par le chef du service des affaires maritimes.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5762-2
+
+Pour l'application de l'article L. 5243-2-2 en Nouvelle-Calédonie les mots : " et les agents du 3° de l'article L. 5336-5 "
+sont remplacés par les mots : " et les agents chargés de la constatation des infractions à la police de la signalisation
+maritime ".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
 	  - Code des transports - art. L5243-2-2
+	  - Code des transports - art. L5336-5
 
 	**Codifié par**:
 
@@ -48509,20 +49317,24 @@ applicables en Nouvelle-Calédonie.
 
 ###### Article L5765-1
 
-Les dispositions des articles L. 5511-1 à L. 5511-5, L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-1 et L. 5523-2, L. 5524-1 à L.
+Les dispositions des articles L. 5511-1 à L. 5511-5, L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-1 à L. 5523-4, L. 5524-1 à L.
 5524-4 et L. 5531-1 à L. 5532-1 sont applicables en Nouvelle-Calédonie en tant qu'ils concernent les compétences exercées par
 l'Etat.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
 	**Cite**:
 
-	  - Code des transports - art. L5511-1 (V)
-	  - Code des transports - art. L5521-1 (V)
-	  - Code des transports - art. L5522-2 (V)
-	  - Code des transports - art. L5523-1 (V)
-	  - Code des transports - art. L5524-1 (V)
-	  - Code des transports - art. L5531-1 (V)
+	  - Code des transports - art. L5511-1
+	  - Code des transports - art. L5521-1
+	  - Code des transports - art. L5522-2
+	  - Code des transports - art. L5523-1
+	  - Code des transports - art. L5524-1
+	  - Code des transports - art. L5531-1
 
 	**Codifié par**:
 
@@ -48644,11 +49456,31 @@ de 160 tonneaux de jauge brute qui ne sont pas destinés au transport des passag
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5772-1-1
+
+Pour l'application en Polynésie française de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont
+exercées par le chef du service des affaires maritimes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ###### Article L5772-3
 
-Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Polynésie française, les mots : " et au 3° de l'article L. 5336-5
-" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
-constatation des infractions à la police de la signalisation maritime ".
+Pour l'application de l'article L. 5243-2-2 en Polynésie française, les mots : " et les agents du 3° de l'article L. 5336-5 "
+sont remplacés par les mots : " et les agents chargés de la constatation des infractions à la police de la signalisation
+maritime ".
 
 **Liens relatifs à cet article**
 
@@ -48656,14 +49488,14 @@ constatation des infractions à la police de la signalisation maritime ".
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-2
 	  - Code des transports - art. L5243-2-2
+	  - Code des transports - art. L5336-5
 
 
 ##### Chapitre IV : Le transport maritime
@@ -48685,7 +49517,7 @@ Les dispositions du chapitre IV du titre III du livre IV sont applicables en Pol
 ###### Article L5775-1
 
 Les dispositions des articles L. 5511-1 à L. 5511-5, 
-L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-2, 
+L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-2, L. 5523-3 et L. 5523-4, 
 L. 5524-1 à L. 5524-4 et L. 5531-1 à L. 5532-1 sont applicables en Polynésie française, compte tenu, le cas échéant, de
 l'association de la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation
 maritime dans les eaux intérieures, prévue par l'article 34 de la loi organique n° 2004-192 du 27 février 2004.
@@ -48694,17 +49526,21 @@ maritime dans les eaux intérieures, prévue par l'article 34 de la loi organiqu
 
 	**Cite**:
 
-	  - Loi n°2004-192 du 27 février 2004 - art. 34 (V)
-	  - Code des transports - art. L5511-1 (V)
-	  - Code des transports - art. L5521-1 (V)
-	  - Code des transports - art. L5522-2 (V)
-	  - Code des transports - art. L5523-2 (V)
-	  - Code des transports - art. L5524-1 (V)
-	  - Code des transports - art. L5531-1 (V)
+	  - Loi organique n°2004-192 du 27 février 2004 - art. 34
+	  - Code des transports - art. L5511-1
+	  - Code des transports - art. L5521-1
+	  - Code des transports - art. L5522-2
+	  - Code des transports - art. L5523-2
+	  - Code des transports - art. L5524-1
+	  - Code des transports - art. L5531-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 
 ###### Article L5775-2
@@ -48820,22 +49656,42 @@ du titre IV sont applicables à Wallis-et-Futuna.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5782-3
+###### Article L5782-2
 
-Pour l'application des articles L. 5222-2 et L. 5243-2-2 à Wallis-et-Futuna, les mots : " et au 3° de l'article L. 5336-5 "
-et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
-constatation des infractions à la police de la signalisation maritime ".
+Pour l'application à Wallis-et-Futuna de l'article L. 5222-1, les attributions du délégué à la mer et au littoral sont
+exercées par le chef du service des affaires maritimes.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Créé par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-2
+	  - Code des transports - art. L5222-1
+
+
+###### Article L5782-3
+
+Pour l'application de l'article L. 5243-2-2 à Wallis-et-Futuna, les mots : " et les agents du 3° de l'article L. 5336-5 "
+sont remplacés par les mots : " et les agents chargés de la constatation des infractions à la police de la signalisation
+maritime ".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
 	  - Code des transports - art. L5243-2-2
+	  - Code des transports - art. L5336-5
 
 	**Codifié par**:
 
@@ -49081,18 +49937,16 @@ du titre IV sont applicables aux Terres australes et antarctiques françaises.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5792-3
+###### Article L5792-2
 
-Pour l'application des articles L. 5222-2 et L. 5243-2-2 aux Terres australes et antarctiques françaises, les mots : " et au
-3° de l'article L. 5336-5 " et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et
-les agents chargés de la constatation des infractions à la police de la signalisation maritime ".
+Pour l'application aux Terres australes et antarctiques françaises de l'article L. 5222-1, les attributions du délégué à la
+mer et au littoral sont exercées par le directeur de la mer sud océan Indien.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L5222-2
-	  - Code des transports - art. L5243-2-2
+	  - Code des transports - art. L5222-1
 
 	**Codifié par**:
 
@@ -49100,7 +49954,29 @@ les agents chargés de la constatation des infractions à la police de la signal
 
 	**Créé par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+
+###### Article L5792-3
+
+Pour l'application de l'article L. 5243-2-2 aux Terres australes et antarctiques françaises, les mots : " et les agents du 3°
+de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la constatation des infractions à la police
+de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+
+	**Cite**:
+
+	  - Code des transports - art. L5243-2-2
+	  - Code des transports - art. L5336-5
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre III : Les ports maritimes
@@ -51323,10 +52199,6 @@ La confiscation des objets et appareils régulièrement saisis est prononcée pa
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-##### Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile
-
 
 
 ##### Section 5 : Enquêtes de sécurité relatives aux incidents et aux accidents d'aviation civile
