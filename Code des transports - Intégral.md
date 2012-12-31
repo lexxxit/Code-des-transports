@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-12-19
+Version Consolidée au 2013-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -1570,23 +1570,35 @@ Le plan de déplacements urbains est élaboré ou révisé à l'initiative de l'
 transports urbains sur le territoire qu'il couvre. 
 
 Les services de l'Etat, de même que les régions et les départements au titre de leur qualité d'autorités organisatrices de
-transport ou de gestionnaires d'un réseau routier et, le cas échéant, le président de l'établissement public mentionné à
-l'article L. 122-4 du code de l'urbanisme sont associés à son élaboration. 
+transport ou de gestionnaires d'un réseau routier et, le cas échéant, le président de l'établissement public mentionné aux
+articles L. 122-4 et L. 122-4-1 du code de l'urbanisme sont associés à son élaboration. 
 
 Les représentants des professions et des usagers des transports ainsi que des associations de personnes handicapées ou dont
 la mobilité est réduite, les chambres de commerce et d'industrie et les associations agréées de protection de l'environnement
 mentionnées à l'article L. 141-1 du code de l'environnement sont consultés, à leur demande, sur le projet.
 
+**Nota:**
+
+Ordonnance n° 2012-11 du 5 janvier 2012 article 19 : Les présentes dispositions entrent en vigueur à une date déterminée par
+décret en Conseil d'Etat et au plus tard le 1er janvier 2013. Toutefois, les dispositions en vigueur antérieurement à
+l'entrée en vigueur de l'ordonnance demeurent applicables :
+
+- aux procédures d'élaboration et de révision des schémas de cohérence territoriale et des plans locaux d'urbanisme
+prescrites à cette même date ;
+
+- aux procédures de modification des schémas de cohérence territoriale et des plans locaux d'urbanisme lorsque le projet de
+modification a été notifié aux personnes publiques associées à la date d'entrée en vigueur de l'ordonnance.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-2 (M), alinéa 1
+	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 14
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (V)
-	  - Code de l'environnement - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L122-4 (VT)
+	  - Code de l'environnement - art. L141-1
 
 	**Cité par**:
 
@@ -21568,7 +21580,14 @@ Les dispositions du chapitre II sont en outre applicables aux navires circulant 
 Les règles de construction, gréement et entretien des bateaux destinées à assurer la sécurité des personnes et des biens se
 trouvant à bord et celle de la navigation sont fixées par voie réglementaire.
 
+Un arrêté du ministre chargé des voies navigables réglemente la navigation dans les eaux intérieures des bateaux
+traditionnels lorsque ceux-ci sont possédés par une association dont seuls les membres ont vocation à embarquer à leur bord.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 5
 
 	**Cité par**:
 
@@ -21811,6 +21830,26 @@ dans les eaux maritimes définies à l'article L. 5000-1.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L4241-3
+
+Sans préjudice des compétences dévolues au représentant de l'Etat en matière de police de la navigation intérieure, le
+gestionnaire de la voie d'eau est compétent pour prendre les mesures temporaires d'interruption ou de modification des
+conditions de la navigation rendues nécessaires par les incidents d'exploitation, les travaux de maintenance ou des
+événements climatiques. La liste de ces mesures est fixée par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2012-1556 du 28 décembre 2012 - art. 1 (V)
+	  - Code des transports - art. A4241-26  (V)
+	  - Code des transports - art. R4241-26 (VD)
 
 
 ##### Chapitre II : Navigation des bateaux non motorisés
@@ -22176,15 +22215,12 @@ des articles L. 4242-2, L. 4242-3 et L. 4243-1.
 
 ###### Article L4272-1
 
-Sont chargés de constater les infractions définies par les chapitres III et IV et par les règlements concernant les bateaux,
-outre les officiers et agents de police judiciaire, les fonctionnaires et agents relevant du ministre chargé des transports,
-assermentés et commissionnés dans des conditions fixées par décret en Conseil d'Etat.
+Sont chargés de constater les infractions définies par les chapitres III et IV, par les règlements de police de la navigation
+intérieure et par les règlements concernant les bateaux, outre les officiers et agents de police judiciaire, les
+fonctionnaires et agents relevant du ministre chargé des transports, assermentés et commissionnés dans des conditions fixées
+par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°72-1202 du 23 décembre 1972 - art. 22 (Ab)
 
 	**Cité par**:
 
@@ -22207,9 +22243,33 @@ assermentés et commissionnés dans des conditions fixées par décret en Consei
 	  - Code des transports - art. R4272-1 (V)
 	  - Code des transports - art. R4272-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L4272-2
+
+Les infractions définies par les règlements de police de la navigation intérieure peuvent être constatées par les personnels
+de Voies navigables de France commissionnés et assermentés dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
+
+	**Cité par**:
+
+	  - Décret n°2012-722 du 9 mai 2012 - art. 20 (Ab)
+	  - Loi n°2015-992 du 17 août 2015 - art. 167 (V)
+	  - Arrêté du 11 juillet 2016 - art. (V)
+	  - Code de la route. - art. L330-2 (VT)
+	  - Code des transports - art. R4272-2 (V)
 
 
 ##### Chapitre III : Contraventions de grande voirie
@@ -22578,25 +22638,24 @@ série qui n'est pas conforme à ce prototype.
 
 ###### Article L4311-1
 
-L'établissement public de l'Etat à caractère industriel et commercial dénommé Voies navigables de France est chargé de
-l'exploitation, de l'entretien, de l'amélioration, de l'extension et de la promotion des voies navigables et de leurs
-dépendances, ainsi que de l'étude de toute question relative à la navigation intérieure et à l'utilisation des cours d'eau et
-plans d'eau. 
+L'établissement public de l'Etat à caractère administratif dénommé " Voies navigables de France " : 
 
-Pour l'accomplissement de ses missions, il gère et exploite, en régie directe ou par l'intermédiaire de sociétés filiales, le
-domaine de l'Etat qui lui est confié en vertu de l'article L. 4314-1, ainsi que son domaine privé. 
+1° Assure l'exploitation, l'entretien, la maintenance, l'amélioration, l'extension et la promotion des voies navigables ainsi
+que de leurs dépendances en développant un transport fluvial complémentaire des autres modes de transport, contribuant ainsi
+au report modal par le réseau principal et par le réseau secondaire ; 
 
-Il apporte un appui technique aux autorités administratives de l'Etat en charge de la navigation intérieure et peut proposer
-toute réglementation concernant l'exploitation du domaine public fluvial, les activités ou professions qui s'y rattachent et
-la police de la navigation intérieure.
+2° Est chargé de la gestion hydraulique des voies qui lui sont confiées en conciliant les usages diversifiés de la ressource
+aquatique, ainsi qu'en assurant l'entretien et la surveillance des ouvrages et aménagements hydrauliques situés sur le
+domaine qui lui est confié ; 
+
+3° Concourt au développement durable et à l'aménagement du territoire, notamment par la sauvegarde des zones humides et des
+aménagements nécessaires à la reconstitution de la continuité écologique, la prévention des inondations, la conservation du
+patrimoine et la promotion du tourisme fluvial et des activités nautiques ; 
+
+4° Gère et exploite, en régie directe ou par l'intermédiaire de personnes morales de droit public ou de sociétés qu'il
+contrôle, le domaine de l'Etat qui lui est confié en vertu de l'article L. 4314-1 ainsi que son domaine privé.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 27 février 1912 - art. 67 (Ab), alinéas 1 à 4, sauf ecqc RAP
-	  - Loi n°90-1168 du 29 décembre 1990 - art. 124 (Ab), alinéas 1 et 2
-	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT), alinéa 1, paragraphe I
 
 	**Cité par**:
 
@@ -22605,13 +22664,60 @@ la police de la navigation intérieure.
 	  - Code des transports - art. R4311-1 (V)
 	  - Code des transports - art. R4313-14 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 1
+
 	**Cite**:
 
-	  - Code des transports - art. L4314-1 (V)
+	  - Code des transports - art. L4314-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L4311-1-1
+
+Voies navigables de France est chargé de l'étude de toute question relative à la navigation intérieure et à l'utilisation des
+cours et plans d'eau.
+
+Cet établissement apporte un appui technique aux autorités administratives de l'Etat en matière de navigation intérieure et
+propose toute réglementation qu'il estime nécessaire concernant l'exploitation du domaine public fluvial, les activités et
+les professions qui s'y rattachent ainsi que la police de la navigation intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 1
+
+
+###### Article L4311-1-2
+
+Pour l'exercice de ses pouvoirs de police de la navigation intérieure, notamment lorsqu'une situation de crise le justifie,
+le représentant de l'Etat territorialement compétent dispose des services de Voies navigables de France.
+
+L'établissement informe l'autorité administrative territorialement compétente de tout événement susceptible de porter
+gravement atteinte à l'ordre public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 1
+
+
+###### Article L4311-1-3
+
+L'Etat et l'Agence de financement des infrastructures de transport de France concourent au financement des actions et projets
+prévus pour les voies navigables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 1
 
 
 ###### Article L4311-2
@@ -22805,26 +22911,35 @@ confier à des sociétés l'exercice de certaines de ses missions, sont fixées 
 
 ###### Article L4312-1
 
-Voies navigables de France est administré par un conseil d'administration, qui comprend :
+Voies navigables de France est administré par un conseil d'administration, qui comprend : 
 
-1° Des représentants de l'Etat ;
+1° Des représentants de l'Etat ; 
 
 2° Des personnalités qualifiées dans les domaines de la navigation intérieure, des transports, de l'énergie hydraulique, de
-la protection des milieux aquatiques et de l'aménagement du territoire ;
+la protection des milieux aquatiques et de l'aménagement du territoire ; 
 
-3° Des représentants du personnel de l'établissement.
+3° Des représentants du personnel de l'établissement. Sont électeurs au conseil d'administration toutes les catégories de
+personnel mentionnées à l'article L. 4312-3-1. L'élection a lieu par collège représentant respectivement, d'une part, les
+personnels mentionnés aux 1° à 3° du même article L. 4312-3-1 et, d'autre part, les personnels mentionnés au 4° dudit
+article, dans des conditions de nature à permettre la représentation de chaque collège fixées par décret en Conseil d'Etat.
+Le nombre de représentants du personnel au conseil d'administration tient compte des effectifs respectifs des agents de droit
+public et des salariés de droit privé de l'établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi du 27 février 1912 - art. 67 (Ab), alinéa 4, ecqc RAP
 
 	**Cité par**:
 
 	  - Décret n°60-1441 du 26 décembre 1960 - art. 6 (V)
 	  - Décret n°2013-920 du 15 octobre 2013 - art. 1 (V)
 	  - Code des transports - art. R4312-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L4312-3-1
 
 	**Codifié par**:
 
@@ -22860,19 +22975,26 @@ d'empêchement.
 ###### Article L4312-3
 
 Le directeur général de Voies navigables de France est nommé par décret, sur le rapport du ministre chargé des transports,
-après avis du conseil d'administration.
+après avis du conseil d'administration. 
 
 Il met en œuvre la politique arrêtée par le conseil d'administration, assure l'exécution de ses délibérations et exerce les
-compétences que ce dernier lui délègue.
+compétences que ce dernier lui délègue. 
 
 Après accord du conseil d'administration, il peut confier aux agents et aux représentants locaux de l'établissement certaines
-de ses attributions propres et certaines des compétences que le conseil d'administrations lui a déléguées.
+de ses attributions propres et certaines des compétences que le conseil d'administrations lui a déléguées. 
+
+Le directeur général a autorité sur l'ensemble des personnels de l'établissement. 
+
+Il peut disposer d'une délégation de tout ou partie des pouvoirs du ministre chargé des transports en matière de gestion et
+de recrutement des personnels mentionnés aux 1° et 2° de l'article L. 4312-3-1, dans des conditions définies par décret en
+Conseil d'Etat. 
+
+Il recrute et gère les personnels mentionnés aux 3° et 4° du même article L. 4312-3-1. 
+
+Il peut déléguer ses pouvoirs en matière de gestion et de recrutement aux directeurs des services territoriaux de
+l'établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°60-1441 du 26 décembre 1960 - art. 16 (V), 17 (V) et 18 (V), en partie
 
 	**Cité par**:
 
@@ -22881,12 +23003,285 @@ de ses attributions propres et certaines des compétences que le conseil d'admin
 	  - Code des transports - art. R4312-16 (V)
 	  - Code des transports - art. R4312-17 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L4312-3-1
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Dispositions diverses
+##### Section 3 : Personnel de l'établissement
+
+###### Article L4312-3-1
+
+Le personnel de Voies navigables de France comprend, dans les conditions prévues à l'article L. 4312-3-3 : 
+
+1° Des fonctionnaires de l'Etat ; 
+
+2° Des ouvriers des parcs et ateliers des ponts et chaussées et des bases aériennes de l'Etat ; 
+
+3° Des agents non titulaires de droit public ; 
+
+4° Des salariés régis par le code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 13 (Ab)
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 6 (V)
+	  - Décret n°2013-920 du 15 octobre 2013 - art. 4 (V)
+	  - Décret n°2013-920 du 15 octobre 2013 - art. 5 (V)
+	  - Décret n°2013-1039 du 19 novembre 2013 - art. 13 (V)
+	  - Décret n°2014-131 du 14 février 2014 - art. 1 (V)
+	  - Ordonnance n°2016-489 du 21 avril 2016 - art. 13 (V)
+	  - Code des transports - art. L4312-1 (VD)
+	  - Code des transports - art. L4312-3 (VD)
+	  - Code des transports - art. L4312-3-2 (V)
+	  - Code des transports - art. L4312-3-4 (VD)
+	  - Code des transports - art. R4312-1 (V)
+	  - Code des transports - art. R4312-10 (V)
+	  - Code des transports - art. R4312-23 (V)
+	  - Code des transports - art. R4312-24 (V)
+	  - Code des transports - art. R4312-25 (V)
+	  - Code des transports - art. R4312-26 (V)
+	  - Code des transports - art. R4312-31 (V)
+	  - Code des transports - art. R4312-32 (V)
+	  - Code des transports - art. R4312-33 (V)
+	  - Code des transports - art. R4312-38 (V)
+	  - Code des transports - art. R4312-39 (V)
+	  - Code des transports - art. R4312-56 (V)
+	  - Code des transports - art. R4312-57 (V)
+	  - Code des transports - art. R4312-59 (V)
+	  - Code des transports - art. R4312-61 (V)
+	  - Code des transports - art. R4312-63 (V)
+	  - Code des transports - art. R4312-65 (V)
+	  - Code des transports - art. R4312-67 (V)
+	  - Code des transports - art. R4312-68 (V)
+	  - Code des transports - art. R4312-69 (V)
+	  - Code des transports - art. R4312-70 (V)
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L4312-3-3
+
+
+###### Article L4312-3-2
+
+I. ― Il est institué, dans les conditions prévues à l'article 15 de la loi n° 84-16 du 11 janvier 1984 portant dispositions
+statutaires relatives à la fonction publique de l'Etat, un comité technique unique, compétent pour l'ensemble des personnels
+de Voies navigables de France. Il exerce les compétences des comités techniques prévus au même article 15, ainsi que les
+compétences prévues aux articles L. 2323-1 à L. 2323-87 du code du travail, sous réserve des adaptations prévues par décret
+en Conseil d'Etat. 
+
+Ce comité technique unique comprend : 
+
+1° Une formation représentant les agents de droit public, exerçant les compétences prévues à l'article 15 de la loi n° 84-16
+du 11 janvier 1984 précitée ; 
+
+2° Une formation représentant les salariés de droit privé, exerçant les compétences prévues au chapitre III du titre II du
+livre III de la deuxième partie du code du travail et bénéficiant des moyens prévus aux articles L. 2325-1 à L. 2325-44 du
+même code, sous réserve des adaptations prévues dans le décret en Conseil d'Etat visé au premier alinéa du présent I ; 
+
+3° Une formation plénière, issue des deux premières. 
+
+Chacune des deux formations prévues aux 1° et 2° est réunie pour les questions relevant de sa compétence. Le comité technique
+unique est réuni en formation plénière pour examiner les questions intéressant l'ensemble du personnel de l'établissement,
+dans des conditions définies par décret en Conseil d'Etat. 
+
+Le comité technique unique est doté de la personnalité civile et gère son patrimoine. 
+
+La formation visée au 2° est compétente pour gérer son budget de fonctionnement et le budget des activités sociales et
+culturelles. A cet effet, cette formation bénéficie de la personnalité civile et gère le patrimoine du comité d'entreprise
+auquel elle succède, ainsi que les budgets qui lui sont attribués. 
+
+Seule la formation visée au 2° est compétente pour gérer le budget des activités sociales et culturelles des salariés de
+droit privé. 
+
+Le comité technique unique est composé, dans sa formation plénière, du directeur général de l'établissement ou de son
+représentant, qui le préside, et des représentants du personnel issus des deux autres formations. Seuls les représentants du
+personnel sont appelés à prendre part aux votes lorsque le comité est consulté. 
+
+Chacune des deux formations restreintes est composée du directeur général de l'établissement ou de son représentant, qui le
+préside, et des représentants des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1, pour l'une, et des personnels
+mentionnés au 4° de ce même article, pour l'autre. Seuls les représentants du personnel sont appelés à prendre part aux votes
+lorsqu'une formation est consultée. 
+
+Les représentants du personnel siégeant au comité technique unique sont élus, par collège, au scrutin de liste à la
+représentation proportionnelle, selon des modalités fixées par décret en Conseil d'Etat. 
+
+Les candidatures sont présentées par les organisations syndicales qui remplissent les conditions suivantes : 
+
+a) Pour le collège des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1, celles prévues à l'article 9 bis de la loi
+n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ; 
+
+b) Pour le collège des personnels mentionnés au 4° du même article L. 4312-3-1, celles prévues à l'article L. 2324-4 du code
+du travail. 
+
+La composition de la représentation du personnel au sein du comité technique unique et de ses formations est fixée par décret
+en Conseil d'Etat de façon à permettre la représentation de chaque collège, c'est-à-dire pour tenir compte des effectifs,
+d'une part, des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1 et, d'autre part, des personnels mentionnés au 4°
+du même article, et en particulier pour tenir compte des attributions confiées à la formation représentant les salariés de
+droit privé, tant économiques que sociales, et assurer l'animation et la participation effective aux diverses commissions
+prévues aux articles L. 2325-22 à L. 2325-34 du code du travail. La représentativité des organisations syndicales des
+salariés de droit privé est appréciée au regard des résultats obtenus, dans les conditions de l'article L. 2122-1 du même
+code, au niveau du collège desdits salariés, dans le cadre des élections de la formation représentant les salariés de droit
+privé au comité technique unique. 
+
+La mise en place des délégués syndicaux s'effectue au niveau central et ce pour chacun des deux collèges du personnel
+mentionné, d'une part, aux 1° à 3° de l'article L. 4312-3-1 du présent code et, d'autre part, au 4° du même article. Les
+délégués syndicaux de chacun de ces deux collèges de personnel sont désignés par les organisations syndicales représentatives
+dans l'agence qui y constituent une section syndicale, qui ont recueilli au moins 10 % des suffrages exprimés aux dernières
+élections du comité technique unique, dans les conditions de l'article L. 2122-1 du code du travail pour les personnels visés
+au 4° de l'article L. 4312-3-1 du présent code et dans les conditions visées par décret pour les personnels visés aux 1° à 3°
+du même article, le seuil étant apprécié au niveau du seul collège des personnels qu'elles représentent, c'est-à-dire, d'une
+part, des personnels mentionnés aux 1° à 3° dudit article et, d'autre part, des personnels mentionnés au 4° de ce même
+article. 
+
+II. ― Des comités techniques uniques de proximité compétents pour l'ensemble des catégories de personnel de l'établissement
+sont institués auprès de chaque directeur territorial de l'établissement. 
+
+Ils exercent les compétences de comités techniques locaux et les compétences de comités d'établissement. 
+
+Un comité technique unique de proximité comprend le directeur territorial de l'établissement ou son représentant, qui le
+préside, et des représentants de tous les personnels mentionnés aux 1° à 4° de l'article L. 4312-3-1. Seuls les représentants
+du personnel sont appelés à prendre part aux votes lorsque le comité est consulté. 
+
+Les modalités d'élection des membres des comités techniques uniques de proximité et la composition de la représentation du
+personnel sont fixées par décret en Conseil d'Etat. 
+
+III. ― Sont institués un comité central d'hygiène, de sécurité et des conditions de travail, placé auprès du directeur
+général de l'établissement, et des comités locaux d'hygiène, de sécurité et des conditions de travail, placés auprès de
+chaque directeur territorial de l'établissement. 
+
+Le comité central d'hygiène, de sécurité et des conditions de travail ainsi que les comités locaux d'hygiène, de sécurité et
+des conditions de travail sont compétents pour l'ensemble du personnel de l'établissement. Ils exercent les compétences des
+comités prévus à l'article 16 de la loi n° 84-16 du 11 janvier 1984 précitée ainsi que celles prévues au chapitre II du titre
+Ier du livre VI de la quatrième partie du code du travail, sous réserve des adaptations fixées par décret en Conseil d'Etat.
+Leur composition et leur fonctionnement sont fixés par décret en Conseil d'Etat. 
+
+IV. ― Le chapitre III du titre IV du livre Ier de la deuxième partie du code du travail est applicable à l'ensemble du
+personnel de l'établissement. Les délégués syndicaux sont désignés par les organisations syndicales représentatives dans
+l'établissement qui y constituent une section syndicale parmi, selon le cas, les listes ou candidats qui ont recueilli au
+moins 10 % des suffrages exprimés aux dernières élections du comité technique ou du comité d'entreprise de l'établissement ou
+du comité technique unique s'il est constitué. 
+
+V. ― Pour les salariés mentionnés au 4° de l'article L. 4312-3-1 du présent code, la validité des accords collectifs de
+travail prévus au livre II de la deuxième partie du code du travail est subordonnée à leur signature par une ou plusieurs
+organisations syndicales représentatives ayant recueilli au moins 30 % des suffrages exprimés au premier tour des dernières
+élections du comité d'entreprise et à l'absence d'opposition d'une ou plusieurs organisations syndicales représentatives
+ayant recueilli au moins la majorité des suffrages exprimés à ces mêmes élections. L'opposition est exprimée dans un délai de
+huit jours à compter de la date de notification de l'accord, dans les conditions prévues à l'article L. 2231-8 du même code. 
+
+En application du IV de l'article 8 bis de la loi n° 83-634 du 13 juillet 1983 précitée, un accord est valide, pour les
+personnels mentionnés au 1° de l'article L. 4312-3-1 du présent code, s'il est signé par une ou plusieurs organisations
+syndicales de fonctionnaires ayant recueilli au moins 50 % du nombre des voix lors des dernières élections au comité
+technique. Le présent alinéa est également applicable pour déterminer la validité des accords pour les personnels mentionnés
+aux 2° et 3° du même article L. 4312-3-1. 
+
+VI. ― Chaque syndicat qui constitue, en application de l'article L. 2142-1 du code du travail, une section syndicale au sein
+de l'établissement peut, s'il n'est pas représentatif dans l'établissement, désigner un représentant de la section pour le
+représenter au sein de l'établissement. 
+
+VII. ― Les membres des comités mentionnés au présent article, les délégués du personnel, les délégués syndicaux et les
+représentants des sections syndicales bénéficient des garanties prévues par leur statut respectif et, pour ce qui concerne
+les salariés régis par le code du travail, de la protection prévue au livre IV de la deuxième partie du même code. 
+
+VIII. ― Les agents mentionnés aux 1° à 3° de l'article L. 4312-3-1 du présent code demeurent électeurs au comité technique
+ministériel du ministère chargé du développement durable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 6 (V)
+	  - Décret n°2013-1039 du 19 novembre 2013 - art. 1 (V)
+	  - Décret n°2014-1213 du 21 octobre 2014 (V)
+	  - Code des transports - art. L4312-3-4 (V)
+	  - Code des transports - art. R4312-23 (V)
+	  - Code des transports - art. R4312-70 (V)
+	  - Code des transports - art. R4312-9 (V)
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 8 bis
+	  - Loi n°83-634 du 13 juillet 1983 - art. 9 bis
+	  - Loi n°84-16 du 11 janvier 1984 - art. 15
+	  - Loi n°84-16 du 11 janvier 1984 - art. 16
+	  - Code du travail - art. L2122-1
+	  - Code du travail - art. L2142-1
+	  - Code du travail - art. L2231-8 (V)
+	  - Code du travail - art. L2323-1
+	  - Code du travail - art. L2324-4
+	  - Code du travail - art. L2325-1
+	  - Code du travail - art. L2325-22
+	  - Code des transports - art. L4312-3-1
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
+
+
+###### Article L4312-3-3
+
+I. ― Un décret en Conseil d'Etat établit, après avis du conseil d'administration et du comité technique unique, les types
+d'emplois qui sont nécessaires à l'exercice de l'ensemble des missions de l'établissement et détermine les catégories de
+personnel, de droit public et de droit privé, ayant vocation à les occuper. 
+
+II. ― Le conseil d'administration de l'établissement établit chaque année, après avis du comité technique unique, les
+orientations en matière de recrutement qui s'inscrivent dans le cadre défini au I et qui précisent les prévisions de
+recrutement et d'emploi dans les différentes catégories de personnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code des transports - art. L4312-3-1 (VD)
+
+
+###### Article L4312-3-4
+
+A l'issue de la période transitoire prévue au II de l'article 8 de la loi n° 2012-77 du 24 janvier 2012 relative à Voies
+navigables de France, le régime d'organisation et d'aménagement du temps de travail applicable aux personnels mentionnés aux
+1° à 3° de l'article L. 4312-3-1 du présent code est défini par un accord collectif conclu entre l'établissement public et
+les représentants de ces personnels dans les conditions prévues au second alinéa du V de l'article L. 4312-3-2 du même code
+et prenant en compte les spécificités des missions exercées. 
+
+A défaut d'accord, ce régime d'organisation et d'aménagement du temps de travail est établi par délibération du conseil
+d'administration de l'établissement, après avis du comité technique unique. 
+
+Un décret en Conseil d'Etat précise les modalités de mise en œuvre du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 8
+	  - Code des transports - art. L4312-3-1
+	  - Code des transports - art. L4312-3-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2016-666 du 24 mai 2016 (V)
+
 
 ###### Article L4312-4
 
@@ -22894,6 +23289,10 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 de ses dispositions peuvent être modifiées par voie réglementaire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 2
 
 	**Codifié par**:
 
@@ -22950,19 +23349,19 @@ de la propriété des personnes publiques.
 
 ###### Article L4313-3
 
-Dans le cas où des atteintes à l'intégrité et à la conservation du domaine confié à Voies navigables de France ont été
-constatées, le président de Voies navigables de France saisit le tribunal administratif territorialement compétent, en lieu
-et place du préfet, dans les conditions et suivant les procédures prévues par le chapitre IV du titre VII du livre VII du
-code de justice administrative.
+Dans le cas où des atteintes à l'intégrité et à la conservation du domaine défini par le chapitre IV du présent titre ont été
+constatées, le directeur général de Voies navigables de France saisit la juridiction territorialement compétente, en lieu et
+place du préfet, dans les conditions et suivant les procédures prévues par le chapitre IV du titre VII du livre VII du code
+de justice administrative. 
 
-Le président de Voies navigables de France peut déléguer sa signature au directeur général. Le directeur général peut
-subdéléguer sa signature aux chefs des services déconcentrés de l'Etat qui sont les représentants locaux de l'établissement.
+Il peut déléguer sa signature aux directeurs des services territoriaux de l'établissement. Ces derniers peuvent subdéléguer
+leur signature aux agents de l'établissement chargés de fonctions d'encadrement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT), alinéa 5, ecqc VNF paragraphe IV, alinéa 6, paragraphe VI
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 3
 
 	**Cité par**:
 
@@ -23531,6 +23930,23 @@ règlements de police qui leur sont applicables. Ledit procès-verbal est remis 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L4321-4
+
+Les ports fluviaux appartenant à l'Etat, à une collectivité territoriale ou à un groupement de collectivités territoriales,
+situés sur des voies non transférables au sens de l'article L. 3113-3 du code général de la propriété des personnes
+publiques, peuvent mener des opérations de coopération transfrontalière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-77 du 24 janvier 2012 - art. 4
+
+	**Cite**:
+
+	  - Code général de la propriété des personnes publiques. - art. L3113-3
 
 
 ##### Chapitre II : Port autonome de Paris
@@ -26287,6 +26703,37 @@ douanes.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5112-2
+
+Tous les navires battant pavillon français sont jaugés à l'exception des navires de plaisance dont la longueur, au sens de la
+convention internationale du 23 juin 1969 sur le jaugeage des navires, est inférieure à 24 mètres.
+
+Les certificats de jauge sont délivrés par l'autorité administrative ou par des sociétés de classification habilitées dans
+des conditions fixées par décret en Conseil d'Etat. Ils peuvent faire l'objet de mesures de retrait.
+
+Leur délivrance peut donner lieu à perception d'une rémunération.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 1 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 2 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 3 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 32 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 61 (V)
+	  - Arrêté du 23 novembre 1987 - art. 110.9.1 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Décret n°2016-1693 du 9 décembre 2016 - art. 5
+	  - Décret n°2016-1693 du 9 décembre 2016 - art. 58
+	  - Décret n°2017-422 du 28 mars 2017 - art. 2
+	  - Décret n°2017-422 du 28 mars 2017 - art. 7
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 61 (V)
 
 
 ##### Chapitre III : Construction des navires
@@ -57944,7 +58391,14 @@ un an, à dater de leur exigibilité :
 
 1° Par un privilège mobilier prenant rang concurremment avec celui établi par le 4° de l'article 2331 du code civil ; 
 
-2° Par une hypothèque légale prenant rang du jour de son inscription au bureau des hypothèques.
+2° Par une hypothèque légale prenant rang du jour de son inscription au fichier immobilier (1).
+
+**Nota:**
+
+(1) L'ordonnance n° 2010-638, article 13, a modifié l'article L. 426-5 du code de l'aviation civile en remplaçant les mots
+"au bureau des hypothèques" par les mots "au fichier immobilier". Cette mise à jour sera reportée au 1er janvier 2013 (entrée
+en vigueur différée) à l'article L. 6527-10 du code des transports qui a remplacé l'article L. 426-5 du code de l'aviation
+civile.
 
 **Liens relatifs à cet article**
 
@@ -57952,10 +58406,6 @@ un an, à dater de leur exigibilité :
 
 	  - Code civil - art. 2331
 	  - Code des transports - art. L6527-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L426-5 (VT), alinéas 1, 4, 5 et 6, ecqc la garantie de paiement de cotisations versées
 
 	**Cité par**:
 
