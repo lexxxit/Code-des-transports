@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-02-16
 
 # PARTIE LEGISLATIVE
 
@@ -35708,7 +35708,9 @@ officiers de port adjoints ou surveillants de port concernant le mouvement de so
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Suivi du trafic
+##### Section 2 : Suivi du trafic et formalités déclaratives applicables aux navires à l'entrée et à la sortie des ports maritimes
+
+##### Sous-section 1 : Suivi du trafic
 
 ###### Article L5334-6
 
@@ -35719,13 +35721,13 @@ et aux caractéristiques des cargaisons, notamment dangereuses ou polluantes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code des ports maritimes - art. L153-1 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2013-139 du 13 février 2013 - art. 1
 
 
 ##### Section 3 : Déchets d'exploitation des navires et résidus de cargaison
@@ -49412,17 +49414,22 @@ une liste fixée par décret en Conseil d'Etat.
 
 ###### Article L5753-2
 
-Les dispositions des articles L. 5314-3, L. 5343-1 à L. 5343-23 et L. 5344-1 à L. 5344-4, L. 5351-4 ne sont pas applicables à
-Saint-Pierre-et-Miquelon.
+Les dispositions des articles L. 5314-3, L. 5334-6-1 à L. 5334-6-3, L. 5343-1 à L. 5343-23 et L. 5344-1 à L. 5344-4, L.
+5351-4 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2013-139 du 13 février 2013 - art. 1
+
 	**Cite**:
 
-	  - Code des transports - art. L5314-3 (V)
-	  - Code des transports - art. L5343-1 (V)
-	  - Code des transports - art. L5344-1 (V)
-	  - Code des transports - art. L5351-4 (V)
+	  - Code des transports - art. L5314-3
+	  - Code des transports - art. L5334-6-1
+	  - Code des transports - art. L5343-1
+	  - Code des transports - art. L5344-1
+	  - Code des transports - art. L5351-4
 
 	**Codifié par**:
 
