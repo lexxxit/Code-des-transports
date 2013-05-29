@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-03-28
+Version Consolidée au 2013-05-30
 
 # PARTIE LEGISLATIVE
 
@@ -777,8 +777,9 @@ sont supportés par les usagers et les tiers.
 II. ― A cette fin, elle favorise, selon une logique intermodale :
 
 1° La complémentarité des modes de transports individuels et collectifs ainsi que leur coopération, notamment par les choix
-d'infrastructures, par l'aménagement des lieux d'échanges et de correspondances et par le développement rationnel des
-transports combinés ;
+d'infrastructures, par l'aménagement des lieux d'échanges et de correspondances, par la création d'aires de stationnement
+sécurisé pour les vélos dans les nouvelles gares et les réaménagements de gares existantes du réseau ferré et par le
+développement rationnel des transports combinés ;
 
 2° La coopération entre les opérateurs, la tarification combinée et l'information des usagers sur les différents modes de
 transports, par la coordination de l'exploitation des réseaux ;
@@ -795,9 +796,9 @@ fonctionnement ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 3 (VT), alinéas 1 à 4
+	  - Loi n°2013-431 du 28 mai 2013 - art. 5
 
 	**Cité par**:
 
@@ -3343,24 +3344,21 @@ région Ile-de-France par le syndicat figurent à l'article L. 3111-15.
 
 Le Syndicat des transports d'Ile-de-France peut assurer la maîtrise d'ouvrage ou désigner le ou les maîtres d'ouvrage de
 projets d'infrastructures nouvelles destinées au transport public de voyageurs, dans la limite des compétences reconnues à
-l'établissement public Réseau ferré de France.
+l'établissement public Réseau ferré de France. 
 
 Le Syndicat des transports d'Ile-de-France et la Régie autonome des transports parisiens exercent conjointement, dans la
 limite des compétences reconnues à l'établissement public Réseau ferré de France, la maîtrise d'ouvrage des opérations,
 décidées à partir du 1er janvier 2010, ayant pour objet les aménagements, les extensions ou les prolongements directs,
-dépendants ou accessoires des lignes, ouvrages ou installations existant à la même date. Le Syndicat des transports d'Ile-de-
-France s'assure de la faisabilité et de l'opportunité des opérations considérées, en détermine la localisation, le programme,
-l'enveloppe financière prévisionnelle et, sans préjudice de la contribution de la régie, en assure le financement. La Régie
-autonome des transports parisiens choisit le processus selon lequel l'infrastructure et les matériels sont réalisés ou
-acquis, en assure ou en fait assurer la maîtrise d'œuvre et conclut les contrats ayant pour objet les études et l'exécution
-des travaux. Pour chaque opération, une convention précise les conditions d'organisation de la maîtrise d'ouvrage dont le
-syndicat assure le suivi et le contrôle d'ensemble.
+dépendants ou accessoires des lignes, ouvrages ou installations constitutifs de l'infrastructure gérée par la Régie, en
+application de l'article L. 2142-3 existant à la même date. Le Syndicat des transports d'Ile-de-France s'assure de la
+faisabilité et de l'opportunité des opérations considérées, en détermine la localisation, le programme, l'enveloppe
+financière prévisionnelle et, sans préjudice de la contribution de la régie, en assure le financement. La Régie autonome des
+transports parisiens choisit le processus selon lequel l'infrastructure et les matériels sont réalisés ou acquis, en assure
+ou en fait assurer la maîtrise d'œuvre et conclut les contrats ayant pour objet les études et l'exécution des travaux. Pour
+chaque opération, une convention précise les conditions d'organisation de la maîtrise d'ouvrage dont le syndicat assure le
+suivi et le contrôle d'ensemble.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1 (VT), alinéa 15, paragraphe II
 
 	**Cité par**:
 
@@ -3368,6 +3366,14 @@ syndicat assure le suivi et le contrôle d'ensemble.
 	  - Décret n°2011-320 du 23 mars 2011 - art. 19 (V)
 	  - Décret n°2017-440 du 30 mars 2017 - art. 19 (V)
 	  - Décret n°2017-440 du 30 mars 2017 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 7
+
+	**Cite**:
+
+	  - Code des transports - art. L2142-3
 
 	**Codifié par**:
 
@@ -5852,15 +5858,16 @@ déchargement des véhicules tant ferroviaires que routiers.
 Les fonctionnaires mentionnés au 1° du I peuvent également constater les infractions de faux et d'usage de faux prévues par
 le code pénal portant sur des titres administratifs de transport. Ils peuvent, en outre, se faire présenter tous documents
 relatifs aux transports effectués, notamment pour le contrôle du cabotage. Ils ont accès, entre huit heures et vingt heures,
-aux locaux des entreprises qui commandent des transports routiers de marchandises, à l'exclusion des locaux servant de
-domicile, et peuvent se faire présenter tous documents relatifs aux contrats de transport.
+aux locaux des entreprises de transport terrestre, des loueurs de véhicules de transport routier avec conducteur, des
+commissionnaires de transport et des entreprises qui commandent des transports routiers de marchandises, à l'exclusion des
+locaux servant de domicile, et peuvent se faire présenter tous documents relatifs aux contrats de transport, de location de
+véhicules de transport routier avec conducteur ou de commission de transport.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°52-401 du 14 avril 1952 - art. 25 (VT), alinéas 1 à 7, paragraphe I
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 12 (VT), alinéas 8, 9 et 12, paragraphe II
+	  - Loi n°2013-431 du 28 mai 2013 - art. 20
 
 	**Cité par**:
 
@@ -10190,7 +10197,7 @@ partenariat ou à une convention de délégation de service public prévue par l
 prévention de la corruption et à la transparence de la vie économique et des procédures publiques. 
 
 Le contrat ou la convention peut porter sur la construction, l'entretien et l'exploitation de tout ou partie de
-l'infrastructure. Lorsque la gestion du trafic et des circulations est incluse dans le périmètre du contrat ou de la
+l'infrastructure. Lorsque la gestion opérationnelle des circulations est incluse dans le périmètre du contrat ou de la
 convention, cette mission est assurée par la Société nationale des chemins de fer français, pour le compte du cocontractant
 qui la rémunère à cet effet, dans le respect des objectifs et principes de gestion du réseau ferré national définis par
 Réseau ferré de France. Le contrat ou la convention comporte des stipulations de nature à garantir le respect des impératifs
@@ -10207,10 +10214,6 @@ perception par ce dernier des redevances liées à l'utilisation de l'infrastruc
 
 	  - Loi n°93-122 du 29 janvier 1993
 	  - Ordonnance n°2004-559 du 17 juin 2004
-
-	**Anciens textes**:
-
-	  - Loi n°97-135 du 13 février 1997 - art. 1-1 (Ab)
 
 	**Cité par**:
 
@@ -10231,6 +10234,10 @@ perception par ce dernier des redevances liées à l'utilisation de l'infrastruc
 	  - Code des transports - art. L2122-4-1 (V)
 	  - Code des transports - art. L2133-5 (VD)
 	  - Code des transports - art. L2231-6 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 1
 
 	**Codifié par**:
 
@@ -10861,13 +10868,26 @@ La région peut conclure une convention avec une autorité organisatrice de tran
 pour l'organisation de services ferroviaires régionaux transfrontaliers de personnes, dans les conditions prévues par le code
 général des collectivités territoriales et les traités en vigueur. A défaut d'autorité organisatrice de transport dans la
 région limitrophe de l'Etat voisin, la région peut demander à la Société nationale des chemins de fer français de conclure
-une convention avec le transporteur compétent de l'Etat voisin pour l'organisation de tels services.
+une convention avec le transporteur compétent de l'Etat voisin pour l'organisation de tels services. 
+
+La région peut adhérer à un groupement européen de coopération territoriale ayant notamment pour objet l'organisation de
+services ferroviaires régionaux transfrontaliers de personnes, dans les conditions prévues par le code général des
+collectivités territoriales et les traités en vigueur. 
+
+Par dérogation au premier alinéa de l'article L. 2121-4, une convention passée entre un groupement européen de coopération
+territoriale et la Société nationale des chemins de fer français fixe les conditions d'exploitation et de financement des
+services ferroviaires régionaux transfrontaliers de personnes organisés par le groupement pour leur part réalisée sur le
+territoire national.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 21-5 (Ab), alinéa 3
+	  - Loi n°2013-431 du 28 mai 2013 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L2121-4
 
 	**Codifié par**:
 
@@ -11095,13 +11115,18 @@ moment donné.
 ###### Article L2122-4
 
 La gestion de l'infrastructure ferroviaire est comptablement séparée de l'exploitation des services de transport des
-entreprises ferroviaires. Aucune aide publique versée à une de ces activités ne peut être affectée à l'autre.
+entreprises ferroviaires. Aucune aide publique versée à une de ces activités ne peut être affectée à l'autre. Lorsqu'une
+entreprise exerce des activités d'exploitation de services de transport ferroviaire et de gestion de l'infrastructure
+ferroviaire, elle est tenue, lors du dépôt des comptes annuels au registre du commerce et des sociétés, de déposer également
+les comptes de profits et pertes séparés et des bilans séparés, en distinguant dans chacun de ces documents les éléments
+relatifs, d'une part, aux activités d'exploitation de services de transport des entreprises ferroviaires et, d'autre part, à
+la gestion de l'infrastructure ferroviaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 17-1 (Ab), alinéa 3, paragraphe II
+	  - Loi n°2013-431 du 28 mai 2013 - art. 3
 
 	**Cité par**:
 
@@ -13427,11 +13452,20 @@ L'activité de transport de personnes de la Société nationale des chemins de f
 les comptes d'exploitation, dans les conditions prévues par les conventions conclues avec le Syndicat des transports d'Ile-
 de-France.
 
+L'activité de transport de personnes de la Société nationale des chemins de fer français, hors région d'Ile-de-France, est
+identifiée dans les comptes d'exploitation pour chaque convention conclue avec une autorité organisatrice de transport. 
+
+Dans les conditions fixées par chaque convention d'exploitation, la Société nationale des chemins de fer français transmet
+chaque année, avant le 30 juin, à l'autorité organisatrice de transport les comptes d'exploitation retraçant la totalité des
+opérations afférentes à l'exécution de la convention correspondante sur l'année civile précédente, les comptes détaillés
+ligne par ligne, une analyse de la qualité du service et une annexe permettant à l'autorité organisatrice d'apprécier les
+conditions d'exploitation du transport régional de voyageurs.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 5 (Ab)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 4
 
 	**Cité par**:
 
@@ -14897,18 +14931,19 @@ Réseau ferré de France exerce concurremment avec l'Etat les pouvoirs dévolus 
 l'intégrité et à la conservation de son domaine public. 
 
 Les infractions aux dispositions du chapitre Ier peuvent en outre être constatées par les agents assermentés énumérés au I de
-l'article L. 2241-1.
+l'article L. 2241-1 et par les agents assermentés des personnes agissant pour le compte de Réseau ferré de France ou ayant
+conclu une convention avec Réseau ferré de France en application de l'article L. 2111-9.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°97-135 du 13 février 1997 - art. 11 (Ab)
-	  - Loi du 15 juillet 1845 - art. 11 (VT), alinéa 1, art. 2 (VT), ecqc les infractions aux servitudes jouxtant le domaine public ferroviaire, art. 23 (VT), alinéa 1, ecqc les atteintes à l'intégrité et à la conservation du domaine public ferroviaire
+	  - Loi n°2013-431 du 28 mai 2013 - art. 6
 
 	**Cite**:
 
-	  - Code des transports - art. L2241-1 (V)
+	  - Code des transports - art. L2111-9
+	  - Code des transports - art. L2241-1
 
 	**Codifié par**:
 
@@ -16520,6 +16555,107 @@ personnes réguliers et à la demande.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Chapitre V : Droits des passagers en transport par autobus et autocar
+
+##### Section 1 : Services réguliers
+
+###### Article L3115-1
+
+Le règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans
+le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 s'applique aux services réguliers mentionnés
+au chapitre Ier du présent titre lorsque la distance prévue à parcourir dans le cadre du service est égale ou supérieure à
+250 kilomètres et lorsque la montée ou la descente du passager s'effectue sur le territoire d'un Etat membre de l'Union
+européenne. 
+
+A l'exception du 2 de l'article 4, de l'article 9, du 1 de l'article 10, du b du 1 et du 2 de l'article 16, des 1 et 2 de
+l'article 17 et des articles 24 à 28 du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011
+précité, l'application des dispositions du même règlement concernant les services nationaux peut faire l'objet d'un report,
+selon des modalités transparentes et non discriminatoires, pour une durée maximale de quatre ans à compter du 1er mars 2013,
+renouvelable une fois. 
+
+Un arrêté conjoint des ministres chargés des transports et de l'économie précise la date d'application des dispositions qui
+font l'objet d'un report en application du deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 19
+
+	**Cité par**:
+
+	  - Code des transports - art. L3115-5 (V)
+
+
+###### Article L3115-2
+
+Le 2 de l'article 4, l'article 9, le 1 de l'article 10, le b du 1 et le 2 de l'article 16, les 1 et 2 de l'article 17 et les
+articles 24 à 28 du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 précité s'appliquent
+aux services réguliers dont la distance prévue à parcourir dans le cadre du service est inférieure à 250 kilomètres lorsque
+la montée ou la descente du passager s'effectue sur le territoire d'un Etat membre de l'Union européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 19
+
+
+###### Article L3115-3
+
+L'application du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 précité en ce qui concerne
+certains services réguliers peut faire l'objet d'un report pour une durée maximale de quatre ans à compter du 1er mars 2013,
+renouvelable une fois, selon des modalités transparentes et non discriminatoires, dès lors qu'une part importante desdits
+services, y compris au moins un arrêt prévu, est effectuée en dehors de l'Union européenne. 
+
+Un arrêté conjoint des ministres chargés des transports et de l'économie précise la date d'application des dispositions qui
+font l'objet d'un report en application du premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 19
+
+
+##### Section 2 : Services occasionnels
+
+###### Article L3115-4
+
+Les articles 1er à 8 et les 1 et 2 de l'article 17 du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16
+février 2011 précité s'appliquent aux passagers voyageant dans le cadre de services occasionnels mentionnés au chapitre II du
+présent titre lorsque la montée ou la descente du passager s'effectue sur le territoire d'un Etat membre de l'Union
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 19
+
+
+##### Section 3 : Formation des conducteurs au handicap
+
+###### Article L3115-5
+
+L'application du b du 1 de l'article 16 du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011
+précité peut, pour la formation des conducteurs, faire l'objet d'un report s'agissant des services mentionnés aux articles L.
+3115-1 à L. 3115-3, pour une période maximale de cinq ans à compter du 1er mars 2013. 
+
+Un arrêté conjoint des ministres chargés des transports et de l'économie précise la date d'application de la disposition qui
+fait l'objet d'un report en application du premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 19
+
+	**Cite**:
+
+	  - Code des transports - art. L3115-1 (V)
+
+
 #### TITRE II : LES TRANSPORTS PUBLICS PARTICULIERS
 
 ##### Chapitre Ier : Les taxis
@@ -17955,14 +18091,17 @@ marchandises. Toute clause contraire est réputée non écrite.
 
 ###### Article L3223-3
 
-Les articles L. 3222-1 à L. 3222-3 sont applicables aux contrats de location de véhicules avec conducteur destinés au
-transport routier de marchandises.
+Les articles L. 3222-1 et L. 3222-2 sont applicables aux contrats de location de véhicules avec conducteur destinés au
+transport routier de marchandises. 
+
+L'article L. 3222-3 est applicable à ces contrats de location lorsque le loueur est le redevable destinataire des avis de
+paiement des taxes prévues aux articles 269 à 283 quater du code des douanes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 24 (Ab), alinéa 13, ecqc les contrats de location de véhicules avec conducteur, paragraphe VI
+	  - Loi n°2013-431 du 28 mai 2013 - art. 17
 
 	**Cité par**:
 
@@ -17977,7 +18116,11 @@ transport routier de marchandises.
 
 	**Cite**:
 
-	  - Code des transports - art. L3222-1 (V)
+	  - Code des douanes - art. 269
+	  - Code des douanes - art. 283 quater
+	  - Code des transports - art. L3222-1
+	  - Code des transports - art. L3222-2
+	  - Code des transports - art. L3222-3
 
 	**Codifié par**:
 
@@ -18637,18 +18780,18 @@ repos.
 
 ###### Article L3314-2
 
-Sont soumis à l'obligation de formation professionnelle les conducteurs des véhicules dont le poids total autorisé en charge
-excède trois tonnes et demie et des véhicules de transport de voyageurs comportant huit places assises en plus de celle du
-conducteur.
+Sont soumis à l'obligation de formation professionnelle les conducteurs des véhicules de transport de marchandises dont le
+poids total autorisé en charge excède trois tonnes et demie et des véhicules de transport de personnes comportant plus de
+huit places assises outre le siège du conducteur.
 
 Un décret en Conseil d'Etat fixe la liste des véhicules pour la conduite desquels une telle formation n'est pas obligatoire,
 à raison de leur usage, de leurs caractéristiques ou de leur affectation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance n°58-1310 du 23 décembre 1958 - art. 1 (Ab), alinéa 5
+	  - Loi n°2013-431 du 28 mai 2013 - art. 21
 
 	**Cité par**:
 
@@ -18718,13 +18861,17 @@ Les procès-verbaux établis en application du présent article font foi jusqu'�
 ###### Article L3315-2
 
 Les agents mentionnés à l'article L. 3315-1 ont accès aux dispositifs destinés au contrôle et à toutes leurs composantes afin
-d'en vérifier l'intégrité.
+d'en vérifier l'intégrité. 
+
+Les fonctionnaires et agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports ont accès aux lieux de chargement et de déchargement des véhicules de transport routier afin de
+constater les infractions mentionnées à l'article L. 3315-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance n°58-1310 du 23 décembre 1958 - art. 2 (Ab), alinéa 8
+	  - Loi n°2013-431 du 28 mai 2013 - art. 22
 
 	**Cite**:
 
@@ -18821,10 +18968,11 @@ la route.
 
 ###### Article L3315-6
 
-Est passible des peines prévues par le présent chapitre et des peines sanctionnant les obligations mentionnées aux titres II
-et III du livre Ier de la troisième partie du code du travail toute personne qui, chargée à un titre quelconque de la
-direction ou de l'administration de toute entreprise ou établissement, a, par un acte personnel, contrevenu aux dispositions
-précitées du code du travail ou commis les faits sanctionnés par les articles, L. 3315-2, L. 3315-4 et L. 3315-5.
+Est passible des peines prévues par le présent chapitre et des peines sanctionnant les obligations mentionnées au présent
+titre ainsi qu'aux titres II et III du livre Ier de la troisième partie du code du travail toute personne qui, chargée à un
+titre quelconque de la direction ou de l'administration de toute entreprise ou établissement, a, par un acte personnel,
+contrevenu aux dispositions précitées du présent titre et  du code du travail ou commis les faits sanctionnés par les
+articles, L. 3315-2, L. 3315-4 et L. 3315-5.
 
 Cette personne est passible des mêmes peines si elle a, en tant que commettant, laissé contrevenir à ces dispositions ou
 commettre ces faits toute personne relevant de son autorité ou de son contrôle, en ne prenant pas les dispositions de nature
@@ -18834,14 +18982,14 @@ Le préposé est passible des mêmes peines lorsque l'infraction résulte de son
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance n°58-1310 du 23 décembre 1958 - art. 3 bis (Ab)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 22
 
 	**Cite**:
 
-	  - Code des transports - art. L3315-2 (V)
-	  - Code des transports - art. L3315-4 (V)
+	  - Code des transports - art. L3315-2
+	  - Code des transports - art. L3315-4
 
 	**Cité par**:
 
@@ -20099,13 +20247,18 @@ remplacés par les mots : " par l'article L. 3452-2 ".
 
 ###### Article L3551-1
 
-Le deuxième alinéa de l'article L. 3122-1 ne s'applique pas à Saint-Pierre-et-Miquelon.
+Le chapitre V du titre Ier du livre Ier de la présente partie et le second alinéa de l'article L. 3122-1 ne s'applique pas à
+Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
 	**Cite**:
 
-	  - Code des transports - art. L3122-1 (V)
+	  - Code des transports - art. L3122-1
 
 	**Codifié par**:
 
@@ -21955,6 +22108,53 @@ jouissance de ses droits.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Chapitre IV : Déplacement d'office
+
+###### Article L4244-1
+
+I. - L'autorité administrative met en demeure le propriétaire et, le cas échéant, l'occupant d'un bateau de quitter les lieux
+lorsque son stationnement, en violation de la loi ou du règlement général de police de la navigation intérieure, compromet la
+conservation, l'utilisation normale ou la sécurité des usagers des eaux intérieures. A l'expiration d'un délai qu'elle fixe
+et qui ne peut être inférieur à vingt-quatre heures après la mise en demeure, elle procède au déplacement d'office du bateau.
+Le gestionnaire de la voie d'eau peut être chargé par l'autorité administrative compétente de réaliser les opérations de
+déplacement d'office. 
+
+Si le bateau tient lieu d'habitation, les mises en demeure adressées au propriétaire et à l'occupant fixent un délai
+d'exécution qui ne peut être inférieur à sept jours à compter de leur notification. Le déplacement d'office du bateau est
+réalisé de façon à en permettre l'accès à ses occupants. 
+
+Sauf en cas d'urgence, la mise en demeure ne peut intervenir qu'après que le propriétaire et, le cas échéant, l'occupant ont
+été mis à même de présenter leurs observations, écrites ou orales, et qu'il leur a été indiqué la possibilité de se faire
+assister d'un conseil. 
+
+En cas de péril imminent, les bateaux peuvent être déplacés d'office, sans mise en demeure préalable. 
+
+II. - Les frais liés au déplacement d'office, à l'amarrage et à la garde du bateau déplacé sont à la charge du propriétaire.
+Les manœuvres liées au déplacement d'office et à l'amarrage sont réalisées aux risques et périls du propriétaire. Le
+propriétaire reste responsable de la garde du bateau.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 24
+
+	**Cité par**:
+
+	  - Code des transports - art. R4244-1 (V)
+
+
+###### Article L4244-2
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 24
+
+
 #### TITRE V : DISPOSITIONS RELATIVES A LA NAVIGATION  DES BATEAUX EN MER
 
 ##### Chapitre unique : Dispositions générales
@@ -23327,20 +23527,20 @@ Voies navigables de France est substitué à l'Etat dans l'exercice des pouvoirs
 atteintes à l'intégrité et à la conservation du domaine public qui lui est confié. Il représente l'Etat dans l'exercice du
 pouvoir de transaction prévu par l'article L. 2132-25 du code général de la propriété des personnes publiques. 
 
-Toutefois, les contraventions sont constatées par les agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général
-de la propriété des personnes publiques.
+Les contraventions sont constatées par les agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la
+propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°91-1385 du 31 décembre 1991 - art. 1 (VT), alinéas 3 et 4, paragraphe III
+	  - Loi n°2013-431 du 28 mai 2013 - art. 25
 
 	**Cite**:
 
-	  - Code général de la propriété des personnes publ... - art. L2132-21 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
-	  - Code général de la propriété des personnes publ... - art. L2132-25 (V)
+	  - Code général de la propriété des personnes publiques. - art. L2132-21
+	  - Code général de la propriété des personnes publiques. - art. L2132-23
+	  - Code général de la propriété des personnes publiques. - art. L2132-25
 
 	**Codifié par**:
 
@@ -23877,12 +24077,18 @@ infractions. Il peut s'opposer à ces opérations. Les procès-verbaux lui sont 
 
 ##### Chapitre Ier : Organisation
 
+##### Section unique : Voies ferrées des ports fluviaux
+
 ###### Article L4321-1
 
-Les règles relatives aux voies ferrées des ports fluviaux de l'Etat et de ses établissements publics sont fixées par le titre
-V du livre III de la cinquième partie.
+Sous réserve des dispositions de l'article L. 4321-3, les règles relatives aux voies ferrées des ports fluviaux de l'Etat et
+de ses établissements publics sont fixées par le titre V du livre III de la cinquième partie.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 25
 
 	**Cité par**:
 
@@ -23891,6 +24097,10 @@ V du livre III de la cinquième partie.
 	  - Décret n°2017-674 du 28 avril 2017 - art. 1 (V)
 	  - Décret n°2017-694 du 2 mai 2017 - art. 2 (VD)
 	  - Code des transports - art. D4321-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L4321-3 (V)
 
 	**Codifié par**:
 
@@ -23904,6 +24114,10 @@ fixées par le titre V du livre III de la cinquième partie.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Loi n°2013-431 du 28 mai 2013 - art. 25
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -23911,21 +24125,30 @@ fixées par le titre V du livre III de la cinquième partie.
 
 ###### Article L4321-3
 
-Sans préjudice de la compétence générale des officiers et agents de police judiciaire, les agents de la navigation intérieure
-et les agents des ports autonomes fluviaux, lorsqu'ils ont la qualité de fonctionnaire et sont commissionnés et assermentés à
-cet effet, ont compétence pour constater par procès-verbal les atteintes aux voies ferrées portuaires et les infractions aux
-règlements de police qui leur sont applicables. Ledit procès-verbal est remis au contrevenant.
+Outre les officiers et agents de police judiciaire, les agents des ports autonomes fluviaux ont compétence pour constater par
+procès-verbal dans la circonscription du port où ils exercent leurs fonctions : 
+
+1° Les atteintes aux voies ferrées portuaires et les manquements aux règlements de police qui leur sont applicables,
+constitutifs de contraventions de grande voirie, dès lors qu'ils sont assermentés à cet effet devant le tribunal de grande
+instance ; 
+
+2° Les infractions aux règlements de police applicables aux voies ferrées portuaires passibles de peines contraventionnelles,
+dès lors qu'ils ont la qualité de fonctionnaires et qu'ils sont agréés dans les conditions prévues à l'article L. 5331-15.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du domaine public fluvial et de la navigat... - art. 182 (Ab), alinéa 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 25
 
 	**Cité par**:
 
 	  - Code de la route. - art. L330-2 (VT)
 	  - Code des transports - art. L4321-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5331-15
 
 	**Codifié par**:
 
@@ -23940,9 +24163,9 @@ publiques, peuvent mener des opérations de coopération transfrontalière.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2012-77 du 24 janvier 2012 - art. 4
+	  - DEPLACE: Loi n°2013-431 du 28 mai 2013 - art. 25
 
 	**Cite**:
 
@@ -24438,13 +24661,16 @@ autonome de Paris, augmentés du montant des frais généraux ;
 5° Les participations conventionnelles à certaines dépenses d'exploitation du port versées par les collectivités locales, les
 établissements publics, ainsi que les personnes privées ;
 
-6° Toutes autres recettes d'exploitation.
+6° Toutes autres recettes d'exploitation ;
+
+7° Les droits de port dont les conditions d'assiette et les modalités d'application et de recouvrement sont fixées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°69-535 du 21 mai 1969 - art. 23 (Ab), en partie, alinéas 3 à 12
+	  - Loi n°2013-431 du 28 mai 2013 - art. 26
 
 	**Codifié par**:
 
@@ -26625,16 +26851,24 @@ réglementaire.
 ###### Article L5111-2
 
 Est puni de 3 750 € d'amende le capitaine qui ne se conforme pas aux dispositions réglementaires prévues à l'article
-précédent sur les marques extérieures d'identification des navires, ou qui efface, altère, couvre ou masque ces marques.
+précédent sur les marques extérieures d'identification des navires, ou qui efface, altère, couvre ou masque ces marques. 
 
-Ces  dispositions sont également applicables aux personnes embarquées sur un  navire ou engin muni d'un permis de circulation
-ou d'une carte de  circulation. Est alors considérée comme capitaine la personne qui, en  fait, dirige le navire ou engin. 
+Le premier alinéa est également applicable aux personnes embarquées sur un navire ou engin muni d'un permis de circulation ou
+d'une carte de circulation. Est alors considérée comme capitaine la personne qui, en fait, dirige le navire ou engin. 
 
-Lorsqu'il  prononce des amendes en application du présent article à l'encontre du  capitaine, du chef de quart ou de toute
-personne exerçant la conduite du  navire, le tribunal peut, compte tenu des circonstances de fait et  notamment des
-conditions d'exercice de ses fonctions, mettre, en  totalité ou en partie, à la charge du propriétaire ou de l'exploitant du
-navire le paiement des amendes ainsi prononcées. Il ne peut user de  cette faculté que si le propriétaire ou l'exploitant du
-navire a été  cité à l'audience.
+Est puni de la même peine d'amende le fait pour le conducteur du bateau, tel que défini à l'article L. 4212-1, de ne pas se
+conformer aux prescriptions de l'article L. 4113-1 sur les marques extérieures d'identification du bateau ou d'effacer,
+d'altérer, de couvrir ou de masquer ces marques lorsqu'il pratique la navigation maritime en aval de la limite transversale
+de la mer. 
+
+Le premier alinéa du présent article est également applicable aux personnes embarquées sur un bateau muni d'un titre de
+navigation intérieure lorsqu'il pratique la navigation maritime en aval de la limite transversale de la mer. 
+
+Lorsqu'il prononce des amendes en application du présent article à l'encontre du capitaine, du chef de quart ou de toute
+personne exerçant la conduite du navire, le tribunal peut, compte tenu des circonstances de fait et notamment des conditions
+d'exercice de ses fonctions, mettre, en totalité ou en partie, à la charge du propriétaire ou de l'exploitant du navire le
+paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si le propriétaire ou l'exploitant du navire a
+été cité à l'audience.
 
 **Liens relatifs à cet article**
 
@@ -26653,7 +26887,12 @@ navire a été  cité à l'audience.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 9
+	  - Loi n°2013-431 du 28 mai 2013 - art. 32
+
+	**Cite**:
+
+	  - Code des transports - art. L4113-1
+	  - Code des transports - art. L4212-1
 
 	**Codifié par**:
 
@@ -26662,16 +26901,20 @@ navire a été  cité à l'audience.
 
 ###### Article L5111-3
 
-Est  passible de la peine prévue à l'article L. 5111-2 le propriétaire du  navire, l'exploitant du navire ou leur
-représentant légal ou dirigeant  de fait s'il s'agit d'une personne morale, ou toute autre personne  exerçant, en droit ou en
-fait, un pouvoir de contrôle ou de direction  dans la gestion ou la marche du navire, lorsque ce propriétaire, cet
-exploitant ou cette personne a été à l'origine de l'infraction définie à  l'article L. 5111-2.
+Est passible de la peine prévue à l'article L. 5111-2 le propriétaire du navire ou du bateau, l'exploitant du navire ou du
+bateau ou leur représentant légal ou dirigeant de fait s'il s'agit d'une personne morale, ou toute autre personne exerçant,
+en droit ou en fait, un pouvoir de contrôle ou de direction dans la gestion ou la marche du navire ou du bateau, lorsque ce
+propriétaire, cet exploitant ou cette personne a été à l'origine de l'infraction définie à l'article L. 5111-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 9
+	  - Loi n°2013-431 du 28 mai 2013 - art. 32
+
+	**Cite**:
+
+	  - Code des transports - art. L5111-2 (V)
 
 
 ###### Article L5111-4
@@ -28765,11 +29008,15 @@ Les conditions d'application des dispositions de la présente section sont déte
 
 ###### Article L5122-25
 
-Les dispositions relatives à la responsabilité civile et à l'obligation d'assurance des propriétaires de navires pour les
-dommages résultant de la pollution par les hydrocarbures sont fixées par les dispositions de la sous-section 1 de la section
-1 du chapitre VIII du titre Ier du livre II du code de l'environnement.
+Pour l'application de la présente section, les mots : "propriétaire", "navire", "événement", "dommages par pollution" et
+"hydrocarbures" s'entendent au sens qui leur est donné à l'article 1er de la convention internationale sur la responsabilité
+civile pour les dommages dus à la pollution par les hydrocarbures, faite à Londres le 27 novembre 1992, telle que modifiée.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
 
 	**Cité par**:
 
@@ -28780,6 +29027,84 @@ dommages résultant de la pollution par les hydrocarbures sont fixées par les d
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5122-26
+
+Le propriétaire d'un navire transportant une cargaison d'hydrocarbures en vrac est responsable de tout dommage par pollution
+causé par son navire, dans les conditions et limites fixées par la convention mentionnée à l'article L. 5122-25.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
+
+	**Cite**:
+
+	  - Code des transports - art. L5122-25 (V)
+
+
+###### Article L5122-27
+
+Sous réserve de l'application du paragraphe 2 de l'article V de la convention mentionnée à l'article L. 5122-25, le
+propriétaire du navire est en droit de bénéficier de la limitation de responsabilité s'il constitue auprès d'un tribunal un
+fonds de limitation pour un montant s'élevant à la limite de sa responsabilité déterminée dans les conditions fixées par la
+même convention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
+
+	**Cite**:
+
+	  - Code des transports - art. L5122-25 (V)
+
+
+###### Article L5122-28
+
+Après la constitution du fonds de limitation, aucun droit ne peut être exercé, pour les mêmes créances, sur d'autres biens du
+propriétaire, à condition que le demandeur ait accès au tribunal qui contrôle le fonds de limitation et que le fonds de
+limitation soit effectivement disponible au profit du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
+
+	**Cité par**:
+
+	  - Décret n°2014-348 du 18 mars 2014 - art. 1 (Ab)
+	  - Code des transports - art. R5122-3 (V)
+
+
+###### Article L5122-29
+
+Le fonds de limitation est réparti entre les créanciers proportionnellement au montant des créances admises. 
+
+Si, avant la répartition du fonds de limitation, le propriétaire du navire, son préposé ou son mandataire, ou toute personne
+qui lui fournit l'assurance ou une autre garantie financière, a indemnisé en tout ou partie certains créanciers, il est
+autorisé à prendre, à due concurrence, la place de ces créanciers dans la distribution du fonds de limitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
+
+
+###### Article L5122-30
+
+Les conditions d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
 
 
 ##### Chapitre III : Obligations d'assurance 
@@ -28837,20 +29162,26 @@ commercial d'Etat.
 
 ###### Article L5123-2
 
-I. ― Le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale de 2001
+I. - Le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale de 2001
 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, faite à Londres le 23 mars
 2001, souscrit une assurance ou une autre garantie financière satisfaisant aux exigences de cette convention lorsque ce
 navire est exploité sous pavillon français, ou touche ou quitte un port français ou une installation située dans la mer
 territoriale française. Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire. 
 
-II. ― Le transporteur qui assure effectivement tout ou partie d'un transport de passagers, au sens du point c du paragraphe 1
+II. - Le transporteur qui assure effectivement tout ou partie d'un transport de passagers, au sens du point c du paragraphe 1
 de l'article 1er de la convention d'Athènes relative au transport par mer de passagers et de leurs bagages, telle que
 modifiée par son protocole fait à Londres le 1er novembre 2002, souscrit une assurance ou une autre garantie financière
 satisfaisant aux exigences de cette convention et du règlement (CE) n° 392/2009 du Parlement européen et du Conseil du 23
 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident, lorsque ce navire est
 exploité sous pavillon français, ou touche ou quitte un port français. Un certificat attestant que la garantie est en cours
 de validité doit se trouver à bord du navire. Ces obligations s'imposent à compter de la date d'entrée en vigueur de la
-convention et au plus tard le 31 décembre 2012 si la convention n'est pas entrée en vigueur à cette date.
+convention et au plus tard le 31 décembre 2012 si la convention n'est pas entrée en vigueur à cette date. 
+
+III. - Le propriétaire d'un navire, au sens du paragraphe 3 de l'article 1er de la convention internationale sur la
+responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, faite à Londres le 27 novembre 1992, telle
+que modifiée, souscrit une assurance ou une autre garantie financière satisfaisant aux exigences de cette convention lorsque
+ce navire est exploité sous pavillon français ou touche ou quitte un port français ou une installation située dans la mer
+territoriale française. Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire.
 
 **Liens relatifs à cet article**
 
@@ -28870,28 +29201,21 @@ convention et au plus tard le 31 décembre 2012 si la convention n'est pas entr�
 	  - Code des transports - art. R5232-1 (VD)
 	  - Code des transports - art. R5232-5 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
 
 
 ###### Article L5123-3
 
-I. ― La délivrance des certificats d'assurance des navires mentionnés à l'article L. 5123-2 peut être déléguée à des
+I. - La délivrance des certificats d'assurance des navires mentionnés à l'article L. 5123-2 peut être déléguée à des
 organismes agréés par l'autorité administrative, lorsqu'en application des instruments internationaux ou des textes européens
 pertinents ces certificats peuvent faire l'objet d'une délégation. Ces certificats sont alors délivrés pour le compte et sous
 la responsabilité de l'Etat. Leur délivrance peut donner lieu à perception d'une rémunération par le délégataire. 
 
 Les attributions et conditions d'agrément de ces organismes sont précisées par décret en Conseil d'Etat. 
 
-II. ― Une amende administrative d'un montant maximum de 100 000 € peut être prononcée par l'autorité administrative
-compétente à l'encontre d'un organisme habilité à délivrer les certificats d'assurance en application du présent article, si
-celui-ci n'exécute pas la mission de contrôle qui lui est déléguée dans les conditions normales requises pour la bonne
-exécution de ce service. 
-
-En cas de manquement grave ou répété dans l'exécution du service qui lui est délégué, ou en cas de non-paiement de l'amende
-administrative prononcée en application de l'alinéa précédent, la délégation peut être suspendue ou abrogée par l'autorité
-administrative compétente, dans les conditions fixées par décret en Conseil d'Etat.
+II. - (Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -28904,9 +29228,9 @@ administrative compétente, dans les conditions fixées par décret en Conseil d
 	  - Code des transports - art. R5123-15 (V)
 	  - Code des transports - art. R5123-6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
 
 	**Cite**:
 
@@ -28915,15 +29239,24 @@ administrative compétente, dans les conditions fixées par décret en Conseil d
 
 ###### Article L5123-4
 
-Les dispositions relatives à l'obligation d'assurance des propriétaires de navires pour les dommages résultant de la
-pollution par les hydrocarbures sont fixées par les dispositions de la sous-section 1 de la section 1 du chapitre VIII du
-titre Ier du livre II du code de l'environnement.
+Une amende administrative d'un montant maximal de 100 000 € peut être prononcée par l'autorité administrative compétente à
+l'encontre d'un organisme habilité à délivrer les certificats d'assurance en application de l'article L. 5123-3, si celui-ci
+n'exécute pas la mission de contrôle qui lui est déléguée dans les conditions normales requises pour la bonne exécution de ce
+service. 
+
+En cas de manquement grave ou répété dans l'exécution du service qui lui est délégué ou en cas de non-paiement de l'amende
+administrative prononcée en application du premier alinéa, la délégation peut être suspendue ou abrogée par l'autorité
+administrative compétente, dans les conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
+
+	**Cite**:
+
+	  - Code des transports - art. L5123-3 (V)
 
 	**Cité par**:
 
@@ -28986,13 +29319,17 @@ II. ― Est puni d'un an d'emprisonnement et de 75 000 € d'amende :
 1° Le fait de faire obstacle à l'exercice des fonctions des agents mentionnés à l'article L. 5123-7 ; 
 
 2° Le fait de ne pas obtempérer à une injonction prononcée en application de l'article L. 5123-5 ou de faire obstacle à une
-mesure d'exécution forcée visant à ce que le navire quitte le port.
+mesure d'exécution forcée visant à ce que le navire quitte le port ;
+
+3° Le fait pour le propriétaire d'un navire, au sens du paragraphe 3 de l'article 1er de la convention internationale sur la
+responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, faite à Londres le 27 novembre 1992, telle
+que modifiée, de ne pas respecter les obligations prévues au III de l'article L. 5123-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 29
 
 	**Cite**:
 
@@ -29017,18 +29354,15 @@ l'article L. 5123-6 :
 
 1° Les administrateurs des affaires maritimes ; 
 
-2° Les inspecteurs des affaires maritimes ; 
+2° Les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes
+sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
 3° Les officiers du corps technique et administratif des affaires maritimes ; 
 
 4° Les agents de l'Etat habilités par le ministre chargé de la mer en qualité d'inspecteurs de la sécurité des navires et de
 la prévention des risques professionnels maritimes ; 
 
-5° Les techniciens experts du service de sécurité de la navigation maritime ; 
-
-6° Les contrôleurs des affaires maritimes ; 
-
-7° Les syndics des gens de mer ; 
+5° à 7° (Abrogés) ;
 
 8° Les agents des douanes. 
 
@@ -29043,9 +29377,9 @@ les agents mentionnés au I.
 	  - Code des transports - art. L5123-6 (V)
 	  - Code des transports - art. R5123-2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cite**:
 
@@ -30007,15 +30341,13 @@ le produit de leur vente, pendant quinze jours après leur délivrance si elles 
 
 ###### Article L5141-1
 
-Les dispositions du présent chapitre s'appliquent à tout navire ou autre engin flottant en état de flottabilité, d'une jauge
-égale ou supérieure à un tonnage fixé par voie réglementaire, abandonné dans les eaux territoriales ou les eaux maritimes
-intérieures et présentant des dangers.
+Le présent chapitre s'applique à tout engin flottant ou navire en état de flottabilité, désigné ci-après par les mots : "le
+navire", abandonné dans les eaux territoriales, dans les eaux intérieures en aval de la limite transversale de la mer ou dans
+les limites administratives des ports maritimes ou sur les rivages dépendant du domaine public maritime ou sur le littoral
+maritime et présentant un danger ou entravant de façon prolongée l'exercice des activités maritimes, littorales ou
+portuaires.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-662 du 3 juillet 1985 - art. 1 (Ab), alinéa 1
 
 	**Cité par**:
 
@@ -30023,6 +30355,10 @@ intérieures et présentant des dangers.
 	  - Décret n°87-830 du 6 octobre 1987 - art. 2 (Ab)
 	  - Code des transports - art. L5141-2-1 (V)
 	  - Code des transports - art. R5141-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 	**Codifié par**:
 
@@ -30050,22 +30386,67 @@ mesures de garde et de manœuvre.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Déchéance du propriétaire
+###### Article L5141-2-1
 
-###### Article L5141-3
+En vue de mettre fin au danger ou à l'entrave prolongée mentionnés à l'article L. 5141-1, l'autorité administrative
+compétente de l'Etat peut procéder à la réquisition des personnes et des biens. Le contentieux du droit à indemnité en cas de
+réquisition est attribué à l'autorité judiciaire. 
 
-Si l'état d'abandon persiste après la mise en œuvre des mesures prévues à l'article L. 5242-16, la déchéance des droits du
-propriétaire sur le navire ou l'engin flottant abandonné peut être prononcée par décision de l'autorité administrative
-compétente. 
+Lorsque le propriétaire, l'armateur ou l'exploitant, ou leurs représentants, dûment mis en demeure de mettre fin, dans le
+délai qui leur a été imparti, au danger ou à l'entrave prolongée, refusent ou s'abstiennent de prendre les mesures
+nécessaires, l'autorité administrative compétente de l'Etat ou, dans les limites administratives des ports maritimes,
+l'autorité portuaire mentionnée à l'article L. 5331-5 peut intervenir aux frais et risques du propriétaire, de l'armateur ou
+de l'exploitant. 
 
-Cette décision ne peut intervenir qu'après mise en demeure au propriétaire de faire cesser, dans un délai qui ne peut être
-inférieur à un mois, l'état d'abandon dans lequel se trouve son navire ou son engin flottant.
+En cas d'urgence, les mesures d'intervention, y compris de garde et de manœuvre, peuvent être exécutées d'office et sans
+délai.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cité par**:
 
-	  - Loi n°85-662 du 3 juillet 1985 - art. 3 (VT), alinéa 1
+	  - Décret n°87-830 du 6 octobre 1987 - art. 3 (Ab)
+	  - Code des transports - art. L5141-3 (V)
+	  - Code des transports - art. L5761-2 (V)
+	  - Code des transports - art. L5771-2 (V)
+	  - Code des transports - art. L5781-3 (V)
+	  - Code des transports - art. L5791-3 (V)
+	  - Code des transports - art. R5141-2 (V)
+	  - Code des transports - art. R5141-3 (V)
+	  - Code des transports - art. R5141-7 (V)
+	  - Code des transports - art. R5141-8 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
+
+	**Cite**:
+
+	  - Code des transports - art. L5141-1 (V)
+	  - Code des transports - art. L5331-5
+
+
+##### Section 2 : Déchéance des droits du propriétaire
+
+###### Article L5141-3
+
+Lorsqu'un navire se trouve dans un état d'abandon prolongé, la déchéance des droits du propriétaire sur le navire peut être
+prononcée, le cas échéant après mise en œuvre des mesures prévues à l'article L. 5141-2-1, par décision de l'autorité
+administrative compétente de l'Etat, sur demande, chacune pour ce qui la concerne, de l'une des autorités mentionnées au
+deuxième alinéa du même article L. 5141-2-1. 
+
+La décision de déchéance ne peut intervenir qu'après mise en demeure du propriétaire par l'autorité administrative compétente
+de l'Etat de faire cesser, dans un délai qui ne peut être inférieur à un mois et supérieur à trois mois à compter de sa
+publicité, l'état d'abandon dans lequel se trouve son navire. Cette autorité statue dans un délai de deux mois à compter de
+l'expiration du délai fixé par la mise en demeure. 
+
+La mise en demeure et la décision de déchéance font l'objet d'une publicité à l'initiative de l'autorité qui est à l'origine
+de la demande de déchéance. 
+
+Une fois la déchéance prononcée, l'autorité compétente pour prendre les mesures d'intervention, y compris de garde et de
+manœuvre, sur le navire est celle qui est à l'origine de la demande de déchéance.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -30074,22 +30455,38 @@ inférieur à un mois, l'état d'abandon dans lequel se trouve son navire ou son
 	  - Code des transports - art. R5141-9 (V)
 	  - Code des transports - art. R5142-10 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
+
 	**Cite**:
 
-	  - Code des transports - art. L5242-16 (V)
+	  - Code des transports - art. L5141-2-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5141-3-1
+
+Les frais engagés par l'autorité portuaire pour la mise en œuvre des mesures d'intervention, y compris de garde et de
+manœuvre, sont pris en charge par l'Etat dans le cas où la présence du navire dans le port résulte d'une décision d'une
+autorité administrative de l'Etat ou de l'autorité judiciaire de dérouter, d'arraisonner ou, s'il est en difficulté,
+d'accueillir ce navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
+
+
 ###### Article L5141-4
 
-En cas de déchéance, le navire ou autre engin flottant abandonné ne peut être vendu au profit de l'Etat qu'à l'expiration
-d'un délai de deux mois et sous réserve des droits des créanciers privilégiés et hypothécaires. 
-
-Les créances afférentes aux frais exposés par l'autorité compétente au titre des mesures d'intervention prises en application
-des dispositions de l'article L. 5242-16 sont imputées en priorité sur le produit de la vente.
+En cas de déchéance, le navire abandonné peut être vendu ou, le cas échéant, faire l'objet d'une cession pour démantèlement
+au profit de la personne publique qui est à l'origine de la demande de déchéance, à l'expiration d'un délai de deux mois à
+compter de la publicité de la décision de déchéance et sous réserve des droits des créanciers privilégiés et hypothécaires.
 
 **Liens relatifs à cet article**
 
@@ -30098,17 +30495,53 @@ des dispositions de l'article L. 5242-16 sont imputées en priorité sur le prod
 	  - Décret n°87-830 du 6 octobre 1987 - art. 10 (Ab)
 	  - Code des transports - art. R5141-12 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+###### Article L5141-4-1
+
+Les créances correspondant aux droits de port non acquittés et aux frais exposés par l'autorité portuaire mentionnée à
+l'article L. 5331-5 ou par l'autorité administrative compétente de l'Etat au titre des mesures d'intervention, y compris de
+garde et de manœuvre, ainsi qu'aux frais liés à la vente ou à la cession pour démantèlement sont imputées en priorité sur le
+produit de la vente ou de la cession pour démantèlement. 
+
+Lorsque le produit de la vente ou de la cession pour démantèlement ne permet pas de couvrir les frais mentionnés au premier
+alinéa du présent article, le déficit est à la charge de la personne publique qui est à l'origine de la demande de déchéance.
+Toutefois, le déficit est pris en charge par l'Etat dans le cas où la présence du navire dans le port résulte d'une décision
+d'une autorité administrative de l'Etat ou de l'autorité judiciaire de dérouter, d'arraisonner ou, s'il est en difficulté,
+d'accueillir ce navire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°87-830 du 6 octobre 1987 - art. 10 (Ab)
+	  - Code des transports - art. R5141-12 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 	**Cite**:
 
-	  - Code des transports - art. L5242-16
+	  - Code des transports - art. L5331-5
+
+
+###### Article L5141-4-2
+
+Les conditions d'application de la présente section sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 
 ##### Section 3 : Dispositions relatives à la cargaison
@@ -30135,18 +30568,19 @@ sur la valeur de la cargaison de même rang que le privilège des frais pour la 
 
 Le produit de la vente est consigné durant cinq ans.
 
-Au terme de ce délai, les sommes pour lesquelles aucun créancier ne s'est manifesté sont acquises au Trésor public.
+Au terme de ce délai, les sommes pour lesquelles aucun créancier ne s'est manifesté sont acquises à la personne publique pour
+le compte de laquelle a été prononcée la déchéance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-662 du 3 juillet 1985 - art. 4 (Ab), phrases 2 et 4
 
 	**Cité par**:
 
 	  - Décret n°87-830 du 6 octobre 1987 - art. 12 (Ab)
 	  - Code des transports - art. R5141-14 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 	**Codifié par**:
 
@@ -30296,27 +30730,32 @@ Les dispositions de la présente section sont précisées par décret en Conseil
 
 ###### Article L5142-7
 
-L'officier ou inspecteur des affaires maritimes, chef du service des affaires maritimes et, dans les ports maritimes, les
-officiers de port et les officiers de port adjoints sont habilités à constater par procès-verbaux les infractions aux
-dispositions de la section 1 et des décrets pris pour son application. L'administration des affaires maritimes ne peut
-intervenir dans les ports militaires qu'à la demande du préfet maritime ou du commandant de la marine.
+L'officier ou le fonctionnaire de catégorie A affecté dans les services exerçant des missions de contrôle dans le domaine des
+affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, chef du service des affaires maritimes
+et, dans les ports maritimes, les officiers de port et les officiers de port adjoints sont habilités à constater par procès-
+verbaux les infractions aux dispositions de la section 1 et des décrets pris pour son application. L'administration des
+affaires maritimes ne peut intervenir dans les ports militaires qu'à la demande du préfet maritime ou du commandant de la
+marine.
 
-L'officier ou inspecteur des affaires maritimes, chef du service des affaires maritimes peut, en vue de découvrir des épaves,
-procéder à des visites domiciliaires et des perquisitions dans les conditions prévues au code de procédure pénale. Il peut
-suivre les choses enlevées dans les lieux où elles ont été transportées et les mettre sous séquestre.
+L'officier ou le fonctionnaire de catégorie A affecté dans les services exerçant des missions de contrôle dans le domaine des
+affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, chef du service des affaires maritimes
+peut, en vue de découvrir des épaves, procéder à des visites domiciliaires et des perquisitions dans les conditions prévues
+au code de procédure pénale. Il peut suivre les choses enlevées dans les lieux où elles ont été transportées et les mettre
+sous séquestre.
 
 Les procès-verbaux établis sont aussitôt transmis au procureur de la République.
 
-Dans l'exercice de leurs fonctions de police judiciaire, l'officier ou inspecteur des affaires maritimes, chef du service des
-affaires maritimes, les officiers de port et les officiers de port adjoints peuvent requérir directement la force publique.
-Ils peuvent être requis par le procureur de la République, le juge d'instruction et les officiers de police judiciaire afin
-de leur prêter assistance.
+Dans l'exercice de leurs fonctions de police judiciaire, l'officier ou le fonctionnaire de catégorie A affecté dans les
+services exerçant des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du
+ministre chargé de la mer, chef du service des affaires maritimes, les officiers de port et les officiers de port adjoints
+peuvent requérir directement la force publique. Ils peuvent être requis par le procureur de la République, le juge
+d'instruction et les officiers de police judiciaire afin de leur prêter assistance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°61-1262 du 24 novembre 1961 - art. 2 (Ab)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Codifié par**:
 
@@ -30490,18 +30929,15 @@ titre et aux dispositions réglementaires prises pour leur application :
 
 3° Les officiers du corps technique et administratif des affaires maritimes ; 
 
-4° Les inspecteurs des affaires maritimes ; 
+4° Les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes
+sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
-5° Les techniciens experts du service de la sécurité de la navigation maritime ; 
-
-6° Les contrôleurs des affaires maritimes ; 
-
-7° Les syndics des gens de mer ; 
+5° à 7° (Abrogés) ;
 
 8° Le délégué à la mer et au littoral ; 
 
-9° Les inspecteurs de l'environnement et les agents publics  commissionnés et assermentés des parcs nationaux, des parcs
-naturels  marins et des réserves naturelles marines ; 
+9° Les inspecteurs de l'environnement et les agents publics commissionnés et assermentés des parcs nationaux, des parcs
+naturels marins et des réserves naturelles marines ; 
 
 10° Les agents publics commissionnés à cet effet par décision du directeur interrégional de la mer et assermentés ; 
 
@@ -30511,7 +30947,7 @@ naturels  marins et des réserves naturelles marines ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cité par**:
 
@@ -30547,7 +30983,7 @@ naturels  marins et des réserves naturelles marines ;
 Les procès-verbaux établis par les commandants des bâtiments de l'Etat sont transmis au directeur interrégional de la mer
 dans la circonscription duquel ils se trouvent. 
 
-Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 1° à 7° de l'article L. 5222-1 et au 3° de
+Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 1° à 4° de l'article L. 5222-1 et au 3° de
 l'article L. 5336-5 sont également transmis au directeur départemental des territoires et de la mer dans le ressort duquel a
 été commise l'infraction. 
 
@@ -30562,11 +30998,7 @@ abrogées selon des modalités fixées par décret, et au plus tard à compter d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 3
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cite**:
 
@@ -31195,6 +31627,18 @@ et inspections prévues par les dispositions du présent chapitre ou y participe
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5241-7-1
+
+Pour l'exercice de leurs missions, les fonctionnaires et personnes chargés des visites et inspections des navires en
+application du présent chapitre effectuent leurs contrôles à toutes heures à bord des navires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 33
+
+
 ###### Article L5241-8
 
 Les modalités d'application des dispositions du présent chapitre relative aux visites et inspections des navires sont
@@ -31462,7 +31906,7 @@ infractions définies par les dispositions de la présente section encourent :
 
 ###### Article L5242-1
 
-I. ― Est puni de deux ans d'emprisonnement et de 7 500 € d'amende le fait, pour tout capitaine, chef de quart ou toute
+I. ― Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait, pour tout capitaine, chef de quart ou toute
 personne exerçant la responsabilité ou la conduite d'un navire, d'enfreindre, y compris par imprudence ou négligence, dans
 les eaux territoriales ou dans les eaux intérieures maritimes françaises : 
 
@@ -31494,7 +31938,7 @@ navire battant pavillon français qui, en dehors des eaux territoriales, ne se c
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+	  - Loi n°2013-431 du 28 mai 2013 - art. 33
 
 	**Cité par**:
 
@@ -31517,37 +31961,36 @@ navire battant pavillon français qui, en dehors des eaux territoriales, ne se c
 
 ###### Article L5242-2
 
-I.  ― Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait  pour une personne embarquée sur un navire de ne
-pas se conformer, dans  les eaux intérieures maritimes et jusqu'à la limite extérieure des eaux  territoriales françaises : 
+I. ― Est puni de six mois d'emprisonnement et de 15 000 € d'amende le fait pour une personne embarquée sur un navire de ne
+pas se conformer, dans les eaux intérieures maritimes et jusqu'à la limite extérieure des eaux territoriales françaises : 
 
 1° Aux règlements pris par le ministre chargé de la mer et les préfets maritimes relatifs : 
 
-a) Aux zones ou périodes d'interdiction de la navigation, du mouillage  ou de certaines activités, édictés en vue d'assurer
-la sécurité de la  navigation ou le maintien de l'ordre public en mer ; 
+a) Aux zones ou périodes d'interdiction de la navigation, du mouillage ou de certaines activités, édictés en vue d'assurer la
+sécurité de la navigation ou le maintien de l'ordre public en mer ; 
 
 b) Aux obligations de signalement ou d'information, de veille de fréquences et de réponse aux appels ; 
 
-c) Aux restrictions ou prescriptions particulières de navigation  relatives au passage inoffensif, ou au transport de
-matières sensibles ;  
+c) Aux restrictions ou prescriptions particulières de navigation relatives au passage inoffensif, ou au transport de matières
+sensibles ; 
 
 d) A la conduite à tenir en cas de découverte d'engins dangereux ; 
 
-2° Aux instructions particulières des préfets maritimes et aux ordres  des agents des centres régionaux opérationnels de
-surveillance et de  sauvetage et des agents chargés de la police de la navigation, relatives  à la sécurité de la navigation
-maritime ou au maintien de l'ordre  public en mer. 
+2° Aux instructions particulières des préfets maritimes et aux ordres des agents des centres régionaux opérationnels de
+surveillance et de sauvetage et des agents chargés de la police de la navigation, relatives à la sécurité de la navigation
+maritime ou au maintien de l'ordre public en mer. 
 
-II. ― Est puni des mêmes peines le  fait, en dehors des eaux territoriales, pour tout capitaine, chef de  quart ou toute
-personne exerçant la responsabilité ou la conduite d'un  navire battant pavillon français, de ne pas se conformer aux décrets
-pris pour l'instauration d'un contrôle naval, aux instructions  particulières émanant des préfets maritimes ou d'une autorité
-consulaire  ou aux ordres des agents des centres régionaux opérationnels de  surveillance et de sauvetage, des commandants
-des bâtiments de l'Etat et  des agents chargés de la police de la navigation, relatifs à la  sécurité de la navigation
-maritime.
+II. ― Est puni des mêmes peines le fait, en dehors des eaux territoriales, pour tout capitaine, chef de quart ou toute
+personne exerçant la responsabilité ou la conduite d'un navire battant pavillon français, de ne pas se conformer aux décrets
+pris pour l'instauration d'un contrôle naval, aux instructions particulières émanant des préfets maritimes ou d'une autorité
+consulaire ou aux ordres des agents des centres régionaux opérationnels de surveillance et de sauvetage, des commandants des
+bâtiments de l'Etat et des agents chargés de la police de la navigation, relatifs à la sécurité de la navigation maritime.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 10
+	  - Loi n°2013-431 du 28 mai 2013 - art. 33
 
 	**Cité par**:
 
@@ -32069,40 +32512,6 @@ Est puni de cinq ans d'emprisonnement et de 30 000 € d'amende le fait d'enfrei
 
 ##### Section 2 : Dispositions relatives aux navires abandonnés et aux épaves
 
-###### Article L5242-16
-
-En vue de mettre fin aux dangers que présente un navire ou autre engin flottant abandonné au sens des dispositions du
-chapitre Ier du titre IV du livre Ier de la présente partie, il peut être procédé à la réquisition des personnes et des
-biens, avec attribution de compétence à l'autorité judiciaire en ce qui concerne le contentieux du droit à l'indemnité. 
-
-Lorsque le propriétaire, l'armateur, l'exploitant ou leurs représentants, dûment mis en demeure de mettre fin, dans le délai
-qui leur est imparti, aux dangers que présente le navire ou l'engin flottant abandonné, refuse ou néglige de prendre les
-mesures nécessaires, l'Etat ou l'autorité portuaire mentionnée à l'article L. 5331-5, selon le cas peut intervenir aux frais
-et risques du propriétaire, de l'armateur ou de l'exploitant. 
-
-En cas d'urgence, l'intervention peut être exécutée d'office sans délai.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 28
-
-	**Cité par**:
-
-	  - Code des transports - art. L5141-3 (V)
-	  - Code des transports - art. L5141-4 (V)
-	  - Code des transports - art. L6132-2 (V)
-
-	**Cite**:
-
-	  - Code des transports - art. L5331-5
-
-
 ###### Article L5242-17
 
 En vue du sauvetage d'une épave maritime au sens des dispositions du chapitre II du titre IV du livre Ier de la présente
@@ -32282,9 +32691,10 @@ les dispositions du présent titre ou les dispositions réglementaires prises po
 
 2° Les officiers du corps technique et administratif des affaires maritimes ; 
 
-3° Les inspecteurs des affaires maritimes ; 
+3° Les fonctionnaires de catégorie A affectés dans les services exerçant des missions de contrôle dans le domaine des
+affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ; 
 
-4° Les techniciens experts du service de la sécurité de la navigation maritime. 
+4° (Abrogé). 
 
 Les infractions réprimées par les articles L. 5242-1 à L. 5242-8 ou par les dispositions réglementaires prises pour leur
 application peuvent en outre être recherchées et constatées par les agents mentionnés à l'article L. 5222-1.
@@ -32300,7 +32710,7 @@ application peuvent en outre être recherchées et constatées par les agents me
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cite**:
 
@@ -32314,15 +32724,17 @@ application peuvent en outre être recherchées et constatées par les agents me
 
 ###### Article L5243-2
 
-Les contrôleurs des affaires maritimes et les syndics des gens de mer sont habilités à constater les infractions aux marques
-de franc-bord, et, sur les navires dont la longueur n'excède pas un maximum fixé par voie réglementaire, celles des
-infractions réprimées par les dispositions du présent titre qui relèvent de leur domaine particulier de compétence.
+Les fonctionnaires de catégories B et C affectés dans les services exerçant des missions de contrôle dans le domaine des
+affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer sont habilités à constater les
+infractions aux marques de franc-bord, et, sur les navires dont la longueur n'excède pas un maximum fixé par voie
+réglementaire, celles des infractions réprimées par les dispositions du présent titre qui relèvent de leur domaine
+particulier de compétence.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°83-581 du 5 juillet 1983 - art. 4 (Ab), alinéa 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Codifié par**:
 
@@ -32344,15 +32756,16 @@ dispositions réglementaires prises pour leur application dans leur domaine de c
 
 ###### Article L5243-2-2
 
-Les commandants des bâtiments de l'Etat, les contrôleurs des affaires maritimes, les syndics des gens de mer et les agents
-mentionnés au 3° de l'article L. 5336-5 sont habilités à rechercher et à constater les infractions prévues par les articles
-L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application .
+Les commandants des bâtiments de l'Etat, les fonctionnaires de catégories B et C affectés dans les services exerçant des
+missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer
+et les agents mentionnés au 3° de l'article L. 5336-5 sont habilités à rechercher et à constater les infractions prévues par
+les articles L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 6
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cite**:
 
@@ -32543,15 +32956,16 @@ dispositions réglementaires prises pour son application :
 
 2° Les officiers du corps technique et administratif des affaires maritimes ;
 
-3° Les inspecteurs des affaires maritimes ;
+3° Les fonctionnaires de catégorie A affectés dans les services exerçant des missions de contrôle dans le domaine des
+affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer ;
 
 4° Dans les ports maritimes, les officiers de port et les officiers de port adjoints.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°61-1262 du 24 novembre 1961 - art. 2 (Ab), alinéa 1 (phrase 1)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cité par**:
 
@@ -33550,6 +33964,63 @@ l'article L. 5222-1.
 	**Cite**:
 
 	  - Code des transports - art. L5222-1
+
+
+#### TITRE VIII : L'ENQUÊTE NAUTIQUE
+
+##### Chapitre unique
+
+###### Article L5281-1
+
+Après tout événement de mer, le capitaine transmet sans délai un rapport de mer au directeur interrégional de la mer
+responsable du service dans le ressort duquel il se trouve.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 33
+
+	**Cité par**:
+
+	  - Code des transports - art. L5712-2 (V)
+	  - Code des transports - art. L5722-2 (V)
+	  - Code des transports - art. L5732-2 (V)
+	  - Code des transports - art. L5742-2 (V)
+	  - Code des transports - art. L5752-2 (V)
+	  - Code des transports - art. L5762-3 (V)
+	  - Code des transports - art. L5772-4 (V)
+	  - Code des transports - art. L5782-4 (V)
+	  - Code des transports - art. L5792-4 (V)
+
+
+###### Article L5281-2
+
+Le directeur interrégional de la mer peut procéder, dès qu'il a connaissance d'un événement de mer, à une enquête
+administrative, dite "enquête nautique", qui comporte l'établissement d'un rapport circonstancié sur les faits, en vue
+notamment de prendre toute mesure administrative, y compris d'urgence. 
+
+Pour les besoins de l'enquête nautique, le directeur interrégional de la mer et les agents qu'il désigne à cet effet ont
+droit d'accéder à bord du navire, de procéder à sa visite, de recueillir tous renseignements et justifications nécessaires,
+d'exiger la communication de tous documents, titres, certificats ou pièces utiles, quel qu'en soit le support, et d'en
+prendre copie. 
+
+Les modalités d'exécution de l'enquête nautique sont fixées par décret en Conseil d'Etat. 
+
+Lorsque l'enquête nautique révèle la commission d'une ou de plusieurs infractions pénales, y compris les infractions
+maritimes, le directeur interrégional de la mer en informe immédiatement le procureur de la République territorialement
+compétent et lui adresse le rapport d'enquête nautique dès sa clôture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 33
+
+	**Cité par**:
+
+	  - Décret n°2016-761 du 8 juin 2016 (V)
+	  - Code des transports - art. R5281-1 (V)
 
 
 ### LIVRE III : LES PORTS MARITIMES
@@ -34788,6 +35259,20 @@ missions assignées au parc.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5314-12
+
+Dans chaque port maritime relevant du présent chapitre, les milieux professionnels, sociaux et associatifs ainsi que les
+collectivités territoriales et leurs groupements où sont situées les principales installations portuaires sont représentés
+dans un conseil portuaire, qui est consulté sur le positionnement stratégique et la politique de développement du port, et
+notamment sa politique tarifaire et foncière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 36
+
+
 #### TITRE II : DROITS DE PORT
 
 ##### Chapitre unique
@@ -34992,15 +35477,17 @@ L'Etat est responsable de la police des eaux et de la police de la signalisation
 
 ###### Article L5331-5
 
-Au sens du présent titre, l'autorité portuaire est :
+Au sens du présent titre, l'autorité portuaire est : 
 
 1° Dans les grands ports maritimes et les ports maritimes autonomes, respectivement le président du directoire et le
-directeur du port autonome ;
+directeur du port autonome ; 
 
-2° Dans les autres ports maritimes relevant de l'Etat, l'autorité administrative ;
+2° Dans les autres ports maritimes relevant de l'Etat, l'autorité administrative ; 
 
 3° Dans les ports maritimes de commerce, de pêche ou de plaisance relevant des collectivités territoriales et de leurs
-groupements, l'exécutif de la collectivité territoriale ou du groupement compétent.
+groupements, l'exécutif de la collectivité territoriale ou du groupement compétent ; 
+
+4° Dans le port de Port-Cros, le directeur de l'organisme mentionné à l'article L. 5314-11.
 
 **Liens relatifs à cet article**
 
@@ -35029,9 +35516,13 @@ groupements, l'exécutif de la collectivité territoriale ou du groupement comp�
 	  - Code des transports - art. R5141-8 (V)
 	  - Code des transports - art. R5142-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L302-4 (Ab), alinéas 1 à 4
+	  - Loi n°2013-431 du 28 mai 2013 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L5314-11
 
 	**Codifié par**:
 
@@ -35040,19 +35531,21 @@ groupements, l'exécutif de la collectivité territoriale ou du groupement comp�
 
 ###### Article L5331-6
 
-L'autorité investie du pouvoir de police portuaire est :
+L'autorité investie du pouvoir de police portuaire est : 
 
 1° Dans les grands ports maritimes et les ports maritimes autonomes, respectivement le président du directoire et le
-directeur du port autonome ;
+directeur du port autonome ; 
 
-2° Dans les autres ports maritimes relevant de l'Etat, l'autorité administrative ;
+2° Dans les autres ports maritimes relevant de l'Etat, l'autorité administrative ; 
 
 3° Dans les ports maritimes, relevant des collectivités territoriales et de leurs groupements, dont l'activité dominante est
 le commerce ou qui accueillent des marchandises dangereuses et qui figurent sur une liste fixée par voie réglementaire,
-l'autorité administrative ;
+l'autorité administrative ; 
 
 4° Dans les autres ports maritimes relevant des collectivités territoriales et de leurs groupements, l'exécutif de la
-collectivité ou du groupement compétent.
+collectivité ou du groupement compétent ; 
+
+5° Dans le port de Port-Cros, le directeur de l'organisme mentionné à l'article L. 5314-11.
 
 **Liens relatifs à cet article**
 
@@ -35069,9 +35562,13 @@ collectivité ou du groupement compétent.
 	  - Code des transports - art. L5337-3-1 (V)
 	  - Code des transports - art. R*5331-6 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L302-4 (Ab), alinéas 5 à 9
+	  - Loi n°2013-431 du 28 mai 2013 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L5314-11
 
 	**Codifié par**:
 
@@ -36062,13 +36559,15 @@ maritime ou d'aide à la navigation, signale le fait par les moyens les plus rap
 quatre heures au plus tard de son arrivée au premier port touché.
 
 Cette déclaration est faite en France à l'officier de port ou officier de port adjoint, au surveillant de port ou, à défaut,
-au syndic des gens de mer et, à l'étranger, à l'agent consulaire français le plus proche du port d'arrivée.
+au fonctionnaire de catégorie C affecté dans les services exerçant des missions de contrôle dans le domaine des affaires
+maritimes sous l'autorité ou à la disposition du ministre chargé de la mer et, à l'étranger, à l'agent consulaire français le
+plus proche du port d'arrivée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L341-1 (Ab), alinéas 1 et 2
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cité par**:
 
@@ -36200,15 +36699,16 @@ l'exercice de leurs fonctions :
 2° Les auxiliaires de surveillance ;
 
 3° Pour les infractions à la police de la signalisation maritime, les commandants des bâtiments et aéronefs de l'Etat, les
-agents de l'autorité maritime, les fonctionnaires et agents assermentés du ministère chargé de la mer, les guetteurs des
-postes sémaphoriques ou les officiers de permanence des centres régionaux opérationnels de surveillance et de sauvetage, les
+agents de l'autorité maritime, les fonctionnaires affectés dans les services exerçant des missions de contrôle dans le
+domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la mer, les guetteurs des postes
+sémaphoriques ou les officiers de permanence des centres régionaux opérationnels de surveillance et de sauvetage, les
 commandants de navires baliseurs et les pilotes spécialement assermentés à cet effet ainsi que les agents des douanes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des ports maritimes - art. L345-4 (Ab)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cité par**:
 
@@ -37232,32 +37732,6 @@ cas, les dommages sont à la charge du remorqueur, à moins qu'il n'établisse l
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5342-3
-
-Les personnels employés à bord des navires utilisés pour fournir de façon habituelle, dans les eaux territoriales ou
-intérieures françaises, des prestations de services de remorquage portuaire et de lamanage sont soumis aux dispositions de
-l'article L. 1262-4 du code du travail.
-
-Les conditions d'application, notamment celles dans lesquelles des formalités déclaratives sont exigées des prestataires
-étrangers, ainsi que les formalités dont ceux-ci sont dispensés, sont fixées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L1262-4
-
-	**Cité par**:
-
-	  - Code des transports - art. L5763-1 (M)
-	  - Code des transports - art. L5783-1 (V)
-	  - Code des transports - art. L5793-1 (V)
 
 
 ##### Section 2 : Le remorquage en haute mer
@@ -39826,10 +40300,14 @@ que le navire peut transporter et multipliée par le nombre de touchées effectu
 
 ###### Article L5431-4
 
-Les dispositions du présent chapitre s'appliquent sans préjudice des dispositions spécifiques à la Corse, fixées par les
-articles L. 4424-18 et L. 4424-19 du code général des collectivités territoriales.
+Les dispositions du présent chapitre s'appliquent à la Corse, sans préjudice des dispositions fixées par les articles L.
+4424-18 et L. 4424-19 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 35
 
 	**Cite**:
 
@@ -40936,6 +41414,58 @@ nécessaire à la navigation ou à la sécurité du navire.
 	**Anciens textes**:
 
 	  - Code disciplinaire et pénal de la marine marcha... - art. 52 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Section 4 : Consignation
+
+###### Article L5531-19
+
+Le capitaine peut, avec l'accord préalable du procureur de la République près la juridiction territorialement compétente au
+titre de l'un des critères mentionnés au second alinéa de l'article 37 de la loi du 17 décembre 1926 portant code
+disciplinaire et pénal de la marine marchande, ordonner la consignation dans un lieu fermé, pendant la durée strictement
+nécessaire, d'une personne mettant en péril la préservation du navire, de sa cargaison ou de la sécurité des personnes se
+trouvant à bord, lorsque les aménagements du navire le permettent. Un mineur est séparé de toute autre personne consignée ;
+il peut cependant être consigné avec un ou des membres de sa famille, à condition que cette mesure ne soit pas de nature à
+mettre en péril la préservation du navire, de sa cargaison ou de la sécurité des personnes, y compris celle des intéressés.
+En cas d'urgence, la consignation est immédiatement ordonnée par le capitaine, qui en informe aussitôt le procureur de la
+République afin de recueillir son accord. 
+
+Avant l'expiration d'un délai de quarante-huit heures à compter de l'ordre de consignation du capitaine, le juge des libertés
+et de la détention, saisi par le procureur de la République, statue par ordonnance motivée insusceptible d'appel sur la
+prolongation de la mesure pour une durée maximale de cent vingt heures à compter de l'expiration du délai précédent. Il peut
+solliciter du procureur de la République tous éléments de nature à apprécier la situation matérielle et l'état de santé de la
+personne qui fait l'objet de la consignation. 
+
+La consignation peut être renouvelée, selon les mêmes modalités, jusqu'à la remise de la personne faisant l'objet de la
+consignation à l'autorité administrative ou judiciaire compétente, à moins que le capitaine n'ordonne la levée de la mesure. 
+
+Sauf impossibilité technique, le procureur de la République et le juge des libertés et de la détention communiquent, s'ils
+l'estiment utile, avec la personne faisant l'objet de la consignation.
+
+**Nota:**
+
+Conformément à l'article 37 de la loi n° 2013-431 du 28 mai 2013, à compter de l'entrée en vigueur de l'article 2 de
+l'ordonnance n° 2012-1218 du 2 novembre 2012 portant réforme pénale en matière maritime, au premier alinéa de l'article L.
+5531-19 du code des transports, la référence : au second alinéa de l'article 37 de la loi du 17 décembre 1926 portant code
+disciplinaire et pénal de la marine marchande est remplacée par la référence : au II de l'article 3 de la loi du 17 décembre
+1926 relative à la répression en matière maritime.
+
+L'article 21 de l'ordonnance n° 2012-1218 a fixé au plus tard au 1er janvier 2015 l'entrée en vigueur des dispositions de son
+article 2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 37 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5442-12 (V)
 
 	**Codifié par**:
 
@@ -44669,18 +45199,19 @@ français.
 
 ###### Article L5548-3
 
-Indépendamment des inspecteurs et contrôleurs du travail, les officiers et inspecteurs des affaires maritimes et les agents
-assermentés des affaires maritimes sont chargés de constater les infractions aux dispositions du code du travail en tant
-qu'elles sont applicables aux gens de mer, ainsi qu'aux dispositions du présent titre.
+Indépendamment des inspecteurs et contrôleurs du travail, les officiers et fonctionnaires affectés dans les services exerçant
+des missions de contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposition du ministre chargé de la
+mer sont chargés de constater les infractions aux dispositions du code du travail en tant qu'elles sont applicables aux gens
+de mer, ainsi qu'aux dispositions du présent titre.
 
 Pour les navires touchant les rades et ports étrangers, la constatation des infractions mentionnées au premier alinéa est
 confiée à l'autorité compétente de l'Etat en fonction dans ce pays.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail - art. L742-1-1 (M), alinéa 6 et alinéa 7 (phrase 2)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cité par**:
 
@@ -44696,21 +45227,21 @@ confiée à l'autorité compétente de l'Etat en fonction dans ce pays.
 
 ###### Article L5548-4
 
-Les inspecteurs, contrôleurs, officiers et agents mentionnés au premier alinéa de l'article L. 5548-3 sont habilités à
-constater les infractions aux dispositions de la législation du travail applicable aux personnels embarqués à bord des
+Les inspecteurs, contrôleurs, officiers et fonctionnaires mentionnés au premier alinéa de l'article L. 5548-3 sont habilités
+à constater les infractions aux dispositions de la législation du travail applicable aux personnels embarqués à bord des
 navires immatriculés à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres
 australes et antarctiques françaises, qui font escale dans un port d'un département français ou à Saint-Barthélemy, Saint-
 Martin ou Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail - art. L742-1-1 (M), alinéa 7 (phrase 1)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 31
 
 	**Cite**:
 
-	  - Code des transports - art. L5548-3 (V)
+	  - Code des transports - art. L5548-3
 
 	**Codifié par**:
 
@@ -46867,6 +47398,367 @@ Elle n'est pas cumulable avec l'allocation journalière de présence parentale p
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+#### TITRE VI : LES CONDITIONS SOCIALES DU PAYS D'ACCUEIL
+
+##### Chapitre Ier : Champ d'application
+
+###### Article L5561-1
+
+Le présent titre est applicable aux navires : 
+
+1° Ayant accès au cabotage maritime national et assurant un service de cabotage continental et de croisière d'une jauge brute
+de moins de 650 ; 
+
+2° Ayant accès au cabotage maritime national et assurant un service de cabotage avec les îles, à l'exception des navires de
+transport de marchandises d'une jauge brute supérieure à 650 lorsque le voyage concerné suit ou précède un voyage à
+destination d'un autre Etat ou à partir d'un autre Etat ; 
+
+3° Utilisés pour fournir dans les eaux territoriales ou intérieures françaises des prestations de services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cité par**:
+
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 31
+	  - Code de la sécurité sociale. - art. L311-3 (VD)
+	  - Code des transports - art. L5551-1 (V)
+	  - Code des transports - art. L5561-2 (M)
+	  - Code des transports - art. L5562-1 (V)
+	  - Code des transports - art. L5563-1 (V)
+	  - Code des transports - art. L5564-1 (V)
+	  - Code des transports - art. R5561-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5561-2
+
+Les dispositions des articles L. 5522-1, relatives à la nationalité des équipages, et L. 5522-2, relatives aux effectifs à
+bord, ainsi que les règlements pris pour leur mise en œuvre sont applicables aux navires mentionnés à l'article L. 5561-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5522-1 (V)
+	  - Code des transports - art. L5522-2 (V)
+	  - Code des transports - art. L5561-1 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5566-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre II : Droits des salariés
+
+###### Article L5562-1
+
+Les dispositions légales et les stipulations conventionnelles applicables aux salariés employés sur les navires mentionnés à
+l'article L. 5561-1 sont celles applicables aux salariés employés par les entreprises de la même branche d'activité établies
+en France, pour les matières suivantes : 
+
+1° Libertés individuelles et collectives dans la relation de travail ; 
+
+2° Discriminations et égalité professionnelle entre les femmes et les hommes ; 
+
+3° Protection de la maternité, congés de maternité, de paternité et d'accueil de l'enfant, congés pour événements
+familiaux ; 
+
+4° Conditions de mise à disposition et garanties dues aux salariés par les entreprises exerçant une activité de travail
+temporaire ; 
+
+5° Exercice du droit de grève ; 
+
+6° Durée du travail, repos compensateurs, jours fériés, congés annuels payés, durée du travail et travail de nuit des jeunes
+travailleurs ; 
+
+7° Salaire minimum et paiement du salaire, y compris les majorations pour les heures supplémentaires ; 
+
+8° Règles relatives à la santé et à la sécurité au travail, âge d'admission au travail, emploi des enfants ; 
+
+9° Travail illégal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5561-1 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R5562-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5562-2
+
+Un contrat de travail écrit est conclu entre l'armateur et chacun des salariés relevant des gens de mer. Il mentionne : 
+
+1° Ses nom et prénoms, sa date et son lieu de naissance, son numéro d'identification ou toute autre référence équivalente ; 
+
+2° Le lieu et la date de conclusion du contrat ; 
+
+3° Les nom et prénoms ou raison sociale et l'adresse de l'armateur ; 
+
+4° Le service pour lequel le salarié est engagé ; 
+
+5° Les fonctions qu'exerce le salarié ; 
+
+6° Le montant des salaires et accessoires ainsi que le nombre d'heures de travail auquel se rapporte la rémunération
+prévue ; 
+
+7° Les droits à congés payés ou la formule utilisée pour les calculer ; 
+
+8° Les prestations en matière de protection de la santé et de sécurité sociale qui doivent lui être assurées par
+l'armateur ; 
+
+9° Le droit à un rapatriement ; 
+
+10° L'intitulé de la convention collective nationale française étendue dont relèvent les navires battant pavillon français
+effectuant les mêmes navigations et la référence aux accords collectifs applicables au sein de l'entreprise ; 
+
+11° Le terme du contrat si celui-ci est conclu pour une durée déterminée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5562-3
+
+La prise des congés déterminés par le contrat de travail ne peut être remplacée par une indemnité compensatrice, sauf si la
+relation de travail est arrivée à son terme. L'armateur établit un document individuel mentionnant l'indemnité compensatrice
+perçue par chacun des gens de mer pour la fraction de congés dont il n'a pas bénéficié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. D5565-2 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre III : Protection sociale
+
+###### Article L5563-1
+
+Les gens de mer employés à bord d'un navire mentionné à l'article L. 5561-1 bénéficient du régime de protection sociale de
+l'un des Etats membres de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen. 
+
+Le régime de protection sociale comprend nécessairement : 
+
+1° Le risque santé, qui prend en charge la maladie, l'invalidité, l'accident du travail et la maladie professionnelle ; 
+
+2° Le risque maternité-famille ; 
+
+3° Le risque emploi, qui prend en charge le chômage ; 
+
+4° Le risque vieillesse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. D5565-2 (VD)
+	  - Code des transports - art. L5566-2 (M)
+
+	**Cite**:
+
+	  - Code des transports - art. L5561-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5563-2
+
+L'armateur ou l'un de ses préposés déclare tout accident survenu à bord et dont le capitaine a eu connaissance au directeur
+départemental des territoires et de la mer du premier port français touché par le navire après sa survenue. 
+
+La déclaration peut être faite par la victime ou ses représentants jusqu'à l'expiration de la deuxième année qui suit
+l'accident.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R5563-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre IV : Dispositions particulières à certains salariés
+
+###### Article L5564-1
+
+A bord des navires pratiquant un service de cabotage à passagers avec les îles ou de croisière, et d'une jauge brute de moins
+de 650, le personnel désigné pour aider les passagers en cas de situation d'urgence est aisément identifiable et possède, sur
+le plan de la communication, des aptitudes suffisantes pour remplir cette mission en satisfaisant aux critères fixés par le c
+de l'article 18 de la directive 2008/106/ CE du Parlement européen et du Conseil du 19 novembre 2008 concernant le niveau
+minimal de formation des gens de mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre V : Documents obligatoires
+
+###### Article L5565-1
+
+La liste des documents qui sont tenus à la disposition des membres de l'équipage et affichés dans les locaux réservés à
+l'équipage est fixée par décret. 
+
+Ce décret fixe notamment ceux des documents obligatoires qui sont disponibles en français et dans la langue de travail du
+navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5565-2
+
+La liste des documents qui sont tenus à la disposition des agents mentionnés aux articles L. 5548-1 et L. 5548-3 et dont ils
+peuvent prendre copie, quel que soit le support, est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5548-1 (V)
+	  - Code des transports - art. L5548-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre VI : Sanctions pénales
+
+###### Article L5566-1
+
+Est puni d'une amende de 3 750 € le fait pour l'armateur de recruter des gens de mer : 
+
+1° Sans avoir établi un contrat de travail écrit ; 
+
+2° En ayant conclu un contrat de travail ne comportant pas les mentions prévues à l'article L. 5561-2 ou comportant ces
+mentions de manière volontairement inexacte. 
+
+La récidive est punie d'un emprisonnement de six mois et d'une amende de 7 500 €.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 2 (V)
+	  - Loi du 17 décembre 1926 - art. 30 (VD)
+	  - Loi du 17 décembre 1926 - art. 31 (VD)
+	  - Loi du 17 décembre 1926 - art. 32 (VD)
+	  - Loi du 17 décembre 1926 - art. 33 (VD)
+	  - Loi du 17 décembre 1926 - art. 34 (V)
+	  - Loi du 17 décembre 1926 - art. 35 (V)
+	  - Loi du 17 décembre 1926 - art. 36 (V)
+	  - Loi du 17 décembre 1926 - art. 37 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5561-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5566-2
+
+Est puni d'une amende de 3 750 € le fait pour l'armateur de méconnaître les dispositions de l'article L. 5563-1 relatives à
+l'obligation de faire bénéficier les gens de mer d'un régime de protection sociale de l'un des Etats membres de l'Union
+européenne ou d'un Etat partie à l'Espace économique européen couvrant obligatoirement les risques santé, maternité-famille,
+emploi et vieillesse. 
+
+Les infractions donnent lieu à autant d'amendes qu'il y a de gens de mer indûment employés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5563-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ### LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS
 
 #### TITRE IER : CHAMP D'APPLICATION
@@ -48072,6 +48964,27 @@ océan Indien.
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 
+###### Article L5712-2
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 en Guadeloupe, en Guyane et en Martinique, les mots : " directeur
+interrégional de la mer ” sont remplacés par les mots : " directeur de la mer ”. A La Réunion, ces mêmes mots sont remplacés
+par les mots : " directeur de la mer sud océan Indien ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 ###### Article L5713-1
@@ -48533,6 +49446,26 @@ directeur de la mer sud océan Indien.
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
 
 
+###### Article L5722-2
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 à Mayotte, les mots : " directeur interrégional de la mer " sont
+remplacés par les mots : " directeur de la mer sud océan Indien ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -48556,21 +49489,6 @@ et L. 5351-4 ne sont pas applicables à Mayotte.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5723-2
-
-Les dispositions du livre III de la présente partie relative à la domanialité publique sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 36
-
-	**Anciens textes**:
-
-	  - Code des ports maritimes - art. L163-1 (Ab)
 
 
 ##### Chapitre IV : Le transport maritime
@@ -48616,14 +49534,14 @@ partie, les autorités mentionnées aux premier et troisième alinéas du même 
 ###### Article L5725-1
 
 Les dispositions des articles L. 5541-1 à L. 5542-17, L. 5542-21 à L. 5542-38, L. 5542-40 à L. 5542-55, L. 5543-1 à L.
-5543-4, L. 5544-1 à L. 5544-60, L. 5544-62, L. 5544-63, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5549-3 ainsi que celles du
-titre V du livre V de la présente partie ne sont pas applicables à Mayotte.
+5543-4, L. 5544-1 à L. 5544-60, L. 5544-62, L. 5544-63, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5549-3 ainsi que celles  des
+titres V et VI  du livre V de la présente partie ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
 
 	**Cite**:
 
@@ -48728,6 +49646,26 @@ exercées par le directeur de la mer en Guadeloupe.
 	**Cite**:
 
 	  - Code des transports - art. L5222-1
+
+
+###### Article L5732-2
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 à Saint-Barthélemy, les mots : " directeur interrégional de la mer ”
+sont remplacés par les mots : " directeur de la mer en Guadeloupe ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre III : Les ports maritimes
@@ -49037,6 +49975,26 @@ par le directeur de la mer en Guadeloupe.
 	**Cite**:
 
 	  - Code des transports - art. L5222-1
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5742-2
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 à Saint-Martin, les mots : " directeur interrégional de la mer ” sont
+remplacés par les mots : " directeur de la mer en Guadeloupe ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
 
 	**Codifié par**:
 
@@ -49393,6 +50351,26 @@ sont exercées par le directeur des territoires, de l'alimentation et de la mer.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5752-2
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 à Saint-Pierre-et-Miquelon, les mots : " directeur interrégional de la
+mer ” sont remplacés par les mots : " directeur des territoires, de l'alimentation et de la mer ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre III : Les ports maritimes
 
 
@@ -49674,13 +50652,41 @@ Les articles L. 5000-1 à L. 5000-6 sont applicables en Nouvelle-Calédonie.
 
 ###### Article L5761-1
 
-Les dispositions du livre Ier sont applicables en Nouvelle-Calédonie, à l'exception de celles du chapitre II du titre Ier.
+Le livre Ier est applicable en Nouvelle-Calédonie, à l'exception du chapitre II du titre Ier et du chapitre III du titre II.
+
+Le titre IV est applicable en Nouvelle-Calédonie, sous réserve des compétences dévolues à la collectivité en matière de
+police et de sécurité de la circulation maritime et de sauvegarde de la vie humaine en mer.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L6761-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5761-2
+
+Pour l'application des articles L. 5141-2-1 et L. 5141-4-1 en Nouvelle-Calédonie, les mots : " l'autorité portuaire
+mentionnée à l'article L. 5331-5” sont remplacés par les mots : " l'autorité portuaire compétente ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5141-2-1
+	  - Code des transports - art. L5331-5 (V)
 
 	**Codifié par**:
 
@@ -49747,6 +50753,26 @@ maritime ".
 
 	  - Code des transports - art. L5243-2-2
 	  - Code des transports - art. L5336-5
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5762-3
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 en Nouvelle-Calédonie, les mots : " directeur interrégional de la mer
+” sont remplacés par les mots : " chef du service des affaires maritimes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
 
 	**Codifié par**:
 
@@ -49888,13 +50914,21 @@ Les dispositions du chapitre Ier du titre Ier du livre Ier sont applicables en P
 chapitres Ier et II du titre III lorsque l'événement de mer se produit en dehors des eaux maritimes intérieures de la
 Polynésie française, et celles des chapitres Ier et II du titre IV. 
 
-Les dispositions de l'article L. 5113-1 sont applicables en Polynésie française.
+Les dispositions de l'article L. 5113-1 sont applicables en Polynésie française, sous réserve des compétences dévolues à
+cette collectivité par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française
+dans les eaux intérieures et en matière de sécurité des navires de moins de 160 tonneaux de jauge brute qui ne sont pas
+destinés au transport de passagers.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code des transports - art. L5113-1 (V)
+	  - Loi organique n°2004-192 du 27 février 2004
+	  - Code des transports - art. L5113-1
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
 
 	**Cité par**:
 
@@ -49904,9 +50938,26 @@ Les dispositions de l'article L. 5113-1 sont applicables en Polynésie français
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Modifié par**:
 
-	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+###### Article L5771-2
+
+Pour l'application des articles L. 5141-2-1 et L. 5141-4-1 en Polynésie française, les mots : " l'autorité portuaire
+mentionnée à l'article L. 5331-5” sont remplacés par les mots : " l'autorité portuaire compétente ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5141-2-1
+	  - Code des transports - art. L5331-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre II : Navigation maritime
@@ -49969,6 +51020,26 @@ maritime ".
 
 	  - Code des transports - art. L5243-2-2
 	  - Code des transports - art. L5336-5
+
+
+###### Article L5772-4
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 en Polynésie française, les mots : " directeur interrégional de la mer
+” sont remplacés par les mots : " chef du service des affaires maritimes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre IV : Le transport maritime
@@ -50114,6 +51185,27 @@ d'accident " sont supprimés.
 	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
+###### Article L5781-3
+
+Pour l'application des articles L. 5141-2-1 et L. 5141-4-1 à Wallis-et-Futuna, les mots : " l'autorité portuaire mentionnée à
+l'article L. 5331-5” sont remplacés par les mots : " l'autorité portuaire compétente ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5141-2-1
+	  - Code des transports - art. L5331-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre II : Navigation maritime
 
 
@@ -50165,6 +51257,26 @@ maritime ".
 
 	  - Code des transports - art. L5243-2-2
 	  - Code des transports - art. L5336-5
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5782-4
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 à Wallis-et-Futuna, les mots : " directeur interrégional de la mer ”
+sont remplacés par les mots : " chef du service des affaires maritimes ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
 
 	**Codifié par**:
 
@@ -50395,6 +51507,27 @@ passagers par mer en cas d'accident " sont supprimés.
 	  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
+###### Article L5791-3
+
+Pour l'application des articles L. 5141-2-1 et L. 5141-4-1 aux Terres australes et antarctiques françaises, les mots : "
+l'autorité portuaire mentionnée à l'article L. 5331-5” sont remplacés par les mots : " l'autorité portuaire compétente ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5141-2-1
+	  - Code des transports - art. L5331-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
 ##### Chapitre II : Navigation maritime
 
 
@@ -50446,6 +51579,26 @@ de la signalisation maritime ".
 
 	  - Code des transports - art. L5243-2-2
 	  - Code des transports - art. L5336-5
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5792-4
+
+Pour l'application des articles L. 5281-1 et L. 5281-2 aux Terres australes et antarctiques françaises, les mots : "
+directeur interrégional de la mer " sont remplacés par les mots : " directeur de la mer sud océan Indien ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5281-1 (V)
 
 	**Codifié par**:
 
@@ -51593,18 +52746,19 @@ personnes en péril.
 
 ###### Article L6132-2
 
-Les règles relatives aux épaves maritimes prévues aux articles L. 5242-16 à L. 5242-18 s'appliquent aux épaves d'aéronefs
-trouvés en mer ou sur le littoral maritime.
+Les règles relatives aux épaves maritimes mentionnées aux articles L. 5242-17 et L. 5242-18 s'appliquent aux épaves
+d'aéronefs trouvés en mer ou sur le littoral maritime.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L142-2 (Ab)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 	**Cite**:
 
-	  - Code des transports - art. L5242-16 (V)
+	  - Code des transports - art. L5242-17
+	  - Code des transports - art. L5242-18
 
 	**Codifié par**:
 
@@ -59272,9 +60426,20 @@ et réception, pour une durée comprise entre quinze jours et deux mois.
 
 ###### Article L6761-1
 
-Les dispositions du livre Ier sont applicables en Nouvelle-Calédonie.
+Les dispositions du livre Ier sont applicables en Nouvelle-Calédonie. 
+
+Les sections 1 et 2 du chapitre II du titre III du livre Ier sont applicables en Nouvelle-Calédonie dans les conditions
+fixées à l'article L. 5761-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5761-1
 
 	**Codifié par**:
 
@@ -59702,9 +60867,20 @@ Les dispositions de l'article L. 6100-1 sont applicables en Polynésie français
 
 ###### Article L6771-1
 
-Les dispositions du titre Ier et du titre IV du livre Ier de la présente partie sont applicables en Polynésie française.
+Les dispositions du titre Ier et du titre IV du livre Ier de la présente partie sont applicables en Polynésie française. 
+
+Le chapitre II du titre III du même livre Ier est également applicable en Polynésie française sous réserve, pour les sections
+1 et 2, des conditions fixées à l'article L. 5771-1.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5771-1
 
 	**Codifié par**:
 
