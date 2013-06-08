@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-05-30
+Version Consolidée au 2013-06-09
 
 # PARTIE LEGISLATIVE
 
@@ -17443,25 +17443,35 @@ complémentaires suivantes :
 
 2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 
 
-3° La confiscation du véhicule qui a servi à commettre l'infraction ; 
+3° La confiscation du véhicule qui a servi à commettre l'infraction.
 
-4° L'interdiction, pour une durée de cinq ans au plus, d'entrer et de séjourner dans l'enceinte d'une ou plusieurs
-infrastructures aéroportuaires ou portuaires, d'une gare ferroviaire ou routière, ou de leurs dépendances, sans y avoir été
-préalablement autorisé par les autorités de police territorialement compétentes.
+**Nota:**
+
+Dans sa décision n° 2013-318 QPC du 7 juin 2013 (NOR : CSCX1314798S), le Conseil constitutionnel a déclaré contraire à la
+Constitution le 4° de l'article L. 3124-9 du code des transports. La déclaration d'inconstitutionnalité de l'article 1er
+prend effet à compter de la publication de la présente décision dans les conditions prévues au considérant 21.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 5 (Ab), alinéas 5 à 10, paragraphe IV
-
-	**Cite**:
-
-	  - Code des transports - art. L3123-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Décision n°2013-318 QPC du 7 juin 2013 - art. 1, v. init.
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
+
+	**Cite**:
+
+	  - Code des transports - art. L3123-2
+
+	**Cité par**:
+
+	  - Code des transports - art. L3124-10 (Ab)
 
 
 ###### Article L3124-10
