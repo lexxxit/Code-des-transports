@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-06-09
+Version Consolidée au 2013-06-17
 
 # PARTIE LEGISLATIVE
 
@@ -42847,34 +42847,6 @@ l'autorité compétente de l'Etat.
 	  - Décret n°2015-219 du 27 février 2015 - art. 1 (V)
 	  - Décret n°2015-219 du 27 février 2015 - art. 5 (V)
 	  - Code des transports - art. L5549-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5542-49
-
-Sous réserve des dispositions de l'article L. 3245-1 du code du travail, les actions ayant trait aux différends liés à
-l'embarquement se prescrivent par un an après la fin du voyage.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 32 (V)
-
-	**Cité par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 32 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L3245-1
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 130 (Ab)
 
 	**Codifié par**:
 
