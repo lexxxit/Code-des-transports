@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-07-18
 
 # PARTIE LEGISLATIVE
 
@@ -8892,34 +8892,33 @@ transports urbains excluant certaines parties du territoire de la commune.
 Pour l'application des articles L. 1214-1 à L. 1214-10, 
 L. 1214-14 à L. 1214-28, L. 1214-30 à L. 1214-35, L. 1231-4 à L. 1231-6, 
 L. 1231-8, L. 1811-1, L. 1851-2, L. 3111-1 à L. 3111-6, 
-L. 3111-12, L. 3112-1 et L. 3131-1 et des articles L. 5431-2 et L. 5431-3 il peut être désigné, dans les départements et
-régions d'outre-mer, une autorité organisatrice de transports unique, et défini un périmètre unique de transports qui se
-substitue à tous les périmètres de transports urbains existants et couvre l'ensemble du territoire de ces collectivités.
+L. 3111-12 et L. 3131-1 et des articles L. 5431-2 et L. 5431-3 il peut être désigné, dans les départements et régions
+d'outre-mer, une autorité organisatrice de transports unique, et défini un périmètre unique de transports qui se substitue à
+tous les périmètres de transports urbains existants et couvre l'ensemble du territoire de ces collectivités.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 30-3 (VT), alinéa 1
-
-	**Cite**:
-
-	  - Code des transports - art. L1214-1 (V)
-	  - Code des transports - art. L1214-14 (V)
-	  - Code des transports - art. L1214-30 (V)
-	  - Code des transports - art. L1231-4 (V)
-	  - Code des transports - art. L1231-8 (V)
-	  - Code des transports - art. L1811-1 (V)
-	  - Code des transports - art. L1851-2 (V)
-	  - Code des transports - art. L3111-1 (V)
-	  - Code des transports - art. L3111-12 (V)
-	  - Code des transports - art. L3112-1 (V)
-	  - Code des transports - art. L3131-1 (V)
-	  - Code des transports - art. L5431-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L1214-1
+	  - Code des transports - art. L1214-14
+	  - Code des transports - art. L1214-30
+	  - Code des transports - art. L1231-4
+	  - Code des transports - art. L1231-8
+	  - Code des transports - art. L1811-1
+	  - Code des transports - art. L1851-2
+	  - Code des transports - art. L3111-1
+	  - Code des transports - art. L3111-12
+	  - Code des transports - art. L3131-1
+	  - Code des transports - art. L5431-2
 
 
 ###### Article L1811-3
@@ -16297,36 +16296,6 @@ d'Ile-de-France.
 
 ##### Chapitre II : Exécution des services occasionnels
 
-###### Article L3112-1
-
-Les services occasionnels, lorsqu'ils sont exécutés avec des véhicules automobiles comportant, outre le siège du conducteur,
-huit places assises au maximum, sont soumis à autorisation délivrée par l'autorité administrative, dans des conditions fixées
-par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 29 (VT), alinéa 11
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 34
-
-	**Cité par**:
-
-	  - Code des transports - art. L1811-2 (V)
-	  - Code des transports - art. L3114-2 (V)
-	  - Code des transports - art. L3143-4 (V)
-	  - Code des transports - art. L3511-3 (V)
-	  - Code des transports - art. L3521-2-1 (V)
-	  - Code des transports - art. L3551-1-1 (V)
-
-
 ###### Article L3112-2
 
 Tout contrat passé pour l'exécution de services occasionnels doit comporter des clauses précisant l'objet de la prestation et
@@ -16502,35 +16471,6 @@ Les dispositions des articles L. 2241-1 (I, premier et quatrième alinéas et II
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-##### Section 2 : Sanctions administratives
-
-###### Article L3114-2
-
-L'autorisation de services occasionnels mentionnée à l'article L. 3112-1 peut faire l'objet d'un retrait, à titre temporaire
-ou définitif, dans les conditions prévues par l'article L. 3452-1 et suivant les modalités fixées par les articles L. 3452-4
-et L. 3452-5.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 37 (VT), alinéa 1, ecqc les autorisations, paragraphe I
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 34
-
-	**Cite**:
-
-	  - Code des transports - art. L3112-1
-	  - Code des transports - art. L3452-1
-	  - Code des transports - art. L3452-4
 
 
 ##### Section 3 : Sanctions pénales
@@ -27279,8 +27219,7 @@ navire et du fret acquis depuis le début du voyage :
 2° Les droits de tonnage ou de port et les autres taxes et impôts publics de mêmes espèces, les frais de pilotage, les frais
 de garde et de conservation depuis l'entrée du navire dans le dernier port ;
 
-3° Les créances nées du contrat d'engagement du capitaine, de l'équipage et du contrat de travail des autres personnes
-employées à bord ;
+3° Les créances nées du contrat des gens de mer et de toutes personnes employées à bord ;
 
 4° Les rémunérations dues pour sauvetage et assistance et la contribution du navire aux avaries communes ;
 
@@ -27296,10 +27235,13 @@ du consignataire, lorsqu'il pourvoit aux besoins normaux du navire au lieu et pl
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°67-5 du 3 janvier 1967 - art. 31 (Ab)
-	  - Loi n°69-8 du 3 janvier 1969 - art. 12 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
 
 	**Cité par**:
 
@@ -27309,10 +27251,6 @@ du consignataire, lorsqu'il pourvoit aux besoins normaux du navire au lieu et pl
 	  - Code des transports - art. L5114-15 (V)
 	  - Code des transports - art. L5114-17 (V)
 	  - Code des transports - art. R5114-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L5114-9
@@ -31118,17 +31056,21 @@ titres de navigation maritime ainsi que leur durée de validité, sont fixées p
 
 ###### Article L5232-1
 
-Tout navire ou autre engin flottant dont l'équipage est constitué de marins professionnels au sens du 3° de l'article L.
-5511-1 doit être titulaire d'un rôle d'équipage délivré par l'autorité administrative. 
+Tout navire ou autre engin flottant dont l'équipage est constitué de marins au sens du 3° de l'article L. 5511-1 doit être
+titulaire d'un rôle d'équipage délivré par l'autorité administrative. 
 
 Le rôle d'équipage est l'acte authentique de constitution de l'armement administratif du navire. Son contenu est fixé par
 voie réglementaire.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Modifié par**:
 
-	  - Loi n°42-427 du 1 avril 1942 - art. 4 (Ab)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
 
 	**Cité par**:
 
@@ -31140,37 +31082,31 @@ voie réglementaire.
 
 	**Cite**:
 
-	  - Code des transports - art. L5511-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5511-1
 
 
 ###### Article L5232-2
 
 Sans préjudice des dispositions du titre II du livre II de la quatrième partie et de celles de l'article L. 5241-2, les
-bateaux et engins fluviaux dont l'équipage est constitué de marins professionnels au sens du 3° de l'article L. 5511-1
-doivent également être titulaires d'un rôle d'équipage lorsqu'ils naviguent exclusivement en aval de la limite de la
-navigation maritime. 
+bateaux et engins fluviaux dont l'équipage est constitué de marins au sens du 3° de l'article L. 5511-1 doivent également
+être titulaires d'un rôle d'équipage lorsqu'ils naviguent exclusivement en aval de la limite de la navigation maritime. 
 
 Ces bateaux et engins sont assimilés à des navires pour l'application du livre V de la présente partie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°42-427 du 1 avril 1942 - art. 5 (M), alinéas 1 à 9
-	  - Décret du 17 juin 1938 - art. 2 (VT)
-
-	**Cite**:
-
-	  - Code des transports - art. L5241-2 (V)
-	  - Code des transports - art. L5511-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+	**Cite**:
+
+	  - Code des transports - art. L5241-2
+	  - Code des transports - art. L5511-1
 
 
 ###### Article L5232-3
@@ -40395,22 +40331,35 @@ dispositions du chapitre III du titre Ier du livre II de la partie II du code de
 
 ##### Chapitre unique
 
+#### TITRE IER : DEFINITIONS ET DISPOSITIONS GENERALES
+
+##### Chapitre Ier : Définitions
+
 ###### Article L5511-1
 
-Pour l'application du présent livre, est considéré comme :
+Pour l'application du présent livre, est considéré comme : 
 
-1° Armateur, toute personne pour le compte de laquelle un navire est armé ;
+1° "Armateur" : toute personne pour le compte de laquelle un navire est armé. Est également considéré comme armateur, pour
+l'application du présent titre et des titres II à IV du présent livre, le propriétaire du navire ou tout autre opérateur
+auquel le propriétaire a confié la responsabilité de l'exploitation du navire, indépendamment du fait que d'autres employeurs
+ou entités s'acquittent en son nom de certaines tâches ; 
 
-2° Entreprise d'armement maritime, tout employeur de salariés exerçant la profession de marin ;
+2° "Entreprise d'armement maritime" : tout employeur de salariés exerçant la profession de marin ; 
 
-3° Marin, toute personne remplissant les conditions mentionnées à l'article L. 5521-1, qui contracte un engagement envers un
-armateur ou s'embarque pour son propre compte, en vue d'occuper à bord d'un navire un emploi relatif à la marche, à la
-conduite, à l'entretien et au fonctionnement du navire ;
+3° "Marins" : les gens de mer salariés ou non salariés exerçant une activité directement liée à l'exploitation du navire ; 
 
-4° Gens de mer, tout marin ou toute autre personne exerçant, à bord d'un navire, une activité professionnelle liée à son
-exploitation.
+4° "Gens de mer" : toutes personnes salariées ou non salariées exerçant à bord d'un navire une activité professionnelle à
+quelque titre que ce soit. 
+
+Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, détermine les catégories de personnels ne relevant pas, selon le cas, du 3° ou du 4°, en fonction du caractère
+occasionnel de leur activité à bord, de la nature ou de la durée de leur embarquement.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -40448,14 +40397,9 @@ exploitation.
 	  - Code des transports - art. R5511-7 (V)
 	  - Code des transports - art. R5561-1 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail maritime - art. 2 (Ab)
-	  - Code du travail maritime - art. 3 (Ab), alinéa 1
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
 
 
 ###### Article L5511-2
@@ -40556,37 +40500,284 @@ navire pour quelque cause que ce soit, hormis les gens de mer.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Chapitre II : Documents professionnels
+
+###### Article L5512-1
+
+I. - Tout marin remplissant les conditions requises pour exercer à bord d'un navire et qui en fait la demande reçoit une
+pièce d'identité des gens de mer s'il remplit l'une des conditions suivantes : 
+
+1° Etre de nationalité française ; ou 
+
+2° Etre résident en France et : 
+
+a) Soit être ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique
+européen ou de la Confédération suisse ou d'un Etat partie à tout accord international ayant la même portée en matière de
+droit au séjour et au travail ; 
+
+b) Soit être ressortissant d'un Etat autre que ceux mentionnés au a et titulaire d'une carte de résident ou d'un titre
+équivalent, en application d'une convention ou d'un accord international. 
+
+II. - Pour obtenir cette pièce d'identité des gens de mer, les intéressés s'identifient auprès de l'autorité administrative
+compétente et sont enregistrés dans un traitement automatisé de données.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+	**Cité par**:
+
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code des transports - art. L5512-4 (V)
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5512-2
+
+I.-La durée de validité de la pièce d'identité des gens de mer est fixée à cinq ans, renouvelable une fois. 
+
+II.-L'armateur ne peut détenir de pièce d'identité des gens de mer employés ou travaillant à bord. Le capitaine ne peut
+détenir d'autre pièce d'identité des gens de mer employés ou travaillant à bord que la sienne. 
+
+III.-Par dérogation au II, les gens de mer, qui le sollicitent par voie écrite, peuvent confier au capitaine leur pièce
+d'identité des gens de mer ainsi que tout autre document. 
+
+IV.-Le capitaine restitue sans délai, dans le cas prévu à l'article L. 5542-31 ou à la demande des gens de mer, tout document
+confié dans les conditions du III du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+	**Cité par**:
+
+	  - Code des transports - art. L5542-31 (V)
+
+
+###### Article L5512-3
+
+Le titulaire d'une pièce d'identité des gens de mer valide et authentique, répondant aux prescriptions de la convention (n°
+185) sur les pièces d'identité des gens de mer (révisée), 2003, de l'Organisation internationale du travail, est reconnu
+comme appartenant à la catégorie des gens de mer par toutes autorités compétentes au vu de la présentation de ce document et
+de l'inscription sur la liste d'équipage, pour l'entrée sur le territoire national liée à l'exercice de sa profession,
+notamment pour : 
+
+1° Les permissions de descente à terre ; 
+
+2° Les transits et transferts, en sus d'un passeport, s'il est requis, revêtu le cas échéant d'un visa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+
+###### Article L5512-4
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre, notamment : 
+
+1° Les données biométriques du titulaire ; 
+
+2° Un numéro d'identification personnel ; 
+
+3° Les délais de délivrance de la pièce d'identité des gens de mer ; 
+
+4° Les frais à acquitter pour son obtention ; 
+
+5° Les voies et délais de recours en cas de refus, suspension ou retrait ; 
+
+6° Le modèle du document et les informations y figurant ; 
+
+7° Le droit d'accès des titulaires aux informations à caractère personnel ; 
+
+8° Les conditions de contrôle des titulaires des pièces d'identité des gens de mer ; 
+
+9° Les mesures de conservation et de sécurité du traitement mentionné au II de l'article L. 5512-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+	**Cite**:
+
+	  - Code des transports - art. L5512-1 (V)
+
+
+##### Chapitre III : Langue de travail à bord
+
+###### Article L5513-1
+
+L'armateur s'assure d'une bonne communication orale entre les marins, en toutes circonstances, et fixe à cet effet la langue
+obligatoire de travail la plus appropriée à bord du navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+	**Cité par**:
+
+	  - Décret n°2015-1674 du 15 décembre 2015 - art. 26 (VD)
+	  - Code des transports - art. L5442-7 (V)
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5513-2
+
+A bord des navires effectuant des voyages internationaux, la documentation technique relative à la construction, à
+l'entretien, au fonctionnement, à la sécurité et à la sûreté des navires est disponible dans une langue correspondant à sa
+version originale. Elle est dispensée de traduction dans une autre langue, sauf si l'armateur ou le capitaine estime
+nécessaire une traduction dans la langue de travail à bord de tout ou partie de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+
+##### Chapitre IV : Certification sociale des navires
+
+##### Section 1 : Voyages internationaux
+
+###### Article L5514-1
+
+I. ― Pour prendre la mer, tout navire jaugeant 500 ou plus et effectuant des voyages internationaux, à l'exception des
+navires traditionnels ou de ceux armés par une personne publique n'effectuant pas d'activité commerciale, est doté d'un
+certificat de travail maritime en cours de validité. 
+
+II. ― Le certificat mentionné au I atteste que les conditions de travail et de vie des gens de mer à bord sont conformes aux
+dispositions de l'Etat du pavillon mettant en œuvre la convention du travail maritime, 2006, de l'Organisation internationale
+du travail. 
+
+III. ― Ce certificat est délivré par l'autorité administrative compétente pour une durée de validité qui n'excède pas cinq
+ans et fait l'objet, au cours de cette période, d'une visite de contrôle. 
+
+IV. ― Ce certificat est tenu à la disposition de toutes autorités compétentes de l'Etat du pavillon et de l'Etat du port qui
+en font la demande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 2 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 28-1 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 3 (V)
+	  - Décret n°84-810 du 30 août 1984 - art. 61 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Décret n°2016-1693 du 9 décembre 2016 - art. 5
+	  - Décret n°2016-1693 du 9 décembre 2016 - art. 58
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5765-1-1 (V)
+	  - Code des transports - art. L5785-1 (VT)
+	  - Code des transports - art. L5785-1-1 (V)
+	  - Code des transports - art. R5232-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+
+###### Article L5514-2
+
+Un décret détermine les conditions d'application de la présente section, notamment : 
+
+1° Les conditions de la certification des navires, à titre provisoire et pour une durée normale, leurs inspections à cet
+effet, ainsi que les points à certifier et les modalités de délivrance du certificat ; 
+
+2° La forme et le contenu du certificat ; 
+
+3° Les conditions de retrait du certificat ; 
+
+4° Les conditions de communication aux tiers du certificat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+
+##### Section 2 : Pêche
+
+###### Article L5514-3
+
+I. - Pour prendre la mer, tout navire de pêche qui effectue plus de trois jours à la mer et qui soit est d'une longueur égale
+ou supérieure à 24 mètres, soit navigue habituellement à plus de 200 milles des côtes est doté d'un document en cours de
+validité attestant sa conformité aux dispositions de l'Etat du pavillon mettant en œuvre la convention (n° 188) sur le
+travail dans la pêche, 2007, de l'Organisation internationale du travail. 
+
+II. - Un décret précise les conditions d'application du présent article, notamment les conditions de délivrance du document,
+sa durée de validité ainsi que les conditions de son retrait.
+
+**Nota:**
+
+Loi n° 2013-619 du 16 juillet 2013, article 32 I : L'article L. 5514-3 du code des transports entre en vigueur, à l'égard des
+navires de pêche, à compter de la date d'entrée en vigueur de la convention (n° 188) sur le travail dans la pêche, 2007, de
+l'Organisation internationale du travail sur le territoire de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 32 (V)
+	  - Ordonnance n°2016-1314 du 6 octobre 2016 - art. 5 (V)
+	  - Code des transports - art. L5795-1 (V)
+	  - Code des transports - art. L5795-2-1 (V)
+	  - Code des transports - art. R5232-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 22
+
+
 #### TITRE II : L'EQUIPAGE
 
 ##### Chapitre Ier : Conditions d'accès et d'exercice de la profession de marin
 
 ###### Article L5521-1
 
-Nul ne peut accéder à la profession de marin s'il ne remplit des conditions de qualification professionnelle et d'aptitude
-physique.
+I. - Nul ne peut accéder à la profession de marin s'il ne remplit des conditions d'aptitude médicale. 
 
-Les qualifications requises et les dispositions relatives aux conditions de délivrance des titres de formation, à leur
-validité, aux modalités de suspension et de retrait des prérogatives qui leur sont attachées ainsi qu'à la reconnaissance des
-titres de formation professionnelle maritime sont fixées par décret en Conseil d'Etat.
+II. - L'aptitude médicale requise pour exercer à bord d'un navire est contrôlée à titre gratuit par le service de santé des
+gens de mer. 
 
-Ce décret précise les conditions dans lesquelles sont reconnus les titres, diplômes et qualifications professionnelles,
-obtenus ou acquis dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique
-européen. Il fixe également les modalités selon lesquelles, en cas de doute sur l'équivalence de ces conditions, des épreuves
-ou des vérifications complémentaires peuvent être exigées.
+III. - Par dérogation au II, l'aptitude médicale des gens de mer employés sur des navires ne battant pas pavillon français en
+escale dans un port français ou des gens de mer non résidents employés sur des navires battant pavillon français peut être
+contrôlée par des médecins agréés n'appartenant pas au service de santé des gens de mer mentionné au même II. Aucun frais en
+résultant ne peut être mis à la charge du marin par son employeur ou l'armateur. 
 
-L'aptitude physique requise pour la navigation, l'accès à la profession de marin et pour son exercice est contrôlée par le
-service de santé des gens de mer, dont l'organisation et le fonctionnement sont fixés par décret en Conseil d'Etat.
+IV. - Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, détermine les conditions d'application du présent article, notamment : 
+
+1° L'organisation du service de santé des gens de mer ; 
+
+2° Les conditions d'agrément des médecins mentionnés au III ; 
+
+3° Les normes d'aptitude médicale, selon les fonctions à bord ou les types de navigation ; 
+
+4° Les cas de dispense, la durée de validité du certificat d'aptitude médicale délivré à l'issue du contrôle d'aptitude
+médicale, sa forme ainsi que les voies et délais de recours en cas de refus de délivrance du certificat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°42-427 du 1 avril 1942 - art. 4 (Ab), ecqc la profession de marin
-	  - Décret n°67-690 du 7 août 1967 - art. 1 (M), alinéa 1, ecqc l'exercice de la profession
-	  - Décret n°67-690 du 7 août 1967 - art. 4 (M), alinéas 3 et 4
-	  - Code du travail - art. L742-12 (Ab), ecqc le contrôle de l'aptitude physique
-	  - Code du travail maritime - art. 3 (Ab)
-	  - Code du travail maritime - art. 7 bis (Ab), ecqc la qualification et la formation
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -40615,20 +40806,31 @@ service de santé des gens de mer, dont l'organisation et le fonctionnement sont
 	  - Code des transports - art. R5232-13 (VD)
 	  - Code des transports - art. R5232-17 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
 
 
 ###### Article L5521-2
 
-Nul ne peut exercer la profession de marin s'il ne satisfait aux conditions de formation professionnelle mentionnées à
-l'article L. 5521-1 correspondant aux fonctions qu'il est appelé à exercer à bord du navire.
+I. - Nul ne peut exercer la profession de marin s'il ne satisfait aux conditions de formation professionnelle correspondant
+aux fonctions qu'il est appelé à exercer à bord du navire. 
 
-En outre, nul ne peut exercer la profession de marin si les mentions portées au bulletin n° 2 de son casier judiciaire sont
-incompatibles avec l'exercice de cette profession.
+II. - Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, précise les conditions d'application du présent article, notamment : 
+
+1° Les qualifications requises, les conditions de délivrance des titres, leur durée de validité ainsi que les modalités de
+suspension et de retrait des prérogatives qui leur sont attachées ; 
+
+2° Les conditions dans lesquelles sont reconnus les titres, diplômes et qualifications professionnelles obtenus ou acquis
+dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen, au besoin
+après des épreuves ou des vérifications complémentaires.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -40639,27 +40841,49 @@ incompatibles avec l'exercice de cette profession.
 	  - Code des transports - art. L5765-2 (V)
 	  - Code des transports - art. L5775-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+
+###### Article L5521-2-1
+
+Les gens de mer sont identifiés par l'autorité maritime et reçoivent un numéro national d'identification, dans des conditions
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+	**Cité par**:
+
+	  - Décret n°2015-1574 du 3 décembre 2015 - art. 11 (V)
+	  - Code des transports - art. L5612-1 (V)
 
 
 ###### Article L5521-3
 
-L'accès aux fonctions de capitaine à bord d'un navire battant pavillon français et d'officier chargé de la suppléance de ce
-dernier est subordonné :
+I. - A bord d'un navire battant pavillon français, l'accès aux fonctions de capitaine et d'officier chargé de sa suppléance
+est subordonné à : 
 
-1° A la possession de qualifications professionnelles ;
+1° La possession de qualifications professionnelles ; 
 
-2° A la vérification d'un niveau de connaissance de la langue française ;
+2° La vérification d'un niveau de connaissance de la langue française ; 
 
-3° A la vérification d'un niveau de connaissance des matières juridiques permettant la tenue des documents de bord et
-l'exercice des prérogatives de puissance publique dont le capitaine est investi.
+3° La vérification d'un niveau de connaissance des matières juridiques permettant la tenue de documents de bord et l'exercice
+des prérogatives de puissance publique dont le capitaine est investi. 
 
-Un décret en Conseil d'Etat, pris après avis des organisations représentatives d'armateurs, de gens de mer et de pêcheurs
-intéressées, précise les conditions d'application des dispositions du présent article.
+II. - Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, précise les conditions d'application du présent article. Il détermine notamment les types de navigation ou de
+navire pour lesquels la présence à bord d'un officier chargé de la suppléance du capitaine n'est pas exigée.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -40672,26 +40896,58 @@ intéressées, précise les conditions d'application des dispositions du présen
 	  - Arrêté du 15 juillet 2015 (V)
 	  - Arrêté du 13 avril 2016 - art. 18
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
 
 
-##### Chapitre II : Effectifs et nationalité
+###### Article L5521-4
+
+Nul ne peut exercer les fonctions de capitaine, d'officier chargé de sa suppléance, de chef mécanicien ou d'agent chargé de
+la sûreté du navire s'il ne satisfait à des conditions de moralité et si les mentions portées au bulletin n° 2 de son casier
+judiciaire sont incompatibles avec l'exercice de ces fonctions. 
+
+Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 février 2010 - art. Annexe I (V)
+	  - Décret n°2015-598 du 2 juin 2015 - art. 8 (VD)
+	  - Code des transports - art. L5549-1 (V)
+	  - Code des transports - art. L5725-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+
+##### Chapitre II : Effectifs, veille et nationalité
 
 ###### Article L5522-1
 
-Le rôle d'équipage d'un navire doit comporter une proportion minimale de ressortissants d'un Etat membre de l'Union
-européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou d'un Etat partie à
-tout accord international ayant la même portée en matière de droit au séjour et au travail, fixée par arrêté du ministre
-chargé de la mer pris, après avis des organisations représentatives d'armateurs, de gens de mer et de pêcheurs intéressées,
-en fonction des caractéristiques techniques des navires, de leur mode d'exploitation et de la situation de l'emploi.
+L'équipage d'un navire doit comporter une proportion minimale de ressortissants d'un Etat membre de l'Union européenne, d'un
+Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou d'un Etat partie à tout accord
+international ayant la même portée en matière de droit au séjour et au travail, fixée par arrêté du ministre chargé de la mer
+pris, après avis des organisations les plus représentatives d'armateurs et de gens de mer intéressées, en fonction des
+caractéristiques techniques des navires, de leur mode d'exploitation et de la situation de l'emploi.
 
 Le capitaine et l'officier chargé de sa suppléance sont ressortissants d'un Etat membre de l'Union européenne, d'un Etat
 partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou d'un Etat partie à tout accord
 international ayant la même portée en matière de droit au séjour et au travail.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 29
 
 	**Cité par**:
 
@@ -40702,31 +40958,25 @@ international ayant la même portée en matière de droit au séjour et au trava
 	  - Code des transports - art. R5232-13 (VD)
 	  - Code des transports - art. R5232-17 (VD)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5522-2
 
-Tout navire doit avoir à bord un effectif de marins suffisant en nombre et en niveau de qualification professionnelle pour
-garantir la sécurité du navire et des personnes à bord  ainsi que le respect des dispositions relatives à la durée du travail
-et aux repos.
+I. - Tout navire est armé avec un effectif de marins suffisant en nombre et en niveau de qualification professionnelle pour
+garantir la sécurité et la sûreté du navire et des personnes à bord ainsi que le respect des obligations de veille, de durée
+du travail et de repos. 
 
-La fiche d'effectif désigne le document par lequel l'autorité maritime française atteste que l'effectif du navire satisfait
-aux exigences des conventions internationales suivantes et des mesures prises pour leur application :
+II. - La fiche d'effectif minimal désigne le document par lequel l'autorité maritime atteste que l'effectif du navire
+satisfait aux exigences des conventions internationales pertinentes selon le type de navire et des mesures nationales prises
+pour leur application. 
 
-1° La convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974 modifiée ;
-
-2° La convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille, faite à
-Londres le 7 juillet 1978 modifiée ;
-
-3° La convention n° 180 sur la durée du travail des gens de mer et les effectifs des navires adoptée le 22 octobre 1996 par
-l'Organisation internationale du travail.
-
-Les modalités de fixation de l'effectif sont précisées par décret en Conseil d'Etat.
+III. - Un décret précise les conventions internationales pertinentes applicables au titre du présent article ainsi que les
+modalités de fixation de l'effectif minimal selon les types de navire.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -40752,15 +41002,60 @@ Les modalités de fixation de l'effectif sont précisées par décret en Conseil
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
 
 	**Cite**:
 
 	  - convention n°180
+
+
+###### Article L5522-3
+
+I. - Une liste d'équipage identifiant les gens de mer à bord de chaque navire est tenue à la disposition de toutes autorités
+compétentes de l'Etat du pavillon et de l'Etat du port qui en font la demande. 
+
+II. - La sous-section 2 de la section 3 du chapitre Ier du titre II du livre II de la première partie du code du travail
+n'est pas applicable à bord des navires. 
+
+III. - Les caractéristiques de la liste d'équipage et les modalités de tenue par le capitaine du navire, en fonction du type
+de navire, sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+	**Cité par**:
+
+	  - Décret n°2015-406 du 10 avril 2015 - art. 1 (V)
+	  - Décret n°2015-406 du 10 avril 2015 - art. 9 (V)
+	  - Décret n°2015-453 du 21 avril 2015 - art. 5 (V)
+	  - Décret n°2015-598 du 2 juin 2015 - art. 10 (VD)
+	  - Décret n°2015-1191 du 28 septembre 2015 - art. 1 (V)
+	  - Décret n°2015-1191 du 28 septembre 2015 - art. 5 (V)
+	  - Décret n°2015-1674 du 15 décembre 2015 - art. 1 (VD)
+	  - Décret n°2017-158 du 9 février 2017 - art. 2
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5522-4
+
+Une veille visuelle et auditive appropriée, adaptée en toutes circonstances, est assurée en permanence à bord du navire en
+vue de prévenir tout risque d'accident maritime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+	**Cité par**:
+
+	  - Code des transports - art. L5775-1 (V)
 
 
 ##### Chapitre III : Dispositions pénales
@@ -40866,6 +41161,63 @@ paiement des amendes ainsi prononcées. Il ne peut user de cette faculté que si
 	**Créé par**:
 
 	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+
+
+###### Article L5523-5
+
+Sont punis de six mois d'emprisonnement et de 4 500 € d'amende l'armateur ou le capitaine qui font naviguer un navire avec un
+équipage sans être muni de la fiche d'effectif minimal mentionnée à l'article L. 5522-2 ou dont l'effectif est inférieur au
+minimum prescrit en application de ce même article. 
+
+Ces peines sont portées à un an d'emprisonnement et à 6 000 € d'amende s'il s'agit d'un navire à passagers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 34 (V)
+	  - Loi du 17 décembre 1926 - art. 35 (V)
+	  - Loi du 17 décembre 1926 - art. 36 (V)
+	  - Loi du 17 décembre 1926 - art. 37 (V)
+	  - Code des transports - art. R5232-17 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+	**Cite**:
+
+	  - Code des transports - art. L5522-2 (V)
+
+
+###### Article L5523-6
+
+Est puni de six mois d'emprisonnement et de 3 750 € d'amende : 
+
+1° Le fait, pour l'armateur ou le capitaine, d'admettre à bord un membre de l'équipage ne disposant pas d'un certificat
+d'aptitude médicale valide délivré dans les conditions de l'article L. 5521-1 ; 
+
+2° Le fait, pour l'armateur ou le capitaine, d'admettre à bord tous gens de mer autres que des membres de l'équipage ne
+disposant pas d'un certificat d'aptitude médicale valide délivré dans les conditions du II de l'article L. 5549-1 ; 
+
+3° Le fait, pour l'armateur ou le capitaine, d'admettre à bord un membre de l'équipage ne disposant pas de titres de
+formation correspondant aux fonctions qu'il est amené à exercer à bord du navire conformes aux exigences de l'article L.
+5521-2 ; 
+
+4° Le fait, pour l'armateur ou le capitaine, d'admettre à bord tous gens de mer autres que des membres de l'équipage ne
+justifiant pas des exigences de formation minimale mentionnée au III de l'article L. 5549-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+
+	**Cite**:
+
+	  - Code des transports - art. L5521-1 (V)
+	  - Code des transports - art. L5521-2 (V)
+	  - Code des transports - art. L5549-1 (V)
 
 
 ##### Chapitre IV : Sanctions professionnelles
@@ -41212,43 +41564,6 @@ personne embarquée.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5531-11
-
-Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait, pour le capitaine, un officier ou un maître, de se
-rendre coupable d'outrage par paroles, gestes ou menaces envers les autres membres de l'équipage.
-
-Est puni de la même peine le fait, pour un marin, de se rendre coupable d'outrage par paroles, gestes ou menaces envers un
-supérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Cité par**:
-
-	  - Loi du 17 décembre 1926 - art. 2 (VD)
-	  - Loi du 17 décembre 1926 - art. 30 (VD)
-	  - Loi du 17 décembre 1926 - art. 31 (VD)
-	  - Loi du 17 décembre 1926 - art. 32 (VD)
-	  - Loi du 17 décembre 1926 - art. 33 (VD)
-	  - Loi du 17 décembre 1926 - art. 34 (V)
-	  - Loi du 17 décembre 1926 - art. 35 (VD)
-	  - Loi du 17 décembre 1926 - art. 36 (V)
-	  - Loi du 17 décembre 1926 - art. 37 (VD)
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
-	**Anciens textes**:
-
-	  - Code disciplinaire et pénal de la marine marcha... - art. 42 (Ab), alinéa 2
-	  - Code disciplinaire et pénal de la marine marcha... - art. 57 (Ab)
-
-
 ##### Sous-section 3 : Manquements aux obligations professionnelles
 
 ###### Article L5531-12
@@ -41511,6 +41826,125 @@ gens de mer, le ministre chargé de la défense et le ministre chargé de l'outr
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Chapitre III : Responsabilité de l'armateur
+
+###### Article L5533-1
+
+I. - L'armateur est responsable, à l'égard de l'ensemble des gens de mer travaillant à bord, du respect des règles définies
+par le présent livre, indépendamment de la responsabilité de chacun de leurs employeurs. 
+
+II. - Toute clause prévue dans les contrats conclus entre un armateur et le ou les employeurs de gens de mer à bord d'un
+navire exploité par cet armateur, qui a pour effet de faire échec aux dispositions d'ordre public du présent article, est
+nulle. 
+
+III. - En cas de défaillance du ou des employeurs mentionnés au II, l'armateur assure les conséquences financières : 
+
+1° D'une maladie, d'un accident ou du décès d'un marin survenant en relation avec son embarquement ; 
+
+2° Du paiement des arriérés de salaires et de cotisations sociales liés aux périodes d'embarquement ; 
+
+3° Du rapatriement du marin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+	**Cité par**:
+
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5533-2
+
+Toute personne travaillant à bord d'un navire est tenue de justifier, sur demande du capitaine, de son identité, par tout
+moyen. Le capitaine peut exiger que les gens de mer lui présentent leurs documents professionnels.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+	**Cité par**:
+
+	  - Code des transports - art. L5612-1 (V)
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+
+
+###### Article L5533-3
+
+L'armateur et, s'il y a lieu, tout employeur de gens de mer s'assurent que toute entité de recrutement ou de placement à
+laquelle ils ont recours pour armer le navire respecte les sous-sections 1 et 2 de la section 2 du chapitre VI du titre IV du
+présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2017-209 du 20 février 2017 (V)
+
+
+###### Article L5533-4
+
+Un décret détermine les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+	**Cité par**:
+
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+
+
+##### Chapitre IV : Plaintes et réclamations des marins
+
+###### Article L5534-1
+
+Tout marin peut, directement ou par l'intermédiaire de ses représentants, à bord ou à terre, formuler des plaintes ou des
+réclamations relatives à toute question liée au respect des règles relatives à ses conditions d'emploi, de travail et de vie
+à bord, auprès soit de son supérieur ou du capitaine, soit de l'inspection du travail ou de toute autorité. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat, pris après avis des organisations
+les plus représentatives d'armateurs et de gens de mer intéressées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+	**Cité par**:
+
+	  - Décret n°2015-1674 du 15 décembre 2015 - art. 29 (VD)
+
+
+###### Article L5534-2
+
+I. - Aucun marin ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire pour avoir porté une
+réclamation ou déposé plainte, directement ou par l'intermédiaire de ses représentants, ou pour avoir assisté un marin dans
+l'exercice de ce droit. 
+
+II. - Toute disposition ou tout acte pris à l'encontre d'un marin en méconnaissance du I est nul.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 24
+
+
 #### TITRE IV : LE DROIT DU TRAVAIL
 
 ##### Chapitre Ier : Champ d'application
@@ -41518,10 +41952,18 @@ gens de mer, le ministre chargé de la défense et le ministre chargé de l'outr
 ###### Article L5541-1
 
 Le code du travail est applicable aux marins salariés des entreprises d'armement maritime et des entreprises de cultures
-marines ainsi qu'à leurs employeurs, sous réserve des dispositions particulières prévues par le présent titre. Ces
-dispositions s'appliquent également aux autres gens de mer.
+marines ainsi qu'à leurs employeurs, sous réserve des dérogations ou des dispositions particulières ainsi que des mesures
+d'adaptation prises par voie réglementaire dans les conditions prévues par le présent titre.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
@@ -41533,9 +41975,77 @@ dispositions s'appliquent également aux autres gens de mer.
 	  - Code des transports - art. L5725-1 (V)
 	  - Code des transports - art. L5725-4 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5541-1-1
+
+Les salariés autres que gens de mer, effectuant des travaux ou exerçant certaines activités définies par voie réglementaire
+dans les limites des eaux territoriales et intérieures françaises, en deçà des limites extérieures de la zone économique
+exclusive ou dans d'autres eaux en qualité de salariés d'entreprises françaises relèvent, pour les périodes d'exercice de
+leurs activités en mer, des articles L. 5544-2 à L. 5544-5, 
+L. 5544-8, L. 5544-11, L. 5544-13, L. 5544-15, L. 5544-17 à L. 5544-20 et L. 5544-23-1, sous réserve des alinéas suivants : 
+
+1° Pour tenir compte de la continuité des activités exercées en mer, des contraintes portuaires ou de la sauvegarde du navire
+ou des installations et équipements en mer, un accord d'entreprise ou d'établissement peut organiser la répartition de la
+durée du travail sur une période de deux semaines de travail consécutives suivies de deux semaines de repos consécutives,
+sans préjudice de l'application de l'article L. 5544-15. L'accord prévoit les mesures mentionnées au 4° du III de l'article
+L. 5544-4 ; 
+
+2° Pour l'application de l'article L. 5544-13, sont également pris en compte les installations et équipements. 
+
+L'employeur des salariés mentionnés au premier alinéa du présent article, ou son représentant, exerce les responsabilités
+confiées au capitaine par les articles L. 5544-2, L. 5544-13 et L. 5544-20. 
+
+Les salariés exerçant les activités mentionnées au premier alinéa du présent article amenés à travailler à l'étranger
+bénéficient du droit au rapatriement prévu au présent livre et peuvent solliciter la délivrance de la pièce d'identité des
+gens de mer lorsqu'ils remplissent les conditions de nationalité ou de résidence exigées pour l'obtention de ce document. 
+
+Les conditions d'application du présent article sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-754 du 7 juin 2016 - art. 1 (VD)
+
+	**Cite**:
+
+	  - Code des transports - art. L5544-11 (V)
+	  - Code des transports - art. L5544-13 (V)
+	  - Code des transports - art. L5544-15 (V)
+	  - Code des transports - art. L5544-17 (V)
+	  - Code des transports - art. L5544-2 (V)
+	  - Code des transports - art. L5544-20 (V)
+	  - Code des transports - art. L5544-23-1 (V)
+	  - Code des transports - art. L5544-4 (V)
+	  - Code des transports - art. L5544-8 (V)
+
+
+###### Article L5541-1-2
+
+Pour l'application des stipulations de la convention du travail maritime, 2006, et de la convention (n° 188) sur le travail
+dans la pêche, 2007, de l'Organisation internationale du travail aux personnes non-salariées relevant des 3° et 4° de
+l'article L. 5511-1, un décret en Conseil d'Etat précise, avec les adaptations nécessaires en raison de leur qualité de non-
+salariées, celles des dispositions du présent livre qui leur sont applicables.
+
+**Nota:**
+
+Loi n° 2013-619 du 16 juillet 2013, article 27 II : L'article L. 5541-1-2 du code des transports entre en vigueur, à l'égard
+des navires de pêche, à compter de la date d'entrée en vigueur sur le territoire de la République française de la convention
+(n° 188) sur le travail dans la pêche, 2007, de l'Organisation internationale du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5511-1 (V)
 
 
 ###### Article L5541-2
@@ -41566,22 +42076,22 @@ le cadre d'un enseignement alterné ou d'un enseignement professionnel.
 
 ###### Article L5542-1
 
-Tout contrat de travail, aussi appelé engagement maritime, conclu entre un marin et un armateur ou un autre employeur, ayant
-pour objet un service à accomplir à bord d'un navire en vue d'une expédition maritime, est conclu pour une durée
-indéterminée, pour une durée déterminée ou pour un voyage.
+Tout contrat de travail, conclu entre un marin et un armateur ou tout autre employeur, ayant pour objet un service à
+accomplir à bord d'un navire est un contrat d'engagement maritime. 
+
+Le contrat peut être conclu pour une durée indéterminée, pour une durée déterminée ou pour un voyage. 
 
 Les dispositions du présent titre relatives au contrat à durée déterminée sont applicables au contrat au voyage.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 1 (Ab)
-	  - Code du travail maritime - art. 10-1 (Ab), alinéa 2
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5542-2
@@ -41606,30 +42116,50 @@ contrat.
 
 ###### Article L5542-3
 
-Le contrat est établi par écrit. Outre les clauses obligatoires définies par le code du travail, il mentionne :
+I. - Le contrat est établi par écrit. Outre les clauses obligatoires définies par le code du travail, il comporte les clauses
+obligatoires propres à l'engagement maritime. 
 
-1° Le service pour lequel le marin est engagé ;
+II. - Les clauses obligatoires du contrat d'engagement maritime mentionnées au I sont les suivantes : 
 
-2° Les fonctions qu'il exerce ;
+1° Les nom et prénoms du marin, sa date et son lieu de naissance, son numéro d'identification ; 
 
-3° Le montant des salaires et accessoires ;
+2° Le lieu et la date de la conclusion du contrat ; 
 
-4° Lorsque la rémunération consiste en tout ou partie en une part sur le produit des ventes ou sur d'autres éléments
-spécifiés du chiffre d'affaires, la répartition du produit ou des éléments considérés entre l'armement et les membres
-d'équipage ainsi que la part revenant au marin concerné ;
+3° Les nom et prénoms ou raison sociale et l'adresse de l'armateur ; 
 
-5° L'adresse et le numéro de téléphone de l'inspecteur du travail.
+4° Les fonctions qu'il exerce ; 
 
-Quand il est fait usage du mode de rémunération mentionné au 4°, le contrat indique les modalités selon lesquelles le marin
-est informé, au moins une fois par semestre, des éléments comptables justifiant la rémunération perçue.
+5° Le montant des salaires et accessoires ; 
+
+6° Les droits à congés payés ou la formule utilisée pour les calculer ; 
+
+7° Les prestations en matière de protection de la santé et de sécurité sociale qui doivent être assurées au marin par
+l'armateur ; 
+
+8° Le droit du marin à un rapatriement ; 
+
+9° La référence aux conventions et accords collectifs applicables ; 
+
+10° Le terme du contrat si celui-ci est conclu pour une durée déterminée. 
+
+III. - Lorsque la rémunération consiste en tout ou partie en une part sur le produit des ventes ou sur d'autres éléments
+spécifiés du chiffre d'affaires, le contrat précise en outre : 
+
+1° La répartition du produit des ventes ou des éléments du chiffre d'affaires considérés entre l'armement et les marins,
+ainsi que la part revenant au marin ; 
+
+2° Les modalités selon lesquelles le marin est informé, au moins une fois par semestre, des éléments comptables justifiant la
+rémunération perçue.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 10-1 (Ab), alinéa 1
-	  - Code du travail maritime - art. 11 (Ab), alinéas 1 et 2
-	  - Code du travail maritime - art. 9 (Ab), alinéa 2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -41640,23 +42170,23 @@ est informé, au moins une fois par semestre, des éléments comptables justifia
 	  - Code des transports - art. L5785-3 (VT)
 	  - Code des transports - art. L5795-4 (VT)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5542-4
 
 Le contrat précise le délai de préavis à observer en cas de rupture par l'une des parties. 
 
 Sous réserve des dispositions de l'article L. 5542-43, ce délai est le même pour les deux parties et ne peut être inférieur à
-vingt-quatre heures.
+sept jours, sauf circonstances invoquées par le marin, pour motifs d'urgence ou humanitaires, qui sont de droit.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 10-1 (Ab), alinéa 4
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -41664,54 +42194,91 @@ vingt-quatre heures.
 
 	**Cite**:
 
-	  - Code des transports - art. L5542-43 (V)
+	  - Code des transports - art. L5542-43
+
+
+###### Article L5542-5
+
+I.-Le marin dispose d'un délai suffisant pour lui permettre de prendre connaissance du contrat et de demander conseil avant
+de le signer. 
+
+Il signe le contrat et en reçoit un exemplaire avant l'embarquement. 
+
+II.-L'employeur en adresse simultanément une copie à l'autorité administrative compétente. 
+
+III.-La transmission prévue au II du présent article dispense des formalités prévues aux articles L. 1221-10 à L. 1221-12 du
+code du travail.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
 
-###### Article L5542-5
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
-Le marin signe le contrat et en reçoit un exemplaire avant l'embarquement.
+	**Cite**:
 
-L'employeur en adresse simultanément une copie à l'autorité compétente de l'Etat pour enregistrement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 9 (Ab), alinéa 1
+	  - Code du travail - art. L1221-10 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5542-51 (V)
 	  - Code des transports - art. L5549-2 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-5-1
+
+I. - Le capitaine détient une copie des contrats des marins employés à bord du navire. 
+
+II. - Le capitaine communique, sur demande, aux autorités administratives compétentes de l'Etat du pavillon ou de l'Etat du
+port tout contrat mentionné au I ainsi que toutes dispositions légales et conventionnelles qui régissent ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5542-6
 
-Le capitaine tient à bord, à la disposition du marin, le texte des dispositions légales qui régissent le contrat.
-
-Les conditions générales d'embauche sont affichées dans les locaux réservés à l'équipage.
+Le capitaine conserve à bord, à la disposition du marin, le texte des dispositions légales et conventionnelles qui régissent
+le contrat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 15-1 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5612-1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-6-1
+
+A bord des navires effectuant des voyages internationaux, le capitaine détient un exemplaire d'un contrat type, ainsi que les
+éléments des conventions et accords collectifs qui portent sur les matières contrôlées au titre des inspections par l'Etat du
+port, dans une ou plusieurs versions en langue étrangère, dont au moins une en anglais.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-918 du 27 juillet 2015 - art. 2 (VD)
+	  - Code des transports - art. L5621-12 (V)
 
 
 ##### Sous-section 2 : Le contrat à durée déterminée ou au voyage
@@ -41841,25 +42408,25 @@ Si, au terme d'un contrat à durée déterminée ou d'un contrat au voyage, un n
 congés et repos acquis par le marin au titre du contrat précédent, ce nouveau contrat est à durée indéterminée. 
 
 Le marin conserve l'ancienneté qu'il avait acquise au terme du premier contrat mais ne perçoit pas l'indemnité de fin de
-contrat prévue par l'article L. 5542-46. 
+contrat prévue par l'article L. 1243-8 du code du travail. 
 
 Les dispositions du présent article ne sont pas applicables aux contrats conclus dans les cas mentionnés à l'article L.
 5542-14.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 10-5 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-14 (V)
-	  - Code des transports - art. L5542-46 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
+
+	**Cite**:
+
+	  - Code du travail - art. L1243-8
+	  - Code des transports - art. L5542-14
 
 
 ###### Article L5542-13
@@ -42017,26 +42584,33 @@ travail, la fin de la période d'essai prend effet dans les conditions prévues 
 
 ###### Article L5542-18
 
-Le marin a droit à la nourriture ou à une indemnité de valeur équivalente pendant toute la durée de son inscription au rôle
+Tout marin a droit gratuitement à la nourriture ou à une indemnité pendant toute la durée de son inscription au rôle
 d'équipage. 
 
-Les conditions d'application du premier alinéa peuvent être fixées par accord collectif de branche ou d'entreprise.A la
-pêche, cet accord peut prévoir, par dérogation, l'imputation de la charge qui en résulte sur les frais communs du navire,
-résultant du mode de rémunération mentionné au 4° de l'article L. 5542-3. 
+Le montant de cette indemnité et les modalités de son versement sont déterminés par voie d'accord collectif de branche. 
+
+A défaut d'accord collectif applicable à un type de navires, un décret précise le montant de l'indemnité. 
+
+A la pêche maritime, un accord collectif de branche peut prévoir l'imputation sur les frais communs du navire de la charge
+qui résulte de la fourniture de nourriture ou du versement de l'indemnité de nourriture, lorsqu'il est fait usage du mode de
+rémunération mentionné au III de l'article L. 5542-3. 
 
 Par exception aux dispositions de l'article L. 5541-1, les dispositions du présent article ne sont pas applicables aux
 entreprises de cultures marines, sauf lorsque cette application est prévue par les stipulations d'un accord collectif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 72 (Ab)
-	  - Code du travail maritime - art. 72-1 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L5541-1 (V)
+	  - Code des transports - art. L5541-1
 	  - Code des transports - art. L5542-3 (V)
 
 	**Cité par**:
@@ -42050,9 +42624,24 @@ entreprises de cultures marines, sauf lorsque cette application est prévue par 
 	  - Code des transports - art. L5795-1 (V)
 	  - Code des transports - art. L5795-4 (VD)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-18-1
+
+A bord de tout navire où les marins sont nourris par l'armateur, l'équipage comprend un cuisinier qualifié. 
+
+Un décret précise les conditions d'application du présent article, notamment le seuil à partir duquel la présence d'un
+cuisinier qualifié est exigée à plein temps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5612-1 (V)
+	  - Code des transports - art. L5725-1 (V)
 
 
 ###### Article L5542-19
@@ -42106,23 +42695,26 @@ Sauf convention contraire, le marin qui n'est pas débarqué à son port d'embar
 
 ###### Article L5542-21
 
-Lorsque le marin est blessé au service du navire ou tombe malade, pendant le cours de son embarquement, après que le navire a
-quitté le port où le marin a embarqué, il est soigné aux frais de l'employeur.
+Lorsque le marin est blessé au service du navire ou tombe malade pendant le cours de son embarquement ou après que le navire
+a quitté le port où le marin a embarqué, il est soigné aux frais de l'employeur. 
 
-Les mêmes dispositions sont applicables au marin qui tombe malade entre la date de son embarquement et la date du départ du
-navire, ou postérieurement à la date de son débarquement et avant tout autre embarquement, lorsqu'il est établi que la
-maladie a été contractée au service du navire.
+Le premier alinéa est applicable lorsqu'il est établi que la maladie a été contractée au service du navire. 
 
-Le marin blessé est tenu, sauf cas de force majeure, d'en faire la déclaration au capitaine aussitôt qu'il a quitté le
-service au cours duquel il a été blessé.
+Le marin blessé est tenu, sauf cas de force majeure, d'en faire la déclaration au capitaine au plus tard lorsqu'il quitte le
+service au cours duquel il a été blessé. 
 
-En cas de décès, les frais funéraires sont à la charge de l'employeur.
+En cas de décès du marin, les frais funéraires, y compris le rapatriement du corps et de ses effets personnels, sont à la
+charge de l'employeur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 79 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -42130,9 +42722,27 @@ En cas de décès, les frais funéraires sont à la charge de l'employeur.
 	  - Code des transports - art. L5549-2 (V)
 	  - Code des transports - art. L5725-1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-21-1
+
+Tout accident du travail, lésion ou maladie professionnelle survenu à bord fait l'objet d'un enregistrement et d'une
+déclaration du capitaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5612-1 (V)
+	  - Code des transports - art. L5725-1 (V)
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+	  - Code des transports - art. R5563-1 (VD)
 
 
 ###### Article L5542-22
@@ -42158,23 +42768,22 @@ dans le cas contraire.
 
 ###### Article L5542-23
 
-Le marin qui a dû cesser son travail pour blessure ou maladie est laissé à terre et hospitalisé au premier port touché, sur
-avis d'un médecin déclarant que l'état du marin exige son débarquement. Cet avis est donné par le médecin du bord ou par tout
-autre médecin désigné par l'autorité compétente de l'Etat.
+Tout marin blessé ou malade est hospitalisé au premier port touché, si son état le justifie, sur décision médicale, aux frais
+de l'employeur.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 81 (Ab), alinéa 1 (phrase 1), et alinéa 2
-
-	**Cité par**:
-
-	  - Code des transports - art. L5612-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5612-1 (V)
 
 
 ###### Article L5542-24
@@ -42266,55 +42875,50 @@ terre.
 Lorsque la rémunération du marin ne consiste pas en un salaire fixe, le salaire versé au marin en application de l'article L.
 5542-26 est fixé en fonction des stipulations conventionnelles de branche applicables.
 
-A défaut de telles stipulations, il est déterminé par référence à la grille des salaires applicables aux marins du commerce.
+A défaut de telles stipulations, il est déterminé par référence à la rémunération globale qu'a perçue le marin, divisée par
+le nombre, selon le cas, de jours ou de mois pendant lequel il a été employé, dans la limite de l'équivalent de douze mois.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 84 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-26 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-26
 
 
 ###### Article L5542-28
 
-Les dispositions des articles L. 5542-21 à L. 5542-27 ne sont pas applicables si la maladie ou la blessure résulte d'un fait
-intentionnel ou d'une faute inexcusable du marin. Dans ce cas, le capitaine est tenu de faire donner au marin tous les soins
-nécessaires jusqu'à ce qu'il soit mis à terre et confié aux mains d'une autorité française.
-
-S'il n'existe pas d'autorité française dans le lieu où le marin a été mis à terre, le capitaine prend au compte de
-l'armateur, et sauf recours ultérieur contre le marin, les mesures utiles pour assurer son traitement ou son rapatriement. 
+Les dispositions des articles L. 5542-21 à L. 5542-27 ne sont pas applicables si la maladie ou la blessure résulte d'une
+faute intentionnelle du marin. Dans ce cas, le capitaine est tenu de faire soigner le marin.
 
 Le marin qui se trouve dans les conditions définies par le premier alinéa perd son droit au maintien de son salaire à partir
-du jour où il a dû cesser son travail. Il conserve son droit à la nourriture du bord jusqu'à son débarquement. 
-
-Sont assimilés aux marins pour l'application du présent paragraphe les gens de mer employés par l'armateur en vue d'occuper à
-bord d'un navire un emploi permanent relatif à son exploitation.
+du jour où il a dû cesser son travail. Il est nourri jusqu'à son débarquement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 86 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-21 (V)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5542-33 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-21
+
+	**Cité par**:
+
+	  - Code des transports - art. L5542-33 (V)
 
 
 ##### Paragraphe 3 : Rapatriement
@@ -42389,65 +42993,87 @@ un délai de trente jours suivant son débarquement.
 
 ###### Article L5542-31
 
-Le rapatriement comprend :
+I.-Le rapatriement comprend : 
 
-1° Le transport jusqu'à la destination qui peut être, au choix du marin :
+1° La restitution au marin de ses documents en application de l'article L. 5512-2 ; 
 
-a) Le lieu d'engagement du marin ou son port d'embarquement ;
+2° Le transport jusqu'à la destination qui peut être, au choix du marin : 
 
-b) Le lieu stipulé par convention ou accord collectif ;
+a) Le lieu d'engagement du marin ou son port d'embarquement ; 
 
-c) Le pays de résidence du marin ;
+b) Le lieu stipulé par convention ou accord collectif ; 
 
-d) Tout autre lieu convenu entre les parties ;
+c) Le lieu de résidence du marin ; 
 
-2° Le logement et la nourriture depuis le moment où le marin quitte le navire jusqu'à son arrivée à la destination choisie.
+d) Tout autre lieu convenu entre les parties ; 
 
-Le rapatriement ne comprend pas la fourniture de vêtements. Toutefois, en cas de nécessité, le capitaine fait l'avance des
-frais de vêtements indispensables.
+3° Le logement et la nourriture depuis le moment où le marin quitte le navire jusqu'à son arrivée à destination choisie. 
 
-Le passeport ou toute autre pièce d'identité confiée au capitaine par le marin lui est immédiatement restitué en vue du
-rapatriement.
+II.-Le rapatriement ne comprend pas la fourniture de vêtements. Toutefois, en cas de nécessité, le capitaine fait l'avance
+des frais de vêtements indispensables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 88 (Ab), alinéas 1 à 7, alinéa 8 (phrase 1), et alinéa 9
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5512-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5542-32
 
-Sous réserve des dispositions de l'article L. 5542-33, les frais de rapatriement sont intégralement à la charge de
-l'employeur.
+Sous réserve des dispositions de l'article L. 5542-33, les frais de rapatriement sont mis à la charge de l'employeur.
+
+Aucune avance ne peut être exigée du marin en vue de son rapatriement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 89 (Ab), alinéas 1 et 2
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-33 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-33
+
+
+###### Article L5542-32-1
+
+I. - L'armateur garantit la prise en charge ou le remboursement des frais de rapatriement et de soins des marins employés sur
+des navires effectuant des voyages internationaux ou sur des navires de pêche, dans les conditions prévues au présent
+chapitre. 
+
+II. - L'armateur s'acquitte de l'obligation mentionnée au I au moyen d'une garantie financière, d'une assurance ou de tout
+autre dispositif équivalent. 
+
+III. - Un décret en Conseil d'Etat détermine les conditions d'application du présent article, notamment pour tenir compte de
+son adaptation à la pêche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+	  - Code des transports - art. L5612-1 (V)
+	  - Code des transports - art. R5232-1 (VD)
+
 
 ###### Article L5542-33
-
-La prise en charge des frais de rapatriement du marin débarqué en cours de voyage après rupture du contrat d'un commun accord
-est réglée par convention des parties. 
 
 Les frais de rapatriement du marin débarqué pour faute grave ou à la suite d'une blessure ou d'une maladie contractée dans
 les conditions prévues à l'article L. 5542-28 sont à sa charge.L'employeur doit toutefois en faire l'avance. 
@@ -42457,22 +43083,95 @@ charge de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 90 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
 
 	**Cite**:
 
-	  - Code des transports - art. L5542-28 (V)
+	  - Code des transports - art. L5542-28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5542-32 (V)
 	  - Code des transports - art. L5549-1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-33-1
+
+I.-Dès que l'autorité administrative compétente a pris connaissance du manquement d'un armateur ou d'un employeur à ses
+obligations en matière de rapatriement, elle le met en demeure de justifier des mesures qu'il entend prendre pour s'acquitter
+de ses obligations. 
+
+II.-En l'absence de réponse ou en cas de manquement de l'armateur et de l'employeur à leurs obligations, le rapatriement est
+organisé et pris en charge par l'Etat. 
+
+L'autorité administrative compétente engage le recouvrement des frais avancés auprès de l'armateur et de l'employeur, au
+besoin en mettant en œuvre la procédure mentionnée à l'article L. 5542-33-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-441 du 30 mars 2017 - art. 2 (V)
+	  - Décret n°2017-441 du 30 mars 2017 - art. 4
+	  - Code des transports - art. L5542-33-2 (V)
+	  - Code des transports - art. L5542-33-3 (V)
+	  - Code des transports - art. L5612-1 (V)
+
+
+###### Article L5542-33-2
+
+I.-Lorsque les autorités administratives compétentes sont intervenues en application du II de l'article L. 5542-33-1, elles
+peuvent solliciter la saisie conservatoire du navire dans les conditions de l'article L. 5114-22, en informant l'autorité
+portuaire. 
+
+II.-L'autorité de l'Etat du pavillon d'un navire concerné par la mise en œuvre par cet Etat des stipulations de la convention
+du travail maritime, 2006, de l'Organisation internationale du travail relatives au rapatriement des marins peut exercer dans
+un port national les prérogatives prévues au I, en liaison avec l'autorité maritime, en tenant compte des instruments
+internationaux sur la saisie conservatoire des navires en mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-441 du 30 mars 2017 - art. 4
+	  - Code des transports - art. L5542-33-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5114-22 (V)
+
+
+###### Article L5542-33-3
+
+Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 5542-33-1 et L. 5542-33-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-441 du 30 mars 2017 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-33-1 (V)
 
 
 ##### Paragraphe 4 : Obligations du marin
@@ -42550,8 +43249,7 @@ et à l'époque du chargement pour le même voyage et les marchandises de même 
 
 Un décret en Conseil d'Etat fixe, compte tenu des adaptations nécessaires : 
 
-1° Les modalités d'application aux femmes exerçant la profession de marin des dispositions des articles L. 1225-7 à L. 1225-9
-et L. 1225-15 du code du travail relatifs à la protection de la grossesse et de la maternité ; 
+1° (Abrogé) ; 
 
 2° Les modalités d'application au marin des dispositions des articles L. 1225-47 à L. 1225-60, L. 1225-65, L. 1225-68 et L.
 1225-69 du code du travail relatifs au congé parental d'éducation et au travail à temps partiel ; 
@@ -42561,24 +43259,37 @@ conséquences d'un accident du travail ou d'une maladie professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°84-9 du 4 janvier 1984 - art. 7 (Ab), ecqc le 2°
-	  - Code du travail - art. L742-9 (Ab), ecqc le 3°
-	  - Code du travail maritime - art. 5-2 (Ab), ecqc le 1°
-
-	**Cite**:
-
-	  - Code du travail - art. L1225-15 (V)
-	  - Code du travail - art. L1225-47 (V)
-	  - Code du travail - art. L1225-65 (V)
-	  - Code du travail - art. L1225-68 (V)
-	  - Code du travail - art. L1225-7 (V)
-	  - Code du travail - art. L1226-6 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L1225-47
+	  - Code du travail - art. L1225-65
+	  - Code du travail - art. L1225-68
+	  - Code du travail - art. L1226-6
+
+
+###### Article L5542-37-1
+
+Les modalités d'application à la femme marin enceinte du chapitre V du titre II du livre II de la première partie du code du
+travail, notamment en cas d'impossibilité d'être affectée temporairement dans un emploi à terre, sont déterminées par décret
+en Conseil d'Etat, en tenant compte des adaptations nécessaires. 
+
+Ce décret prévoit que la femme marin enceinte bénéficie d'une garantie de rémunération pendant la suspension du contrat
+d'engagement maritime en résultant, composée d'une allocation à la charge du régime de protection sociale des marins et d'une
+indemnité complémentaire à la charge de l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ##### Sous-section 5 : Rupture du contrat
@@ -42633,6 +43344,32 @@ des conséquences graves pour le salarié.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5542-39-1
+
+Un relevé de services est délivré au marin par l'employeur à tout moment, sur demande, et à la rupture du contrat
+d'engagement maritime. 
+
+Il tient lieu de certificat de travail prévu à l'
+article L. 1234-19 du code du travail
+, dans des conditions précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-440 du 17 avril 2015 - art. 1 (V)
+	  - Décret n°2015-440 du 17 avril 2015 - art. 5 (V)
+	  - Code des transports - art. L5725-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L1234-19
+
+
 ##### Paragraphe 2 : Contrat de travail à durée indéterminée
 
 ##### 1. Dispositions générales
@@ -42667,9 +43404,9 @@ cette absence n'est pas prise en compte pour le calcul de la condition d'embarqu
 
 ###### Article L5542-41
 
-Lorsqu'un marin, dont le contrat de travail à durée indéterminée a été transféré par son employeur à une filiale étrangère,
-est licencié par cette filiale, l'employeur assure son rapatriement et l'affecte à un nouvel emploi compatible avec
-l'importance des fonctions qu'il occupait précédemment.
+Lorsqu'un marin, dont le contrat d'engagement maritime à durée indéterminée a été transféré par son employeur à une filiale
+étrangère, est licencié par cette filiale, l'employeur assure son rapatriement et l'affecte à un nouvel emploi compatible
+avec l'importance des fonctions qu'il occupait précédemment.
 
 Si l'employeur n'est pas en mesure d'assurer ce reclassement, le licenciement intervient dans les conditions précisées à la
 présente sous-section.
@@ -42679,13 +43416,13 @@ services et de navigation ainsi que pour le calcul du préavis et de l'indemnit�
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 102-9 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5542-42
@@ -42755,6 +43492,14 @@ marin à quelque titre que ce soit.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Paragraphe 2 : Contrat d'engagement maritime à durée indéterminée
+
+##### 1. Dispositions générales
+
+
+##### 2. Préavis et indemnité de licenciement
+
+
 ##### Paragraphe 3 : Contrat à durée déterminée ou au voyage
 
 ###### Article L5542-45
@@ -42780,42 +43525,6 @@ compter de l'expiration du contrat de travail, celui-ci est prolongé jusqu'à l
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5542-46
-
-L'indemnité de fin de contrat à durée déterminée mentionnée à l'article L. 1243-8 du code du travail est calculée en fonction
-de la rémunération du marin et de la durée du contrat. Son taux ne peut être inférieur à un minimum fixé par voie
-réglementaire.
-
-L'indemnité n'est pas due en cas de rupture anticipée due à l'initiative du marin, à sa faute grave, à un cas de force
-majeure ou en cas de non-prorogation par le marin d'un contrat comportant une clause de report du terme. 
-
-Le présent article n'est pas applicable aux contrats mentionnés à l'article L. 5542-14.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
-	**Cite**:
-
-	  - Code du travail - art. L1243-8
-	  - Code des transports - art. L5542-14
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 10-7 (Ab)
-	  - Code du travail maritime - art. 102-24 (Ab)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5542-12 (V)
-
-
 ##### Paragraphe 4 : Dispositions particulières au capitaine
 
 ###### Article L5542-47
@@ -42838,19 +43547,42 @@ affréteurs.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 1 : Le contrat d'engagement maritime
+
+##### Sous-section 1 : Formation et contenu du contrat
+
+##### Sous-section 2 : Le contrat à durée déterminée ou au voyage
+
+##### Sous-section 3 : La période d'essai
+
+##### Sous-section 4 : Exécution du contrat
+
+##### Sous-section 5 : Rupture du contrat
+
 ##### Section 2 : La résolution des litiges individuels
 
 ###### Article L5542-48
 
-Le différend qui peut s'élever, à l'occasion des périodes d'embarquement, entre l'employeur et le marin est porté devant le
-juge judiciaire. Sauf en ce qui concerne le capitaine, cette instance est précédée d'une tentative de conciliation devant
-l'autorité compétente de l'Etat.
+Tout différend qui peut s'élever à l'occasion de la formation, de l'exécution ou de la rupture d'un contrat de travail entre
+l'employeur et le marin est porté devant le juge judiciaire. Sauf en ce qui concerne le capitaine, cette instance est
+précédée d'une tentative de conciliation devant l'autorité compétente de l'Etat. 
+
+Lors de la conciliation, lorsque le litige porte sur la rupture du contrat, l'employeur et le marin peuvent convenir, ou
+l'autorité compétente de l'Etat proposer, d'y mettre un terme par accord. Cet accord prévoit le versement par l'employeur au
+marin d'une indemnité forfaitaire, dans les conditions et selon le barème prévus aux deux premiers alinéas de l'article L.
+1235-1 du code du travail. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 2 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -42858,21 +43590,25 @@ l'autorité compétente de l'Etat.
 	  - Décret n°2015-219 du 27 février 2015 - art. 5 (V)
 	  - Code des transports - art. L5549-2 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code du travail - art. L1235-1 (V)
 
 
 ##### Section 3 : Sanctions pénales
 
 ###### Article L5542-50
 
-Est puni de 7 500 € d'amende le fait, pour l'employeur, de ne pas procéder au rapatriement d'un marin dans les conditions
+Est puni de 7 500 € d'amende le fait, pour l'employeur, de ne pas procéder au rapatriement de gens de mer dans les conditions
 mentionnées aux articles L. 5542-29 à L. 5542-33. 
 
 La peine est portée à six mois d'emprisonnement et 15 000 € d'amende en cas de récidive.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -42889,33 +43625,33 @@ La peine est portée à six mois d'emprisonnement et 15 000 € d'amende en cas 
 	  - Code des transports - art. L5612-1 (V)
 	  - Code des transports - art. R5232-17 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail maritime - art. 90-1 (Ab), alinéa 1
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L5542-29 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5542-29
 
 
 ###### Article L5542-51
 
 Est puni des peines sanctionnant le délit prévu par l'article L. 1254-2 du code du travail le fait pour l'employeur : 
 
-1° De recruter un marin sans avoir établi ou sans lui avoir transmis dans le délai prévu à l'article L. 5542-5 du présent
-code un contrat de travail écrit ; 
+1° De recruter tous gens de mer sans avoir établi ou sans leur avoir transmis dans le délai prévu à l'article L. 5542-5 du
+présent code un contrat de travail écrit ; 
 
-2° De recruter un marin en ayant conclu un contrat de travail ne comportant pas les mentions prévues aux articles L. 5542-3
-et L. 5542-4 ou comportant ces mentions volontairement inexactes ; 
+2° De recruter des gens de mer en ayant conclu un contrat de travail ne comportant pas les mentions prévues aux articles L.
+5542-3 et L. 5542-4 ou comportant ces mentions volontairement inexactes ; 
 
-3° De recruter un marin en ayant conclu un contrat au voyage ne comportant pas, outre les mentions prévues aux articles L.
-5542-3 et L. 5542-4, celles figurant à l'article L. 5542-9.
+3° De recruter des gens de mer en ayant conclu un contrat au voyage ne comportant pas, outre les mentions prévues aux
+articles L. 5542-3 et L. 5542-4, celles figurant à l'article L. 5542-9.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -42927,18 +43663,16 @@ et L. 5542-4 ou comportant ces mentions volontairement inexactes ;
 	  - Loi du 17 décembre 1926 - art. 34 (V)
 	  - Loi du 17 décembre 1926 - art. 35 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
 	**Cite**:
 
 	  - Code du travail - art. L1254-2
+	  - Code des transports - art. L5542-3 (V)
 	  - Code des transports - art. L5542-5
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+	  - Code des transports - art. L5542-9 (V)
 
 
 ###### Article L5542-52
@@ -42971,67 +43705,98 @@ renouveler le contrat de travail à durée déterminée en méconnaissance de ce
 ###### Article L5542-53
 
 Est puni des peines sanctionnant le délit prévu à l'article L. 1248-3 du code du travail le fait de méconnaître les
-dispositions de l'article L. 5542-10 du présent code relatives à l'interdiction en matière de conclusion de contrat au
-voyage.
+dispositions de l'article L. 5542-10 du présent code relatives à l'interdiction en matière de conclusion de contrat au voyage
+pour les gens de mer.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
 	  - Code du travail - art. L1248-3
 	  - Code des transports - art. L5542-10
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5542-54
 
 Est puni des peines sanctionnant le délit prévu à l'article L. 1248-11 du code du travail le fait de méconnaître les
 dispositions de l'article L. 5542-11 du présent code relatives à la succession de contrats pour remplacer le marin dont le
-contrat a pris fin.
+contrat a pris fin. Le présent article est applicable aux gens de mer autres que marins en tant qu'il concerne le contrat au
+voyage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
 	  - Code du travail - art. L1248-11
 	  - Code des transports - art. L5542-11
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5542-55
 
 Dans le cas où un contrat de travail à durée déterminée ou un contrat au voyage a été conclu au titre de l'article L.
 5542-14, la méconnaissance des dispositions de cet article est punie des peines sanctionnant le délit prévu à l'article L.
-1248-2 du code du travail
+1248-2 du code du travail. Le présent article est applicable aux gens de mer autres que marins en tant qu'il concerne le
+contrat au voyage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
 	  - Code du travail - art. L1248-2
 	  - Code des transports - art. L5542-14
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5542-56
+
+Est puni d'une amende de 3 750 € le fait, pour l'armateur, de méconnaître les dispositions du premier alinéa de l'article L.
+5542-18, relatives au droit des gens de mer à la nourriture ou à une indemnité équivalente, et de l'article L. 5542-19,
+relatives aux objets de couchage. 
+
+En cas de récidive, la peine est portée à six mois d'emprisonnement et 7 500 € d'amende. 
+
+Les infractions donnent lieu à autant d'amendes qu'il y a de gens de mer concernés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 36 (V)
+	  - Loi du 17 décembre 1926 - art. 37 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-19 (V)
 
 
 ##### Chapitre III : Les relations collectives de travail
@@ -43058,6 +43823,69 @@ conventions et accords collectifs de travail sont fixées par décret en Conseil
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5543-1-1
+
+I. - La Commission nationale de la négociation collective maritime est chargée, sans préjudice des missions confiées à la
+commission prévue à l'
+article L. 2271-1 du code du travail
+: 
+
+1° De proposer au ministre chargé des gens de mer toutes mesures de nature à faciliter le développement de la négociation
+collective dans le secteur maritime ; 
+
+2° D'émettre un avis sur les projets de loi, d'ordonnance et de décret relatifs aux règles générales portant sur les
+relations individuelles et collectives du travail des gens de mer ; 
+
+3° De donner un avis motivé aux ministres chargés des gens de mer et du travail sur l'extension et l'élargissement des
+conventions et accords collectifs relevant de sa compétence, ainsi que sur l'abrogation des arrêtés d'extension ou
+d'élargissement ; 
+
+4° De donner, à la demande d'au moins la moitié des membres de la commission d'interprétation compétente préalablement
+saisie, un avis sur l'interprétation des clauses d'une convention ou d'un accord collectif ; 
+
+5° De suivre l'évolution des salaires effectifs et des rémunérations minimales déterminées par les conventions et accords
+collectifs relevant de sa compétence ; 
+
+6° D'examiner le bilan annuel de la négociation collective dans le secteur maritime ; 
+
+7° De suivre annuellement l'application dans les conventions collectives relevant de sa compétence du principe "à travail
+égal, salaire égal", du principe de l'égalité professionnelle entre les femmes et les hommes et du principe d'égalité de
+traitement entre les salariés, ainsi que des mesures prises en faveur du droit au travail des personnes en situation de
+handicap, de constater les inégalités éventuellement persistantes et d'en analyser les causes. La Commission nationale de la
+négociation collective maritime a qualité pour faire au ministre chargé des gens de mer toute proposition pour promouvoir
+dans les faits et dans les textes ces principes d'égalité. 
+
+II. - La Commission nationale de la négociation collective maritime comprend des représentants de l'Etat, du Conseil d'Etat,
+ainsi que des représentants des organisations d'employeurs représentatives au niveau national et des organisations syndicales
+de gens de mer représentatives au niveau national. 
+
+III. - Un décret en Conseil d'Etat détermine les modalités d'organisation et de fonctionnement de la Commission nationale de
+la négociation collective maritime. 
+
+IV. - Pour l'application de l'
+article L. 2222-1 du code du travail
+au présent livre, les conventions ou accords collectifs de travail concernant les gens de mer tiennent compte des conventions
+ou accords collectifs de travail conclus pour les personnels susceptibles de se voir appliquer plusieurs régimes
+conventionnels selon leur situation, à terre ou embarquée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-918 du 27 juillet 2015 - art. 14 (VD)
+	  - Décret n°2015-918 du 27 juillet 2015 - art. 17 (VD)
+	  - Décret n°2015-918 du 27 juillet 2015 - art. 7 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L2222-1
+	  - Code du travail - art. L2271-1
+
+
 ##### Section 2 : Les institutions représentatives du personnel
 
 ###### Article L5543-2
@@ -43065,13 +43893,17 @@ conventions et accords collectifs de travail sont fixées par décret en Conseil
 Les conditions d'application aux entreprises d'armement maritime des dispositions du livre III de la deuxième partie du code
 du travail sont fixées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat.
 
-A bord des navires, la représentation des marins est assurée par les délégués de bord.
+A bord des navires, la représentation des gens de mer est assurée par les délégués de bord.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail - art. L742-3 (Ab), ecqc les délégués et comités d'entreprises
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -43080,9 +43912,44 @@ A bord des navires, la représentation des marins est assurée par les délégu�
 	  - Code des transports - art. L5622-3 (V)
 	  - Code du travail - art. R4461-9 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5543-2-1
+
+I. ― Les délégués de bord ont pour mission : 
+
+1° De présenter au capitaine les réclamations individuelles ou collectives des gens de mer relatives à l'application du
+présent livre et aux conditions de vie à bord ; 
+
+2° D'assister les gens de mer dans leurs plaintes ou réclamations individuelles ; 
+
+3° De saisir l'inspection du travail ou l'autorité maritime de toutes plaintes et observations relatives à l'application des
+dispositions légales et conventionnelles dont ces autorités sont chargées d'assurer le contrôle. 
+
+II. ― Les délégués de bord sont élus par les gens de mer travaillant à bord du navire. 
+
+III. ― Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, détermine les modalités d'application du présent article. Il précise notamment : 
+
+1° L'effectif à partir duquel est organisée l'élection ; 
+
+2° Le nombre de délégués à élire en fonction de l'effectif du navire et la durée de leur mandat ; 
+
+3° L'organisation des candidatures, des élections et des modalités de contestation. 
+
+IV. ― Le présent article ne fait pas obstacle aux clauses plus favorables, résultant de conventions ou d'accords, relatives à
+la désignation et aux attributions des délégués de bord.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-810 du 30 août 1984 - art. 1 (V)
+	  - Code des transports - art. L5543-3-1 (V)
+	  - Code des transports - art. L5622-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ##### Section 3 : Les salariés protégés
@@ -43103,6 +43970,27 @@ du travail sont fixées, compte tenu des adaptations nécessaires, par décret e
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5543-3-1
+
+L'
+article L. 2421-3 du code du travail 
+est applicable au délégué de bord. 
+
+Le décret en Conseil d'Etat mentionné à l'article L. 5543-2-1 du présent code détermine les modalités d'application du
+présent article, notamment la procédure applicable en cas de fin de mise à disposition de gens de mer élus délégués de bord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2421-3
+	  - Code des transports - art. L5543-2-1 (V)
+
+
 ##### Section 4 : Les conflits collectifs
 
 ###### Article L5543-4
@@ -43121,19 +44009,51 @@ adaptations nécessaires, par décret en Conseil d'Etat.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 5 : Sanctions pénales
+
+###### Article L5543-5
+
+Est puni des peines prévues à l'
+article L. 2316-1 du code du travail
+le fait de porter atteinte ou de tenter de porter atteinte à la libre désignation ou à l'exercice régulier des fonctions d'un
+délégué de bord.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2316-1
+
+	**Cité par**:
+
+	  - Code des transports - art. R5232-17 (VD)
+
+
 ##### Chapitre IV : Durée du travail, repos, congés et salaire
 
 ##### Section 1 : Durée du travail et organisation du travail
 
 ###### Article L5544-1
 
-Sauf mention contraire, les dispositions des articles L. 1222-7, 
-L. 3111-2, 
-L. 3121-1 à L. 3121-37, L. 3121-39, L. 3121-52 à L. 3121-54, L. 3122-1, L. 3122-4 à L. 3122-47, L. 3162-1 à L. 3162-3, L.
-3163-1 à L. 3163-3, L. 3164-1, L. 3171-1, L. 3171-3, L. 3171-4 et L. 4612-16 du code du travail ne sont pas applicables aux
-marins.
+Sauf mention contraire, les articles L. 1222-7, 
+L. 3111-2, L. 3121-1 à L. 3121-37, L. 3121-39, L. 3121-52 à L. 3121-54, L. 3122-1, 
+L. 3122-4 à L. 3122-47, L. 3131-1, L. 3131-2, L. 3162-1 à L. 3162-3, L. 3163-1 à L. 3163-3, 
+L. 3164-1, L. 3171-1, 
+L. 3171-3, L. 3171-4 et L. 4612-16 du code du travail ne sont pas applicables aux marins.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
@@ -43144,6 +44064,7 @@ marins.
 	  - Code du travail - art. L3121-52 (V)
 	  - Code du travail - art. L3122-1 (V)
 	  - Code du travail - art. L3122-4 (V)
+	  - Code du travail - art. L3131-1 (V)
 	  - Code du travail - art. L3162-1 (V)
 	  - Code du travail - art. L3163-1 (V)
 	  - Code du travail - art. L3164-1 (V)
@@ -43154,10 +44075,6 @@ marins.
 	**Cité par**:
 
 	  - Code des transports - art. L5725-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Sous-section 1 : Travail effectif et astreintes
@@ -43213,34 +44130,39 @@ L. 3171-1 et L. 3171-3 du code du travail est applicable aux marins dans des con
 
 ###### Article L5544-4
 
-Un décret, pris après consultation des organisations les plus représentatives des marins et des employeurs, détermine, le cas
-échéant par genre de navigation ou catégorie de personnel, les modalités selon lesquelles il peut être dérogé aux
-dispositions du code du travail relatives à la durée légale hebdomadaire et quotidienne du travail. 
+I. - Les limites dans lesquelles des heures de travail peuvent être effectuées à bord d'un navire autre qu'un navire de pêche
+sont fixées à quatorze heures par période de vingt-quatre heures et à soixante-douze heures par période de sept jours. 
 
-Ce décret fixe notamment : 
+II. - Une convention ou un accord collectif étendu ou une convention ou un accord d'entreprise ou d'établissement peut
+déterminer, le cas échéant par type de navire, de navigation ou de catégorie de personnel, les modalités selon lesquelles il
+peut être dérogé aux dispositions relatives à la durée hebdomadaire et quotidienne du travail résultant du I, en prévoyant
+notamment un aménagement et une répartition des heures de travail dans la semaine ou dans une période de temps autre que la
+semaine pour tenir compte de la continuité de l'activité du navire, des contraintes portuaires ou de la sauvegarde du navire
+en mer. 
 
-1° L'aménagement et la répartition des horaires de travail dans la semaine ou dans une période de temps autre que la semaine,
-pour tenir compte de la continuité de l'activité du navire, des contraintes portuaires et des nécessités de la sauvegarde de
-la sécurité des biens et des personnes en mer et aux ports ; 
+III. - Les conventions ou accords mentionnés au II prévoient : 
 
-2° Les limites dans lesquelles des heures supplémentaires peuvent être effectuées au-delà de la durée fixée par les articles
-L. 3121-10 et L. 3121-34 du code du travail, sans dépasser seize heures quotidiennes et quatre-vingt quatre heures
-hebdomadaires ; 
+1° Des mesures assurant le respect en toutes circonstances de l'obligation de veille ; 
 
-3° Les mesures de contrôle des heures de travail et de repos et de la durée du travail effectif ainsi que la procédure
-suivant laquelle des dérogations sont accordées ou utilisées.
+2° L'octroi de périodes de repos consécutives pour prévenir toute fatigue ; 
+
+3° L'octroi de congés pour compenser les dérogations aux limites mentionnées au I ; 
+
+4° Des mesures de contrôle de la durée effective du travail à bord et de prévention de la fatigue. 
+
+IV. - Un décret, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer intéressées,
+détermine les modalités d'application du présent article, notamment les conditions dans lesquelles il peut être dérogé aux
+durées maximales de travail.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Code du travail - art. L3121-10 (V)
-	  - Code du travail - art. L3121-34 (V)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail maritime - art. 24 (Ab), ecqc la durée légale du travail
-	  - Code du travail maritime - art. 25 (Ab), alinéas 1 et 2
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -43249,10 +44171,6 @@ suivant laquelle des dérogations sont accordées ou utilisées.
 	  - Code des transports - art. L5544-23-1 (V)
 	  - Code des transports - art. L5544-33 (V)
 	  - Code des transports - art. L5544-5 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L5544-5
@@ -43368,22 +44286,22 @@ modalités forfaitaires collectives de rémunération du travail supplémentaire
 
 ###### Article L5544-9
 
-Les dispositions de l'article L. 3122-28 du code du travail relatif à l'aménagement de l'horaire de travail pour la pratique
-du sport sont applicables aux marins dans des conditions fixées par décret en Conseil d'Etat.
+Les conditions de l'aménagement du temps de travail des marins pour la pratique d'un sport sont fixées par décret en Conseil
+d'Etat, en tenant compte des adaptations nécessaires.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L3122-28 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 24-1 (Ab), ecqc l'art. 212-4-16 du code du travail
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L3122-28
 
 
 ##### Sous-section 4 : Travail à temps partiel et travail intermittent
@@ -43499,13 +44417,18 @@ sécurité et des nécessités de la navigation.
 
 ###### Article L5544-14
 
-Le capitaine détermine les conditions dans lesquelles le marin qui n'est pas de service peut descendre à terre.
+Le marin a droit de descendre à terre, en escale ou lors de séjours prolongés au mouillage, sous réserve des exigences de
+service ou de sécurité déterminées par le capitaine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 19 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -43513,10 +44436,6 @@ Le capitaine détermine les conditions dans lesquelles le marin qui n'est pas de
 	  - Code des transports - art. L5775-1 (V)
 	  - Code des transports - art. L5785-1 (V)
 	  - Code des transports - art. L5795-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Section 2 : Repos et jours fériés
@@ -43526,19 +44445,25 @@ Le capitaine détermine les conditions dans lesquelles le marin qui n'est pas de
 
 ###### Article L5544-15
 
-Les dispositions des articles L. 3131-1 et L. 3131-2 du code du travail ne sont pas applicables aux marins.
-
-La durée minimale du repos à laquelle a droit le marin est de dix heures par période de vingt-quatre heures.
+I.-La durée minimale de repos à laquelle a droit le marin embarqué à bord d'un navire autre qu'un navire de pêche est de dix
+heures par période de vingt-quatre heures. 
 
 Le repos quotidien ne peut être scindé en plus de deux périodes. L'une de ces périodes est d'au moins six heures
-consécutives. L'intervalle entre deux périodes consécutives de repos ne peut dépasser quatorze heures.
+consécutives. L'intervalle entre deux périodes consécutives de repos ne peut dépasser quatorze heures. 
+
+II.-La convention ou l'accord mentionné à l'article L. 5544-4 peut, sous les conditions prévues à ce même article, adapter
+les dispositions du I du présent article pour tenir compte d'un aménagement ou d'une répartition des horaires de travail
+compatible avec les dispositions du présent article et du même article L. 5544-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Décret n°2005-305 du 31 mars 2005 - art. 19 (M), alinéas 1 et 2
-	  - Décret n°2005-305 du 31 mars 2005 - art. 8 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -43549,35 +44474,42 @@ consécutives. L'intervalle entre deux périodes consécutives de repos ne peut 
 
 	**Cite**:
 
-	  - Code du travail - art. L3131-1
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5544-4 (V)
 
 
 ###### Article L5544-16
 
-Une convention collective ou un accord collectif peut déroger aux dispositions du deuxième alinéa de l'article L. 5544-15,
-pour des activités difficilement planifiables et qui nécessitent un service continu, définies par voie réglementaire. 
+I. - Les durées minimales de repos des marins exerçant à bord d'un navire de pêche sont fixées à dix heures par période de
+vingt-quatre heures et à soixante-dix-sept heures par période de sept jours. 
 
-Dans ce cas, ces conventions ou accords prévoient des mesures compensatoires, sous forme de repos ou de congés plus fréquents
-ou plus longs, ainsi que, le cas échéant, d'une période minimale de repos de nuit, visant à assurer aux marins un repos
-suffisant. Ils précisent les délais dans lesquels ces compensations interviennent.
+II. - Une convention ou un accord collectif étendu peut déterminer, par type de navire, de navigation ou de catégorie de
+personnel, les modalités selon lesquelles il peut être dérogé aux dispositions relatives à la durée hebdomadaire et
+quotidienne de repos résultant du I, en prévoyant notamment un aménagement et une répartition des périodes de travail dans la
+semaine ou dans une période de temps autre que la semaine pour tenir compte des actions de pêche en mer ou d'autres surcroîts
+d'activité, des contraintes portuaires ou météorologiques ou de la sauvegarde du navire en mer. 
+
+III. - Les conventions ou accords collectifs mentionnés au II ne peuvent être étendus que s'ils prévoient : 
+
+1° Des mesures assurant le respect en toutes circonstances de l'obligation de veille ; 
+
+2° L'octroi de périodes de repos consécutives pour prévenir toute fatigue ; 
+
+3° L'octroi de congés pour compenser les dérogations aux limites mentionnées au I ; 
+
+4° Des mesures de contrôle de la prise effective des repos à bord et de prévention de la fatigue. 
+
+IV. - Un décret, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer intéressées,
+détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-305 du 31 mars 2005 - art. 9 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5544-15 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ##### Sous-section 2 : Repos hebdomadaire
@@ -43754,8 +44686,7 @@ qu'ils comportent des stipulations ayant le même objet.
 
 ###### Article L5544-23
 
-Le droit à congés payés du marin pendant les périodes d'embarquement effectif est calculé à raison de trois jours calendaires
-par mois.
+Le droit à congés payés du marin est calculé à raison de trois jours calendaires par mois.
 
 Le temps passé dans l'attente du rapatriement et la durée du voyage ne peuvent pas être déduits des congés payés acquis par
 le marin.
@@ -43765,19 +44696,46 @@ terme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code du travail maritime - art. 89 (Ab)
-	  - Code du travail maritime - art. 92-1 (Ab), alinéas 1 et 4
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5553-9 (V)
 	  - Code des transports - art. L5795-7 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5544-23-1
+
+Une convention ou un accord collectif de branche étendu peut prévoir de regrouper des droits à congés légaux et
+conventionnels du marin avec d'autres repos compensatoires légaux et conventionnels sur une période de référence qui ne peut
+être supérieure à une année. 
+
+La convention ou l'accord collectif établissant ce dispositif dénommé " repos-congés " précise ses modalités de mise en
+œuvre, sans pouvoir déroger aux dispositions de l'article L. 5544-15 en matière de durée minimale de repos, sauf dans les
+conditions prévues aux articles L. 5544-4, 
+L. 5544-15 et L. 5544-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-754 du 7 juin 2016 (VD)
+	  - Code des transports - art. L5541-1-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5544-15 (V)
+	  - Code des transports - art. L5544-4 (V)
 
 
 ###### Article L5544-24
@@ -43885,17 +44843,17 @@ Le travail de nuit est interdit entre 20 heures et 6 heures aux jeunes gens en f
 
 ###### Article L5544-28
 
-Les jeunes travailleurs ne peuvent être affectés à un service de quart à la machine.
+Aucun marin de moins de dix-huit ans ne doit travailler comme cuisinier de navire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 113 (VT), alinéa 5
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5544-29
@@ -43925,22 +44883,22 @@ heures consécutives.
 
 ###### Article L5544-30
 
-La durée minimale du repos quotidien des jeunes gens âgés de moins de quinze ans embarqués dans les conditions prévues au
-premier alinéa de l'article L. 5544-5 ne peut être inférieure à quatorze heures consécutives.
+La durée minimale du repos quotidien des jeunes gens âgés de moins de quinze ans embarqués dans les conditions prévues au 3°
+de l'article L. 4153-1 du code du travail ne peut être inférieure à quatorze heures par période de vingt-quatre heures.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 114 (Ab), alinéa 5 (phrase 3)
-
-	**Cite**:
-
-	  - Code des transports - art. L5544-5 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L4153-1 (V)
 
 
 ###### Article L5544-31
@@ -43966,17 +44924,17 @@ plus tard dès le retour du navire et justifie des mesures compensatoires prises
 ###### Article L5544-32
 
 Les modalités d'application de la présente sous-section sont déterminées par un décret en Conseil d'Etat pris après avis des
-organisations professionnelles d'armateurs et des syndicats de marins.
+organisations les plus représentatives d'armateurs et de gens de mer intéressées.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 117 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 29
 
 
 ##### Sous-section 2 : Le capitaine
@@ -44129,6 +45087,19 @@ Ces périodes ne peuvent être supérieures à douze mois consécutifs calculée
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5544-39-1
+
+Pendant le temps de son inscription sur la liste d'équipage, les avantages du droit à la nourriture du marin n'entrent pas en
+compte pour la détermination du salaire minimum interprofessionnel de croissance ou de la rémunération mensuelle minimale
+mentionnés au titre III du livre II de la troisième partie du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+
 ##### Paragraphe 3 : Fixation des rémunérations
 
 ###### Article L5544-40
@@ -44137,26 +45108,26 @@ Lorsque la rémunération du marin consiste, en tout ou partie, en une part sur 
 du chiffre d'affaires, le contrat de travail détermine les dépenses et charges à déduire du produit brut pour former le
 produit net. Aucune déduction autre que celles stipulées ne peut être admise au détriment du marin. 
 
-Un décret en Conseil d'Etat pris après avis des organisations représentatives d'armateurs et de marins détermine, en tenant
-compte notamment des dispositions de l'article L. 5542-18, les dépenses et les charges qui ne peuvent en aucun cas être
-déduites du produit brut mentionné au premier alinéa. 
+Un décret en Conseil d'Etat pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, détermine, en tenant compte notamment des dispositions de l'article L. 5542-18, les dépenses et les charges qui
+ne peuvent en aucun cas être déduites du produit brut mentionné au premier alinéa. 
 
 Les pièces justificatives du calcul de la rémunération sont tenues à la disposition de l'inspecteur du travail, sur sa
 demande, ainsi qu'en cas de litige, à la disposition de l'autorité judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 33 (Ab)
-
-	**Cite**:
-
-	  - Code des transports - art. L5544-18 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 29
+
+	**Cite**:
+
+	  - Code des transports - art. L5544-18
 
 
 ###### Article L5544-41
@@ -44491,26 +45462,33 @@ Les mentions obligatoires portées sur le bulletin de paie remis au marin en app
 
 ###### Article L5544-56
 
-Les conditions dans lesquelles sont payées les parts de pêche sont fixées par voie réglementaire, conformément aux
-conventions et usages.
+I.-Les conditions dans lesquelles sont payées les parts de pêche sont fixées par voie d'accord collectif ou conformément aux
+usages. 
 
-Pour les contrats de travail à la grande pêche, les délais de liquidation des comptes et de paiement des salaires, ainsi que
-les indemnités dues aux marins quand le paiement des salaires n'est pas effectué dans les délais légaux, sont fixés par voie
-réglementaire.
+II.-Pour les contrats de travail à la grande pêche, les délais de liquidation des comptes et du paiement des salaires, ainsi
+que les indemnités dues aux marins quand le paiement des salaires n'est pas effectué dans les délais, sont fixés par voie
+d'accord collectif ou conformément aux usages. 
+
+III.-Le chapitre II du titre IV du livre II de la troisième partie du code du travail relatif à la mensualisation n'est pas
+applicable aux contrats mentionnés au III de l'article L. 5542-3 du présent code.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 53 (Ab)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5549-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-3 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5549-2 (V)
 
 
 ###### Article L5544-57
@@ -44531,6 +45509,18 @@ régime d'assurance vieillesse des marins mentionné à l'article L. 5551-1 en v
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5544-57-1
+
+L'employeur s'assure que les gens de mer peuvent faire parvenir aux personnes qu'ils désignent une partie ou l'intégralité de
+leur rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ##### Sous-section 3 : Protection du salaire
@@ -44658,33 +45648,34 @@ proviennent de son fait, ainsi que l'article L. 5544-53.
 
 ###### Article L5544-63
 
-Est puni d'une amende de 3 750 € le fait pour un marin de méconnaître : 
+Est puni d'une amende de 3 750 € le fait de méconnaître : 
 
-1° L'obligation prévue à l'article L. 5542-35 en matière de sauvetage ; 
+1° Pour un marin, l'obligation prévue à l'article L. 5542-35 en matière de sauvetage ; 
 
-2° L'obligation prévue aux premier et deuxième alinéas de l'article L. 5544-13 en matière de sécurité et d'organisation des
-secours. 
+2° Pour les gens de mer, l'obligation prévue aux deux premiers alinéas de l'article L. 5544-13 ainsi qu'à l'article L. 5549-1
+en matière de sécurité et d'organisation des secours. 
 
 La récidive est punie d'une amende de 7 500 € et d'un emprisonnement de six mois.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 11
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L5542-35 (V)
+	  - Code des transports - art. L5542-35
 	  - Code des transports - art. L5544-13 (V)
+	  - Code des transports - art. L5549-1 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5612-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre V : Santé et sécurité au travail
@@ -44751,16 +45742,47 @@ travail " sont remplacés par les mots : " médecin du service de santé des gen
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5545-3-1
+
+I. - Aucun marin ne peut travailler à bord d'un navire s'il ne produit pas un certificat d'aptitude médicale en cours de
+validité attestant qu'il est médicalement apte à exercer ses fonctions. 
+
+II. - Le capitaine vérifie que le marin est en possession du certificat mentionné au I au plus tard avant son embarquement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
 ##### Sous-section 2 : Droit d'alerte et de retrait
 
 ###### Article L5545-4
 
-Les modalités d'application aux marins des dispositions des articles L. 4126-1, L. 4131-1 à L. 4131-4, L. 4132-1 à L. 4132-5
-du code du travail relatifs aux droits d'alerte et de retrait sont déterminées par décret en Conseil d'Etat. Ce décret
-précise notamment les conditions dans lesquelles s'exerce l'autorité du capitaine, en cas de circonstances exceptionnelles, à
-l'égard des membres de l'équipage ayant fait usage de leur droit d'alerte et de retrait.
+Les modalités d'application aux marins des dispositions des articles L. 4131-1 à L. 4131-4 et L. 4132-1 à L. 4132-5 du code
+du travail relatives aux droits d'alerte et de retrait sont déterminées par décret en Conseil d'Etat, en tenant compte des
+adaptations nécessaires liées aux impératifs de la sécurité en mer. 
+
+Toute situation mentionnée au premier alinéa de l'article L. 4131-1 du même code est portée immédiatement à la connaissance
+du capitaine, qui exerce les responsabilités dévolues à l'employeur.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -44771,91 +45793,88 @@ l'égard des membres de l'équipage ayant fait usage de leur droit d'alerte et d
 	  - Code du travail - art. L4131-1 (V)
 	  - Code du travail - art. L4132-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ##### Sous-section 3 : Jeunes travailleurs
 
 ###### Article L5545-5
 
-Les dispositions d'application de l'article L. 4153-3 du code du travail relatives aux mineurs participant à des activités à
-bord des navires de pêche sont fixées par décret.
+A bord de tout navire, il est interdit d'employer des jeunes âgés de moins de seize ans. 
+
+Toutefois, dans les conditions fixées à l'article L. 4153-1 du code du travail, des jeunes ayant au moins quinze ans peuvent
+être employés à bord des navires de pêche et des navires ne naviguant que dans les eaux intérieures, dans les conditions
+précisées par décret.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L4153-3
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 115 (Ab), alinéas 2 à 4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L4153-1 (V)
+
 
 ###### Article L5545-6
 
-Les jeunes âgés de seize à dix-huit ans, non titulaires d'un contrat de travail, ne peuvent être admis ou employés sur un
-navire qu'après la conclusion d'une convention de stage.
+Les jeunes âgés de seize à dix-huit ans non titulaires d'un contrat de travail ne peuvent être admis ou employés sur un
+navire qu'après la conclusion d'une convention de stage agréée par l'autorité administrative compétente. 
 
-Aucune convention ne peut être conclue avec un armement aux fins d'admettre ou d'employer un élève à bord d'un navire
-lorsqu'il a été établi par les services de contrôle que les conditions de travail présentent un risque de nature à porter
-atteinte à la sécurité, à la santé ou à l'intégrité physique ou morale de l'élève.
+Aucune convention ne peut être conclue avec un armement si les services de contrôle estiment que les conditions de travail
+présentent un risque de nature à porter atteinte à la sécurité ou à la santé du stagiaire.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Décret n°2014-1272 du 23 octobre 2014 - art. (VD)
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 111 (Ab), alinéas 2 et 3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5545-7
 
 Le capitaine ou le patron veille à ce que les jeunes travailleurs ne soient employés qu'aux travaux et services en rapport
-avec leurs aptitudes physiques et se rattachant à l'exercice de leur profession. Il leur enseigne ou leur fait enseigner
+avec leurs aptitudes médicales et se rattachant à l'exercice de leur profession. Il leur enseigne ou leur fait enseigner
 progressivement la pratique du métier.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 116 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5545-8
 
-Un décret en Conseil d'Etat, pris après avis des organisations professionnelles d'armateurs et des syndicats de marins, fixe
-les modalités d'application de la présente section, notamment la liste des travaux dangereux auxquels les jeunes travailleurs
-ne peuvent, en aucun cas, être affectés ainsi que la liste des travaux dangereux pour lesquels une dérogation peut être
-accordée par l'inspecteur du travail ainsi que les conditions de cette dérogation.
+Un décret en Conseil d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer
+intéressées, fixe les modalités d'application de la présente section, notamment la liste des travaux dangereux auxquels les
+jeunes travailleurs ne peuvent, en aucun cas, être affectés ainsi que la liste des travaux dangereux pour lesquels une
+dérogation peut être accordée par l'inspecteur du travail ainsi que les conditions de cette dérogation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 111 (Ab), alinéa 4
-	  - Code du travail maritime - art. 117 (Ab), ecqc l'âge d'admission
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 29
 
 
 ##### Section 2 : Lieux de travail et conditions de vie à bord des navires
@@ -44881,25 +45900,43 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5545-10
+###### Article L5545-9-1
 
-L'employeur veille à ce que les denrées destinées à la restauration des gens de mer soient saines, de bonne qualité, en
-quantité suffisante et d'une nature appropriée au voyage entrepris.
+A bord des navires effectuant des voyages internationaux, l'armateur doit permettre aux gens de mer d'accéder à bord à des
+activités culturelles ou de loisir et aux moyens de communication, notamment pour maintenir un contact avec leur famille ou
+leurs proches.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Code du travail maritime - art. 74 (Ab), alinéa 1
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5785-1 (V)
 	  - Code des transports - art. L5795-1 (V)
 
+
+###### Article L5545-10
+
+L'employeur veille à ce que l'alimentation des gens de mer soit suffisante en quantité et en qualité, et qu'elle tienne
+compte des habitudes alimentaires.
+
+**Liens relatifs à cet article**
+
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
 
 
 ##### Section 3 : Equipements de travail et de protection individuelle
@@ -44924,19 +45961,28 @@ du travail relatives aux équipements de travail et moyens de protection sont d�
 
 ###### Article L5545-12
 
-Un décret en Conseil d'Etat fixe les conditions d'application aux entreprises d'armement maritime des dispositions des
+Un décret en Conseil d'Etat fixe les conditions d'adaptation aux entreprises d'armement maritime des dispositions des
 articles L. 4523-2 à L. 4523-17, L. 4524-1, L. 4611-1 à L. 4611-6, L. 4612-1 à L. 4612-18, L. 4613-1 à L. 4613-4 et L. 4614-1
 à L. 4614-16 du code du travail relatives aux comités d'hygiène, de sécurité et des conditions de travail.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Code du travail - art. L742-5 (Ab), ecqc les comités d'hygiène et de sécurité
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L4523-2 (V)
+	  - Code du travail - art. L4524-1 (VT)
+	  - Code du travail - art. L4611-1 (V)
+	  - Code du travail - art. L4612-1 (V)
+	  - Code du travail - art. L4613-1 (V)
+	  - Code du travail - art. L4614-1 (V)
 
 
 ###### Article L5545-13
@@ -45011,28 +46057,268 @@ par les mots : " la moitié du montant annuel moyen des cotisations dues au titr
 ##### Chapitre VI : L'emploi
 
 
-##### Section 2 : Service public de l'emploi et placement
-
-
+##### Section 2 : Service public de l'emploi, recrutement et placement des gens de mer
 
 ###### Article L5546-1
 
-Les conditions d'application aux marins des articles L. 5311-1 à L. 5311-4, L. 5311-6, L. 5313-1 à L. 5313-5, L. 5314-1 à L.
-5314-4, L. 5321-1 à L. 5321-3, L. 5322-1 à L. 5322-4, L. 5323-1 à L. 5323-3, L. 5324-1, L. 5331-1 à L. 5331-6, L. 5332-1 à L.
-5332-5, L. 5333-1 et L. 5333-2, L. 5411-1 à L. 5411-8, L. 5411-10 et L. 5412-1 du code du travail sont fixées par décret en
-Conseil d'Etat, notamment les modalités d'agrément, pour le placement des marins, des organismes privés de placement, les
-contrôles à exercer préalablement au placement, ainsi que les conditions de tenue du registre des marins placés par leur
-intermédiaire.
+Les conditions d'application aux marins du livre III et du titre Ier du livre IV de la cinquième partie du code du travail
+sont fixées par décret en Conseil d'Etat, compte tenu des adaptations nécessaires.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+
+##### Sous-section 1 : Services de recrutement et de placement privés 
+
+
+
+###### Article L5546-1-1
+
+I. - Le recrutement de gens de mer pour le compte d'armateurs ou d'employeurs ou leur placement auprès d'eux sont soumis aux
+dispositions applicables à l'activité de service de recrutement et de placement privé de gens de mer. 
+
+II. - Il est créé un registre national sur lequel tout service de recrutement et de placement privé de gens de mer établi en
+France s'inscrit, destiné à informer les gens de mer et les armateurs, ainsi qu'à faciliter la coopération entre Etats du
+pavillon et Etat du port. 
+
+III. - Les services de recrutement et de placement privés de gens de mer adressent à l'autorité administrative compétente un
+bilan annuel de leur activité. 
+
+IV. - Les services de recrutement et de placement privés des gens de mer tiennent à disposition, aux fins d'inspection par
+l'autorité compétente, un registre à jour de tous les gens de mer recrutés ou placés par leur intermédiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+	  - Code des transports - art. L5725-1 (V)
+	  - Code des transports - art. L5785-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5546-1-2
+
+Les services de recrutement et de placement privés de gens de mer, quel que soit le lieu de leur établissement, ne peuvent
+avoir recours à des agissements qui auraient pour objet ou pour effet d'empêcher ou de dissuader les gens de mer d'obtenir un
+emploi pour lequel ils possèdent les conditions requises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+
+
+###### Article L5546-1-3
+
+Les services de recrutement et de placement privés de gens de mer, quel que soit le lieu de leur établissement, s'assurent, à
+l'égard des gens de mer recrutés ou placés par leur intermédiaire : 
+
+1° De leurs qualifications, de la validité de leur aptitude médicale et de leurs documents professionnels obligatoires ; 
+
+2° De leur information préalable avant de signer le contrat d'engagement maritime ; 
+
+3° De la conformité des contrats d'engagement maritime proposés aux règles applicables ; 
+
+4° Du respect par l'armateur de ses obligations de garantie en matière de rapatriement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+
+
+###### Article L5546-1-4
+
+Les services de recrutement et de placement privés de gens de mer, quel que soit le lieu de leur établissement, examinent et
+répondent à toute réclamation concernant leurs activités et avisent l'autorité administrative compétente de celles pour
+lesquelles aucune solution n'a été trouvée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+
+
+###### Article L5546-1-5
+
+I. - Les services de recrutement et de placement privés de gens de mer établis en France justifient, au moyen d'une garantie
+financière, d'une assurance ou de tout autre dispositif équivalent, être en mesure d'indemniser les gens de mer des
+préjudices subis en cas d'inexécution de leurs obligations à leur égard. 
+
+II. - L'armateur, l'employeur ou les gens de mer intéressés peuvent exiger d'un service de recrutement et de placement privé
+de gens de mer établi hors de France qu'il justifie d'un mécanisme de garantie équivalent à celui prévu au I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+
+
+###### Article L5546-1-6
+
+Est entreprise de travail maritime toute personne, hors les entreprises de travail temporaire mentionnées à l'article L.
+1251-2 du code du travail, dont l'activité est de mettre à disposition d'un armateur des gens de mer qu'elle embauche et
+rémunère à cet effet. 
+
+Les entreprises de travail maritime établies en France sont soumises à la présente sous-section et font l'objet d'un agrément
+par l'autorité administrative. Par dérogation aux dispositions de l'article L. 5321-1 du code du travail, elles ne sont
+autorisées à mettre à disposition des gens de mer qu'à bord des navires immatriculés au registre international français ou de
+navires battant pavillon autre que français.
+
+**Nota:**
+
+Loi n° 2013-619 du 16 juillet 2013, article 25 II : Les entreprises mentionnées à l'article L. 5546-1-6 du code des
+transports exerçant cette activité à la date de la publication de la présente loi bénéficient d'une présomption d'agrément. A
+cet effet, elles doivent se déclarer dans un délai de deux mois en vue d'être inscrites sur le registre national prévu à
+l'article L. 5546-1-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L1251-2 (V)
+	  - Code du travail - art. L5321-1 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+	  - Code des transports - art. L5725-1 (M)
+	  - Code des transports - art. L5725-5 (V)
+	  - Code des transports - art. L5785-5-1 (VD)
+	  - Code des transports - art. L5795-6-1 (V)
+
+
+###### Article L5546-1-7
+
+Un décret en Conseil d'Etat détermine les modalités d'application de la présente sous-section, notamment les conditions dans
+lesquelles les entreprises de travail temporaire mentionnées au chapitre Ier du titre V du livre II de la première partie du
+code du travail  interviennent, dans le cadre du présent titre, comme services de recrutement et de placement privés de gens
+de mer, au besoin après adaptation rendue nécessaire des dispositions relatives au travail temporaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5725-1 (V)
+	  - Code des transports - art. L5795-1 (V)
+
+
+##### Sous-section 2 : Dispositions diverses 
+
+
+
+###### Article L5546-1-8
+
+Il est interdit d'imputer aux gens de mer tous frais directement ou indirectement occasionnés au titre de leur recrutement,
+de leur placement ou de l'obtention d'un emploi, y compris les frais d'obtention d'un passeport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L5546-1-9 (V)
+
+
+###### Article L5546-1-9
+
+I.-Est puni de 3 750 € d'amende le fait pour un service de recrutement et de placement mentionné au II de l'article L.
+5546-1-1 ou une entreprise de travail maritime mentionnée à l'article L. 5546-1-6 : 
+
+1° D'exercer l'activité de recrutement ou de placement de gens de mer sans être inscrit au registre national mentionné au
+même II ou être agréé en application de l'article L. 5546-1-6 ; 
+
+2° De ne pas adresser à l'autorité compétente le bilan annuel mentionné à l'article L. 5546-1-1 ; 
+
+3° De ne pas tenir à jour ou à disposition de l'autorité compétente le registre des gens de mer recrutés ou placés mentionné
+audit article ; 
+
+4° D'avoir recours à des agissements qui auraient pour objet ou pour effet d'empêcher ou de dissuader les gens de mer
+d'obtenir un emploi pour lequel ils possèdent les conditions requises, en violation de l'article L. 5546-1-2 ; 
+
+5° De ne pas s'assurer du respect des obligations mentionnées à l'article L. 5546-1-3 relatives aux qualifications requises,
+à l'aptitude médicale en cours de validité, aux documents professionnels détenus par les gens de mer ainsi qu'aux contrats
+d'engagement maritime et aux conditions de leur examen préalable à leur signature ; 
+
+6° De ne pas s'assurer que l'armateur dispose de la garantie financière prévue à l'article L. 5542-32-1 ; 
+
+7° De ne pas procéder à l'information de l'autorité administrative compétente dans les conditions prévues à l'article L.
+5546-1-4 ; 
+
+8° D'exercer son activité sans justifier de la garantie financière, de l'assurance ou de tout autre dispositif équivalent
+mentionné à l'article L. 5546-1-5. 
+
+II.-Le fait d'imputer aux gens de mer tous frais directement ou indirectement occasionnés au titre de leur recrutement, de
+leur placement ou de l'obtention d'un emploi, en méconnaissance de l'article L. 5546-1-8 du présent code, est puni des peines
+prévues à l'article L. 5324-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 36 (V)
+	  - Loi du 17 décembre 1926 - art. 37 (V)
+	  - Code des transports - art. L5725-5 (V)
+	  - Code des transports - art. L5785-5-1 (VD)
+	  - Code des transports - art. L5795-6-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-32-1 (V)
+	  - Code des transports - art. L5546-1-1 (V)
+	  - Code des transports - art. L5546-1-2 (V)
+	  - Code des transports - art. L5546-1-3 (V)
+	  - Code des transports - art. L5546-1-4 (V)
+	  - Code des transports - art. L5546-1-5 (V)
+	  - Code des transports - art. L5546-1-6 (V)
+	  - Code des transports - art. L5546-1-8 (V)
 
 
 ##### Section 3 : Indemnisation des marins 
@@ -45148,7 +46434,14 @@ Pour l'exercice de ces missions, l'inspecteur ou le contrôleur du travail est h
 toute personne employée à quelque titre que ce soit à bord d'un navire, de justifier de son identité, de son adresse et, le
 cas échéant, de sa qualité de marin.
 
+Lors de ses visites à bord du navire, l'inspecteur du travail ou le contrôleur du travail se fait accompagner par le ou les
+délégués de bord ou délégués du personnel, si ces derniers le souhaitent.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -45158,13 +46451,9 @@ cas échéant, de sa qualité de marin.
 	  - Code des transports - art. D5565-2 (VD)
 	  - Code des transports - art. L5565-2 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code du travail - art. L742-1-1 (M), fin de l'alinéa 3 et alinéa 4
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 ###### Article L5548-2
@@ -45240,18 +46529,36 @@ Martin ou Saint-Pierre-et-Miquelon.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IX : Dispositions applicables aux gens de mer autres que les marins
+##### Chapitre IX : Dispositions applicables aux gens de mer autres que marins
 
-
-##### Section 1 : Obligations de l'armateur
-
+##### Section 1 : Dispositions générales applicables
 
 ###### Article L5549-1
 
-L'armateur assure le rapatriement des personnels n'exerçant pas la profession de marin employés à bord des navires dans les
-conditions et selon les modalités prévues aux articles L. 5542-29, L. 5542-30 et L. 5542-33.
+I. ― Les titres Ier, III et VI du présent livre et l'article L. 5521-4 s'appliquent également aux gens de mer autres que
+marins. 
+
+II. ― Les gens de mer autres que marins ne peuvent travailler à bord d'un navire que s'ils remplissent des conditions
+d'aptitude médicale. 
+
+L'aptitude médicale requise pour la navigation est contrôlée par le service de santé des gens de mer. 
+
+Les normes d'aptitude médicale, selon les fonctions à bord ou les types de navigation, les cas de dispense, la durée de
+validité du certificat d'aptitude médicale délivré à l'issue du contrôle d'aptitude médicale, sa forme ainsi que les voies et
+délais de recours en cas de refus de délivrance du certificat sont précisés par décret en Conseil d'Etat. 
+
+III. ― Les gens de mer autres que marins doivent, pour l'exercice de leurs fonctions à bord d'un navire, avoir suivi une
+formation minimale dont le contenu est fixé par voie réglementaire.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
@@ -45267,22 +46574,18 @@ conditions et selon les modalités prévues aux articles L. 5542-29, L. 5542-30 
 
 	**Cite**:
 
-	  - Code du travail maritime - art. 87 (Ab)
-	  - Code des transports - art. L5542-33 (V)
-
-	**Anciens textes**:
-
-	  - Code du travail maritime - art. 87 (Ab), alinéa 13
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5521-4 (V)
 
 
-###### Article L5549-1-1
+##### Section 2 : Relations de travail
 
-Les dispositions des articles L. 5542-18 et L. 5542-21 à L. 5542-28 sont applicables aux gens de mer non marins visés à
-l'article L. 5551-1.
+###### Article L5549-2
+
+Le présent titre IV s'applique également aux gens de mer autres que marins, à l'exception du III de l'article L. 5542-5 et
+des articles L. 5542-7 et L. 5542-8, L. 5542-15, L. 5542-17, L. 5542-21 à L. 5542-28, L. 5542-34 à L. 5542-38, 
+L. 5542-40 à L. 5542-44, L. 5542-48, L. 5542-52, L. 5544-12, L. 5544-21, L. 5544-34 à L. 5544-41, L. 5544-43 à L. 5544-54, L.
+5544-56, L. 5544-57 et L. 5546-2, ainsi que les articles L. 5542-11 à L. 5542-14 en tant qu'ils concernent le contrat au
+voyage.
 
 **Liens relatifs à cet article**
 
@@ -45290,64 +46593,117 @@ l'article L. 5551-1.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Créé par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
+	**Cite**:
 
-##### Section 2 : Durée du travail et salaire
+	  - Code des transports - art. L5542-11 (V)
+	  - Code des transports - art. L5542-15 (V)
+	  - Code des transports - art. L5542-17 (V)
+	  - Code des transports - art. L5542-21 (V)
+	  - Code des transports - art. L5542-34 (V)
+	  - Code des transports - art. L5542-40 (V)
+	  - Code des transports - art. L5542-48 (V)
+	  - Code des transports - art. L5542-5 (V)
+	  - Code des transports - art. L5542-52 (V)
+	  - Code des transports - art. L5542-7 (V)
+	  - Code des transports - art. L5544-12 (V)
+	  - Code des transports - art. L5544-21 (V)
+	  - Code des transports - art. L5544-34 (V)
+	  - Code des transports - art. L5544-43 (V)
+	  - Code des transports - art. L5544-56 (V)
+	  - Code des transports - art. L5546-2 (V)
 
-###### Article L5549-2
+	**Cité par**:
 
-Les règles particulières relatives à la durée du travail et au repos hebdomadaire des personnels n'exerçant pas la profession
-de marin et embarqués temporairement à bord d'un navire sont fixées par décret en Conseil d'Etat.
+	  - Code des transports - art. L5725-1 (V)
+
+
+###### Article L5549-3
+
+Les règles particulières relatives à la durée du travail et au repos hebdomadaire des gens de mer autres que marins, et
+embarqués temporairement à bord d'un navire, sont fixées par décret en Conseil d'Etat. 
 
 Lorsque ces règles particulières concernent les personnels de droit privé non marins des établissements publics de recherche
-à caractère industriel ou commercial, ou des groupements dans lesquels les établissements publics de recherche détiennent des
+à caractère industriel et commercial ou des groupements dans lesquels les établissements de recherche détiennent des
 participations majoritaires, embarqués à bord d'un navire de recherche océanographique ou halieutique, ce décret est pris
 après consultation des établissements et groupements ainsi que des organisations les plus représentatives de ces personnels.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Code de la recherche - art. L411-5 (T)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
 	  - Code des transports - art. L5725-1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5549-4
 
+Lorsque les gens de mer autres que marins sont blessés ou malades pendant le cours de l'embarquement ou après que le navire a
+quitté le port où ils ont été embarqués, l'armateur s'assure qu'ils ont accès à des soins médicaux rapides et adéquats. 
 
-###### Article L5549-3
+L'employeur prend en charge les dépenses liées à ces soins, y compris les frais de transport éventuels, de telle sorte qu'ils
+soient intégralement assurés pour l'intéressé jusqu'à son hospitalisation ou son retour à domicile ou, si le navire est à
+l'étranger, son rapatriement, sans qu'il ait à en avancer les frais, sauf lorsque la maladie n'a pas été contractée pendant
+l'embarquement. Les dispositions du présent alinéa n'ont pas pour effet de se substituer aux dispositions du code de la
+sécurité sociale relatives à la prise en charge et au remboursement des prestations en nature par le régime de sécurité
+sociale dont relève l'intéressé. 
 
-Les créances nées de l'embarquement des personnels employés à bord des navires et n'exerçant pas la profession de marin sont
-privilégiées sur le navire et sur le fret dans les cas et suivant les formes prévus aux articles L. 5114-7 à L. 5114-19.
+En cas de décès, les frais funéraires, y compris le rapatriement du corps et des effets personnels, sont à la charge de
+l'employeur. 
+
+En cas de blessure, les gens de mer autres que marins sont tenus, sauf cas de force majeure, d'en faire la déclaration au
+capitaine au plus tard lorsqu'ils quittent le service au cours duquel ils ont été blessés. 
+
+Les modalités d'application du présent article sont précisées par voie réglementaire, notamment les conditions et limites
+dans lesquelles l'employeur se fait rembourser par l'intéressé pour lequel il a fait l'avance des frais, dans la limite des
+droits de celui-ci aux prestations qui lui sont dues.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Code du travail - art. L742-7 (Ab), ecqc les personnels non marins
-
-	**Cite**:
-
-	  - Code des transports - art. L5114-7 (V)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 	**Cité par**:
 
-	  - Code des transports - art. L5725-1 (V)
+	  - Décret n°2015-680 du 17 juin 2015 - art. 1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5549-5
+
+Pour l'application aux gens de mer autres que marins de l'article L. 5542-18, au premier alinéa, les mots : " au rôle " sont
+remplacés par les mots : " sur la liste ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-18 (V)
+
+
+###### Article L5549-6
+
+Sauf mention contraire, les dispositions du présent chapitre sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
 #### TITRE V : LA PROTECTION SOCIALE DES MARINS
@@ -45359,15 +46715,16 @@ privilégiées sur le navire et sur le fret dans les cas et suivant les formes p
 Sont affiliés au régime d'assurance vieillesse des marins, les marins mentionnés à l'article L. 5511-1 embarqués sur un
 navire battant pavillon français. 
 
-Sont assimilés aux marins pour l'application du présent titre les gens de mer employés par l'armateur en vue d'occuper à bord
-d'un navire un emploi permanent relatif à son exploitation. 
-
 Ils exercent leur activité dans les secteurs du commerce, de la pêche et des cultures marines et de la plaisance
 professionnelle. 
 
 Les conditions d'application du présent article sont précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -45388,18 +46745,13 @@ Les conditions d'application du présent article sont précisées par décret en
 	  - Code des transports - art. L5612-1 (V)
 	  - Code rural et de la pêche maritime - art. R912-83 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code des pensions de retraite des marins frança... - art. L1 (Ab)
-	  - Code des pensions de retraite des marins frança... - art. L2 (Ab)
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
 
 	**Cite**:
 
-	  - Code des transports - art. L5111-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5111-1
 
 
 ###### Article L5551-2
@@ -47405,13 +48757,18 @@ de moins de 650 ;
 transport de marchandises d'une jauge brute supérieure à 650 lorsque le voyage concerné suit ou précède un voyage à
 destination d'un autre Etat ou à partir d'un autre Etat ; 
 
-3° Utilisés pour fournir dans les eaux territoriales ou intérieures françaises des prestations de services.
+3° Utilisés pour fournir une prestation de service réalisée à titre principal dans les eaux territoriales ou intérieures
+françaises.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 38 (V)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 26
 
 	**Cité par**:
 
@@ -47423,10 +48780,6 @@ destination d'un autre Etat ou à partir d'un autre Etat ;
 	  - Code des transports - art. L5563-1 (V)
 	  - Code des transports - art. L5564-1 (V)
 	  - Code des transports - art. R5561-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L5561-2
@@ -47751,6 +49104,101 @@ Les infractions donnent lieu à autant d'amendes qu'il y a de gens de mer indûm
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+#### TITRE VII : PRÉVENTION DE L'ABANDON DES GENS DE MER
+
+###### Article L5571-1
+
+Est constitutif du délit d'abandon des gens de mer le fait, pour l'armateur, l'employeur ou la personne faisant fonction, de
+persister, au-delà de soixante-douze heures à compter de la réception d'une mise en demeure adressée par l'autorité maritime,
+à délaisser à terre ou sur un navire à quai ou au mouillage les gens de mer dont il est responsable, en se soustrayant à
+l'une de ses obligations essentielles à leur égard relatives aux droits à la nourriture, au logement, aux soins, au paiement
+des salaires ou au rapatriement équivalents aux normes prévues, selon le cas, par les stipulations de la convention du
+travail maritime, 2006, ou par la convention (n° 188) sur le travail dans la pêche, 2007, de l'Organisation internationale du
+travail.
+
+**Nota:**
+
+Conformément à l'article 27 II de la loi n° 2013-619 du 16 juillet 2013,  les articles L. 5571-1 à L. 5571-3 du code des
+transports entrent en vigueur, à l'égard des navires de pêche, à compter de la date d'entrée en vigueur sur le territoire de
+la République française de la convention (n° 188) sur le travail dans la pêche, 2007, de l'Organisation internationale du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 27 (V)
+
+	**Cité par**:
+
+	  - Ordonnance n°2016-1314 du 6 octobre 2016 - art. 5 (V)
+	  - Code des transports - art. L5571-2 (V)
+	  - Code des transports - art. L5571-3 (V)
+	  - Code des transports - art. L5765-1 (V)
+	  - Code des transports - art. L5775-1 (V)
+	  - Code des transports - art. L5785-1 (VT)
+	  - Code des transports - art. L5795-1 (V)
+
+
+###### Article L5571-2
+
+Est également constitutif du délit d'abandon des gens de mer le fait, pour l'armateur ou l'employeur, sous les mêmes
+conditions de mise en demeure qu'à l'article L. 5571-1, de ne pas fournir au capitaine du navire les moyens d'assurer le
+respect des obligations essentielles mentionnées à ce même article.
+
+**Nota:**
+
+Conformément à l'article 27 II de la loi n° 2013-619 du 16 juillet 2013,  les articles L. 5571-1 à L. 5571-3 du code des
+transports entrent en vigueur, à l'égard des navires de pêche, à compter de la date d'entrée en vigueur sur le territoire de
+la République française de la convention (n° 188) sur le travail dans la pêche, 2007, de l'Organisation internationale du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 27 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5571-1
+
+
+###### Article L5571-3
+
+Le fait de commettre le délit d'abandon des gens de mer, défini aux articles L. 5571-1 et L. 5571-2, est puni de cinq ans
+d'emprisonnement et de 75 000 € d'amende. 
+
+Le délit défini aux mêmes articles L. 5571-1 et L. 5571-2 est puni de sept ans d'emprisonnement et de 150 000 € d'amende
+lorsqu'il est commis à l'égard d'un mineur. 
+
+Le délit défini auxdits articles L. 5571-1 et L. 5571-2 donne lieu à autant d'amendes qu'il y a de gens de mer concernés.
+
+**Nota:**
+
+Conformément à l'article 27 II de la loi n° 2013-619 du 16 juillet 2013,  les articles L. 5571-1 à L. 5571-3 du code des
+transports entrent en vigueur, à l'égard des navires de pêche, à compter de la date d'entrée en vigueur sur le territoire de
+la République française de la convention (n° 188) sur le travail dans la pêche, 2007, de l'Organisation internationale du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi du 17 décembre 1926 - art. 34 (V)
+	  - Loi du 17 décembre 1926 - art. 35 (V)
+	  - Loi du 17 décembre 1926 - art. 36 (V)
+	  - Loi du 17 décembre 1926 - art. 37 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 27 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5571-1
+
+
 ### LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS
 
 #### TITRE IER : CHAMP D'APPLICATION
@@ -47832,22 +49280,21 @@ au pilotage et au balisage ;
 
 ###### Article L5611-4
 
-Les navires immatriculés au registre international français sont soumis aux dispositions des livres Ier, II et IV de la
-présente partie.
+Les livres Ier, II, IV et les titres Ier et VII du livre V sont applicables aux navires immatriculés au registre
+international français.
 
-Le port d'immatriculation ainsi que les modalités conjointes de francisation et d'immatriculation de ces navires sont fixées
-par voie réglementaire.
+Les modalités de détermination du port d'immatriculation ainsi que de francisation et d'immatriculation de ces navires sont
+fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 2 (VT), alinéa 9, sauf ecqc le guichet unique
-	  - Loi n°2005-412 du 3 mai 2005 - art. 4 (Ab), ecqc les navires
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Chapitre II : Personnel navigant
@@ -47855,26 +49302,46 @@ par voie réglementaire.
 
 ###### Article L5612-1
 
-Au sens du présent livre, est navigant toute personne affectée à la marche, à la conduite, à l'entretien ou à l'exploitation
-du navire mentionnée au livre V de la présente partie.
+I.-Sont applicables aux gens de mer embarqués sur les navires immatriculés au registre international français : 
 
-Les navigants embarqués sur les navires immatriculés au registre international français sont régis par les règles de
-formation professionnelle, de santé et de sécurité au travail applicables aux marins mentionnées au livre V de la présente
-partie.
+1° S'ils résident en France, le livre V de la présente partie ; 
 
-Les travailleurs indépendants et salariés non navigants bénéficient des dispositions relatives au rapatriement et au bien-
-être en mer et dans les ports.
+2° S'ils résident hors de France, les titres Ier et II, à l'exception de l'article L. 5521-2-1, et le chapitre V du titre IV
+du livre V de la présente partie. Ils sont également soumis aux articles L. 5533-2 à L. 5534-2, L. 5542-6, L. 5542-6-1, L.
+5542-18-1, 
+L. 5542-19, L. 5542-21-1, L. 5542-23, L. 5542-32-1, L. 5542-33-1 à L. 5542-33-3, L. 5542-35, L. 5542-47, L. 5542-50, L.
+5543-2 à L. 5543-5, L. 5544-13, L. 5544-14 et L. 5544-63. 
+
+II.-Les travailleurs, indépendants ou salariés, autres que gens de mer présents à bord de navires mentionnés au I bénéficient
+des dispositions relatives au rapatriement et au bien-être en mer et dans les ports prévues au présent livre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 3 (Ab), alinéa 1
-	  - Loi n°2005-412 du 3 mai 2005 - art. 4 (Ab), ecqc les navigants
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cite**:
+
+	  - Code des transports - art. L5521-2-1
+	  - Code des transports - art. L5533-2
+	  - Code des transports - art. L5542-18-1
+	  - Code des transports - art. L5542-19
+	  - Code des transports - art. L5542-21-1
+	  - Code des transports - art. L5542-23
+	  - Code des transports - art. L5542-32-1
+	  - Code des transports - art. L5542-33-1
+	  - Code des transports - art. L5542-35
+	  - Code des transports - art. L5542-47
+	  - Code des transports - art. L5542-50
+	  - Code des transports - art. L5542-6
+	  - Code des transports - art. L5543-2
+	  - Code des transports - art. L5544-13
+	  - Code des transports - art. L5544-63
 
 
 ###### Article L5612-2
@@ -47897,28 +49364,25 @@ présente partie.
 ###### Article L5612-3
 
 A bord des navires immatriculés au registre international français, les membres de l'équipage sont, dans une proportion d'au
-moins 35 % calculée sur la fiche d'effectif mentionnée à l'article L. 5522-2, des ressortissants d'un Etat membre de l'Union
-européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse. 
+moins 35 % calculée sur la fiche d'effectif minimal mentionnée à l'article L. 5522-2, des ressortissants d'un Etat membre de
+l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération suisse ou d'un Etat
+partie à tout accord international ayant la même portée en matière de droit au séjour et au travail. 
 
 Le pourcentage visé au premier alinéa est fixé à 25 % pour les navires ne bénéficiant pas ou plus du dispositif d'aide
 fiscale attribué au titre de leur acquisition. 
 
 Le capitaine et l'officier chargé de sa suppléance, garants de la sécurité du navire et de son équipage, de la protection de
 l'environnement et de la sûreté, sont français, ressortissants d'un Etat membre de l'Union européenne, d'un Etat partie à
-l'accord sur l'Espace économique européen ou de la Confédération suisse.
+l'accord sur l'Espace économique européen ou de la Confédération suisse ou d'un Etat partie à tout accord international ayant
+la même portée en matière de droit au séjour et au travail.
 
 L'accès aux fonctions mentionnées à l'alinéa précédent est subordonné à la possession de qualifications professionnelles et à
 la vérification d'un niveau de connaissance de la langue française et des matières juridiques permettant la tenue des
 documents de bord et l'exercice des prérogatives de puissance publique dont le capitaine est investi. Un décret en Conseil
-d'Etat, pris après avis des organisations représentatives d'armateurs et de gens de mer intéressées, précise les conditions
-d'application de cette dernière disposition.
+d'Etat, pris après avis des organisations les plus représentatives d'armateurs et de gens de mer intéressées, précise les
+conditions d'application de cette dernière disposition.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5522-2
-	  - convention n°180
 
 	**Codifié par**:
 
@@ -47926,7 +49390,12 @@ d'application de cette dernière disposition.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 23
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 29
+
+	**Cite**:
+
+	  - Code des transports - art. L5522-2
 
 
 ###### Article L5612-4
@@ -47954,30 +49423,7 @@ leur formation.
 
 ###### Article L5612-5
 
-Une liste du personnel présent à bord, tenue à jour sur le navire par le capitaine, est à la disposition des autorités
-compétentes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5612-6
-
-Les navigants résidant en France sont soumis aux dispositions des titres IV et V du livre V de la présente partie.
-
-Les navigants résidant hors de France sont soumis aux dispositions des titres II et III du présent livre.
-
-Les navigants ressortissants d'un Etat de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen,
-de la Confédération suisse ou d'un Etat lié à la France par une convention bilatérale de sécurité sociale bénéficient des
-dispositions du présent chapitre, sous réserve des dispositions plus favorables prises en application du traité sur l'Union
-européenne.
+L'article L. 5522-1 n'est pas applicable à bord des navires immatriculés au registre international français.
 
 **Liens relatifs à cet article**
 
@@ -47987,7 +49433,40 @@ européenne.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cite**:
+
+	  - Code des transports - art. L5522-1
+
+
+###### Article L5612-6
+
+I. - L'armateur est responsable, à l'égard de l'ensemble des gens de mer travaillant à bord, du respect des règles définies
+au présent livre, indépendamment de la responsabilité de chacun de leurs employeurs. 
+
+II. - Toute clause prévue dans les contrats conclus entre un armateur et le ou les employeurs de gens de mer à bord d'un
+navire exploité par cet armateur, qui a pour effet de faire échec aux dispositions d'ordre public du présent article, est
+nulle. 
+
+III. - En cas de défaillance du ou des employeurs mentionnés au II, l'armateur assure les conséquences financières, dans les
+conditions prévues au présent livre : 
+
+1° D'une maladie, d'un accident ou du décès d'un marin survenant en relation avec son embarquement ; 
+
+2° Du paiement des arriérés de salaires et de cotisations sociales, liées aux périodes d'embarquement ; 
+
+3° Du rapatriement du marin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 #### TITRE II : LES RELATIONS DU TRAVAIL
@@ -48001,36 +49480,16 @@ européenne.
 
 ###### Article L5621-1
 
-Les navigants employés à bord des navires immatriculés au registre international français sont engagés directement par
+Les gens de mer employés à bord des navires immatriculés au registre international français sont engagés directement par
 l'armateur ou mis à sa disposition par une entreprise de travail maritime.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 11 (Ab), alinéa 1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-
-###### Article L5621-2
-
-Est entreprise de travail maritime pour l'application du présent livre toute personne dont l'activité est de mettre à
-disposition d'un armateur des navigants qu'elle embauche en fonction de leur qualification et rémunère à cet effet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
@@ -48040,29 +49499,30 @@ disposition d'un armateur des navigants qu'elle embauche en fonction de leur qua
 Le contrat de mise à disposition ne peut être conclu qu'avec une entreprise de travail maritime agréée par les autorités de
 l'Etat où elle est établie.
 
-Lorsqu'il n'existe pas de procédure d'agrément, ou lorsque l'entreprise de travail maritime est établie dans un Etat où la
-convention n° 179 de l'Organisation internationale du travail sur le recrutement et le placement des gens de mer ne
-s'applique pas, l'armateur s'assure que l'entreprise de travail maritime en respecte les exigences.
+Lorsqu'il n'existe pas de procédure d'agrément, ou lorsque l'entreprise de travail maritime est établie dans un Etat où ni la
+convention (n° 179) sur le recrutement et le placement des gens de mer, ni la convention du travail maritime, 2006, de
+l'Organisation internationale du travail, ne s'appliquent, l'armateur s'assure que l'entreprise de travail maritime en
+respecte les exigences.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5642-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cité par**:
+
+	  - Code des transports - art. L5642-1 (V)
+
 
 ###### Article L5621-4
 
-La mise à disposition de tout navigant fait l'objet d'un contrat conclu par écrit entre l'armateur et l'entreprise de travail
-maritime, mentionnant : 
+La mise à disposition de tout gens de mer fait l'objet d'un contrat conclu par écrit entre l'armateur et l'entreprise de
+travail maritime, mentionnant : 
 
 1° Les conditions générales d'engagement, d'emploi, de travail et de vie à bord du navire ; 
 
@@ -48076,32 +49536,32 @@ relation commerciale entre l'entreprise de travail maritime et l'armateur.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cite**:
 
 	  - Code des transports - art. L5631-2
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5621-5
 
-Pendant la mise à disposition du navigant, l'armateur est responsable des conditions de travail et de vie à bord.
+Pendant la mise à disposition des gens de mer, l'armateur est responsable des conditions de travail et de vie à bord.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 21 (Ab), alinéa 2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Sous-section 2 : Formation et contenu du contrat d'engagement
@@ -48127,21 +49587,23 @@ professionnelle, selon des modalités fixées par voie réglementaire.
 
 ###### Article L5621-7
 
-Le contrat d'engagement est établi conformément à l'article 3 de la convention n° 22 de l'Organisation internationale du
-travail sur le contrat d'engagement des marins.
+I. - Le contrat d'engagement maritime des gens de mer résidant hors de France est soumis à la loi choisie par les parties,
+sous réserve des dispositions du présent chapitre et sans préjudice de dispositions plus favorables des conventions ou
+accords collectifs applicables aux non-résidents. 
 
-Il est soumis à la loi choisie par les parties, sous réserve des dispositions du présent chapitre et sans préjudice de
-dispositions plus favorables des conventions ou accords collectifs applicables aux non-résidents.
+II. - Quelle que soit la loi résultant du choix des parties en application du I, le contrat d'engagement maritime est établi
+conformément aux stipulations de la convention du travail maritime, 2006, de l'Organisation internationale du travail
+relatives au contrat d'engagement maritime des gens de mer, sans préjudice de dispositions plus favorables.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 12 (Ab), ecqc le contrat d'engagement
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ###### Article L5621-8
@@ -48162,7 +49624,7 @@ conventions de l'Organisation internationale du travail ratifiées par la France
 
 ###### Article L5621-9
 
-Durant la première période d'emploi du navigant auprès d'un armateur, les trois premiers mois de service sont considérés
+Durant la première période d'emploi des gens de mer auprès d'un armateur, les trois premiers mois de service sont considérés
 comme une période d'essai. Au cours de cette période, les parties peuvent, avant l'échéance prévue, rompre le contrat
 d'engagement ou interrompre la mise à disposition.
 
@@ -48171,99 +49633,51 @@ dans les deux cas, prolongée ou réduite d'un mois au plus pour des motifs lié
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Code des transports - art. L5642-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5621-10
-
-Le contrat d'engagement conclu entre l'entreprise de travail maritime et chacun des navigants mis à disposition de l'armateur
-précise : 
-
-1° La raison sociale de l'employeur ; 
-
-2° La durée du contrat ; 
-
-3° L'emploi occupé à bord, la qualification professionnelle exigée et, le cas échéant, le nom du navire, son numéro
-d'identification internationale, le port et la date d'embarquement ; 
-
-4° Le montant de la rémunération du navigant avec ses différentes composantes ; 
-
-5° Les conditions de la protection sociale prévues par les articles L. 5631-2 à L. 5631-4 et le ou les organismes gérant les
-risques mentionnés à ces articles.
-
-**Liens relatifs à cet article**
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Abrogé par**:
-
 	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
-	  - Code des transports - art. L5621-11 (Ab)
 	  - Code des transports - art. L5642-1 (V)
-
-	**Cite**:
-
-	  - Code des transports - art. L5631-2
-
-
-###### Article L5621-11
-
-Le contrat d'engagement conclu entre l'armateur et le navigant comporte les mentions prévues par l'article L. 5621-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
-
-	**Cite**:
-
-	  - Code des transports - art. L5621-10
 
 
 ###### Article L5621-12
 
-Un exemplaire écrit du contrat d'engagement est remis au navigant qui le conserve à bord pendant la durée de l'embarquement.
+Les gens de mer résidant hors de France doivent disposer d'un délai suffisant leur permettant d'examiner le contrat
+d'engagement maritime et de demander conseil avant de le signer. 
 
-Une copie de ce document est remise au capitaine.
+Un exemplaire écrit du contrat d'engagement maritime est remis à chacun des gens de mer qui le conserve à bord pendant la
+durée de l'embarquement. 
+
+Une copie de ce document est remise au capitaine. 
+
+L'article L. 5542-6-1 est applicable aux navires immatriculés au registre international français.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 15 (Ab), alinéa 8
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-6-1
+
+
+##### Section 1 : L'engagement des gens de mer
+
+##### Sous-section 1 : Engagement direct et mise à disposition
+
+##### Sous-section 2 : Formation et contenu du contrat d'engagement
 
 ##### Section 2 : Fin de la relation de travail
 
@@ -48271,66 +49685,66 @@ Une copie de ce document est remise au capitaine.
 
 ###### Article L5621-13
 
-Le contrat d'engagement conclu directement entre l'armateur et le navigant ou le contrat de mise à disposition conclu entre
-l'armateur et l'entreprise de travail maritime prennent fin :
+Le contrat d'engagement conclu directement entre l'armateur et chacun des gens de mer résidant hors de France ou le contrat
+de mise à disposition conclu entre l'armateur et l'entreprise de travail maritime prennent fin :
 
 1° A l'échéance prévue ;
 
-2° Par décision de l'armateur ou du navigant en cas de perte totale de navigabilité ou de désarmement du navire ;
+2° Par décision de l'armateur ou du salarié en cas de perte totale de navigabilité ou de désarmement du navire ;
 
-3° Par décision du navigant si le navire fait route vers une zone de guerre ;
+3° Par décision du salarié si le navire fait route vers une zone de guerre ;
 
-4° Par décision motivée et notifiée de l'armateur en cas de faute grave ou de faute lourde du navigant, ou pour un motif réel
+4° Par décision motivée et notifiée de l'armateur en cas de faute grave ou de faute lourde du salarié, ou pour un motif réel
 et sérieux.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 19 (Ab), alinéas 1 à 5
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ###### Article L5621-14
 
 Le délai de préavis réciproque en cas de rupture du contrat d'engagement est d'un mois.
 
-Il n'est pas applicable en cas de perte totale de navigabilité, de désarmement du navire, de faute grave ou lourde du
-navigant ou lorsque le navire fait route vers une zone de guerre.
+Il n'est pas applicable en cas de perte totale de navigabilité, de désarmement du navire, de faute grave ou lourde du salarié
+ou lorsque le navire fait route vers une zone de guerre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 19 (Ab), alinéa 6
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ###### Article L5621-15
 
 Les indemnités pour rupture du contrat d'engagement ne peuvent être inférieures à deux mois de salaire.
 
-Elles ne sont pas dues au navigant lorsque la rupture ou l'interruption :
+Elles ne sont pas dues au salarié lorsque la rupture ou l'interruption :
 
 1° Intervient durant la période d'essai ;
 
-2° Résulte de la décision ou d'une faute grave ou lourde du navigant.
+2° Résulte de la décision ou d'une faute grave ou lourde du salarié.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 19 (Ab), alinéa 7
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Section 3 : Conditions de rapatriement
@@ -48338,63 +49752,65 @@ Elles ne sont pas dues au navigant lorsque la rupture ou l'interruption :
 
 ###### Article L5621-16
 
-Le navigant est rapatrié dans les cas prévus par le 1 de l'article 2 de la convention n° 166 de l'Organisation internationale
-du travail sur le rapatriement des marins et dans les cas prévus par le titre IV du livre V et, le cas échéant, par accord
-collectif. La durée maximale des périodes d'embarquement au terme desquelles le marin a droit au rapatriement est de douze
-mois.
+I. - Les gens de mer résidant hors de France sont rapatriés dans des conditions au moins équivalentes à celles des
+stipulations de la convention du travail maritime, 2006, de l'Organisation internationale du travail relatives au
+rapatriement des gens de mer. 
 
-Le rapatriement est organisé aux frais de l'armateur dans le cas d'un contrat d'engagement, ou aux frais de l'entreprise de
-travail maritime dans le cas d'un contrat de mise à disposition, sans préjudice de leur droit à recouvrer, auprès du
-navigant, les sommes engagées, en cas de faute grave ou lourde de celui-ci.
+Un accord collectif peut prévoir des dispositions plus favorables. 
 
-La destination du rapatriement peut être, au choix du navigant :
+II. - La durée maximale des périodes d'embarquement au terme desquelles les gens de mer ont droit au rapatriement est de
+douze mois. 
 
-1° Le lieu d'engagement ;
+III. - Le rapatriement est organisé aux frais de l'armateur, dans le cas d'un contrat d'engagement direct, ou aux frais de
+l'entreprise de travail maritime, dans le cas d'un contrat de mise à disposition, sans préjudice de leur droit à recouvrer
+auprès des gens de mer les sommes engagées, en cas de faute grave ou lourde de ceux-ci. 
 
-2° Le lieu stipulé par convention collective ;
+IV. - La destination du rapatriement peut être, au choix du rapatrié : 
 
-3° Son lieu de résidence ;
+1° Le lieu d'engagement ; 
 
-4° Le lieu mentionné au contrat ;
+2° Le lieu stipulé par la convention collective ou par le contrat ; 
 
-5° Tout autre lieu convenu par les parties.
+3° Le lieu de résidence du rapatrié.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 20 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5642-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5621-17
 
 En cas de défaillance de l'entreprise de travail maritime, l'armateur est substitué à celle-ci pour le rapatriement et le
-paiement des sommes qui sont ou restent dues aux organismes d'assurance sociale et au navigant.
+paiement des sommes qui sont ou restent dues aux organismes d'assurance sociale et aux gens de mer résidant hors de France.
 
 L'armateur est tenu de contracter une assurance ou de justifier de toute autre forme de garantie financière de nature à
 couvrir ce risque de défaillance.
 
+Il doit en justifier auprès des autorités compétentes, dans des conditions fixées par décret.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 21 (Ab), alinéa 1
-
-	**Cité par**:
-
-	  - Décret n°2017-209 du 20 février 2017 - art. 3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cité par**:
+
+	  - Décret n°2017-209 du 20 février 2017 - art. 3 (V)
 
 
 ##### Section 4 : Résolution des litiges individuels
@@ -48402,31 +49818,31 @@ couvrir ce risque de défaillance.
 ###### Article L5621-18
 
 En cas de litige né d'un contrat d'engagement conclu dans les conditions du présent chapitre, l'action de l'employeur ne peut
-être portée que devant les tribunaux de l'Etat sur le territoire duquel le navigant a son domicile.
+être portée que devant les tribunaux de l'Etat sur le territoire duquel le salarié a son domicile.
 
 L'employeur peut être attrait :
 
 a) Devant les tribunaux français ;
 
-b) Devant ceux de l'Etat où le navigant a son domicile ;
+b) Devant ceux de l'Etat où le salarié a son domicile ;
 
-c) Devant le tribunal du lieu où se trouve ou se trouvait l'établissement qui a embauché le navigant.
+c) Devant le tribunal du lieu où se trouve ou se trouvait l'établissement qui a embauché le salarié.
 
 En France, ces litiges sont portés devant le juge judiciaire après tentative de conciliation dans des conditions précisée par
 décret en Conseil d'Etat.
 
 Il ne peut être dérogé au présent article que par des conventions attributives de juridiction postérieures à la naissance du
-différend ou qui permettent au navigant de saisir d'autres tribunaux que ceux indiqués.
+différend ou qui permettent au salarié de saisir d'autres tribunaux que ceux indiqués.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 30 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Chapitre II : Les relations collectives de travail
@@ -48434,80 +49850,83 @@ différend ou qui permettent au navigant de saisir d'autres tribunaux que ceux i
 
 ###### Article L5622-1
 
-Tout navigant peut adhérer librement au syndicat professionnel de son choix.
+Les gens de mer résidant hors de France peuvent adhérer librement au syndicat professionnel de leur choix.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 23 (Ab), alinéa 1
-
-	**Cité par**:
-
-	  - Code des transports - art. L5642-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+	**Cité par**:
+
+	  - Code des transports - art. L5642-1 (V)
 
 
 ###### Article L5622-2
 
-Les conventions ou accords collectifs applicables aux navigants régis par le présent chapitre peuvent être celles ou ceux
-applicables en vertu de la loi dont relève le contrat d'engagement du navigant.
+Les conventions ou accords collectifs applicables aux gens de mer résidant hors de France sont régis selon la loi et la
+langue choisies par les parties. 
+
+Ils ne peuvent contenir de clauses moins favorables que les dispositions résultant de l'application du présent titre aux gens
+de mer non résidents.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 24 (Ab), alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
 
 ###### Article L5622-3
 
-Les navigants participent à l'élection des délégués de bord mentionnés à l'article L. 5543-2.
+Les gens de mer résidant hors de France participent à l'élection des délégués de bord mentionnés à l'article L. 5543-2-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 24 (Ab), alinéa 2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cite**:
 
-	  - Code des transports - art. L5543-2 (V)
+	  - Code des transports - art. L5543-2-1
 
 	**Cité par**:
 
 	  - Code des transports - art. L5642-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5622-4
 
-La grève ne rompt pas le contrat d'engagement, sauf faute lourde imputable au navigant.
+La grève ne rompt pas le contrat d'engagement, sauf faute lourde imputable à l'intéressé.
 
-Aucun navigant ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire en raison de l'exercice normal
-du droit de grève. Toute disposition ou tout acte contraire est nul de plein droit.
+Nul ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire en raison de l'exercice normal du droit
+de grève. Toute disposition ou tout acte contraire est nul de plein droit.
 
-Il est interdit de recourir à des emplois temporaires en remplacement de navigants grévistes.
+Il est interdit de recourir à des emplois temporaires en remplacement de gens de mer résidant hors de France grévistes.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 23 (Ab), alinéas 2 et 3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Chapitre III : Durée du travail et salaire
@@ -48521,20 +49940,20 @@ Il est interdit de recourir à des emplois temporaires en remplacement de naviga
 
 ###### Article L5623-1
 
-Le travail des navigants est organisé sur la base de 8 heures par jour, 48 heures par semaine et 208 heures par mois.
+Le travail des gens de mer est organisé sur la base de 8 heures par jour, 48 heures par semaine et 208 heures par mois. 
 
 Pour des raisons d'exploitation, il peut être organisé, dans la limite de 12 heures, sur une autre base journalière, dans des
 conditions fixées par conventions ou accords collectifs.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 16 (VT), alinéa 1
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ###### Article L5623-2
@@ -48575,17 +49994,17 @@ du service à la mer et au port.
 
 ###### Article L5623-4
 
-Un registre, tenu à jour à bord du navire, mentionne les heures quotidiennes de travail et de repos des navigants.
+Un registre, tenu à jour à bord du navire, mentionne les heures quotidiennes de travail et de repos des gens de mer.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 17 (Ab), alinéa 8
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Sous-section 2 : Repos et jours fériés
@@ -48615,44 +50034,44 @@ heures et que l'intervalle entre deux périodes consécutives n'excède pas 14 h
 
 ###### Article L5623-6
 
-Le navigant a droit à une journée de repos hebdomadaire.
+Les gens de mer ont  droit à une journée de repos hebdomadaire.
 
 Lorsque la journée de repos hebdomadaire coïncide avec un jour férié, le repos hebdomadaire est réputé acquis.
 
-Lorsque le navigant n'a pas, pour des motifs liés à l'exploitation du navire, bénéficié de son repos hebdomadaire, les
-parties au contrat d'engagement conviennent que ce repos est reporté à l'issue de l'embarquement ou rémunéré comme des heures
+Lorsque le salarié n'a pas, pour des motifs liés à l'exploitation du navire, bénéficié de son repos hebdomadaire, les parties
+au contrat d'engagement conviennent que ce repos est reporté à l'issue de l'embarquement ou rémunéré comme des heures
 supplémentaires.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 17 (Ab), alinéas 2 à 4
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
 
 ###### Article L5623-7
 
-Le nombre de jours fériés auquel a droit le navigant est fixé par convention ou accord collectif, ou à défaut par le contrat
-d'engagement.
+Le nombre de jours fériés auquel ont droit les gens de mer est fixé par convention ou accord collectif, ou à défaut par le
+contrat d'engagement. 
 
-Les jours fériés sont choisis parmi les jours de fêtes légales des pays dont les navigants sont ressortissants.
+Les jours fériés sont choisis parmi les jours de fêtes légales des pays dont les gens de mer sont ressortissants. 
 
 Les parties au contrat d'engagement conviennent que chaque jour férié travaillé ou coïncidant avec la journée de repos
 hebdomadaire fait l'objet soit d'un repos équivalent, soit d'une rémunération majorée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 17 (Ab), alinéas 5 à 7
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Sous-section 3 : Congés payés
@@ -48661,17 +50080,17 @@ hebdomadaire fait l'objet soit d'un repos équivalent, soit d'une rémunération
 
 ###### Article L5623-8
 
-La durée des congés payés du navigant est de trois jours par mois de travail effectif.
+La durée des congés payés des gens de mer est de trois jours par mois de travail effectif.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2005-412 du 3 mai 2005 - art. 17 (Ab), alinéa 1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 ##### Section 2 : Le salaire
@@ -48680,104 +50099,130 @@ La durée des congés payés du navigant est de trois jours par mois de travail 
 
 ###### Article L5623-9
 
-Les rémunérations des navigants ne peuvent être inférieures aux montants fixés par décret, après consultation des
-organisations professionnelles représentatives des armateurs et des organisations syndicales représentatives des marins, par
-référence aux rémunérations généralement pratiquées ou recommandées sur le plan international.
+Les rémunérations des gens de mer résidant hors de France ne peuvent être inférieures aux montants fixés par décret, après
+consultation des organisations professionnelles représentatives des armateurs et des organisations syndicales représentatives
+des gens de mer, par référence aux rémunérations généralement pratiquées ou recommandées sur le plan international.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 13 (Ab), alinéa 2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5642-1 (V)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L5623-10
+
+Les gens de mer résidant hors de France doivent être rémunérés à des intervalles n'excédant pas un mois. 
+
+Ils reçoivent un relevé mensuel des montants qui leur ont été versés, mentionnant le paiement des heures supplémentaires et
+le taux de change appliqué si les versements ont été effectués dans une monnaie ou à un taux distinct de ceux qui avaient été
+convenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+
+###### Article L5623-11
+
+L'armateur s'assure de la possibilité pour les gens de mer résidant hors de France de faire parvenir à leurs familles, aux
+personnes à leur charge ou à leurs ayants droit une partie ou l'intégralité de leur rémunération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 
 #### TITRE III : PROTECTION SOCIALE
 
 ###### Article L5631-1
 
-Les navigants résidant en France et embarqués avant le 31 mars 1999 sur des navires battant pavillon étranger peuvent, sur
+Les gens de mer résidant en France et embarqués avant le 31 mars 1999 sur des navires battant pavillon étranger peuvent, sur
 leur demande, dès lors qu'ils sont employés à bord d'un navire relevant du présent titre, continuer à bénéficier des
 assurances sociales auxquelles ils ont auparavant souscrit. Ces assurances doivent leur garantir les risques énumérés à
 l'article L. 5631-4.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 31 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5631-3 (V)
 	  - Code des transports - art. L5631-4 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5631-2
 
-Les navigants ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique
+Les gens de mer ressortissant d'un Etat membre de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique
 européen ou d'un Etat lié à la France par une convention bilatérale de sécurité sociale bénéficient d'une couverture sociale
 dans les conditions prévues par les règlements européens portant sur la coordination des systèmes de sécurité sociale ou par
 la convention bilatérale qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 25 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5621-10 (Ab)
 	  - Code des transports - art. L5621-4 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5631-3
 
-Les navigants résidant hors de France et ne relevant pas des dispositions des articles L. 5631-1 et L. 5631-2 sont assurés
+Les gens de mer résidant hors de France et ne relevant pas des dispositions des articles L. 5631-1 et L. 5631-2 sont assurés
 contre les risques mentionnés à l'article L. 5631-4. 
 
 Leur régime de protection sociale est soumis à la loi choisie par les parties. Des conventions ou accords collectifs
 applicables aux non-résidents peuvent prévoir des dispositions plus favorables. 
 
 La protection sociale ne peut être moins favorable que celle résultant des conventions de l'Organisation internationale du
-travail applicables aux navigants et ratifiées par la France.
+travail applicables aux gens de mer et ratifiées par la France. 
 
 L'employeur contribue à son financement à hauteur de 50 % au moins de son coût.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 12 (Ab), ecqc la protection sociale
-	  - Loi n°2005-412 du 3 mai 2005 - art. 26 (VT), alinéas 1 et 2
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cite**:
 
-	  - Code des transports - art. L5631-1 (V)
+	  - Code des transports - art. L5631-1
 
 	**Cité par**:
 
 	  - Code des transports - art. L5631-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L5631-4
@@ -48794,34 +50239,34 @@ médicale concernant l'incapacité permanente ;
 
 2° Le versement d'une indemnité en cas de décès consécutif à une maladie ou à un accident survenu au service du navire : 
 
-a) Au conjoint du marin ou, à défaut, à ses ayants droit ; 
+a) Au conjoint du salarié ou, à défaut, à ses ayants droit ; 
 
 b) A chaque enfant à charge, âgé de moins de vingt et un ans, dans la limite de trois enfants ; 
 
-3° La prise en charge en cas de maternité de la femme navigante des frais médicaux et d'hospitalisation correspondants et la
+3° La prise en charge en cas de maternité de la salariée des frais médicaux et d'hospitalisation correspondants et la
 compensation de son salaire de base pendant une durée de deux mois ; 
 
 4° Le versement d'une rente viagère ou d'une indemnité proportionnelle à cette incapacité définies dans le contrat
 d'engagement, en cas d'incapacité permanente consécutive à une maladie ou à un accident survenu au service du navire ; 
 
 5° L'attribution d'une pension de vieillesse dont le niveau n'est pas inférieur, pour chaque année de service à la mer, à un
-pourcentage de la rémunération brute perçue chaque année par le marin diffère selon l'âge auquel intervient la cessation
+pourcentage de la rémunération brute perçue chaque année par le salarié diffère selon l'âge auquel intervient la cessation
 d'activité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 26 (VT), alinéas 3 à 8, sauf ecqc des montants et donne des pourcentages
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cité par**:
 
 	  - Code des transports - art. L5631-1 (V)
 	  - Code des transports - art. L5631-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 #### TITRE IV : CONTROLE ET SANCTIONS
@@ -48854,8 +50299,8 @@ Un décret en Conseil d'Etat fixe les conditions dans lesquelles les inspecteurs
 
 ###### Article L5642-1
 
-Est puni de 7 500 € d'amende le fait, pour tout armateur ou tout entrepreneur de travail maritime, de recourir à un navigant
-sans conclure de contrat dans les conditions prévues par les articles L. 5621-3, L. 5621-4, L. 5621-10 et L. 5621-11. 
+Est puni de 7 500 € d'amende le fait, pour tout armateur ou tout entrepreneur de travail maritime, de recourir à des gens de
+mer sans conclure de contrat dans les conditions prévues par les articles L. 5621-3 et L. 5621-4. 
 
 Est puni de 7 500 € d'amende le fait de ne pas se conformer à l'article L. 5612-3, au second alinéa de l'article L. 5621-9,
 aux articles L. 5621-16, 
@@ -48867,6 +50312,10 @@ délit dans un délai de douze mois à compter de l'expiration ou de la prescrip
 récidive.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -48880,23 +50329,18 @@ récidive.
 	  - Loi du 17 décembre 1926 - art. 36 (V)
 	  - Loi du 17 décembre 1926 - art. 37 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2005-412 du 3 mai 2005 - art. 28 (Ab), alinéas 1 à 3
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 	**Cite**:
 
-	  - Code des transports - art. L5621-10 (V)
-	  - Code des transports - art. L5621-16 (V)
-	  - Code des transports - art. L5621-3 (V)
-	  - Code des transports - art. L5621-9 (V)
-	  - Code des transports - art. L5622-1 (V)
-	  - Code des transports - art. L5622-3 (V)
-	  - Code des transports - art. L5623-9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L5621-16
+	  - Code des transports - art. L5621-3
+	  - Code des transports - art. L5621-9
+	  - Code des transports - art. L5622-1
+	  - Code des transports - art. L5622-3
+	  - Code des transports - art. L5623-9
 
 
 ###### Article L5642-2
@@ -49525,27 +50969,45 @@ partie, les autorités mentionnées aux premier et troisième alinéas du même 
 
 ###### Article L5725-1
 
-Les dispositions des articles L. 5541-1 à L. 5542-17, L. 5542-21 à L. 5542-38, L. 5542-40 à L. 5542-55, L. 5543-1 à L.
-5543-4, L. 5544-1 à L. 5544-60, L. 5544-62, L. 5544-63, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5549-3 ainsi que celles  des
-titres V et VI  du livre V de la présente partie ne sont pas applicables à Mayotte.
+Les articles L. 5541-1 à L. 5542-17, 
+L. 5542-18-1, L. 5542-21, L. 5542-22 à L. 5542-38, L. 5542-39-1 à L. 5542-55, L. 5543-1 à L. 5543-5, L. 5544-1 à L. 5544-60,
+L. 5544-62, L. 5544-63, L. 5545-1 à L. 5545-9 et L. 5545-11 à L. 5546-1, L. 5546-1-6, L. 5546-2 à L. 5548-4 et L. 5549-2 à L.
+5549-6 ainsi que les titres V et VI du livre V de la présente partie ne sont pas applicables à Mayotte. 
+
+Les titres Ier et III du même livre V, ainsi que les articles L. 5521-4, L. 5542-18 à L. 5542-20, L. 5542-21-1, L. 5542-39,
+L. 5546-1-1 à L. 5546-1-5, 
+L. 5546-1-7 à L. 5546-1-9 applicables aux marins à Mayotte, sont également applicables aux gens de mer autres que marins.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
-
-	**Cite**:
-
-	  - Code des transports - art. L5541-1
-	  - Code des transports - art. L5542-40
-	  - Code des transports - art. L5544-1
-	  - Code des transports - art. L5545-1
-	  - Code des transports - art. L5549-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5521-4 (V)
+	  - Code des transports - art. L5541-1 (V)
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-18-1 (V)
+	  - Code des transports - art. L5542-21 (V)
+	  - Code des transports - art. L5542-21-1 (V)
+	  - Code des transports - art. L5542-39 (V)
+	  - Code des transports - art. L5542-39-1 (V)
+	  - Code des transports - art. L5543-1 (V)
+	  - Code des transports - art. L5544-1 (V)
+	  - Code des transports - art. L5544-62 (V)
+	  - Code des transports - art. L5545-1 (V)
+	  - Code des transports - art. L5545-11 (V)
+	  - Code des transports - art. L5546-1-1 (V)
+	  - Code des transports - art. L5546-1-6 (V)
+	  - Code des transports - art. L5546-1-7 (V)
+	  - Code des transports - art. L5546-2 (V)
+	  - Code des transports - art. L5549-2 (V)
 
 
 ###### Article L5725-2
@@ -49600,19 +51062,53 @@ d'Etat.
 
 ###### Article L5725-4
 
-Pour l'application de l'article L. 5542-18 à Mayotte, les mots : ", résultant du mode de rémunération mentionné au 4° de
-l'article L. 5542-3 " sont remplacés par les mots : " résultant du mode de rémunération défini par le contrat de travail " et
-les mots : " Par exception aux dispositions de l'article L. 5541-1, " sont supprimés.
+Pour l'application de l'article L. 5542-18 à Mayotte, à la fin du quatrième alinéa, les mots : " mentionné au III de
+l'article L. 5542-3 " sont remplacés par les mots : " à la part " et, au début du dernier alinéa, les mots : " Par exception
+aux dispositions de l'article L. 5541-1," sont supprimés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-18 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5541-1 (V)
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-3 (V)
+
+
+###### Article L5725-5
+
+Pour l'application à Mayotte de l'article L. 5546-1-9 : 
+
+1° Au I : 
+
+a) A la fin du premier alinéa, les mots : " ou une entreprise de travail maritime mentionnée à l'article L. 5546-1-6 " sont
+supprimés ; 
+
+b) A la fin du 1°, les mots : " ou être agréé en application de l'article L. 5546-1-6 " sont supprimés ; 
+
+c) Le 6° est supprimé ; 
+
+2° A la fin du II, les mots : " des peines prévues à l'article L. 5324-1 du code du travail " sont remplacés par les mots : "
+d'un emprisonnement de six mois et d'une amende de 3 750 € ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5546-1-6 (V)
+	  - Code des transports - art. L5546-1-9 (V)
 
 
 #### TITRE III : SAINT-BARTHELEMY
@@ -50776,17 +52272,26 @@ Pour l'application des articles L. 5281-1 et L. 5281-2 en Nouvelle-Calédonie, l
 
 ###### Article L5763-1
 
-Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables en Nouvelle-Calédonie.
+Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables en Nouvelle-Calédonie. 
+
+L'article L. 5342-3 s'applique dans sa rédaction antérieure à la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions
+en matière d'infrastructures et de services de transports.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5341-11 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Loi n°2013-431 du 28 mai 2013 (V)
+	  - Code des transports - art. L5341-11
+	  - Code des transports - art. L5342-3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
 
 
 ##### Chapitre IV : Le transport maritime
@@ -50808,45 +52313,82 @@ applicables en Nouvelle-Calédonie.
 
 ###### Article L5765-1
 
-Les dispositions des articles L. 5511-1 à L. 5511-5, L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-1 à L. 5523-4, L. 5524-1 à L.
-5524-4 et L. 5531-1 à L. 5532-1 sont applicables en Nouvelle-Calédonie en tant qu'ils concernent les compétences exercées par
-l'Etat.
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-1, L. 5514-2, L. 5521-1 à L. 5521-4,
+L. 5522-2 à L. 5522-4, à l'exception du II de l'article L. 5522-3, L. 5523-1 à L. 5523-6, 
+L. 5524-1 à L. 5524-4, L. 5531-1 à L. 5532-1, 
+L. 5533-2, L. 5533-4, L. 5542-21-1, L. 5544-14, L. 5545-3-1, les II et III de l'article L. 5549-1 et les articles L. 5571-1 à
+L. 5571-3 sont applicables en Nouvelle-Calédonie en tant qu'ils concernent les compétences exercées par l'Etat. 
+
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-1, L. 5514-2, L. 5521-4, L. 5531-1 à
+L. 5532-1, L. 5533-2, L. 5533-4, L. 5544-14, L. 5545-3-1 et L. 5571-1 à L. 5571-3, applicables aux marins, sont également
+applicables aux gens de mer autres que marins.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
-
-	**Cite**:
-
-	  - Code des transports - art. L5511-1
-	  - Code des transports - art. L5521-1
-	  - Code des transports - art. L5522-2
-	  - Code des transports - art. L5523-1
-	  - Code des transports - art. L5524-1
-	  - Code des transports - art. L5531-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5511-1 (V)
+	  - Code des transports - art. L5512-1 (V)
+	  - Code des transports - art. L5513-1 (V)
+	  - Code des transports - art. L5514-1 (V)
+	  - Code des transports - art. L5521-1 (V)
+	  - Code des transports - art. L5522-2 (V)
+	  - Code des transports - art. L5522-3 (V)
+	  - Code des transports - art. L5523-1 (V)
+	  - Code des transports - art. L5524-1 (V)
+	  - Code des transports - art. L5531-1 (V)
+	  - Code des transports - art. L5533-2 (V)
+	  - Code des transports - art. L5533-4 (V)
+	  - Code des transports - art. L5542-21-1 (V)
+	  - Code des transports - art. L5544-14 (V)
+	  - Code des transports - art. L5545-3-1 (V)
+	  - Code des transports - art. L5549-1 (V)
+	  - Code des transports - art. L5571-1 (V)
+
+
+###### Article L5765-1-1
+
+Pour l'application en Nouvelle-Calédonie du II de l'article L. 5514-1, les mots : " mettant en œuvre " sont remplacés par les
+mots : " applicables en Nouvelle-Calédonie et équivalentes à celles prévues par ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5514-1 (V)
 
 
 ###### Article L5765-2
 
-Pour l'application des articles L. 5521-1, L. 5521-2 et L. 5521-3 en Nouvelle-Calédonie, les mentions de la formation
-professionnelle, des qualifications professionnelles, des titres et diplômes ne s'appliquent qu'en tant qu'elles concernent
-les titres et diplômes délivrés par l'Etat.
+Pour l'application du II de l'article L. 5521-2 en Nouvelle-Calédonie, les mentions de la formation professionnelle, des
+qualifications professionnelles, des titres et diplômes ne s'appliquent qu'en tant qu'elles concernent les titres et diplômes
+délivrés par l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5521-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5521-2 (V)
 
 
 ###### Article L5765-3
@@ -51052,23 +52594,21 @@ Les dispositions du chapitre IV du titre III du livre IV sont applicables en Pol
 
 ###### Article L5775-1
 
-Les dispositions des articles L. 5511-1 à L. 5511-5, 
-L. 5521-1 à L. 5521-3, L. 5522-2, L. 5523-2, L. 5523-3 et L. 5523-4, 
-L. 5524-1 à L. 5524-4 et L. 5531-1 à L. 5532-1 sont applicables en Polynésie française, compte tenu, le cas échéant, de
-l'association de la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation
-maritime dans les eaux intérieures, prévue par l'article 34 de la loi organique n° 2004-192 du 27 février 2004.
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, 
+L. 5521-1 à L. 5521-4, L. 5522-2, L. 5522-3 à l'exception du II, L. 5522-4, 
+L. 5523-2 à L. 5523-6, 
+L. 5524-1 à L. 5524-4, 
+L. 5531-1 à L. 5532-1, L. 5533-2, L. 5533-4, L. 5542-21-1, L. 5544-14, L. 5545-3-1, les II et III de l'article L. 5549-1 et
+les articles L. 5571-1 à L. 5571-3 sont applicables en Polynésie française, compte tenu, le cas échéant, de l'association de
+la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation maritime dans les eaux
+intérieures, prévue à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la
+Polynésie française. 
+
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5521-4, L. 5531-1 à L. 5532-1, L. 5533-2,
+L. 5533-4, L. 5544-14, L. 5545-3-1 et L. 5571-1 à L. 5571-3, applicables aux marins, sont également applicables aux gens de
+mer autres que marins.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi organique n°2004-192 du 27 février 2004 - art. 34
-	  - Code des transports - art. L5511-1
-	  - Code des transports - art. L5521-1
-	  - Code des transports - art. L5522-2
-	  - Code des transports - art. L5523-2
-	  - Code des transports - art. L5524-1
-	  - Code des transports - art. L5531-1
 
 	**Codifié par**:
 
@@ -51076,24 +52616,48 @@ maritime dans les eaux intérieures, prévue par l'article 34 de la loi organiqu
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 14
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5511-1 (V)
+	  - Code des transports - art. L5512-1 (V)
+	  - Code des transports - art. L5513-1 (V)
+	  - Code des transports - art. L5521-1 (V)
+	  - Code des transports - art. L5522-2 (V)
+	  - Code des transports - art. L5522-3 (V)
+	  - Code des transports - art. L5522-4 (V)
+	  - Code des transports - art. L5523-2 (V)
+	  - Code des transports - art. L5524-1 (V)
+	  - Code des transports - art. L5531-1 (V)
+	  - Code des transports - art. L5533-2 (V)
+	  - Code des transports - art. L5533-4 (V)
+	  - Code des transports - art. L5542-21-1 (V)
+	  - Code des transports - art. L5544-14 (V)
+	  - Code des transports - art. L5545-3-1 (V)
+	  - Code des transports - art. L5549-1 (V)
+	  - Code des transports - art. L5571-1 (V)
 
 
 ###### Article L5775-2
 
-Pour l'application des articles L. 5521-1 à L. 5521-3 en Polynésie française, les mentions de la formation professionnelle,
-des qualifications professionnelles, des titres et diplômes ne s'appliquent qu'en tant qu'elles concernent les titres et
-diplômes délivrés par l'Etat.
+Pour l'application du II de l'article L. 5521-2 en Polynésie française, les mentions de la formation professionnelle, des
+qualifications professionnelles, des titres et diplômes ne s'appliquent qu'en tant qu'elles concernent les titres et diplômes
+délivrés par l'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5521-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5521-2 (V)
 
 
 ###### Article L5775-3
@@ -51280,17 +52844,23 @@ sont remplacés par les mots : " chef du service des affaires maritimes ”.
 
 ###### Article L5783-1
 
-Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables à Wallis-et-Futuna.
+L'article L. 5342-3 s'applique dans sa rédaction antérieure à la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions
+en matière d'infrastructures et de services de transports.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5341-11 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Loi n°2013-431 du 28 mai 2013 (V)
+	  - Code des transports - art. L5342-3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
 
 
 ##### Chapitre IV : Le transport maritime
@@ -51310,31 +52880,69 @@ Les dispositions du livre IV, à l'exception de celles du chapitre Ier du titre 
 
 ###### Article L5785-1
 
-Les dispositions des articles L. 5511-1 à L. 5524-4, L. 5531-1 à L. 5532-1, L. 5542-18, alinéa 1er, L. 5542-19, 
-L. 5545-10, L. 5545-13 et L. 5546-3 sont applicables à Wallis-et-Futuna.
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-1, L. 5514-2, 
+L. 5521-1 à L. 5521-4, L. 5522-1 à L. 5522-4 à l'exception du II de l'article L. 5522-3, L. 5523-1 à L. 5523-6, 
+L. 5524-1 à L. 5524-4, 
+L. 5531-1 à L. 5532-1, L. 5533-1 à L. 5533-4, L. 5542-18, L. 5542-19, L. 5542-21-1, L. 5542-56, L. 5544-14, 
+L. 5545-3-1, 
+L. 5545-9-1, L. 5545-10, L. 5545-13, L. 5546-1-1 à L. 5546-1-9, 
+L. 5546-3, les II et III de l'article L. 5549-1 et les articles L. 5571-1 à L. 5571-3 sont applicables à Wallis-et-Futuna. 
 
-Les dispositions du premier alinéa de l'article L. 5542-18 sont également applicables aux gens de mer non marins mentionnés à
-l'article L. 5511-1 affiliés au régime de protection sociale prévu au titre V du livre V de la présente partie.
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-1, L. 5514-2, L. 5521-4, L. 5531-1 à
+L. 5532-1, L. 5533-1 à L. 5533-4, L. 5542-18, L. 5542-19, L. 5542-56, L. 5544-14, L. 5545-3-1, L. 5545-10, L. 5546-1-1 à L.
+5546-1-9 et L. 5571-1 à L. 5571-3 applicables aux marins, sont également applicables aux gens de mer autres que marins.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Cite**:
-
-	  - Code des transports - art. L5511-1
-	  - Code des transports - art. L5531-1
-	  - Code des transports - art. L5542-18
-	  - Code des transports - art. L5542-19
-	  - Code des transports - art. L5545-10
-	  - Code des transports - art. L5545-13
-	  - Code des transports - art. L5546-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5511-1 (V)
+	  - Code des transports - art. L5512-1 (V)
+	  - Code des transports - art. L5513-1 (V)
+	  - Code des transports - art. L5514-1 (V)
+	  - Code des transports - art. L5521-1 (V)
+	  - Code des transports - art. L5522-1 (V)
+	  - Code des transports - art. L5522-3 (V)
+	  - Code des transports - art. L5523-1 (V)
+	  - Code des transports - art. L5524-1 (V)
+	  - Code des transports - art. L5531-1 (V)
+	  - Code des transports - art. L5533-1 (V)
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-21-1 (V)
+	  - Code des transports - art. L5542-56 (V)
+	  - Code des transports - art. L5544-14 (V)
+	  - Code des transports - art. L5545-10 (V)
+	  - Code des transports - art. L5545-13 (V)
+	  - Code des transports - art. L5545-3-1 (V)
+	  - Code des transports - art. L5545-9-1 (V)
+	  - Code des transports - art. L5546-1-1 (V)
+	  - Code des transports - art. L5546-3 (V)
+	  - Code des transports - art. L5549-1 (V)
+	  - Code des transports - art. L5571-1 (V)
+
+
+###### Article L5785-1-1
+
+Pour l'application à Wallis-et-Futuna du II de l'article L. 5514-1, les mots : " mettant en œuvre " sont remplacés par les
+mots : " applicables à Wallis-et-Futuna et équivalentes à celles prévues par ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5514-1 (V)
 
 
 ###### Article L5785-2
@@ -51360,18 +52968,27 @@ du ministre chargé des gens de mer.
 
 ###### Article L5785-3
 
-Pour l'application à Wallis-et-Futuna des dispositions du premier alinéa de l'article L. 5542-18, les mots : " inscription au
-rôle d'équipage " sont remplacés par le mot : " embarquement ".
+Pour l'application à Wallis-et-Futuna de l'article L. 5542-18 : 
+
+1° A la fin du premier alinéa, les mots : " inscription au rôle d'équipage " sont remplacés par le mot : " embarquement " ; 
+
+2° A la fin du quatrième alinéa, les mots : " mentionné au III de l'article L. 5542-3" sont remplacés par les mots : " à la
+part ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5542-18 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-3 (V)
 
 
 ###### Article L5785-4
@@ -51416,6 +53033,38 @@ des modalités définies par décret en Conseil d'Etat. "
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5785-5-1
+
+I. ― Pour son application à Wallis-et-Futuna, l'article L. 5546-1-6 est ainsi rédigé : 
+
+" Art. L. 5546-1-6. ― Est entreprise de travail maritime toute personne, hors les entreprises de travail temporaire, dont
+l'activité est de mettre à disposition d'un armateur des gens de mer qu'elle embauche et rémunère à cet effet. 
+
+" Les entreprises de travail maritime établies à Wallis-et-Futuna sont soumises aux dispositions de la sous-section 1 de la
+section 2 du chapitre VI du titre IV du livre V de la présente partie et font l'objet d'un agrément par l'autorité
+administrative. Elles ne sont autorisées à mettre à disposition des gens de mer qu'à bord des navires de plus de 500
+effectuant des voyages internationaux immatriculés à Wallis-et-Futuna, au registre international français ou de navires
+battant pavillon autre que français. " 
+
+II. ― Pour l'application à Wallis-et-Futuna de l'article L. 5546-1-9 : 
+
+1° Le 6° du I est supprimé ; 
+
+2° A la fin du II, les mots : " des peines prévues à l'article L. 5324-1 du code du travail " sont remplacés par les mots : "
+d'un emprisonnement de six mois et d'une amende de 3 750 € ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L5324-1 (V)
+	  - Code des transports - art. L5546-1-9 (V)
 
 
 ###### Article L5785-6
@@ -51601,17 +53250,26 @@ directeur interrégional de la mer " sont remplacés par les mots : " directeur 
 
 ###### Article L5793-1
 
-Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables aux Terres australes et antarctiques françaises.
+Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables aux Terres australes et antarctiques françaises. 
+
+L'article L. 5342-3 s'applique dans sa rédaction antérieure à la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions
+en matière d'infrastructures et de services de transports.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5341-11 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Loi n°2013-431 du 28 mai 2013 (V)
+	  - Code des transports - art. L5341-11
+	  - Code des transports - art. L5342-3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
 
 
 ##### Chapitre IV : Le transport maritime
@@ -51633,31 +53291,56 @@ Terres australes et antarctiques françaises.
 
 ###### Article L5795-1
 
-Les dispositions des articles L. 5511-1 à L. 5524-4, L. 5531-1 à L. 5532-1, L. 5542-18, alinéa 1er, L. 5542-19, L. 5545-10, 
-L. 5545-13 et L. 5546-3 sont applicables dans les Terres australes et antarctiques françaises.
+Les articles L. 5511-1 à L. 5511-5, 
+L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-3, L. 5521-1 à L. 5521-4, L. 5522-1 à L. 5522-4 à l'exception du II de
+l'article L. 5522-3, L. 5523-1 à L. 5523-6, L. 5524-1 à L. 5524-4, L. 5531-1 à L. 5532-1, 
+L. 5533-1 à L. 5533-4, L. 5542-18, L. 5542-19, L. 5542-21-1, L. 5542-56, L. 5544-14, L. 5545-3-1, L. 5545-9-1, L. 5545-10, L.
+5545-13, L. 5546-1-1 à L. 5546-1-5, 
+L. 5546-1-7 à L. 5546-1-9, 
+L. 5546-3, les II et III de l'article L. 5549-1 et les articles L. 5571-1 à L. 5571-3 sont applicables dans les Terres
+australes et antarctiques françaises. 
 
-Les dispositions du premier alinéa de l'article L. 5542-18 sont également applicables aux gens de mer non marins mentionnés à
-l'article L. 5511-1 affiliés au régime de protection sociale prévu au titre V du livre V de la présente partie.
+Les articles L. 5511-1 à L. 5511-5, L. 5512-1 à L. 5512-4, L. 5513-1, L. 5513-2, L. 5514-3, L. 5521-4, L. 5531-1 à L. 5532-1,
+L. 5533-1 à L. 5533-4, L. 5542-18, L. 5542-19, L. 5542-56, L. 5544-14, L. 5545-3-1, L. 5545-10, L. 5546-1-1 à L. 5546-1-5, L.
+5546-1-7 à L. 5546-1-9 et L. 5571-1 à L. 5571-3 applicables aux marins sont également applicables aux gens de mer autres que
+marins.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-	**Cite**:
-
-	  - Code des transports - art. L5511-1
-	  - Code des transports - art. L5531-1
-	  - Code des transports - art. L5542-18
-	  - Code des transports - art. L5542-19
-	  - Code des transports - art. L5545-10
-	  - Code des transports - art. L5545-13
-	  - Code des transports - art. L5545-3
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5511-1 (V)
+	  - Code des transports - art. L5512-1 (V)
+	  - Code des transports - art. L5513-1 (V)
+	  - Code des transports - art. L5514-3 (V)
+	  - Code des transports - art. L5521-1 (V)
+	  - Code des transports - art. L5522-1 (V)
+	  - Code des transports - art. L5522-3 (V)
+	  - Code des transports - art. L5523-1 (V)
+	  - Code des transports - art. L5524-1 (V)
+	  - Code des transports - art. L5531-1 (V)
+	  - Code des transports - art. L5533-1 (V)
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-21-1 (V)
+	  - Code des transports - art. L5542-56 (V)
+	  - Code des transports - art. L5544-14 (V)
+	  - Code des transports - art. L5545-10 (V)
+	  - Code des transports - art. L5545-13 (V)
+	  - Code des transports - art. L5545-3-1 (V)
+	  - Code des transports - art. L5545-9-1 (V)
+	  - Code des transports - art. L5546-1-1 (V)
+	  - Code des transports - art. L5546-1-7 (V)
+	  - Code des transports - art. L5546-3 (V)
+	  - Code des transports - art. L5549-1 (V)
+	  - Code des transports - art. L5571-1 (V)
 
 
 ###### Article L5795-2
@@ -51682,6 +53365,23 @@ par voie réglementaire.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5795-2-1
+
+Pour l'application dans les Terres australes et antarctiques françaises du I de l'article L. 5514-3, les mots : " mettant en
+œuvre " sont remplacés par les mots : " applicables dans les Terres australes et antarctiques françaises et équivalentes à
+celles prévues par ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5514-3 (V)
 
 
 ###### Article L5795-3
@@ -51713,38 +53413,43 @@ délégués du personnel peut fixer une proportion différente de celle mentionn
 
 ###### Article L5795-4
 
-Pour l'application aux Terres australes et antarctiques françaises des dispositions du premier alinéa de l'article L.
-5541-18, les mots : " inscription au rôle d'équipage " sont remplacés par le mot : " embarquement ".
+Pour l'application dans les Terres australes et antarctiques françaises de l'article L. 5542-18 : 
+
+1° A la fin du premier alinéa, les mots : " inscription au rôle d'équipage " sont remplacés par le mot : " embarquement " ; 
+
+2° A la fin du quatrième alinéa, les mots : " mentionné au III de l'article L. 5542-3" sont remplacés par les mots : " à la
+part ".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5542-18 (V)
+	  - Code des transports - art. L5542-3 (V)
 
 
 ###### Article L5795-5
 
-Les enfants âgés de moins de quinze ans révolus ne peuvent être embarqués à titre professionnel sur un navire immatriculé
-dans les Terres australes et antarctiques françaises. 
-
-Toutefois, l'embarquement professionnel d'un enfant âgé de quatorze ans au moins peut être exceptionnellement autorisé par
-l'autorité administrative lorsqu'il est effectué dans l'intérêt de l'enfant. Il est subordonné à la présentation d'un
-certificat d'aptitude physique délivré par le service de santé des gens de mer mentionné à l'article L. 5521-1. 
-
-En outre, les enfants de moins de quinze ans, mais de plus de treize ans, peuvent, pendant les vacances scolaires, prendre
-part occasionnellement aux activités à bord des navires de pêche côtière, sous réserve de la présentation du certificat
-médical prévu au deuxième alinéa et à condition que cet embarquement ne soit pas réalisé dans un intérêt commercial.
+Aucun marin de moins de seize ans révolus ne peut être embarqué à titre professionnel sur un navire immatriculé dans les
+Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L5521-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
 
 
 ###### Article L5795-6
@@ -51766,6 +53471,34 @@ des modalités définies par décret en Conseil d'Etat. "
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L5795-6-1
+
+Pour l'application dans les Terres australes et antarctiques françaises de l'article L. 5546-1-9 : 
+
+1° Au I : 
+
+a) A la fin du premier alinéa, les mots : " ou une entreprise de travail maritime mentionnée à l'article L. 5546-1-6 " sont
+supprimés ; 
+
+b) A la fin du 1°, les mots : " ou être agréé en application de l'article L. 5546-1-6 " sont supprimés ; 
+
+c) Le 6° est supprimé ; 
+
+2° A la fin du II, les mots : " des peines prévues à l'article L. 5324-1 du code du travail " sont remplacés par les mots : "
+d'un emprisonnement de six mois et d'une amende de 3 750 € ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5546-1-6 (V)
+	  - Code des transports - art. L5546-1-9 (V)
 
 
 ###### Article L5795-7
@@ -51873,27 +53606,19 @@ australes et antarctiques françaises.
 
 ###### Article L5795-13
 
-L'inspection du travail des personnels embarqués sur des navires immatriculés au registre des Terres australes et
-antarctiques françaises est confiée au chef du service des affaires maritimes du territoire des Terres australes et
-antarctiques françaises ainsi qu'aux officiers et agents assermentés placés sous son autorité. 
-
-Ils exercent les pouvoirs dévolus à l'inspection du travail et des lois sociales d'outre-mer par le chapitre 1er du titre VII
-de la loi n° 52-1322 du 15 décembre 1952 modifiée instituant un code du travail dans les territoires et territoires associés
-relevant du ministère de la France d'outre-mer.
+Le contrôle de l'application de la législation du travail et des conventions et accords collectifs de travail applicables à
+bord des navires immatriculés au registre des Terres australes et antarctiques françaises est exercé par les agents du
+service d'inspection du travail placé sous l'autorité du ministre chargé du travail.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°52-1322 du 15 décembre 1952 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 26-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
 
 
 ###### Article L5795-14
@@ -59972,9 +61697,11 @@ Les dispositions du chapitre IV du titre II du livre V de la présente partie ne
 
 #### TITRE III : SAINT-BARTHÉLEMY
 
-##### Chapitre Ier : La circulation aérienne
+##### Chapitre II : Les aérodromes
 
-###### Article L6731-1
+##### Chapitre II : La circulation aérienne
+
+###### Article L6732-1
 
 Pour l'application de l'article L. 6222-1 à Saint-Barthélemy, les mots : " qui n'est pas visé à l'annexe II du règlement (CE)
 n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de
@@ -59985,28 +61712,20 @@ européenne de la sécurité aérienne ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
 
 	**Cite**:
 
-	  - Code des transports - art. L6222-1
+	  - Code des transports - art. L6222-1 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des transports - art. L6732-1 (V)
+	  - Code des transports - art. L6731-1 (T)
 
 
-###### Article L6731-2
+###### Article L6732-2
 
 Pour l'application de l'article L. 6232-10 à Saint-Barthélemy, les mots : " définis à l'article 2 du règlement (UE) n°
 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des
@@ -60018,22 +61737,18 @@ prévention des accidents et des incidents dans l'aviation civile ".
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
 
 	**Cite**:
 
-	  - Code des transports - art. L6232-10
+	  - Code des transports - art. L6232-10 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des transports - art. L6732-2 (V)
+	  - Code des transports - art. L6731-2 (T)
 
 
-###### Article L6731-3
+###### Article L6732-3
 
 Pour l'application à Saint-Barthélemy du premier alinéa de l'article L. 6221-1, les mots : " par le règlement (CE) n°
 216/2008 du 20 février 2008 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation
@@ -60052,99 +61767,15 @@ dérogations ne réduisent pas le niveau de sécurité.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
 
 	**Cite**:
 
-	  - Code des transports - art. L6221-1
+	  - Code des transports - art. L6221-1 (V)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Code des transports - art. L6732-3 (M)
-
-
-##### Chapitre II : Les aérodromes
-
-###### Article L6732-1
-
-Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : "impartis au maire par l'article L. 2212-2 du code
-général des collectivités territoriales” sont remplacés par les mots : "impartis au président du conseil territorial par
-l'article LO 6252-8 du code général des collectivités territoriales”.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2212-2 (V)
-	  - Code général des collectivités territoriales - art. LO6252-8 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6733-1 (V)
-
-
-###### Article L6732-2
-
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne ” sont
-remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
-à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
-application par la Commission européenne ”.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
-
-	**Cite**:
-
-	  - Code des transports - art. L6341-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6733-2 (M)
-
-
-###### Article L6732-3
-
-Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : "un titre de circulation ou l'un
-des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
-en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile” sont remplacés par les mots : "un
-document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
-185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
-l'aviation civile”.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Liens**:
-
-	  - TRANSFERE: Loi n°2013-619 du 16 juillet 2013 - art. 20
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L6733-3 (V)
+	  - Code des transports - art. L6731-3 (T)
 
 
 ###### Article L6732-4
@@ -60164,6 +61795,197 @@ Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L6733-4 (V)
+
+
+##### Chapitre III :  Les aérodromes
+
+###### Article L6733-1
+
+Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : " impartis au maire par l'article L. 2212-2 du code
+général des collectivités territoriales ” sont remplacés par les mots : " impartis au président du conseil territorial par
+l'article LO 6252-8 du code général des collectivités territoriales ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2 (V)
+	  - Code général des collectivités territoriales - art. LO6252-8 (V)
+	  - Code des transports - art. L6332-2 (V)
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L6732-1 (T)
+
+
+###### Article L6733-2
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
+(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
+domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne ” sont
+remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
+à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6341-2 (V)
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L6732-2 (T)
+
+
+###### Article L6733-3
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un
+des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
+en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile ” sont remplacés par les mots : " un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6342-2 (V)
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L6732-3 (T)
+
+
+###### Article L6733-4
+
+Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Anciens textes**:
+
+	  - Code des transports - art. L6732-4 (T)
+
+
+##### Chapitre IV : Le transport aérien
+
+###### Article L6734-1
+
+Pour l'application de l'article L. 6411-6 à Saint-Barthélemy, au premier alinéa, les mots : " au sens du règlement " sont
+remplacés par les mots : " au sens des règles applicables en métropole en application du règlement ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6411-6 (V)
+
+
+###### Article L6734-2
+
+Pour l'application de l'article L. 6412-2 à Saint-Barthélemy, au premier alinéa, les mots : " aux dispositions " sont
+remplacés par les mots : " aux règles applicables en métropole en application " et, à la première phrase du second alinéa,
+les mots : " par le " sont remplacés par les mots : " par les règles applicables en métropole en application du ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6412-2 (V)
+
+
+###### Article L6734-3
+
+Pour l'application de l'article L. 6412-5 à Saint-Barthélemy, les mots : " Sans préjudice des dispositions du règlement (CE)
+n° 1008/2008 du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté,
+" sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6412-5 (V)
+
+
+###### Article L6734-4
+
+Pour l'application de l'article L. 6421-3 à Saint-Barthélemy, après le mot : " application ", sont insérés les mots : " des
+règles applicables en métropole en vertu " et le mot : " dispositions " est remplacé par les mots : " règles applicables en
+métropole en application ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6421-3 (V)
+
+
+###### Article L6734-5
+
+Pour l'application du premier alinéa de l'article L. 6431-2 à Saint-Barthélemy, à la première phrase, après les mots : " par
+les ", sont insérés les mots : " règles applicables en métropole en application des " et, après le mot : " des ", la fin de
+la seconde phrase est ainsi rédigée : " mêmes pouvoirs que ceux dont leurs homologues disposent en métropole et qui sont
+énumérés à l'article 4 du même règlement. "
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6431-2 (V)
+
+
+###### Article L6734-6
+
+Pour l'application de l'article L. 6431-5 à Saint-Barthélemy, après le mot : " modalités ", sont insérés les mots : "
+applicables en métropole en application ".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+
+	**Cite**:
+
+	  - Code des transports - art. L6431-5 (V)
 
 
 #### TITRE IV : SAINT MARTIN
