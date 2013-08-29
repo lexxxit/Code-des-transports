@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2013-08-30
 
 # PARTIE LEGISLATIVE
 
@@ -40327,10 +40327,6 @@ dispositions du chapitre III du titre Ier du livre II de la partie II du code de
 
 ### LIVRE V : LES GENS DE MER
 
-#### TITRE IER : DEFINITIONS
-
-##### Chapitre unique
-
 #### TITRE IER : DEFINITIONS ET DISPOSITIONS GENERALES
 
 ##### Chapitre Ier : Définitions
@@ -42070,7 +42066,7 @@ le cadre d'un enseignement alterné ou d'un enseignement professionnel.
 
 ##### Chapitre II : Les relations individuelles de travail
 
-##### Section 1 : Le contrat de travail
+##### Section 1 : Le contrat d'engagement maritime
 
 ##### Sous-section 1 : Formation et contenu du contrat
 
@@ -43370,7 +43366,7 @@ article L. 1234-19 du code du travail
 	  - Code du travail - art. L1234-19
 
 
-##### Paragraphe 2 : Contrat de travail à durée indéterminée
+##### Paragraphe 2 : Contrat d'engagement maritime à durée indéterminée
 
 ##### 1. Dispositions générales
 
@@ -43492,14 +43488,6 @@ marin à quelque titre que ce soit.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Contrat d'engagement maritime à durée indéterminée
-
-##### 1. Dispositions générales
-
-
-##### 2. Préavis et indemnité de licenciement
-
-
 ##### Paragraphe 3 : Contrat à durée déterminée ou au voyage
 
 ###### Article L5542-45
@@ -43546,18 +43534,6 @@ affréteurs.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-
-##### Section 1 : Le contrat d'engagement maritime
-
-##### Sous-section 1 : Formation et contenu du contrat
-
-##### Sous-section 2 : Le contrat à durée déterminée ou au voyage
-
-##### Sous-section 3 : La période d'essai
-
-##### Sous-section 4 : Exécution du contrat
-
-##### Sous-section 5 : Rupture du contrat
 
 ##### Section 2 : La résolution des litiges individuels
 
@@ -49474,7 +49450,7 @@ conditions prévues au présent livre :
 ##### Chapitre Ier : Les relations individuelles de travail
 
 
-##### Section 1 : L'engagement du navigant
+##### Section 1 : L'engagement des gens de mer
 
 ##### Sous-section 1 : Engagement direct et mise à disposition
 
@@ -49672,12 +49648,6 @@ L'article L. 5542-6-1 est applicable aux navires immatriculés au registre inter
 
 	  - Code des transports - art. L5542-6-1
 
-
-##### Section 1 : L'engagement des gens de mer
-
-##### Sous-section 1 : Engagement direct et mise à disposition
-
-##### Sous-section 2 : Formation et contenu du contrat d'engagement
 
 ##### Section 2 : Fin de la relation de travail
 
@@ -61696,8 +61666,6 @@ Les dispositions du chapitre IV du titre II du livre V de la présente partie ne
 
 
 #### TITRE III : SAINT-BARTHÉLEMY
-
-##### Chapitre II : Les aérodromes
 
 ##### Chapitre II : La circulation aérienne
 
@@ -82169,5 +82137,147 @@ réglementaire ne sont pas applicables à Saint-Pierre-et-Miquelon.
 	**Créé par**:
 
 	  - Décret n°2013-253 du 25 mars 2013 - art.
+
+
+# PARTIE REGLEMENTAIRE - Arrêtés 
+
+## QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL 
+
+### LIVRE II : NAVIGATION INTÉRIEURE
+
+#### TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE 
+
+##### Chapitre Ier : Règlements de police 
+
+##### Section 1 : Règlement général de police de la navigation intérieure 
+
+##### Sous-section 1 : Dispositions générales 
+
+
+##### Paragraphe 4 : Prescriptions temporaires 
+
+###### Article A4241-26
+
+Mesures temporaires 
+
+1. Les mesures temporaires édictées par le préfet en application de l'article A. 4241-26, et celles édictées par le
+gestionnaire en application du décret n° 2012-1556 du 28 décembre 2012 déterminant la liste des mesures temporaires
+d'interruption ou de modification des conditions de la navigation pouvant être prises par le gestionnaire de la voie d'eau,
+pris en application de l'article L. 4241-3, sont diffusées par voie d'avis à la batellerie. 
+
+2. Lorsque les mesures temporaires, visées au précédent alinéa, sont rendues nécessaires par des travaux exécutés par un
+maître d'ouvrage tiers, ce dernier doit informer le préfet et le gestionnaire au moins trois mois avant lesdits travaux. Ce
+délai n'est pas applicable dans les cas d'urgence. 
+
+3. Les mesures visées au présent article font, si nécessaire, l'objet d'une signalisation appropriée par le gestionnaire de
+la voie d'eau concerné. Cette signalisation doit être mise en place par le concessionnaire sur les parties concédées, et par
+le maître d'ouvrage en cas de travaux pour le compte de tiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1556 du 28 décembre 2012
+	  - Code des transports - art. L4241-3
+
+	**Codifié par**:
+
+	  - Arrêté du 28 juin 2013 -  Annexe (V)
+
+	**Créé par**:
+
+	  - Arrêté du 28 juin 2013 - art.
+
+	**Cité par**:
+
+	  - Code des transports - art. A4241-26 (V)
+
+
+##### Paragraphe 7 : Transports spéciaux
+
+###### Article A4241-35-1
+
+Demande d'autorisation spéciale de transport 
+
+La demande d'autorisation spéciale de transport prévue à l'article R. 4241-35 est adressée à l'autorité compétente mentionnée
+à l'article R. * 4241-36, au moins quinze jours avant le déplacement, par le propriétaire du bateau ou convoi, ou par son
+représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté du 28 juin 2013 -  Annexe (V)
+
+	**Créé par**:
+
+	  - Arrêté du 28 juin 2013 - art.
+
+	**Cité par**:
+
+	  - Code des transports - art. A4241-35-2 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. R*4241-36 (V)
+	  - Code des transports - art. R4241-35 (V)
+
+
+###### Article A4241-35-2
+
+Composition du dossier 
+
+La demande mentionnée à l'article A. 4241-35-1 s'effectue à l'aide du formulaire CERFA prévu à cet effet qui doit être dûment
+rempli et accompagné des pièces justificatives exigées. Le formulaire doit être signé par le propriétaire du bateau ou
+convoi, ou par son représentant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté du 28 juin 2013 -  Annexe (V)
+
+	**Créé par**:
+
+	  - Arrêté du 28 juin 2013 - art.
+
+	**Cite**:
+
+	  - Code des transports - art. A4241-35-1 (V)
+
+
+###### Article A4241-35-3
+
+Modalités d'information des préfets 
+
+Lorsque le déplacement couvre plusieurs départements, les préfets des départements traversés par le bateau bénéficiaire de
+l'autorisation spéciale de transport sont préalablement informés de la délivrance de ce document.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté du 28 juin 2013 -  Annexe (V)
+
+	**Créé par**:
+
+	  - Arrêté du 28 juin 2013 - art.
+
+
+###### Article A4241-35-4
+
+Notification 
+
+Le préfet notifie sa décision au demandeur et adresse une copie au gestionnaire concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté du 28 juin 2013 -  Annexe (V)
+
+	**Créé par**:
+
+	  - Arrêté du 28 juin 2013 - art.
 
 
