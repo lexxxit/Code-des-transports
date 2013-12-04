@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-10-01
+Version Consolidée au 2013-12-05
 
 # PARTIE LEGISLATIVE
 
@@ -70756,6 +70756,57 @@ personnes publiques.
 
 ##### Sous-section 1 : Organisation
 
+###### Article R4312-1
+
+Le conseil d'administration de Voies navigables de France comprend : 
+
+1° Neuf représentants de l'Etat, deux nommés par arrêté du ministre chargé des transports dont un choisi parmi les présidents
+des directoires des grands ports maritimes, les autres représentants de l'Etat étant nommés respectivement par arrêté du
+ministre chargé de l'économie, du ministre chargé du budget, du ministre chargé de l'agriculture, du ministre chargé du
+tourisme, du ministre chargé de l'environnement, du ministre chargé de l'énergie et du ministre chargé des collectivités
+territoriales ; 
+
+2° Neuf personnalités nommées par arrêté du ministre chargé des transports dont deux choisies parmi les élus locaux
+présidents des commissions territoriales des voies navigables mentionnées à l'article R. 4312-20, une proposée par la Chambre
+nationale de la batellerie artisanale, une par le Comité des armateurs fluviaux, une par l'Association des utilisateurs de
+transport de fret, une par le ministre chargé de l'énergie pour représenter les entreprises de production d'électricité
+utilisant l'énergie hydraulique du domaine confié à l'établissement, une par le ministre chargé de l'environnement pour
+représenter les associations de protection de la nature et de l'environnement et deux choisies en raison de leur compétence
+en matière de transports ou d'aménagement du territoire, dont une titulaire d'un mandat électoral local ou national ; 
+
+3° Huit représentants des personnels de l'établissement élus dans les conditions fixées au 3° de l'article L. 4312-1 dont
+sept représentants des personnels mentionnés aux 1° à 3° de l'article L. 4312-3-1 et un représentant des personnels
+mentionnés au 4° du même article.
+
+**Nota:**
+
+Décret n° 2013-253 du 25 mars 2013, article 8 II : L'article R. 4312-1 du code des transports entre en vigueur une fois les
+résultats des élections prévues au IV de l'article 9 de la loi n° 2012-77 du 24 janvier 2012 relative à Voies navigables de
+France proclamés (5 décembre 2013).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 6 (Ab)
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 6, sauf deux derniers alinéas (VT)
+
+	**Cité par**:
+
+	  - Décret n°2013-25 du 8 janvier 2013 - art. 3 (V)
+	  - Code des transports - art. R4312-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2013-253 du 25 mars 2013 - art.
+
+	**Cite**:
+
+	  - Code des transports - art. D4312-20 (V)
+	  - Code des transports - art. L4312-1 (V)
+	  - Code des transports - art. L4312-3-1 (V)
+
+
 ###### Article R4312-2
 
 Le mandat d'administrateur est gratuit, sans préjudice du remboursement par l'établissement public des frais exposés pour
@@ -70876,6 +70927,43 @@ pourrait avoir un intérêt personnel direct ou indirect.
 
 
 ##### Sous-section 2 : Fonctionnement
+
+###### Article R4312-6
+
+Le conseil d'administration se réunit aussi souvent qu'il est nécessaire et au moins trois fois par an, sur la convocation de
+son président qui en fixe l'ordre du jour.
+
+La convocation est de droit si elle est demandée par le commissaire du Gouvernement. Il en est de même si elle est demandée,
+sur un ordre du jour déterminé, par au moins la moitié des membres du conseil d'administration, dès lors que celui-ci ne
+s'est pas réuni depuis plus de deux mois.
+
+Sur demande de la majorité des représentants du personnel du conseil d'administration, un point peut être inscrit à l'ordre
+du jour, sous réserve que cette demande soit effectuée vingt et un jours avant la date de réunion du conseil.
+
+**Nota:**
+
+Décret n° 2013-253 du 25 mars 2013, article 8 II : Le troisième alinéa de l'article R. 4312-6  du code des transports entre
+en vigueur une fois les résultats des  élections prévues au IV de l'article 9 de la loi n° 2012-77 du 24  janvier 2012
+relative à Voies navigables de France proclamés (5 décembre 2013).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-1441 du 26 décembre 1960 - art. 12 alinéas 1 à 3 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2013-25 du 8 janvier 2013 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2013-253 du 25 mars 2013
+
+	**Créé par**:
+
+	  - Décret n°2013-253 du 25 mars 2013 - art.
+
 
 ###### Article R4312-7
 
