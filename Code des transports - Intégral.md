@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-12-05
+Version Consolidée au 2014-01-01
 
 # PARTIE LEGISLATIVE
 
@@ -1833,6 +1833,21 @@ l'article L. 1214-22.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L1214-23-1
+
+Le plan de déplacements urbains peut être adapté dans les conditions définies à l'article L. 300-6-1 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-6-1
+
+
 ##### Sous-section 2 : Dispositions applicables à la région Ile-de-France
 
 ###### Article L1214-24
@@ -1843,21 +1858,24 @@ Les services de l'Etat sont associés à son élaboration.
 
 Les représentants des professions et des usagers des transports, les chambres consulaires et les associations agréées de
 protection de l'environnement mentionnées à l'article L. 141-1 du code de l'environnement sont consultés, à leur demande, sur
-le projet.
+le projet. 
+
+Le plan de déplacements urbains peut être adapté dans les conditions définies à l'article L. 300-6-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28-3 (Ab), alinéas 1, phrases 1 et 2 et 2
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L141-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2013-888 du 3 octobre 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-6-1
+	  - Code de l'environnement - art. L141-1
 
 
 ###### Article L1214-25
@@ -9167,29 +9185,6 @@ partie et par le titre II du livre V de la sixième partie du présent code appl
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L1821-9
-
-Pour l'application du second alinéa de l'article L. 1621-2 à Mayotte, les mots : "dans les conditions prévues par les
-articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes
-et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56 CE, ainsi que dans
-celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires conformément à
-l'article 12 dudit règlement." sont remplacés par les mots : "dans les conditions prévues par les règles applicables en
-métropole en vertu des articles 11, 12 et 13 du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre
-2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56
-CE, ainsi que dans celles déterminées le cas échéant par l'accord passé entre cette autorité et les autorités judiciaires
-conformément à l'article 12 dudit règlement.".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-
 #### TITRE III : SAINT-BARTHELEMY
 
 ##### Chapitre unique
@@ -15710,25 +15705,6 @@ compétentes pour créer et exploiter des infrastructures de service ferroviaire
 
 ##### Chapitre unique
 
-###### Article L2321-1
-
-Les articles L. 2151-1 et L. 2151-2 ne sont pas applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-344 du 17 mars 2014 - art. 116
-
-	**Cite**:
-
-	  - Code des transports - art. L2151-1
-
-
 ###### Article L2321-2
 
 En application des articles LO 6114-1 et L. 4433-21-1 du code général des collectivités territoriales, Mayotte est compétente
@@ -17624,19 +17600,22 @@ Toute opération de transport public routier de marchandises est rémunérée su
 3° De la durée nécessaire pour la réalisation du transport dans les conditions compatibles avec le respect des
 réglementations de sécurité, telles qu'elles résultent notamment de l'article L. 1611-1 ; 
 
-4° Des charges de carburant nécessaires à la réalisation de l'opération de transport ; 
-
-5° Des charges acquittées au titre des taxes prévues aux articles 269 à 283 quater et 285 septies du code des douanes pour
-l'usage des voies du réseau routier taxable par les véhicules de transport de marchandises. 
+4° Des charges de carburant nécessaires à la réalisation de l'opération de transport. 
 
 Les modalités d'application du présent article, lorsqu'une opération de transport implique plusieurs opérations successives
 de chargement ou de déchargement, sont précisées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Loi n° 2013-431 du 28 mai 2013, art. 16 II : Les dispositions du présent article sont applicables à compter de la date fixée
+par l'arrêté prévu à la première phrase du 1 du C du II de l'article 153 de la loi n° 2008-1425 du 27 décembre 2008 de
+finances pour 2009. Cette date a été fixée au 1er janvier 2014 par l'arrêté du 2 octobre 2013.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 24 (Ab), alinéas 1 à 7, paragraphe I
+	  - Loi n°2013-431 du 28 mai 2013 - art. 16 (V)
 
 	**Cité par**:
 
@@ -17654,9 +17633,7 @@ de chargement ou de déchargement, sont précisées par décret en Conseil d'Eta
 
 	**Cite**:
 
-	  - Code des douanes - art. 269 (VD)
-	  - Code des douanes - art. 285 septies (VT)
-	  - Code des transports - art. L1611-1 (V)
+	  - Code des transports - art. L1611-1
 
 	**Codifié par**:
 
@@ -17819,23 +17796,48 @@ supportées par l'entreprise pour la réalisation de l'opération de transport.
 
 ###### Article L3222-3
 
-Le prix du transport est majoré de plein droit des taxes prévues aux articles 269 à 283 quater et 285 septies du code des
-douanes supportées par l'entreprise pour la réalisation de l'opération de transport. La facture fait apparaître les charges
-supportées par l'entreprise de transport au titre de ces taxes. 
+Pour prendre en compte la taxe prévue aux articles 269 à 283 quater du code des douanes acquittée par le transporteur, le
+prix de la prestation de transport routier de marchandises contractuellement défini fait l'objet de plein droit, pour la
+partie du transport effectuée sur le territoire métropolitain, quel que soit l'itinéraire emprunté, d'une majoration
+résultant de l'application d'un taux qui est fonction des régions de chargement et de déchargement des marchandises
+transportées et, pour les transports internationaux, à défaut de régions de chargement et de déchargement, des régions où se
+situent les points d'entrée et de sortie du territoire métropolitain. 
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles cette majoration est établie, sur des bases réelles ou
-forfaitaires ainsi que les modalités d'application correspondantes.
+Un taux uniforme est fixé, pour chaque région, pour les transports effectués à l'intérieur de cette seule région et pour les
+transports internationaux dont la partie effectuée sur le territoire métropolitain l'est à l'intérieur de cette seule
+région. 
+
+Un taux unique est fixé pour les transports effectués entre régions et pour les transports internationaux dont la partie
+effectuée sur le territoire métropolitain l'est sur plusieurs régions. 
+
+Les taux mentionnés aux deuxième et troisième alinéas du présent article sont compris entre 0 % et 7 %. Ils correspondent à
+l'évaluation de l'incidence moyenne de la taxe mentionnée au premier alinéa sur les coûts de transport compte tenu de la
+consistance du réseau soumis à cette taxe, des trafics de poids lourds et des itinéraires observés ainsi que du barème de
+cette taxe. Ils tiennent compte également des frais de gestion afférents à cette taxe supportés par les transporteurs. Ils
+sont fixés par arrêté du ministre chargé des transports. 
+
+La facture établie par le transporteur fait apparaître la majoration instituée par le premier alinéa du présent article.
+
+**Nota:**
+
+Loi n° 2013-431 du 28 mai 2013, art. 16 II : Les dispositions du présent article sont applicables à compter de la date fixée
+par l'arrêté prévu à la première phrase du 1 du C du II de l'article 153 de la loi n° 2008-1425 du 27 décembre 2008 de
+finances pour 2009. Cette date a été fixée au 1er janvier 2014 par l'arrêté du 2 octobre 2013.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 24 (Ab), alinéas 10 et 11, paragraphe IV
+	  - Loi n°2013-431 du 28 mai 2013 - art. 16 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 	**Cite**:
 
-	  - Code des douanes - art. 269 (Ab)
-	  - Code des douanes - art. 285 septies (VT)
+	  - Code des douanes - art. 269
+	  - Code des douanes - art. 283 quater
 
 	**Cité par**:
 
@@ -18340,13 +18342,19 @@ obligations résultant des dispositions de cet article.
 ###### Article L3242-3
 
 Est punie d'une amende de 15 000 € la méconnaissance, par le cocontractant du transporteur routier, des obligations résultant
-pour lui de l'application de l'article L. 3222-1, L. 3222-2 et du premier alinéa de l'article L. 3222-3.
+pour lui de l'application des articles L. 3222-1, L. 3222-2 et L. 3222-3.
+
+**Nota:**
+
+Loi n° 2013-431 du 28 mai 2013, art. 16 II : Les dispositions du présent article sont applicables à compter de la date fixée
+par l'arrêté prévu à la première phrase du 1 du C du II de l'article 153 de la loi n° 2008-1425 du 27 décembre 2008 de
+finances pour 2009. Cette date a été fixée au 1er janvier 2014 par l'arrêté du 2 octobre 2013.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°95-96 du 1 février 1995 - art. 24 (Ab), alinéa 9, paragraphe V
+	  - Loi n°2013-431 du 28 mai 2013 - art. 16 (M)
 
 	**Cité par**:
 
@@ -18361,8 +18369,9 @@ pour lui de l'application de l'article L. 3222-1, L. 3222-2 et du premier aliné
 
 	**Cite**:
 
-	  - Code des transports - art. L3222-1 (V)
-	  - Code des transports - art. L3222-3 (V)
+	  - Code des transports - art. L3222-1
+	  - Code des transports - art. L3222-2
+	  - Code des transports - art. L3222-3
 
 	**Codifié par**:
 
@@ -57819,20 +57828,27 @@ e) Des valeurs maximales de bruit ou d'émissions atmosphériques polluantes à 
 ###### Article L6361-13
 
 Les amendes administratives mentionnées à l'article L. 6361-12 ne peuvent excéder, par manquement constaté, un montant de 1
-500 € pour une personne physique et de 20 000 € pour une personne morale. Elles font l'objet d'une décision motivée notifiée
-à la personne concernée. Elles sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine. Elles peuvent
-faire l'objet d'un recours de pleine juridiction. Aucune poursuite ne peut être engagée plus de deux ans après la commission
-des faits constitutifs d'un manquement.
+500 € pour une personne physique et de 20 000 € pour une personne morale. S'agissant des personnes morales, ce montant
+maximal est porté à 40 000 € lorsque le manquement concerne :
+
+1° Les restrictions permanentes ou temporaires d'usage de certains types d'aéronefs en fonction de leurs émissions
+atmosphériques polluantes ou de la classification acoustique ;
+
+2° Les mesures de restriction des vols de nuit.
+
+Ces amendes font l'objet d'une décision motivée notifiée à la personne concernée. Elles sont recouvrées comme les créances de
+l'Etat étrangères à l'impôt et au domaine. Elles peuvent faire l'objet d'un recours de pleine juridiction. Aucune poursuite
+ne peut être engagée plus de deux ans après la commission des faits constitutifs d'un manquement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'aviation civile - art. L227-4 (Ab), dernier alinéa, amendes
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 90 (VD)
 
 	**Cite**:
 
-	  - Code des transports - art. L6361-12 (V)
+	  - Code des transports - art. L6361-12
 
 	**Codifié par**:
 
@@ -61442,143 +61458,7 @@ collectivités précitées.
 
 #### TITRE II : MAYOTTE
 
-##### Chapitre II : La circulation aérienne
-
-###### Article L6722-1
-
-Pour l'application à Mayotte du premier alinéa de l'article L. 6221-1, les mots : " par le règlement (CE) n° 216/2008 du 20
-février 2008 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et
-instituant une agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du
-Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
-remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
-du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
-".
-
-L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
-circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
-dérogations ne réduisent pas le niveau de sécurité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6221-1
-	  - règlement (CE) n°550/2004
-
-
-###### Article L6722-2
-
-Pour l'application de l'article L. 6222-1 à Mayotte, les mots : " qui n'est pas visé à l'annexe II du règlement (CE) n°
-216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation
-civile et instituant une Agence européenne de la sécurité aérienne " sont remplacés par les mots : " qui n'est pas visé par
-les règles applicables en métropole en vertu de l'annexe II du règlement (CE) n° 216/2008 du Parlement européen et du Conseil
-du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de
-la sécurité aérienne ".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6222-1
-
-
-###### Article L6722-3
-
-Pour l'application de l'article L. 6232-10 à Mayotte, les mots : " définis à l'article 2 du règlement (UE) n° 996/2010 du
-Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans
-l'aviation civile " sont remplacés par les mots : " définis par les règles applicables en métropole en vertu de l'article 2
-du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des
-accidents et des incidents dans l'aviation civile ".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6232-10
-
-
 ##### Chapitre III : Les aérodromes
-
-###### Article L6723-1
-
-Pour l'application à Mayotte des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement (CE) n°
-300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de
-la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont remplacés par
-les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif à
-l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
-application par la Commission européenne ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6341-2
-
-
-###### Article L6723-1-1
-
-Pour l'application à Mayotte des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un des
-documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en
-œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
-document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
-185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
-l'aviation civile ".
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6342-2
-
 
 ###### Article L6723-2
 
@@ -61610,77 +61490,6 @@ Les articles L. 6353-1 et L. 6353-2 ne sont pas applicables à Mayotte.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-##### Chapitre IV : Le transport aérien
-
-
-###### Article L6724-1
-
-Les dispositions des articles L. 6412-2, L. 6412-3, L. 6412-5 et L. 6421-3 ne sont pas applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-	**Cite**:
-
-	  - Code des transports - art. L6412-2
-	  - Code des transports - art. L6412-5
-	  - Code des transports - art. L6421-3
-
-
-###### Article L6724-2
-
-L'activité de transporteur aérien public est subordonnée à Mayotte à la détention d'une licence d'exploitation et d'un
-certificat de transporteur aérien délivrés par l'autorité administrative dans des conditions fixées par décret en Conseil
-d'Etat.
-
-Toutefois, le transport aérien de passagers, de fret ou de courrier assuré par des aéronefs non entraînés par un organe
-moteur ou par des ultralégers motorisés et les vols locaux ne nécessitent la détention d'une licence d'exploitation et d'un
-certificat de transport aérien que si la capacité d'emport des aéronefs utilisés est supérieure à une limite fixée par décret
-en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 23 octobre 2013 - art. 1 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
-
-
-###### Article L6724-3
-
-L'autorisation nécessaire pour effectuer des services aériens réguliers de transport de passagers, de fret et de courrier au
-départ ou à destination de Mayotte est délivrée par l'autorité administrative.
-
-A cet effet, les programmes d'exploitation des transporteurs aériens sont soumis à dépôt préalable ou à l'approbation de
-l'autorité administrative.
-
-Les conditions d'application du présent article sont fixées par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
 
 
 ##### Chapitre V : Le personnel navigant
