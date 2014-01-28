@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-01-22
+Version Consolidée au 2014-01-29
 
 # PARTIE LEGISLATIVE
 
@@ -1045,6 +1045,68 @@ développement économique et à l'aménagement du territoire.
 
 ##### Section 1 : Dispositions générales
 
+##### Section 2 : Dispositions propres à certaines parties du territoire
+
+##### Sous-section 1 : Dispositions propres à la région Ile-de-France
+
+###### Article L1213-4
+
+Les dispositions propres au schéma régional des infrastructures et des transports de la région Ile-de-France sont énoncées au
+deuxième alinéa de l'article L. 4413-3 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4413-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L1213-4-1
+
+Les articles L. 1213-3-1 et L. 1213-3-2 ne sont pas applicables à la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L1213-3-1 (V)
+
+
+##### Sous-section 2 : Dispositions propres à la collectivité territoriale de Corse
+
+###### Article L1213-5
+
+Les dispositions propres au schéma régional des infrastructures et des transports et au schéma régional de l'intermodalité de
+la collectivité territoriale de Corse sont énoncées au II de l'article L. 4424-10du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4424-10 (V)
+
+
+##### Chapitre III : Les schémas régionaux
+
+##### Section 1 : Le schéma régional des infrastructures et des transports
+
 ###### Article L1213-1
 
 Le schéma régional des infrastructures et des transports constitue le volet relatif aux infrastructures et aux transports du
@@ -1137,43 +1199,105 @@ préconise.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions propres à certaines parties du territoire
+##### Section 2 : Le schéma régional de l'intermodalité
+
+###### Article L1213-3-1
+
+Le schéma régional de l'intermodalité coordonne à l'échelle régionale, en l'absence d'une autorité organisatrice de transport
+unique et dans le respect de l'article L. 1221-1, les politiques conduites en matière de mobilité par les collectivités
+publiques mentionnées à ce même article, en ce qui concerne l'offre de services, l'information des usagers, la tarification
+et la billettique. 
+
+Ce schéma assure la cohérence des services de transport public et de mobilité offerts aux usagers sur le territoire régional
+dans l'objectif d'une complémentarité des services et des réseaux, dans le respect des compétences de chacune des autorités
+organisatrices de transport du territoire. 
+
+Il définit les principes guidant l'articulation entre les différents modes de déplacement, notamment en ce qui concerne la
+mise en place de pôles d'échange. 
+
+Il prévoit les mesures de nature à assurer une information des usagers sur l'ensemble de l'offre de transports, à permettre
+la mise en place de tarifs donnant accès à plusieurs modes de transport et la distribution des billets correspondants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 13 (V)
+	  - Code des transports - art. L1213-3-3 (Ab)
+	  - Code des transports - art. L1213-4-1 (V)
+	  - Code des transports - art. L2123-4 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L1221-1 (V)
+
+
+###### Article L1213-3-2
+
+Sous réserve des dispositions particulières prévues à la section 3 du présent chapitre, le schéma régional de l'intermodalité
+est élaboré par la région, en collaboration avec les départements et les autorités organisatrices de la mobilité situées sur
+le territoire régional. 
+
+Le projet de schéma fait ensuite l'objet d'une concertation avec l'Etat et, le cas échéant, avec les syndicats mixtes de
+transport mentionnés à l'article L. 1231-10 du présent code. Les établissements publics mentionnés à l'article L. 122-4 du
+code de l'urbanisme et les gestionnaires de voirie sont consultés à leur demande sur le projet de schéma. 
+
+Le projet de schéma régional de l'intermodalité, assorti des avis des conseils départementaux des départements inclus dans la
+région, des autorités organisatrices de la mobilité ainsi que des observations formulées par les personnes associées à son
+élaboration, est mis à la disposition du public dans les conditions prévues à l'article L. 120-1 du code de l'environnement. 
+
+Le projet est arrêté par le conseil régional après avis favorable des conseils départementaux des départements inclus dans la
+région représentant au moins la moitié de la population régionale et des organes délibérants des autorités organisatrices de
+la mobilité représentant au moins la moitié de la population des périmètres de transports urbains de la région. 
+
+En l'absence de réponse de la collectivité publique dans un délai de trois mois à compter de la transmission du projet de
+schéma, son avis est réputé favorable. 
+
+Le schéma régional de l'intermodalité est approuvé par le représentant de l'Etat dans la région. 
+
+Il fait l'objet d'une évaluation tous les cinq ans et il est, si nécessaire, révisé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L122-4 (V)
+	  - Code de l'environnement - art. L120-1 (V)
+	  - Code des transports - art. L1231-10 (V)
+
+
+###### Article L1213-3-3
+
+Les modalités d'application des articles L. 1213-3-1 et L. 1213-3-2 sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L1213-3-1
+
+
+##### Section 3 : Dispositions propres à certaines parties du territoire
 
 ##### Sous-section 1 : Dispositions propres à la région Ile-de-France
 
-###### Article L1213-4
-
-Les dispositions propres au schéma régional des infrastructures et des transports de la région Ile-de-France sont énoncées au
-deuxième alinéa de l'article L. 4413-3 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4413-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
 ##### Sous-section 2 : Dispositions propres à la collectivité territoriale de Corse
-
-###### Article L1213-5
-
-Les dispositions propres au schéma régional des infrastructures et des transports de la collectivité territoriale de Corse
-sont énoncées au troisième alinéa de l'article L. 4424-12 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4424-12 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ##### Chapitre IV : Les plans de déplacement urbains
 
@@ -1391,28 +1515,28 @@ urbains.
 
 ###### Article L1214-7
 
-Le plan de déplacements urbains est compatible avec les orientations des schémas de cohérence territoriale, des schémas de
-secteur et des directives territoriales d'aménagement prévus aux titres Ier et II du livre Ier du code de l'urbanisme, avec
-le plan régional pour la qualité de l'air prévu par l'article L. 222-1 du code de l'environnement et, à compter de son
-adoption, avec le schéma régional du climat, de l'air et de l'énergie prévu par l'article L. 222-1 du code de
-l'environnement. 
+Le plan de déplacements urbains est compatible avec le schéma régional de l'intermodalité et avec les orientations des
+schémas de cohérence territoriale, des schémas de secteur et des directives territoriales d'aménagement prévus aux titres Ier
+et II du livre Ier du code de l'urbanisme, avec le plan régional pour la qualité de l'air prévu par l'article L. 222-1 du
+code de l'environnement et, à compter de son adoption, avec le schéma régional du climat, de l'air et de l'énergie prévu par
+l'article L. 222-1 du code de l'environnement. 
 
 Pour les plans de déplacements urbains approuvés avant l'adoption du schéma régional du climat, de l'air et de l'énergie,
 l'obligation de compatibilité mentionnée à l'alinéa précédent s'applique à compter de leur révision.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 28 (VT), alinéa 1, phrase 2
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L222-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L222-1
 
 
 ###### Article L1214-8
@@ -2806,15 +2930,29 @@ transports peut décider de les affecter au financement du remboursement des usa
 
 ###### Article L1231-1
 
-Les communes, leurs groupements et les syndicats mixtes de transports sont, dans les conditions générales énoncées au présent
-chapitre, les autorités compétentes pour organiser les services réguliers de transports public urbain de personnes. Elles
-peuvent, en outre, organiser des services de transports à la demande.
+Dans les périmètres de transports urbains, les communes, leurs groupements et les syndicats mixtes de transport sont les
+autorités compétentes pour organiser la mobilité. 
+
+Ces autorités sont des autorités organisatrices de transport au sens de l'article L. 1221-1. A ce titre, dans les conditions
+générales énoncées au présent chapitre, elles organisent les services réguliers de transport public urbain de personnes et
+peuvent organiser des services de transport à la demande. 
+
+Elles concourent au développement des modes de déplacement terrestres non motorisés et des usages partagés des véhicules
+terrestres à moteur. 
+
+Afin de réduire la congestion urbaine ainsi que les pollutions et nuisances affectant l'environnement, elles peuvent, en
+outre, en cas d'inadaptation de l'offre privée à cette fin, organiser des services publics de transport de marchandises et de
+logistique urbaine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2007-1224 du 21 août 2007 - art. 7 (VT), alinéa 3, phrase 1, sauf ecqc l'Etat, paragraphe II
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 52
 
 	**Cité par**:
 
@@ -2852,9 +2990,9 @@ peuvent, en outre, organiser des services de transports à la demande.
 	  - Code général des collectivités territoriales - art. L5217-2 (V)
 	  - Code général des collectivités territoriales - art. L5722-7-1 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L1221-1
 
 
 ###### Article L1231-2
@@ -3199,6 +3337,92 @@ collectivités territoriales et compétents en matière d'organisation des trans
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 4 : Dispositions relatives à l'usage partagé de véhicules terrestres       à moteur et aux modes de déplacement terrestres non motorisés
+
+###### Article L1231-1-14
+
+L'activité d'autopartage est la mise en commun d'un véhicule ou d'une flotte de véhicules de transport terrestre à moteur au
+profit d'utilisateurs abonnés ou habilités par l'organisme ou la personne gestionnaire des véhicules. Chaque abonné ou
+utilisateur habilité peut accéder à un véhicule sans conducteur pour le trajet de son choix et pour une durée limitée. 
+
+Les autorités mentionnées à l'article L. 1231-1 peuvent délivrer un label " autopartage ” aux véhicules affectés à cette
+activité. A cet effet, elles fixent les caractéristiques techniques des véhicules au regard, notamment, des objectifs de
+réduction de la pollution et des gaz à effet de serre qu'elles déterminent et les conditions d'usage de ces véhicules
+auxquelles est subordonnée la délivrance du label. En cas d'inexistence, d'insuffisance ou d'inadaptation de l'offre privée,
+elles peuvent créer un service public d'autopartage. L'exploitant de ce service n'est pas soumis à l'obligation prévue à
+l'article L. 1421-1.
+
+**Nota:**
+
+Au lieu de lire L1231-1-14, il convient de lire L1231-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 52
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-992 du 17 août 2015 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L1231-1
+	  - Code des transports - art. L1421-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1231-14 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L1241-1 (M)
+	  - Code général des collectivités territoriales - art. L2333-68 (V)
+
+
+###### Article L1231-15
+
+Le covoiturage est l'utilisation en commun d'un véhicule terrestre à moteur par un conducteur non professionnel et un ou
+plusieurs passagers majeurs pour un trajet commun. En cas d'inexistence, d'insuffisance ou d'inadaptation de l'offre privée,
+les autorités mentionnées à l'article L. 1231-1, seules ou conjointement avec d'autres collectivités territoriales ou
+groupements de collectivités intéressés, peuvent mettre à disposition du public des plates-formes dématérialisées facilitant
+la rencontre des offres et demandes de covoiturage. Elles peuvent créer un signe distinctif des véhicules utilisés dans le
+cadre d'un covoiturage. Dans ce cas, elles définissent au préalable ses conditions d'attribution.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 52
+
+	**Cite**:
+
+	  - Code des transports - art. L1231-1
+
+
+###### Article L1231-16
+
+En cas d'inexistence, d'insuffisance ou d'inadaptation de l'offre privée, les autorités mentionnées à l'article L. 1231-1
+peuvent organiser un service public de location de bicyclettes. L'exploitant de ce service n'est pas soumis à l'obligation
+prévue à l'article L. 1421-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 52
+
+	**Cite**:
+
+	  - Code des transports - art. L1231-1
+	  - Code des transports - art. L1421-1
+
+	**Cité par**:
+
+	  - Code des transports - art. L1241-1 (V)
+
+
 #### TITRE IV : L'ORGANISATION PROPRE  A CERTAINES PARTIES DU TERRITOIRE
 
 ##### Chapitre Ier : L'organisation propre à la région Ile-de-France
@@ -3213,13 +3437,14 @@ réserve des pouvoirs dévolus à l'Etat en matière de police de la navigation.
 
 Le syndicat peut y organiser des services de transports à la demande. 
 
-En outre, il y assure les missions et y développe les services mentionnés à l'article L. 1231-8.
+En outre, il y assure les missions et y développe les services mentionnés aux articles L. 1231-1, L. 1231-8 et L. 1231-14 à
+L. 1231-16.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1 (VT), alinéas 4, phrases 1, 5 et 6, et 6, paragraphe II
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -3246,17 +3471,15 @@ En outre, il y assure les missions et y développe les services mentionnés à l
 	  - Code des transports - art. R1241-16 (V)
 	  - Code général des impôts, CGI. - art. 302 bis ZC (VD)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - RECTIFICATION: Ordonnance n°2010-1307 du 28 octobre 2010, v. init.
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 18
 
 	**Cite**:
 
-	  - Code des transports - art. L1231-8 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L1231-1
+	  - Code des transports - art. L1231-1-14 (T)
+	  - Code des transports - art. L1231-8
 
 
 ##### Section 2 : Les missions du syndicat des transports d'Ile-de-France
@@ -3273,8 +3496,9 @@ d'Ile-de-France a, notamment, pour mission de :
 3° Définir les modalités techniques d'exécution ainsi que les conditions générales d'exploitation et de financement des
 services ; 
 
-4° Veiller à la cohérence des programmes d'investissement, sous réserve des compétences reconnues à Réseau ferré de France et
-à la Régie autonome des transports parisiens en sa qualité de gestionnaire de l'infrastructure ; 
+4° Veiller à la cohérence des programmes d'investissement, sous réserve des compétences reconnues à Réseau ferré de France, à
+la Régie autonome des transports parisiens en sa qualité de gestionnaire de l'infrastructure et à l'établissement public
+Société du Grand Paris ; 
 
 5° Arrêter la politique tarifaire de manière à obtenir l'utilisation la meilleure, sur le plan économique et social, du
 système de transports correspondant ; 
@@ -3288,9 +3512,9 @@ aux articles L. 3111-14 à L. 3111-16.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1 (VT), alinéas 4, phrases 2 à 5, et 5, paragraphe II
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -3301,13 +3525,13 @@ aux articles L. 3111-14 à L. 3111-16.
 	  - Code des transports - art. L1241-3 (VD)
 	  - Code des transports - art. L2111-3-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 20
+
 	**Cite**:
 
-	  - Code des transports - art. L3111-14 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L3111-14
 
 
 ###### Article L1241-3
@@ -3362,7 +3586,7 @@ région Ile-de-France par le syndicat figurent à l'article L. 3111-15.
 
 Le Syndicat des transports d'Ile-de-France peut assurer la maîtrise d'ouvrage ou désigner le ou les maîtres d'ouvrage de
 projets d'infrastructures nouvelles destinées au transport public de voyageurs, dans la limite des compétences reconnues à
-l'établissement public Réseau ferré de France. 
+l'établissement public Réseau ferré de France et à l'établissement public Société du Grand Paris.  
 
 Le Syndicat des transports d'Ile-de-France et la Régie autonome des transports parisiens exercent conjointement, dans la
 limite des compétences reconnues à l'établissement public Réseau ferré de France, la maîtrise d'ouvrage des opérations,
@@ -3378,6 +3602,10 @@ suivi et le contrôle d'ensemble.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Cité par**:
 
 	  - Loi n°2010-597 du 3 juin 2010 - art. 20-2 (V)
@@ -3387,15 +3615,11 @@ suivi et le contrôle d'ensemble.
 
 	**Modifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 7
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 20
 
 	**Cite**:
 
 	  - Code des transports - art. L2142-3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Section 3 : Les modalités d'exécution des services
@@ -3639,11 +3863,16 @@ Les ressources du Syndicat des transports d'Ile-de-France comprennent :
 
 1° Les concours financiers des collectivités territoriales membres du syndicat ; 
 
-2° Le produit du versement destiné aux transports en commun perçu à l'intérieur de la région Ile-de-France et mentionné aux
-articles L. 2531-2 et suivants du code général des collectivités territoriales ; 
+2° Le produit du versement destiné aux transports perçu à l'intérieur de la région Ile-de-France et mentionné aux articles L.
+2531-2 et suivants du code général des collectivités territoriales ; 
 
 3° La part du produit des amendes de police relatives à la circulation routière, dans les conditions définies par l'article
 L. 2334-24 du même code ; 
+
+3° bis Une part, fixée par décret en Conseil d'Etat, dans la limite de la moitié du produit des forfaits de post-
+stationnement prévus à l'article L. 2333-87 dudit code et perçus dans la région d'Ile-de-France. La somme de cette ressource
+et de la ressource perçue en application du 3° du présent article est au moins égale à celle perçue en 2012 par le Syndicat
+des transports d'Ile-de-France en application du même 3° ; 
 
 4° Toutes autres contributions, subventions ou avances qui lui sont apportées par l'Etat, par les collectivités publiques ou
 par tout organisme public ou privé, notamment pour la mise en œuvre de politiques d'aide à l'usage des transports collectifs
@@ -3671,27 +3900,28 @@ Paris ;
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1-1 (VT)
-	  - Loi n°2010-597 du 3 juin 2010 - art. 10, alinéa 6, dernière phrase, art. 21, dernier alinéa, ecqc le versement au STIF du paragraphe II
-
 	**Cite**:
 
-	  - Loi n°2010-597 du 3 juin 2010 - art. 21 (V)
-	  - Code général des impôts, CGI. - art. 1635 ter A (V)
-	  - Code général des collectivités territoriales - art. L1614-1 (V)
-	  - Code général des collectivités territoriales - art. L2334-24 (V)
-	  - Code général des collectivités territoriales - art. L2531-2 (V)
+	  - Loi n°2010-597 du 3 juin 2010 - art. 21
+	  - Code général des impôts, CGI. - art. 1635 ter A
+	  - Code général des collectivités territoriales - art. L1614-1
+	  - Code général des collectivités territoriales - art. L2333-87
+	  - Code général des collectivités territoriales - art. L2334-24
+	  - Code général des collectivités territoriales - art. L2531-2
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 64
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 19
 
 	**Cité par**:
 
 	  - Code des transports - art. L1241-17 (VD)
 	  - Code des transports - art. L1241-20 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L1241-15
@@ -9018,10 +9248,18 @@ propositions susceptibles de diminuer le coût des transports outre-mer. Ce rapp
 
 ###### Article L1811-7
 
-Les dispositions relatives au schéma régional des infrastructures et des transports des régions d'outre-mer sont fixées par
+Pour l'application des sections 1 et 2 du chapitre III du titre Ier du livre II, les régions d'outre-mer mettent en œuvre
 l'article L. 4433-7 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
 
 	**Cite**:
 
@@ -9030,10 +9268,6 @@ l'article L. 4433-7 du code général des collectivités territoriales.
 	**Cité par**:
 
 	  - Code des transports - art. R1811-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L1811-8
@@ -9070,25 +9304,22 @@ applicables à Mayotte.
 
 ###### Article L1821-2
 
-Pour son application à Mayotte, le chapitre III du titre Ier du livre II est ainsi rédigé : 
-
-" Chapitre III
-
-" Coordination des transports 
-
-" Art.L. 1213-1.-Le volet consacré aux transports du plan d'aménagement et de développement durable mentionné à l'article LO
-6161-42 du code général des collectivités territoriales tient lieu, à Mayotte, de schéma régional des infrastructures et des
-transports. "
+Pour l'application des sections 1 et 2 du chapitre III du titre Ier du livre II de la présente partie, Mayotte met en œuvre
+l'article L. 4433-7 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6161-42
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4433-7 (VT)
 
 
 ###### Article L1821-3
@@ -9141,20 +9372,24 @@ organisatrice. "
 
 ###### Article L1821-6
 
-Pour son application à Mayotte, l'article L. 1231-1 est rédigé comme suit : 
+Pour son application à Mayotte, l'article L. 1231-1 est ainsi rédigé :
 
-" Art.L. 1231-1.-A Mayotte, les communes ou leurs groupements sont compétents pour l'organisation des transports urbains de
-personnes. "
+" Art. L. 1231-1. - A Mayotte, les communes ou leurs groupements sont compétents pour l'organisation des transports urbains
+de personnes.
+
+" Responsables, dans le ressort de leurs compétences, de l'organisation de la mobilité urbaine, ces collectivités peuvent
+notamment organiser l'usage partagé de véhicules terrestres à moteur et les modes de déplacement non motorisés prévus à la
+section 4 du chapitre unique du titre III du livre II de la présente partie. "
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 36 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 52
 
 
 ###### Article L1821-7
@@ -16621,7 +16856,7 @@ des personnes et de leurs bagages.
 ###### Article L3121-2
 
 Le titulaire de l'autorisation de stationnement prévue par l'article L. 3121-1 a la faculté de présenter à titre onéreux un
-successeur à l'autorité administrative qui a délivré celle-ci. 
+successeur à l'autorité administrative  compétente pour délivrer celle-ci. 
 
 Cette faculté est subordonnée à l'exploitation effective et continue de l'autorisation de stationnement pendant une durée de
 cinq ans à compter de sa date de délivrance. 
@@ -16638,9 +16873,13 @@ constituée dans les conditions de droit commun, après une exploitation effecti
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 3 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cité par**:
 
@@ -16650,11 +16889,7 @@ constituée dans les conditions de droit commun, après une exploitation effecti
 
 	**Cite**:
 
-	  - Code des transports - art. L3121-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L3121-1
 
 
 ###### Article L3121-3
@@ -16710,7 +16945,7 @@ antérieure à la présente loi, aux autorisations de stationnement délivrées 
 ###### Article L3121-4
 
 Les transactions prévues par les articles L. 3121-2 et L. 3121-3 sont répertoriées, avec mention de leur montant, dans un
-registre tenu par l'autorité administrative qui a délivré l'autorisation de stationnement. 
+registre tenu par l'autorité administrative  compétente pour délivrer l'autorisation de stationnement. 
 
 Le nouveau titulaire remet alors à cette autorité les documents justificatifs de l'exploitation effective et continue de
 l'autorisation par son prédécesseur. 
@@ -16720,21 +16955,21 @@ date de leur conclusion.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 5 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cite**:
 
-	  - Code des transports - art. L3121-2 (V)
+	  - Code des transports - art. L3121-2
 
 	**Cité par**:
 
 	  - Code des transports - art. R3121-10 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L3121-5
@@ -17148,24 +17383,24 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 Lorsque l'autorisation de stationnement n'est pas exploitée de façon effective ou continue, ou en cas de violation grave ou
 répétée par son titulaire du contenu de cette autorisation ou de la réglementation applicable à la profession, l'autorité
-administrative qui l'a délivrée peut donner un avertissement au titulaire de cette autorisation de stationnement ou procéder
-à son retrait temporaire ou définitif.
+administrative    compétente pour la délivrer peut donner un avertissement au titulaire de cette autorisation de
+stationnement ou procéder à son retrait temporaire ou définitif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 6 bis (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cité par**:
 
 	  - Code des transports - art. R3121-11 (V)
 	  - Code des transports - art. R3121-15 (V)
 	  - Code des transports - art. R3124-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L3124-2
@@ -56543,14 +56778,18 @@ public.
 
 La police des aérodromes et des installations aéronautiques régis par les dispositions du présent chapitre est assurée, sous
 réserve des pouvoirs de l'autorité militaire à l'égard des aérodromes et installations dépendant de la défense nationale, par
-le représentant de l'Etat dans le département qui exerce, à cet effet, dans leur emprise, les pouvoirs impartis au maire par
-l'article L. 2212-2 du code général des collectivités territoriales.
+le représentant de l'Etat dans le département qui exerce, à cet effet, dans leur emprise, les pouvoirs impartis au maire aux
+articles L. 2212-2 et L. 2213-33 du code général des collectivités territoriales. 
 
 Les modalités d'application du présent article, notamment les conditions dans lesquelles le représentant de l'Etat dans le
-département est chargé des pouvoirs mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs
+département est chargé des pouvoirs mentionnés à ces articles lorsque l'emprise de l'aérodrome s'étend sur plusieurs
 départements sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -56568,17 +56807,14 @@ départements sont fixées par décret en Conseil d'Etat.
 	  - Code des transports - art. L6773-4-1 (V)
 	  - Code des transports - art. L6783-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2212-2
-
-	**Anciens textes**:
-
-	  - Code de l'aviation civile - art. L213-2 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code général des collectivités territoriales - art. L2213-33
 
 
 ###### Article L6332-3
@@ -61613,25 +61849,22 @@ Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 
 ###### Article L6733-1
 
-Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : " impartis au maire par l'article L. 2212-2 du code
-général des collectivités territoriales ” sont remplacés par les mots : " impartis au président du conseil territorial par
-l'article LO 6252-8 du code général des collectivités territoriales ”.
+Pour l'application à Saint-Barthélemy de l'article L. 6332-2, les mots : " impartis au maire aux articles L. 2212-2 et L.
+2213-33 du code général des collectivités territoriales ” sont remplacés par les mots : " impartis au président du conseil
+territorial par l'article LO 6252-8 du code général des collectivités territoriales ”.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 20
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2212-2 (V)
-	  - Code général des collectivités territoriales - art. LO6252-8 (V)
-	  - Code des transports - art. L6332-2 (V)
-
-	**Anciens textes**:
-
-	  - Code des transports - art. L6732-1 (T)
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2213-33
+	  - Code général des collectivités territoriales - art. LO6252-8
+	  - Code des transports - art. L6332-2
 
 
 ###### Article L6733-2
@@ -61806,20 +62039,26 @@ applicables en métropole en application ".
 
 ###### Article L6741-1
 
-Pour l'application à Saint-Martin de l'article L. 6332-2, les mots : " impartis au maire par l'article L. 2212-2 du code
-général des collectivités territoriales " sont remplacés par les mots : " impartis au président du conseil territorial par
-l'article LO 6352-8 du code général des collectivités territoriales ".
+Pour l'application à Saint-Martin de l'article L. 6332-2, les mots : " impartis au maire aux articles L. 2212-2 et L. 2213-33
+du code général des collectivités territoriales " sont remplacés par les mots : " impartis au président du conseil
+territorial par l'article LO 6352-8 du code général des collectivités territoriales ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. LO6252-8 (V)
-	  - Code des transports - art. L6332-2 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2213-33
+	  - Code général des collectivités territoriales - art. LO6252-8
+	  - Code des transports - art. L6332-2
 
 
 #### TITRE V : SAINT-PIERRE-ET-MIQUELON
@@ -62233,11 +62472,11 @@ deuxième alinéa de l'article L. 410-2 du code de commerce " sont supprimés.
 
 ###### Article L6763-4
 
-Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6332-2, les mots : "dans le département" sont
-remplacés par les mots : "en Nouvelle-Calédonie", les mots : "par l'article L. 2212-2 du code général des collectivités
-territoriales" sont remplacés par les mots : "par l'article L. 131-2 du code des communes de Nouvelle-Calédonie" et les
-mots : "notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs
-mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements" sont supprimés.
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6332-2, les mots : " dans le département " sont
+remplacés par les mots : " en Nouvelle-Calédonie ", les mots : " aux articles L. 2212-2 et L. 2213-33 du code général des
+collectivités territoriales " sont remplacés par les mots : " par l'article L. 131-2 du code des communes de Nouvelle-
+Calédonie " et les mots : " notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé
+des pouvoirs mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
 
@@ -62247,16 +62486,14 @@ mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
-
-	**Liens**:
-
-	  - RECTIFICATION: Ordonnance n°2012-289 du 1er mars 2012 - art., v. init.
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cite**:
 
-	  - Code des communes de la Nouvelle-Calédonie - art. L131-2 (V)
-	  - Code des transports - art. L6332-2 (V)
+	  - Code des communes de la Nouvelle-Calédonie - art. L131-2
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2213-33
+	  - Code des transports - art. L6332-2
 
 
 ###### Article L6763-5
@@ -62692,20 +62929,21 @@ supprimés.
 ###### Article L6773-4-1
 
 Pour l'application en Polynésie française des dispositions de l'article L. 6332-2, les mots : " dans le département " sont
-remplacés par les mots : " en Polynésie française ", les mots : " par l'article L. 2212-2 du code général des collectivités
-territoriales " sont remplacés par les mots : " en matière de police municipale en Polynésie française " et les mots : "
-notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à
-cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
+remplacés par les mots : " en Polynésie française ", les mots : " aux articles L. 2212-2 et L. 2213-33 du code général des
+collectivités territoriales " sont remplacés par les mots : " en matière de police municipale en Polynésie française " et les
+mots : " notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs
+mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2213-33
 	  - Code des transports - art. L6332-2
 
 
@@ -63133,25 +63371,26 @@ alinéa de l'article L. 410-2 du code de commerce " sont supprimés.
 ###### Article L6783-5
 
 Pour l'application à Wallis-et-Futuna de l'article L. 6332-2, les mots : " dans le département " sont remplacés par les
-mots : " à Wallis-et-Futuna ", les mots : " par l'article L. 2212-2 du code général des collectivités territoriales " sont
-remplacés par les mots : " en matière de police municipale à Wallis-et-Futuna " et les mots : " notamment les conditions dans
-lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à cet article lorsque l'emprise
-de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
+mots : " à Wallis-et-Futuna ", les mots : " aux articles L. 2212-2 et L. 2213-33 du code général des collectivités
+territoriales " sont remplacés par les mots : " en matière de police municipale à Wallis-et-Futuna " et les mots : "
+notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à
+cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2212-2
-	  - Code des transports - art. L6332-2
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2213-33
+	  - Code des transports - art. L6332-2
 
 
 ###### Article L6783-6
