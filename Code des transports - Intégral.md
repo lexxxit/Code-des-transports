@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-01-29
+Version Consolidée au 2014-03-19
 
 # PARTIE LEGISLATIVE
 
@@ -1041,68 +1041,6 @@ développement économique et à l'aménagement du territoire.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les schémas régionaux des infrastructures et des transports
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Dispositions propres à certaines parties du territoire
-
-##### Sous-section 1 : Dispositions propres à la région Ile-de-France
-
-###### Article L1213-4
-
-Les dispositions propres au schéma régional des infrastructures et des transports de la région Ile-de-France sont énoncées au
-deuxième alinéa de l'article L. 4413-3 du code général des collectivités territoriales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4413-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L1213-4-1
-
-Les articles L. 1213-3-1 et L. 1213-3-2 ne sont pas applicables à la région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
-
-	**Cite**:
-
-	  - Code des transports - art. L1213-3-1 (V)
-
-
-##### Sous-section 2 : Dispositions propres à la collectivité territoriale de Corse
-
-###### Article L1213-5
-
-Les dispositions propres au schéma régional des infrastructures et des transports et au schéma régional de l'intermodalité de
-la collectivité territoriale de Corse sont énoncées au II de l'article L. 4424-10du code général des collectivités
-territoriales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Modifié par**:
-
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4424-10 (V)
-
-
 ##### Chapitre III : Les schémas régionaux
 
 ##### Section 1 : Le schéma régional des infrastructures et des transports
@@ -1297,7 +1235,59 @@ Les modalités d'application des articles L. 1213-3-1 et L. 1213-3-2 sont fixée
 
 ##### Sous-section 1 : Dispositions propres à la région Ile-de-France
 
+###### Article L1213-4
+
+Les dispositions propres au schéma régional des infrastructures et des transports de la région Ile-de-France sont énoncées au
+deuxième alinéa de l'article L. 4413-3 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4413-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L1213-4-1
+
+Les articles L. 1213-3-1 et L. 1213-3-2 ne sont pas applicables à la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L1213-3-1 (V)
+
+
 ##### Sous-section 2 : Dispositions propres à la collectivité territoriale de Corse
+
+###### Article L1213-5
+
+Les dispositions propres au schéma régional des infrastructures et des transports et au schéma régional de l'intermodalité de
+la collectivité territoriale de Corse sont énoncées au II de l'article L. 4424-10du code général des collectivités
+territoriales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4424-10 (V)
+
 
 ##### Chapitre IV : Les plans de déplacement urbains
 
@@ -14432,6 +14422,35 @@ transport de voyageurs décide d'appliquer tout ou partie des dispositions non o
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L2151-3
+
+I. ― Sous réserve des dérogations temporaires prévues à l'article L. 2151-2, sont passibles d'une amende administrative dont
+le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale les manquements aux
+articles 4 à 10, 13 à 14, 16 à 18, 20 à 25 et 27 à 29 du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil, du
+23 octobre 2007, précité qui ont été constatés dans les conditions prévues au III de l'article L. 141-1 du code de la
+consommation. 
+
+II. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 9 000 € pour une personne physique et 45 000
+€ pour une personne morale les manquements aux articles 12 et 19 du même règlement qui ont été constatés dans les conditions
+prévues au III de l'article L. 141-1 du code de la consommation. 
+
+III. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer,
+dans les conditions prévues à l'article L. 141-1-2 du code de la consommation, les amendes administratives mentionnées aux I
+et II du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+	  - Code des transports - art. L2151-2
+
+
 ### LIVRE II : INTEROPERABILITE, SECURITE, SURETE  DES TRANSPORTS FERROVIAIRES OU GUIDES
 
 #### TITRE IER : INTEROPERABILITE
@@ -15977,6 +15996,21 @@ Les dispositions des articles L. 2112-1, L. 2121-10 et L. 2121-11 ne sont pas ap
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L2331-1-1
+
+Les articles L. 2151-1 à L. 2151-3 ne sont pas applicables à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L2151-1
+
+
 ###### Article L2331-2
 
 En application de l'article L. 4433-21-1 du code général des collectivités territoriales, la collectivité de Saint-Barthélemy
@@ -16035,17 +16069,21 @@ compétente pour créer et exploiter des infrastructures de service ferroviaire 
 
 ###### Article L2351-1
 
-Les articles L. 2151-1 et L. 2151-2 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 2151-1 à L. 2151-3 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L2151-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L2151-1
 
 
 ## TROISIEME PARTIE : TRANSPORT ROUTIER
@@ -16813,6 +16851,46 @@ fait l'objet d'un report en application du premier alinéa du présent article.
 	  - Code des transports - art. L3115-1 (V)
 
 
+##### Section 4 : Sanctions administratives
+
+###### Article L3115-6
+
+I. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 1, à l'article 8, aux articles 10 et 11, paragraphes 2 à
+5, aux articles 13 à 15, à l'article 16, paragraphe 1, à l'article 17, paragraphes 2 et 3, et aux articles 19 à 21 et 24 à 27
+du règlement (UE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, concernant les droits des passagers
+dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 qui ont été constatés dans les
+conditions prévues au III de l'article L. 141-1 du code de la consommation. 
+
+II. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 9 000 € pour une personne physique et 45 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 2, à l'article 9 et à l'article 11, paragraphe 1, du
+règlement (CE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, précité qui ont été constatés dans les
+conditions prévues au III du même article L. 141-1. 
+
+III. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer,
+dans les conditions prévues à l'article L. 141-1-2 du même code, les amendes administratives mentionnées aux I et II du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 4
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Cité par**:
+
+	  - Code des transports - art. L3551-1 (M)
+
+
 #### TITRE II : LES TRANSPORTS PUBLICS PARTICULIERS
 
 ##### Chapitre Ier : Les taxis
@@ -17146,22 +17224,25 @@ administrative.
 En attente de clientèle, les taxis sont tenus de stationner dans leur commune de rattachement ou dans une commune faisant
 partie d'un service commun de taxis comprenant leur commune de rattachement. Ils peuvent également stationner dans les
 communes où ils ont fait l'objet d'une réservation préalable dont les conducteurs doivent apporter la preuve en cas de
-contrôle.
+contrôle. Munis d'une réservation préalable, ils ne peuvent stationner à l'abord des gares et des aérogares ou, le cas
+échéant, dans l'enceinte de celles-ci, lorsqu'elles ne sont pas situées dans leur commune de rattachement ou dans une commune
+faisant partie d'un service commun comprenant leur commune de rattachement, au-delà d'une durée précédant la prise en charge
+de leur clientèle. La durée de ce stationnement est fixée par décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 1 bis (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
 	  - Décret n°95-935 du 17 août 1995 - art. 1-1 (Ab)
 	  - Décret n°2014-371 du 26 mars 2014 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2014-344 du 17 mars 2014 - art. 135
 
 
 ###### Article L3121-12
@@ -17335,27 +17416,57 @@ de véhicules adaptés.
 Les véhicules affectés à l'activité mentionnée à l'article L. 3123-1 ne peuvent ni stationner, ni circuler sur la voie
 publique en quête de clients. 
 
+Ils ne peuvent prendre en charge un client que si leur conducteur peut justifier d'une réservation préalable.
+
 Ils ne peuvent stationner à l'abord des gares et aérogares, dans le respect des règles du code de la route ou des règlements
 édictés par l'autorité compétente, que si leur conducteur peut justifier d'une réservation préalable.
 
+Sous la même condition de réservation préalable, ils ne peuvent stationner à l'abord des gares et des aérogares ou, le cas
+échéant, dans l'enceinte de celles-ci au-delà d'une durée précédant la prise en charge de leur clientèle. La durée de ce
+stationnement est fixée par décret.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 5 (Ab), alinéas 3 et 4, paragraphe III
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 135
 
 	**Cité par**:
 
 	  - Décret n°2014-371 du 26 mars 2014 - art. 1 (Ab)
 	  - Code des transports - art. L3124-9 (Ab)
 
+	**Abrogé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
 	**Cite**:
 
-	  - Code des transports - art. L3123-1 (V)
+	  - Code des transports - art. L3123-1 (M)
 
-	**Codifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+###### Article L3123-2-1
+
+L'exercice de l'activité de conducteur de véhicule motorisé à deux ou trois roues pour le transport de personnes à titre
+onéreux est subordonné à la délivrance d'une carte professionnelle par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 135
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R3123-1 (M)
 
 
 ###### Article L3123-3
@@ -17460,27 +17571,23 @@ complémentaires suivantes :
 
 2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ;
 
-3° La confiscation du véhicule qui a servi à commettre l'infraction ;
-
-4° L'interdiction, pour une durée de cinq ans au plus, d'entrer et de séjourner dans l'enceinte d'une ou plusieurs
-infrastructures aéroportuaires ou portuaires, d'une gare ferroviaire ou routière, ou de leurs dépendances, sans y avoir été
-préalablement autorisée par l'autorité de police compétente.
+3° La confiscation du véhicule qui a servi à commettre l'infraction.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 2 ter (Ab), alinéas 1 à 6
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 135
 
 	**Cité par**:
 
 	  - Code des transports - art. L3124-5 (V)
 	  - Code des transports - art. L3531-1 (V)
 	  - Code des transports - art. L3541-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L3124-5
@@ -17662,6 +17769,27 @@ code pénal, les peines prévues par les 8° et 9° de l'article 131-39 du même
 
 	  - Code des transports - art. L3531-1 (V)
 	  - Code des transports - art. L3541-1 (V)
+
+
+###### Article L3124-11
+
+En cas de violation par un conducteur de véhicule motorisé à deux ou trois roues pour le transport de personnes à titre
+onéreux de la réglementation applicable à la profession, l'autorité administrative peut lui donner un avertissement ou
+procéder au retrait, temporaire ou définitif, de sa carte professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 135
+
+	**Cité par**:
+
+	  - Code des transports - art. D3120-34 (VD)
+	  - Code des transports - art. D3120-38 (VD)
+	  - Code des transports - art. R3120-7 (V)
+	  - Code des transports - art. R3121-15 (V)
+	  - Code des transports - art. R3124-8 (V)
 
 
 #### TITRE III : LE TRANSPORT PRIVE ROUTIER DE PERSONNES
@@ -20447,22 +20575,25 @@ remplacés par les mots : " par l'article L. 3452-2 ".
 
 ###### Article L3551-1
 
-Le chapitre V du titre Ier du livre Ier de la présente partie et le second alinéa de l'article L. 3122-1 ne s'applique pas à
-Saint-Pierre-et-Miquelon.
+Les articles L. 3113-2 et L. 3113-3, le chapitre V du titre Ier du livre Ier de la présente partie, l'article L. 3115-6, le
+second alinéa de l'article L. 3122-1 et les articles L. 3211-2 et L. 3211-3 ne s'appliquent pas à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-431 du 28 mai 2013 - art. 43 (V)
-
-	**Cite**:
-
-	  - Code des transports - art. L3122-1
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L3113-2
+	  - Code des transports - art. L3115-6
+	  - Code des transports - art. L3122-1
+	  - Code des transports - art. L3211-2
 
 
 ###### Article L3551-2
@@ -22613,6 +22744,41 @@ des articles L. 4242-2, L. 4242-3 et L. 4243-1.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L4271-2
+
+I. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 1, à l'article 8, paragraphes 2 à 5, aux articles 9 à
+14, à l'article 15, paragraphes 2 et 4, et aux articles 16 à 19 et 22 à 24 du règlement (UE) n° 1177/2010 du Parlement
+européen et du Conseil, du 24 novembre 2010, concernant les droits des passagers voyageant par mer ou par voie de navigation
+intérieure et modifiant le règlement (CE) n° 2006/2004 qui ont été constatés dans les conditions prévues au III de l'article
+L. 141-1 du code de la consommation. 
+
+II. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 9 000 € pour une personne physique et 45 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 2, et à l'article 7 du règlement (UE) n° 1177/2010 du
+Parlement européen et du Conseil, du 24 novembre 2010, précité qui ont été constatés dans les conditions prévues au III du
+même article L. 141-1. 
+
+III. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer,
+dans les conditions prévues à l'article L. 141-1-2 du code de la consommation, les amendes administratives mentionnées aux I
+et II du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Cité par**:
+
+	  - Code des transports - art. L4631-1 (V)
+	  - Code des transports - art. L4651-1 (V)
 
 
 ##### Chapitre II : Recherche et constatation des infractions
@@ -26749,17 +26915,23 @@ directeur général, " sont supprimés.
 
 ###### Article L4631-1
 
-Les dispositions de l'article L. 4242-1 et celles du titre Ier du livre III ne sont pas applicables à Saint-Barthélemy.
+Les dispositions des articles L. 4242-1 et L. 4271-2 ainsi que celles du titre Ier du livre III ne sont pas applicables à
+Saint-Barthélemy.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L4242-1 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L4241-1
+	  - Code des transports - art. L4271-2
 
 
 ###### Article L4631-2
@@ -26845,19 +27017,24 @@ directeur général, " sont supprimés.
 
 ###### Article L4651-1
 
-Les dispositions du titre Ier du livre III et des articles L. 4413-1 et L. 4463-4 ne sont pas applicables à Saint-Pierre-et-
-Miquelon.
+Les dispositions de l'article L. 4271-2, du titre Ier du livre III et des articles L. 4413-1 et L. 4463-4 ne sont pas
+applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L4413-1 (V)
-	  - Code des transports - art. L4463-4 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L4271-2
+	  - Code des transports - art. L4413-1
+	  - Code des transports - art. L4463-4
 
 
 ###### Article L4651-2
@@ -39497,6 +39674,46 @@ Les actions nées à l'occasion des transports de bagages se prescrivent par un 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 4 :  Droits et obligations des passagers
+
+###### Article L5421-13
+
+I. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 1, à l'article 8, paragraphes 2 à 5, aux articles 9 à
+14, à l'article 15, paragraphes 2 et 4, et aux articles 16 à 19 et 22 à 24 du règlement (UE) n° 1177/2010 du Parlement
+européen et du Conseil, du 24 novembre 2010, concernant les droits des passagers voyageant par mer ou par voie de navigation
+intérieure et modifiant le règlement (CE) n° 2006/2004 qui ont été constatés dans les conditions prévues au III de l'article
+L. 141-1 du code de la consommation. 
+
+II. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 9 000 € pour une personne physique et 45 000
+€ pour une personne morale les manquements à l'article 4, paragraphe 2, et à l'article 7 du règlement (UE) n° 1177/2010 du
+Parlement européen et du Conseil, du 24 novembre 2010, précité qui ont été constatés dans les conditions prévues au III du
+même article L. 141-1. 
+
+III. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer,
+dans les conditions prévues à l'article L. 141-1-2 du code de la consommation, les amendes administratives mentionnées aux I
+et II du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Cité par**:
+
+	  - Code des transports - art. L5734-1 (V)
+	  - Code des transports - art. L5754-1 (V)
+	  - Code des transports - art. L5764-1 (V)
+	  - Code des transports - art. L5784-1 (V)
+	  - Code des transports - art. L5794-1 (V)
+
+
 ##### Chapitre II : Le transport de marchandises
 
 ##### Section 1 : Le contrat de transport
@@ -51465,13 +51682,22 @@ les mots : " par les dispositions applicables localement ".
 
 ###### Article L5734-1
 
-Les dispositions du chapitre Ier du titre III du livre IV de la présente partie ne sont pas applicables à Saint-Barthélemy.
+Les dispositions de l'article L. 5421-13 et du chapitre Ier du titre III du livre IV de la présente partie ne sont pas
+applicables à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L5421-13
 
 
 ###### Article L5734-2
@@ -52146,7 +52372,8 @@ sont remplacés par les mots : " au directeur des territoires, de l'alimentation
 
 ###### Article L5754-1
 
-Les dispositions du chapitre Ier du titre III du livre IV ne sont pas applicables à Saint-Pierre-et-Miquelon. 
+Les dispositions de l'article L. 5421-13 et du chapitre Ier du titre III du livre IV ne sont pas applicables à Saint-Pierre-
+et-Miquelon. 
 
 Les articles L. 5431-2 et L. 5431-3 sont applicables aux transports maritimes réguliers publics de personnes pour la desserte
 de ports ou appontements du littoral. 
@@ -52157,14 +52384,18 @@ partie, les autorités mentionnées aux premier et troisième alinéas du même 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des transports - art. L5431-1 (V)
-	  - Code des transports - art. L5431-2 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L5431-1
+	  - Code des transports - art. L5431-2
 
 
 ##### Chapitre V : Les gens de mer
@@ -52516,14 +52747,22 @@ en matière d'infrastructures et de services de transports.
 
 ###### Article L5764-1
 
-Les dispositions du livre IV, à l'exception de celles du chapitre V du titre II et du chapitre Ier du titre III sont
-applicables en Nouvelle-Calédonie.
+Les dispositions du livre IV, à l'exception de celles de l'article L. 5421-13 et du chapitre V du titre II et du chapitre Ier
+du titre III sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L5421-13
 
 
 ##### Chapitre V : Les gens de mer
@@ -53085,13 +53324,22 @@ en matière d'infrastructures et de services de transports.
 
 ###### Article L5784-1
 
-Les dispositions du livre IV, à l'exception de celles du chapitre Ier du titre III sont applicables à Wallis-et-Futuna.
+Les dispositions du livre IV, à l'exception de celles de l'article L. 5421-13 et du chapitre Ier du titre III sont
+applicables à Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L5421-13
 
 
 ##### Chapitre V : Les gens de mer
@@ -53495,14 +53743,22 @@ en matière d'infrastructures et de services de transports.
 
 ###### Article L5794-1
 
-Les dispositions du livre IV, à l'exception de celles des chapitres Ier, II et III du titre III sont applicables dans les
-Terres australes et antarctiques françaises.
+Les dispositions du livre IV, à l'exception de celles de l'article L. 5421-13 et des chapitres Ier, II et III du titre III
+sont applicables dans les Terres australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L5421-13
 
 
 ##### Chapitre V : Les gens de mer
@@ -59842,6 +60098,36 @@ Les conditions d'application de l'article L. 6432-1 sont déterminées par décr
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L6432-3
+
+I. ― Sont passibles d'une amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000
+€ pour une personne morale les manquements à l'article 23 du règlement (CE) n° 1008/2008 du Parlement européen et du Conseil,
+du 24 septembre 2008, établissant des règles communes pour l'exploitation de services aériens dans la Communauté (refonte)
+qui ont été constatés dans les conditions prévues au III de l'article L. 141-1 du code de la consommation. 
+
+II. ― L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer,
+dans les conditions prévues à l'article L. 141-1-2 du code de la consommation, les amendes administratives mentionnées au I
+du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1
+	  - Code de la consommation - art. L141-1-2
+
+	**Cité par**:
+
+	  - Code des transports - art. L6734-7 (V)
+	  - Code des transports - art. L6754-1 (V)
+	  - Code des transports - art. L6764-1 (V)
+	  - Code des transports - art. L6784-1 (V)
+
+
 ##### Chapitre III : Dispositions pénales
 
 
@@ -62033,6 +62319,22 @@ applicables en métropole en application ".
 	  - Code des transports - art. L6431-5 (V)
 
 
+###### Article L6734-7
+
+Pour l'application à Saint-Barthélemy du I de l'article L. 6432-3, les mots : " à l'article ” sont remplacés par les mots : "
+aux règles en vigueur en métropole en vertu de l'article ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L6432-3
+
+
 #### TITRE IV : SAINT MARTIN
 
 ##### Chapitre unique
@@ -62201,19 +62503,24 @@ la sûreté de l'aviation civile ".
 ###### Article L6754-1
 
 Les dispositions des articles L. 6412-2, L. 6412-3, 
-L. 6412-5 et L. 6421-3 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+L. 6412-5, L. 6421-3 et L. 6432-3 ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des transports - art. L6412-2 (V)
-	  - Code des transports - art. L6412-5 (V)
-	  - Code des transports - art. L6421-3 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L6412-2
+	  - Code des transports - art. L6412-5
+	  - Code des transports - art. L6421-3
+	  - Code des transports - art. L6432-3
 
 
 ###### Article L6754-2
@@ -62608,10 +62915,18 @@ l'intérêt des réceptions radioélectriques ".
 
 ###### Article L6764-1
 
-Sous réserve des compétences de la Nouvelle-Calédonie, les dispositions du livre IV de la présente partie, à l'exception de
-celles de son titre Ier, et l'article L. 6411-1sont applicables en Nouvelle-Calédonie.
+Sous réserve des compétences de la Nouvelle-Calédonie, l'article L. 6411-1 ainsi que les titres II et III du livre IV de la
+présente partie, à l'exception de l'article L. 6432-3, sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
 
 	**Cité par**:
 
@@ -62619,11 +62934,8 @@ celles de son titre Ier, et l'article L. 6411-1sont applicables en Nouvelle-Cal�
 
 	**Cite**:
 
-	  - Code des transports - art. L6411-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L6411-1
+	  - Code des transports - art. L6432-3
 
 
 ###### Article L6764-2
@@ -63562,13 +63874,21 @@ service de l'aviation civile.
 ###### Article L6784-1
 
 Les dispositions du livre IV de la présente partie sont applicables à Wallis-et-Futuna, à l'exception de celles des sections
-2 et 3 du chapitre Ier et du chapitre II du titre Ier.
+2 et 3 du chapitre Ier du titre Ier, du chapitre II du même titre et de l'article L. 6432-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+
+	**Cite**:
+
+	  - Code des transports - art. L6432-3
 
 
 ###### Article L6784-2
