@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-03-19
+Version Consolidée au 2014-03-27
 
 # PARTIE LEGISLATIVE
 
@@ -1685,8 +1685,8 @@ Le plan de déplacements urbains est élaboré ou révisé à l'initiative de l'
 transports urbains sur le territoire qu'il couvre. 
 
 Les services de l'Etat, de même que les régions et les départements au titre de leur qualité d'autorités organisatrices de
-transport ou de gestionnaires d'un réseau routier et, le cas échéant, le président de l'établissement public mentionné aux
-articles L. 122-4 et L. 122-4-1 du code de l'urbanisme sont associés à son élaboration. 
+transport ou de gestionnaires d'un réseau routier et, le cas échéant, le président de l'établissement public prévu à
+l'article L. 122-4 du code de l'urbanisme sont associés à son élaboration. 
 
 Les représentants des professions et des usagers des transports ainsi que des associations de personnes handicapées ou dont
 la mobilité est réduite, les chambres de commerce et d'industrie et les associations agréées de protection de l'environnement
@@ -1706,22 +1706,22 @@ modification a été notifié aux personnes publiques associées à la date d'en
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Modifié par**:
 
-	  - Ordonnance n°2012-11 du 5 janvier 2012 - art. 14
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (V)
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L122-4 (VT)
+	  - Code de l'urbanisme - art. L122-4 (V)
 	  - Code de l'environnement - art. L141-1
 
 	**Cité par**:
 
 	  - Code des transports - art. L1811-2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L1214-15
