@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-05-28
+Version Consolidée au 2014-07-03
 
 # PARTIE LEGISLATIVE
 
@@ -8706,7 +8706,10 @@ président sont exercées par le tribunal de première instance et son présiden
 5° Les références au code du travail sont remplacées par des références au code du travail applicable en Nouvelle-Calédonie ;
 
 6° Les références au code des postes et des communications électroniques et au code de l'urbanisme sont remplacées par des
-références aux textes applicables localement en la matière.
+références aux textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie
+locale.
 
 **Liens relatifs à cet article**
 
@@ -8716,7 +8719,7 @@ références aux textes applicables localement en la matière.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 33
 
 
 ##### Section 7 : Dispositions relatives à la Polynésie française
@@ -8741,7 +8744,10 @@ président sont exercées par le tribunal de première instance et son présiden
 Polynésie française ;
 
 6° Les références au code de l'urbanisme et au code du commerce sont remplacées par des références aux textes applicables
-localement en la matière.
+localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie
+locale.
 
 **Liens relatifs à cet article**
 
@@ -8751,7 +8757,7 @@ localement en la matière.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 33
 
 
 ##### Section 8 : Dispositions relatives à Wallis-et-Futuna
@@ -8775,7 +8781,10 @@ président sont exercées par le tribunal de première instance et son présiden
 5° Les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 modifiée
 instituant un code du travail dans les territoires et territoires associés relevant du ministère chargé de l'outre-mer ; 
 
-6° Les références au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière.
+6° Les références au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en
+monnaie locale.
 
 **Liens relatifs à cet article**
 
@@ -8789,7 +8798,7 @@ instituant un code du travail dans les territoires et territoires associés rele
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 33
 
 
 ##### Section 9 : Dispositions relatives aux Terres australes et antarctiques françaises
@@ -40786,6 +40795,350 @@ dispositions du chapitre III du titre Ier du livre II de la partie II du code de
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+#### TITRE IV : ACTIVITES PRIVEES DE PROTECTION DES NAVIRES
+
+##### Chapitre Ier : Dispositions générales
+
+###### Article L5441-1
+
+Est soumise au présent titre, dès lors qu'elle n'est pas exercée par des agents de l'Etat ou des agents agissant pour le
+compte de l'Etat, l'activité qui consiste, à la demande et pour le compte d'un armateur, à protéger, contre les menaces
+extérieures, des navires battant pavillon français.
+
+Cette activité ne peut s'exercer qu'à bord du navire qu'elle a pour but de protéger. Elle a pour fin de garantir la sécurité
+des personnes embarquées sur le navire, équipage et passagers. Elle pourvoit également à la protection des biens transportés.
+
+Les personnes morales exerçant cette activité sont dénommées entreprises privées de protection des navires. Les personnes
+physiques exerçant cette activité, employées par ces entreprises, sont dénommées agents. Les conditions d'exercice de cette
+activité sont définies au titre Ier du livre VI du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L611-1 (V)
+	  - Code des transports - art. L5442-1 (V)
+	  - Code des transports - art. L5442-12 (M)
+	  - Code des transports - art. L5442-2 (V)
+	  - Code des transports - art. L5442-5 (V)
+	  - Code des transports - art. R5442-1 (V)
+	  - Code des transports - art. R5442-12 (V)
+
+
+##### Chapitre II : Modalités d'exercice de l'activité privée de protection des navires 
+
+##### Section 1 : Champ d'action
+
+###### Article L5442-1
+
+Sans préjudice de l'application d'accords internationaux, l'activité mentionnée à l'article L. 5441-1 est exercée au-delà de
+la mer territoriale des Etats, dans des zones fixées par arrêté du Premier ministre en raison des menaces encourues. Un
+comité réunissant notamment des représentants des armateurs, du ministre de la défense, du ministre chargé des transports et
+du ministre des affaires étrangères peut, de sa propre initiative, recommander au Premier ministre de redéfinir ces zones au
+regard de l'évolution des menaces identifiées. 
+
+Ce comité se réunit dans les quinze jours suivant la demande d'un de ses membres. 
+
+Un décret fixe les types de navires non éligibles ainsi que les circonstances dérogatoires dans lesquelles ceux-ci peuvent
+embarquer des agents de protection.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2002-647 du 29 avril 2002 - art. 1-1 (V)
+	  - Arrêté du 28 novembre 2014 - art. 1 (V)
+	  - Décret n°2014-1418 du 28 novembre 2014 - art. (V)
+	  - Arrêté du 12 mai 2016 (V)
+	  - Décret n°2017-944 du 10 mai 2017 (V)
+	  - Code de la sécurité intérieure - art. L617-12-1 (V)
+	  - Code des transports - art. L5764-1 (V)
+	  - Code des transports - art. L5774-1 (V)
+	  - Code des transports - art. L5784-1 (V)
+	  - Code des transports - art. L5794-1 (V)
+	  - Code des transports - art. R5442-12 (V)
+	  - Code des transports - art. R5442-13 (V)
+	  - Code des transports - art. R5442-14 (V)
+	  - Code des transports - art. R5442-6 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 13
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1
+
+
+##### Section 2 : Nombre, tenue et armement des agents
+
+###### Article L5442-2
+
+Le nombre d'agents exerçant l'activité mentionnée à l'article L. 5441-1 embarqués à bord d'un navire protégé est fixé,
+conjointement et à l'issue d'une analyse de risque, par l'armateur et l'entreprise privée de protection des navires, en
+prenant en compte les moyens de défense passive équipant ledit navire. Ce nombre ne peut être inférieur à trois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 14
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-12-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1
+
+
+###### Article L5442-3
+
+Les agents portent, dans l'exercice de leurs fonctions, une tenue qui n'entraîne aucune confusion avec les tenues des forces
+de police, des forces armées, de l'administration des affaires maritimes ou de la douane françaises. Ils peuvent être armés
+dans l'exercice de ces fonctions et sont dotés d'équipements de protection balistique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 15
+
+	**Cité par**:
+
+	  - Code des transports - art. D5442-1-1 (V)
+
+
+###### Article L5442-4
+
+Les agents peuvent employer la force pour assurer la protection des personnes et des biens dans le cadre défini au titre II
+du livre Ier du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 16
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2014-742 du 1er juillet 2014 - art. 19
+
+	**Cité par**:
+
+	  - Code des transports - art. R5784-2 (Ab)
+
+
+###### Article L5442-5
+
+Les entreprises exerçant l'activité mentionnée à l'article L. 5441-1 sont autorisées, dans des conditions définies par un
+décret en Conseil d'Etat, à acquérir, détenir, transporter et mettre à disposition de leurs agents, pour les besoins de leurs
+activités, des armes et des munitions. 
+
+Ces entreprises ne peuvent importer sur le territoire national ni armes, ni munitions acquises dans un Etat non membre de
+l'Union européenne. Elles ne peuvent revendre dans un Etat non membre de l'Union européenne ni armes, ni munitions acquises
+sur le territoire national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 17
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-12-1 (V)
+	  - Code des transports - art. L5442-6 (V)
+	  - Code des transports - art. R5442-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1
+
+
+###### Article L5442-6
+
+Les conditions dans lesquelles les armes sont embarquées, stockées et remises aux agents à bord des navires protégés, ainsi
+que les catégories d'armes autorisées, sont définies par décret en Conseil d'Etat. 
+
+A bord du navire protégé, seuls les agents des entreprises privées de protection sont autorisés à manipuler les armes et les
+munitions mentionnées à l'article L. 5442-5. Le nombre d'armes autorisé est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 18
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-5
+
+
+##### Section 3 :  Droits et obligations
+
+###### Article L5442-7
+
+L'armateur, au sens des articles L. 5411-1 et L. 5411-2, ayant recours aux services d'une entreprise privée de protection des
+navires demande communication des références de l'autorisation d'exercice de l'entreprise, de la carte professionnelle de
+chacun des agents participant à l'exécution de la prestation, de l'assurance prévue à l'article L. 612-5 du code de la
+sécurité intérieure ainsi que des marques, modèles et numéros de série des armes embarquées. Ces informations font l'objet
+d'une annexe au contrat établi entre l'armateur et l'entreprise, le cas échéant mise à jour avant l'embarquement. Cette
+annexe identifie notamment l'agent investi de la fonction de chef des agents présents à bord du navire, lequel est capable de
+communiquer avec le capitaine dans la langue de travail à bord définie à l'article L. 5513-1 du présent code. 
+
+L'armateur vérifie la validité des cartes professionnelles soixante-douze heures au plus tôt avant l'embarquement des agents
+et transmet cette information au capitaine. 
+
+L'armateur informe les autorités de l'Etat du recours à ces services, dans des conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 19
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-12-2 (V)
+	  - Code des transports - art. D5442-7 (V)
+	  - Code des transports - art. L5442-8 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5411-1
+	  - Code des transports - art. L5513-1
+	  - Code de la sécurité intérieure - art. L612-5
+
+
+###### Article L5442-8
+
+Le capitaine du navire protégé dispose d'une copie de l'annexe mentionnée à l'article L. 5442-7. 
+
+Il procède à la vérification de l'identité des agents qui embarquent et de la conformité des numéros de série des armes
+embarquées avec ceux portés sur ladite annexe. 
+
+Il informe les autorités de l'Etat de l'embarquement et du débarquement des agents, dans des conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 20
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L617-12-2 (V)
+	  - Code des transports - art. D5442-8 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-7
+
+
+###### Article L5442-9
+
+Les agents présents à bord du navire sont placés sous l'autorité du capitaine en application de l'article L. 5531-1.
+
+Ils ne peuvent exercer aucune prestation sans rapport avec la protection des personnes ou des biens ou avec les conséquences
+directes qui en découlent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 21
+
+	**Cite**:
+
+	  - Code des transports - art. L5531-1
+
+
+###### Article L5442-10
+
+Les entreprises privées de protection des navires tiennent un registre de leur activité, selon des modalités définies par
+voie réglementaire. Ce registre est transmis, sur demande, aux agents de contrôle mentionnés aux articles L. 611-2 et L.
+634-3 du code de la sécurité intérieure. 
+
+Le chef des agents présents à bord du navire tient un registre de leur activité, selon des modalités définies par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 22
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L611-2 (V)
+	  - Code de la sécurité intérieure - art. L617-12-2 (V)
+	  - Code des transports - art. D5442-10 (V)
+	  - Code des transports - art. D5442-11 (V)
+	  - Code des transports - art. D5774-3 (Ab)
+	  - Code des transports - art. D5784-3 (Ab)
+	  - Code des transports - art. D5794-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L634-3
+
+
+###### Article L5442-11
+
+Le capitaine du navire protégé retranscrit dans le livre de bord tout événement impliquant les agents de l'entreprise privée
+de protection des navires ou relatif à leurs armes et munitions. En particulier, il mentionne les embarquements et
+débarquements, les stockages et déstockages des armes et munitions ainsi que, le cas échéant, les circonstances et les
+conséquences de leur utilisation.
+
+Le capitaine rédige un rapport de mer pour tout incident à bord impliquant un agent de l'équipe de protection. Il le transmet
+au Conseil national des activités privées de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 23
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 2015 - art. 11 (V)
+
+
+###### Article L5442-12
+
+En cas d'incident ayant entraîné l'usage de la force, le capitaine du navire protégé rédige un rapport de mer, qu'il transmet
+dans les meilleurs délais au représentant de l'Etat en mer compétent. 
+
+Le chef des agents présents à bord rédige un rapport à destination du capitaine du navire protégé, qui l'annexe au rapport de
+mer mentionné au premier alinéa. Son contenu est précisé par décret. 
+
+Tout individu demeuré ou recueilli à bord après avoir représenté une menace extérieure à l'encontre du navire, au sens de
+l'article L. 5441-1, fait l'objet d'une consignation, dans les conditions prévues à l'article L. 5531-19. Le capitaine
+informe sans délai la représentation française du pays de la prochaine escale du navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 24
+
+	**Cité par**:
+
+	  - Code des transports - art. D5442-10 (V)
+	  - Code des transports - art. D5442-9 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1 (V)
+	  - Code des transports - art. L5531-19 (V)
+
+
 ### LIVRE V : LES GENS DE MER
 
 #### TITRE IER : DEFINITIONS ET DISPOSITIONS GENERALES
@@ -52721,7 +53074,10 @@ Pour l'application des articles L. 5281-1 et L. 5281-2 en Nouvelle-Calédonie, l
 
 ###### Article L5763-1
 
-Les dispositions des articles L. 5341-11 à L. 5342-6 sont applicables en Nouvelle-Calédonie. 
+Les articles L. 5332-1 à L. 5332-7, L. 5336-1, L. 5336-8, L. 5336-10 et L. 5341-11 à L. 5342-6 sont applicables en Nouvelle-
+Calédonie. 
+
+Pour l'application de l'article L. 5336-8, les mots : " mentionnés à l'article L. 5336-3 " sont supprimés. 
 
 L'article L. 5342-3 s'applique dans sa rédaction antérieure à la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions
 en matière d'infrastructures et de services de transports.
@@ -52734,13 +53090,17 @@ en matière d'infrastructures et de services de transports.
 
 	**Cite**:
 
-	  - Loi n°2013-431 du 28 mai 2013 (V)
+	  - Loi n°2013-431 du 28 mai 2013
+	  - Code des transports - art. L5332-1
+	  - Code des transports - art. L5336-1
+	  - Code des transports - art. L5336-10
+	  - Code des transports - art. L5336-8
 	  - Code des transports - art. L5341-11
-	  - Code des transports - art. L5342-3 (Ab)
+	  - Code des transports - art. L5342-3
 
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 34
 
 
 ##### Chapitre IV : Le transport maritime
@@ -53033,18 +53393,45 @@ Pour l'application des articles L. 5281-1 et L. 5281-2 en Polynésie française,
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Chapitre III : Les ports maritimes
+
+###### Article L5773-1
+
+Les articles L. 5332-1 à L. 5332-7, L. 5336-1, L. 5336-8 et L. 5336-10 sont applicables en Polynésie française. 
+
+Pour l'application de l'article L. 5336-8, les mots : " mentionnés à l'article L. 5336-3 " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L5332-1
+	  - Code des transports - art. L5336-1
+	  - Code des transports - art. L5336-10
+	  - Code des transports - art. L5336-3 (V)
+	  - Code des transports - art. L5336-8
+
+
 ##### Chapitre IV : Le transport maritime
 
 
 ###### Article L5774-1
 
-Les dispositions du chapitre IV du titre III du livre IV sont applicables en Polynésie française.
+Le chapitre IV du titre III et le titre IV du livre IV sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 35
 
 
 ##### Chapitre V : Les gens de mer
@@ -53301,6 +53688,10 @@ sont remplacés par les mots : " chef du service des affaires maritimes ”.
 
 ###### Article L5783-1
 
+Les articles L. 5332-1 à L. 5332-7, L. 5336-1, L. 5336-8 et L. 5336-10 sont applicables à Wallis-et-Futuna. 
+
+Pour l'application de l'article L. 5336-8, les mots : " mentionnés à l'article L. 5336-3 " sont supprimés. 
+
 L'article L. 5342-3 s'applique dans sa rédaction antérieure à la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions
 en matière d'infrastructures et de services de transports.
 
@@ -53310,14 +53701,17 @@ en matière d'infrastructures et de services de transports.
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Cite**:
-
-	  - Loi n°2013-431 du 28 mai 2013 (V)
-	  - Code des transports - art. L5342-3 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 30 (V)
+	  - Loi n°2014-742 du 1er juillet 2014 - art. 34
+
+	**Cite**:
+
+	  - Code des transports - art. L5332-1
+	  - Code des transports - art. L5336-1
+	  - Code des transports - art. L5336-10
+	  - Code des transports - art. L5336-3 (V)
+	  - Code des transports - art. L5336-8
 
 
 ##### Chapitre IV : Le transport maritime
