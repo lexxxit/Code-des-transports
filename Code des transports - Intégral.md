@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-07-03
+Version Consolidée au 2014-07-12
 
 # PARTIE LEGISLATIVE
 
@@ -19092,6 +19092,28 @@ sont pas applicables aux salariés appartenant au personnel roulant des entrepri
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L3313-3
+
+Il est interdit à tout conducteur routier de prendre à bord d'un véhicule le repos hebdomadaire normal défini au h de
+l'article 4 du règlement (CE) n° 561/2006 du Parlement européen et du Conseil, du 15 mars 2006, relatif à l'harmonisation de
+certaines dispositions de la législation sociale dans le domaine des transports par route modifiant les règlements (CEE) n°
+3821/85 et (CEE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil.
+
+Tout employeur veille à ce que l'organisation du travail des conducteurs routiers soit conforme aux dispositions relatives au
+droit au repos hebdomadaire normal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°86-1130 du 17 octobre 1986 - art. 3 (VT)
+	  - Code des transports - art. R3315-11 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2014-790 du 10 juillet 2014 - art. 15
+
+
 ##### Chapitre IV : Formation professionnelle des conducteurs
 
 ###### Article L3314-1
@@ -19276,6 +19298,28 @@ Les conditions d'application du deuxième alinéa sont fixées par décret en Co
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L3315-4-1
+
+Est puni d'un an d'emprisonnement et de 30 000 € d'amende :
+
+1° Le fait d'organiser le travail des conducteurs routiers employés par l'entreprise ou mis à sa disposition sans veiller à
+ce que ceux-ci prennent en dehors de leur véhicule leur temps de repos hebdomadaire normal défini au h de l'article 4 du
+règlement (CE) n° 561/2006 du Parlement européen et du Conseil, du 15 mars 2006, relatif à l'harmonisation de certaines
+dispositions de la législation sociale dans le domaine des transports par route modifiant les règlements (CEE) n° 3821/85 et
+(CEE) n° 2135/98 du Conseil et abrogeant le règlement (CEE) n° 3820/85 du Conseil ;
+
+2° Le fait de rémunérer, à quel titre et sous quelle forme que ce soit, des conducteurs routiers employés par l'entreprise ou
+mis à sa disposition, en fonction de la distance parcourue ou du volume des marchandises transportées, dès lors que ce mode
+de rémunération est de nature à compromettre la sécurité routière ou à encourager les infractions au règlement (CE) n°
+561/2006 du Parlement européen et du Conseil, du 15 mars 2006, précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-790 du 10 juillet 2014 - art. 15
+
+
 ###### Article L3315-5
 
 Est puni de six mois d'emprisonnement et de 3 750 € d'amende le fait de se livrer à un transport routier avec une carte de
@@ -19308,8 +19352,8 @@ la route.
 Est passible des peines prévues par le présent chapitre et des peines sanctionnant les obligations mentionnées au présent
 titre ainsi qu'aux titres II et III du livre Ier de la troisième partie du code du travail toute personne qui, chargée à un
 titre quelconque de la direction ou de l'administration de toute entreprise ou établissement, a, par un acte personnel,
-contrevenu aux dispositions précitées du présent titre et  du code du travail ou commis les faits sanctionnés par les
-articles, L. 3315-2, L. 3315-4 et L. 3315-5.
+contrevenu aux dispositions précitées du présent titre et du code du travail ou commis les faits sanctionnés par les
+articles, L. 3315-2, L. 3315-4, L. 3315-4-1 et L. 3315-5. 
 
 Cette personne est passible des mêmes peines si elle a, en tant que commettant, laissé contrevenir à ces dispositions ou
 commettre ces faits toute personne relevant de son autorité ou de son contrôle, en ne prenant pas les dispositions de nature
@@ -19319,9 +19363,13 @@ Le préposé est passible des mêmes peines lorsque l'infraction résulte de son
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
 	**Modifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 22
+	  - Loi n°2014-790 du 10 juillet 2014 - art. 15
 
 	**Cite**:
 
@@ -19331,10 +19379,6 @@ Le préposé est passible des mêmes peines lorsque l'infraction résulte de son
 	**Cité par**:
 
 	  - Code des transports - art. L3521-3 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ### LIVRE IV : DISPOSITIONS COMMUNES A L'EXERCICE  DU TRANSPORT PUBLIC ROUTIER
@@ -19477,28 +19521,24 @@ L'activité de cabotage routier de marchandises, telle que prévue par le règle
 du Conseil du 21 octobre 2009 établissant des règles communes pour l'accès au marché du transport international de
 marchandises par route est subordonnée à la réalisation préalable d'un transport routier international. A cette condition,
 elle peut être pratiquée à titre temporaire par tout transporteur routier pour compte d'autrui établi dans un Etat partie à
-l'Espace économique européen et titulaire d'une licence communautaire, aux fins de rationalisation du transport international
-aux plans économique, énergétique et environnemental, sous réserve des dispositions transitoires prévues par les traités
-d'adhésion à l'Union européenne en matière de cabotage routier de marchandises.
+l'Espace économique européen, aux fins de rationalisation du transport international aux plans économique, énergétique et
+environnemental, sous réserve des  dispositions transitoires prévues par les traités d'adhésion à l'Union européenne en
+matière de cabotage routier de marchandises.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 6-1 (M), alinéa 1, paragraphe I
-
-	**Cité par**:
-
-	  - Code des transports - art. L3421-9 (V)
-	  - Code des transports - art. L3452-7 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - règlement (CE) n°1072/2009
+	  - Loi n°2014-790 du 10 juillet 2014 - art. 16
+
+	**Cité par**:
+
+	  - Code des transports - art. L3421-9 (V)
+	  - Code des transports - art. L3452-7 (M)
 
 
 ###### Article L3421-4
