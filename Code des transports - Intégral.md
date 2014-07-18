@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-07-19
 
 # PARTIE LEGISLATIVE
 
@@ -82085,6 +82085,30 @@ charge du propriétaire, de l'exploitant ou du concessionnaire.
 	**Anciens textes**:
 
 	  - Code de l'environnement - art. R214-105-4 (Ab)
+
+
+##### Chapitre IV : Déplacement d'office
+
+###### Article R4244-1
+
+L'autorité administrative compétente prévue à l'article L. 4244-1 est le préfet du département dans lequel le bateau est
+stationné. 
+
+Sauf en cas de péril imminent, si ce dernier envisage de déplacer le bateau dans un autre département, il recueille l'accord
+préalable du préfet concerné. 
+
+Après le déplacement d'office, le préfet qui a procédé au déplacement notifie le nouveau lieu de stationnement du bateau à
+son propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-803 du 16 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L4244-1
 
 
 #### TITRE V : DISPOSITIONS RELATIVES  À LA NAVIGATION DES BATEAUX EN MER
