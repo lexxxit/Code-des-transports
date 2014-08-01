@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-07-19
+Version Consolidée au 2014-08-02
 
 # PARTIE LEGISLATIVE
 
@@ -19747,9 +19747,9 @@ lesquelles les entreprises participent aux frais de gestion et de délivrance.
 ###### Article L3441-1
 
 Les sociétés coopératives de transport routier sont exclusivement formées par des personnes physiques en vue de
-l'exploitation en commun d'un fonds de commerce de transport public routier de marchandises ou de personnes.
+l'exploitation en commun d'un fonds de commerce de transport public routier de marchandises ou de personnes. 
 
-Elles sont régies par la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production.
+Elles sont régies par la loi n° 78-763 du 19 juillet 1978 portant statut des    sociétés coopératives de production.
 
 **Liens relatifs à cet article**
 
@@ -19757,19 +19757,19 @@ Elles sont régies par la loi n° 78-763 du 19 juillet 1978 portant statut des s
 
 	  - Loi n°78-763 du 19 juillet 1978
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°83-657 du 20 juillet 1983 - art. 35 (Ab), alinéa 1, ecqc les sociétés coopératives de transport routier
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 	**Cité par**:
 
 	  - Code des transports - art. L3531-1 (V)
 	  - Code des transports - art. L3541-1 (V)
 	  - Code des transports - art. R3224-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Section 2 : Les sociétés coopératives d'entreprises de transport routier
