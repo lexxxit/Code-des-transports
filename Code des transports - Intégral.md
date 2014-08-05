@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-08-02
+Version Consolidée au 2014-08-06
 
 # PARTIE LEGISLATIVE
 
@@ -12154,51 +12154,47 @@ Les propositions, avis et décisions de l'Autorité de régulation des activité
 
 ###### Article L2132-4
 
-Le président de l'Autorité de régulation des activités ferroviaires et les six autres membres sont nommés par décret.
-
 En cas de vacance de la présidence de l'Autorité de régulation des activités ferroviaires pour quelque cause que ce soit ou
 en cas d'empêchement constaté par le collège, les fonctions du président sont provisoirement exercées par le doyen d'âge du
 collège.
 
 Le président a qualité pour agir en justice au nom de l'autorité.
 
-Pour la constitution du collège, le président est nommé pour six ans.
-
 A l'exception du président, les membres du collège sont renouvelés par tiers tous les deux ans.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 12 (Ab), alinéas 2 (phrase 1), 3, 4 et 7 du paragraphe I, et alinéa 8 (phrase 1) du paragraphe II
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Modifié par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 13 (VD)
+
 
 ###### Article L2132-5
 
-Le président de l'Autorité de régulation des activités ferroviaires exerce cette fonction à plein temps. Sa fonction est
-incompatible avec toute activité professionnelle, tout mandat électif départemental, régional, national ou européen, avec
-tout emploi public et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur du transport
-ferroviaire.
+Le président de l'Autorité de régulation des activités ferroviaires et ses deux vice-présidents exercent leurs fonctions à
+plein temps. Leurs fonctions sont incompatibles avec toute activité professionnelle, avec tout mandat électif départemental,
+régional, national ou européen, avec tout emploi public et avec toute détention, directe ou indirecte, d'intérêts dans le
+secteur ferroviaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 13 (Ab), alinéa 1
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 13 (VD)
 
 	**Cité par**:
 
 	  - Code des transports - art. L1264-7 (V)
 	  - Code des transports - art. L2331-1 (M)
 	  - Code des transports - art. L2341-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L2132-6
@@ -12231,12 +12227,12 @@ obligations définies à l'article L. 2132-8.
 
 ###### Article L2132-7
 
-Trois des membres autres que le président sont désignés respectivement par le président de l'Assemblée nationale, le
-président du Sénat et le président du Conseil économique, social et environnemental.
+Les deux vice-présidents sont désignés, respectivement, par le président de l'Assemblée nationale et le président du Sénat. 
 
-La durée du mandat des membres désignés par les présidents des assemblées parlementaires et du Conseil économique, social et
-environnemental est fixée, par tirage au sort, à deux, quatre et six ans. La durée du mandat des trois autres membres est
-fixée par tirage au sort à deux, quatre et six ans.
+Le collège comprend au moins un membre nommé en raison de ses compétences économiques, un membre nommé en raison de ses
+compétences juridiques et un membre nommé en raison de ses compétences techniques dans le domaine ferroviaire ou pour son
+expertise en matière de concurrence, notamment dans le domaine des industries de réseau. La composition du collège assure une
+représentation équilibrée entre les femmes et les hommes. 
 
 En cas de vacance d'un siège de membre du collège, il est procédé à son remplacement pour la durée du mandat restant à
 courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte pour l'application de la règle de non-
@@ -12244,49 +12240,54 @@ renouvellement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 12 (Ab), alinéas 2 (phrase 2) et 5, paragraphe I, et alinéa 8 (phrases 2 et 3), paragraphe II
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-872 du 4 août 2014 - art. 13
 
 	**Cité par**:
 
 	  - Code des transports - art. L1264-7 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L2132-8
 
-Les fonctions des autres membres du collège sont incompatibles avec tout mandat électif départemental, régional, national ou
-européen et toute détention, directe ou indirecte, d'intérêts dans une entreprise du secteur du transport ferroviaire.
+Les fonctions des membres du collège autres que celles de président ou de vice-président sont incompatibles avec tout mandat
+électif départemental, régional, national ou européen, et avec toute détention, directe et indirecte, d'intérêts dans le
+secteur ferroviaire. 
 
 Les membres du collège ne prennent, à titre personnel, aucune position publique sur des sujets relevant de la compétence de
-l'autorité.
+l'autorité. 
 
 Sans préjudice de la possibilité, pour tout membre du collège, de se déporter dans toute affaire dans laquelle il
-l'estimerait nécessaire, aucun membre ne peut délibérer dans une affaire dans laquelle il a ou a eu un intérêt au cours des
-trois années précédant la délibération ; cette interdiction s'applique également lorsque, au cours de la même période, un
-membre a détenu un mandat ou exercé des fonctions de direction, de conseil ou de contrôle au sein d'une personne morale ayant
-eu intérêt à cette affaire.
+l'estimerait nécessaire, aucun membre ne peut délibérer dans une affaire dans laquelle il a eu un intérêt au cours des trois
+années précédant la délibération ; cette interdiction s'applique également lorsque, au cours de la même période, un membre a
+détenu un mandat ou exercé des fonctions de direction, de conseil ou de contrôle au sein d'une personne morale ayant eu
+intérêt à cette affaire. 
 
-Les membres du collège ne sont pas révocables, sous réserve des dispositions suivantes :
+Les membres du collège ne sont pas révocables, sous réserve des dispositions suivantes : 
 
 1° Tout membre qui ne respecte pas les règles d'incompatibilité prévues au présent article est déclaré, après consultation du
-collège, démissionnaire d'office par décret ;
+collège, démissionnaire d'office par décret ; 
 
 2° Il peut être mis fin aux fonctions d'un membre en cas d'empêchement constaté par le collège, dans les conditions prévues
-par le règlement intérieur de l'autorité ;
+par le règlement intérieur de l'autorité ; 
 
 3° Il peut également être mis fin aux fonctions d'un membre en cas de manquement grave à ses obligations, par décret pris sur
-proposition du collège.
+proposition du collège. 
+
+Au terme de leur mandat, les membres du collège ne peuvent occuper aucune position professionnelle ni exercer aucune
+responsabilité au sein d'aucune des entreprises ou entités entrant dans le champ de la régulation pendant une période
+minimale de trois ans, sous peine des sanctions prévues à l'article 432-13 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2009-1503 du 8 décembre 2009 - art. 13 (Ab), alinéas 2 à 8
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -12295,9 +12296,13 @@ proposition du collège.
 	  - Code des transports - art. L2331-1 (M)
 	  - Code des transports - art. L2341-1 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2014-872 du 4 août 2014 - art. 13
+
+	**Cite**:
+
+	  - Code pénal - art. 432-13 (V)
 
 
 ##### Section 3 : Délibérations
