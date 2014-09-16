@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2014-09-17
 
 # PARTIE LEGISLATIVE
 
@@ -68657,7 +68657,7 @@ représentant ;
 
 12° Le chef de la mission de la sûreté nucléaire et de la radioprotection ou son représentant ;
 
-13° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+13° Le directeur général des entreprises ou son représentant ;
 
 14° Le directeur général des douanes et droits indirects ou son représentant ;
 
@@ -68689,17 +68689,9 @@ dangereuses est renouvelée pour une durée de cinq ans à compter du 8 juin 201
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-1029 du 13 septembre 1995 - art. 2, alinéas 3 à 24 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art.
-
-	**Créé par**:
-
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - Décret n°2014-1048 du 15 septembre 2014 - art. 4
 
 
 ###### Article D1252-4
