@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-09-17
+Version Consolidée au 2014-09-28
 
 # PARTIE LEGISLATIVE
 
@@ -202,11 +202,22 @@ services de transport collectif sont rendus accessibles aux personnes handicapé
 conformément aux dispositions du premier alinéa de l'article L. 114-4 du code de l'action sociale et des familles, avant le
 13 février 2015.
 
+L'accessibilité du service de transport est assurée par l'aménagement des points d'arrêt prioritaires compte tenu de leur
+fréquentation, des modalités de leur exploitation, de l'organisation des réseaux de transport et des nécessités de desserte
+suffisante du territoire. Ces critères sont précisés par décret.
+
+Les dispositions relatives à la mise en accessibilité des points d'arrêt du service de transport scolaire sont fixées à
+l'article L. 3111-7-1.
+
+Les bâtiments et installations recevant du public faisant partie des gares ferroviaires considérées comme des points d'arrêt
+non prioritaires et pour lesquelles des mesures de substitution pour l'accès des personnes handicapées sont mises en place ne
+sont pas soumis aux dispositions du troisième alinéa de l'article L. 111-7-3 du code de la construction et de l'habitation.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M), alinéa 2, paragraphe I
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -219,17 +230,19 @@ conformément aux dispositions du premier alinéa de l'article L. 114-4 du code 
 	  - Code des transports - art. D1112-9 (V)
 	  - Code des transports - art. L1112-10 (VD)
 	  - Code des transports - art. L1112-2-1 (V)
+	  - Code des transports - art. L1112-4 (V)
 	  - Code des transports - art. L1112-5 (VD)
 	  - Code des transports - art. L1821-1-1 (V)
 	  - Code des transports - art. L2133-7 (VD)
 
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 6
+
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L114-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code de l'action sociale et des familles - art. L114-4
+	  - Code de la construction et de l'habitation. - art. L111-7-3
 
 
 ###### Article L1112-2
@@ -267,12 +280,235 @@ de l'importance de leur trafic, par les gestionnaires des gares maritimes.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L1112-2-1
+
+I.-Il peut être élaboré un schéma directeur d'accessibilité-agenda d'accessibilité programmée. Cet agenda comporte une
+analyse des actions nécessaires à la mise en accessibilité de ce service et prévoit les modalités et la programmation de la
+réalisation de ces actions ainsi que le financement correspondant. Il précise les points d'arrêt identifiés comme
+prioritaires, les dérogations sollicitées en cas d'impossibilité technique avérée mentionnée à l'article L. 1112-4 et les
+mesures de substitution prévues dans ces derniers cas. 
+
+Pour les services de transport ferroviaire, le schéma directeur d'accessibilité-agenda d'accessibilité programmée inclut
+également, au titre des obligations d'accessibilité prévues aux deux premiers alinéas de l'article L. 111-7-3 du code de la
+construction et de l'habitation, les travaux relatifs aux gares et aux autres points d'arrêt ferroviaires identifiés comme
+prioritaires ainsi que les mesures de substitution prévues pour ceux qui ne le sont pas en application de l'article L.
+1112-1. 
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée prévoit également les modalités et le calendrier de
+formation des personnels en contact avec le public aux besoins des usagers handicapés et les mesures d'information des
+usagers à mettre en œuvre par l'exploitant. 
+
+Il précise les modalités de son actualisation. 
+
+Un service de transport public concernant plusieurs départements donne lieu à plusieurs schémas directeurs d'accessibilité-
+agendas d'accessibilité programmée regroupant, pour chacun d'entre eux, les points d'arrêt situés dans un même département.
+Chacun de ces schémas directeurs d'accessibilité-agendas d'accessibilité programmée présente dans un préambule les
+orientations et les priorités générales pour la mise en accessibilité du service public de transport sur la totalité des
+départements concernés. 
+
+Le schéma directeur d'accessibilité des services-agenda d'accessibilité programmée peut être élaboré par chaque autorité
+organisatrice de transport ou, en l'absence d'une telle autorité, l'Etat, le cas échéant en complétant le schéma directeur
+d'accessibilité prévu à l'article L. 1112-2 s'il existe. Il se substitue alors à ce schéma directeur d'accessibilité des
+services de transport. 
+
+II.-Dans le cas où la mise en accessibilité d'un service de transport nécessite le concours de plusieurs personnes morales,
+le schéma directeur précise les engagements de chacune de ces personnes en ce qui concerne le service de transport et
+l'infrastructure. 
+
+En tant que chef de file, l'autorité organisatrice de transport ou, en l'absence d'une telle autorité, l'Etat, recueille
+l'avis de toutes les parties intéressées par le service de transport dont elle est responsable, notamment les gestionnaires
+de la voirie, des points d'arrêt ferroviaires et de toutes autres infrastructures. Pour un point d'arrêt desservi par
+plusieurs services publics de transport routier de voyageurs, le rôle de chef de file est attribué à l'autorité organisatrice
+de transport qui est également en charge de la voirie ou, à défaut, à l'autorité organisatrice de transport dont le service
+de transport contribue le plus à la fréquentation du point d'arrêt. Pour les points d'arrêt ferroviaires d'intérêt à la fois
+régional et national desservis par des services de transport ferroviaire, un arrêté du ministre chargé des transports
+détermine à quelle collectivité publique chargée d'un des services de transport concernés est attribué le rôle de chef de
+file. 
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée comporte les engagements, notamment financiers, de
+toutes les personnes morales contribuant à sa réalisation ou à son financement. Il est signé par ces personnes. 
+
+III.-Dans un délai de cinq mois après son dépôt, le représentant de l'Etat dans le département se prononce, après avis de la
+commission départementale consultative de la protection civile, de la sécurité et de l'accessibilité, sur la validation du
+schéma directeur d'accessibilité-agenda d'accessibilité programmée ne concernant pas les services de transport ferroviaire
+d'intérêt national. Lorsqu'un schéma directeur d'accessibilité-agenda d'accessibilité programmée concerne un réseau de
+transport public local desservant plusieurs départements, la décision de validation relative aux éléments prévus à l'avant-
+dernier alinéa du I de l'article L. 1112-2-1 est prise par le représentant du département dans lequel est implanté le siège
+de l'autorité organisatrice des transports qui a déposé la demande. 
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée relatif aux services ferroviaires d'intérêt national
+est soumis à la validation du ministre chargé des transports qui rend sa décision, après avis des commissions départementales
+consultatives de la protection civile, de la sécurité et de l'accessibilité concernées, dans un délai de six mois. 
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée doit être déposé dans les douze mois suivant la
+publication de l'ordonnance n° 2014-1090 du 26 septembre 2014. 
+
+Ce délai peut être prorogé pour une durée maximale de trois ans dans le cas où les difficultés techniques ou financières
+liées à l'élaboration ou à la programmation du schéma l'imposent ou dans le cas d'un rejet d'un premier schéma.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
+	  - Arrêté du 20 juillet 2015 - art. 1 (V)
+	  - Code des transports - art. L1112-2-1 (M)
+	  - Code des transports - art. L1112-2-4 (V)
+	  - Code des transports - art. L1821-1-1 (V)
+	  - Code des transports - art. R1112-11 (V)
+	  - Code des transports - art. R1112-12 (V)
+	  - Code des transports - art. R1112-14 (V)
+	  - Code des transports - art. R1112-15 (V)
+	  - Code des transports - art. R1112-16 (V)
+	  - Code des transports - art. R1112-18 (V)
+	  - Code général des collectivités territoriales - art. L2143-3 (V)
+
+	**Cite**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014
+	  - Code de la construction et de l'habitation. - art. L111-7-3
+	  - Code des transports - art. L1112-1
+	  - Code des transports - art. L1112-2
+	  - Code des transports - art. L1112-4
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 7
+
+
+###### Article L1112-2-2
+
+La durée de réalisation du schéma directeur d'accessibilité-agenda d'accessibilité programmée ne peut excéder, à compter de
+son approbation : 
+
+1° Une période de trois ans maximum pour les services réguliers et à la demande de transport public urbain mentionnés à
+l'article L. 1231-1 ; 
+
+2° Deux périodes de trois ans maximum pour les services réguliers et à la demande de transport routier public non urbain
+mentionnés aux articles L. 3111-1 à L. 3111-6 et pour les services réguliers et à la demande de transport public dans la
+région Ile-de-France mentionnés à l'article L. 1241-1, sous réserve des services mentionnés au 3° ; 
+
+3° Trois périodes de trois ans maximum pour les services de transport public ferroviaire et, en Ile-de-France, les services
+de transport empruntant les lignes du réseau express régional.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 7
+
+	**Cité par**:
+
+	  - Arrêté du 27 mai 2015 - art. 1 (V)
+	  - Code des transports - art. L1112-2-4 (V)
+	  - Code des transports - art. L1821-1-2 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L1231-1
+	  - Code des transports - art. L1241-1
+	  - Code des transports - art. L3111-1
+
+
+###### Article L1112-2-3
+
+En cas de force majeure, la prorogation de la mise en œuvre du schéma directeur d'accessibilité-agenda d'accessibilité
+programmée peut être demandée et prononcée par décision expresse de l'autorité administrative. Cette prorogation prolonge les
+délais prévus par le schéma directeur d'accessibilité-agenda d'accessibilité programmée pour une durée maximale de trois ans,
+renouvelable si les circonstances de force majeure font obstacle à l'achèvement du schéma dans ce délai.
+
+En cas de difficultés techniques ou financières graves ou imprévues, l'autorité administrative peut autoriser une prorogation
+de la durée du schéma directeur d'accessibilité-agenda d'accessibilité programmée pour une durée maximale de douze mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 7
+
+	**Cité par**:
+
+	  - Code des transports - art. R1112-11 (V)
+	  - Code des transports - art. R1112-21 (V)
+
+
+###### Article L1112-2-4
+
+I.-A l'issue de chaque période, un bilan des travaux d'accessibilité effectués est transmis à l'autorité administrative
+compétente. 
+
+L'absence non justifiée de transmission de ces bilans ou la transmission d'un bilan manifestement erroné est sanctionnée par
+une sanction pécuniaire forfaitaire de 2 500 € recouvrée comme en matière de créances étrangères à l'impôt et au domaine. 
+
+II.-Le dépôt, sans justification, d'un schéma directeur d'accessibilité-agenda d'accessibilité programmée au-delà de la date
+prévue est sanctionné par une sanction pécuniaire forfaitaire de 5 000 € recouvrée comme en matière de créances étrangères à
+l'impôt et au domaine et par une réduction de la durée maximale prévue à l'article L. 1112-2-2 pour le schéma directeur
+d'accessibilité programmée-agenda d'accessibilité programmée à hauteur du nombre de mois de retard. 
+
+III.-Au terme du schéma directeur d'accessibilité-agenda d'accessibilité programmée, lorsque les engagements en matière de
+formation et de mise à disposition des usagers des informations relatives au service de transport public prévus à l'article
+L. 1112-2-1 n'ont pas été mis en œuvre, l'autorité administrative peut engager une procédure de carence dans des conditions
+précisées par décret. 
+
+Après avoir mis, selon le cas, l'autorité organisatrice de transport de services non ferroviaires ou, pour les services
+ferroviaires, l'exploitant du service ou le gestionnaire des gares et points d'arrêt desservis en mesure de présenter ses
+observations, cette autorité peut mettre en demeure respectivement cette dernière ou ce dernier de satisfaire à ses
+obligations dans un délai déterminé et imposer la constitution d'une provision comptable correspondant aux actions non
+réalisées. 
+
+Au terme de ce délai, une sanction pécuniaire peut être prononcée à concurrence du coût des actions non réalisées. La
+sanction est prise en tenant compte, le cas échéant, des difficultés rencontrées par la personne n'ayant pas rempli ses
+obligations. Elle ne peut pas être supérieure à 10 % du montant des dépenses réelles de formation et de communication
+figurant dans les dépenses réelles de fonctionnement du compte administratif établi au titre du pénultième exercice pour la
+collectivité territoriale ou à 10 % du montant des dépenses de formation et de communication figurant dans les comptes du
+pénultième exercice de l'exploitant de services ferroviaires ou du gestionnaire des gares et points d'arrêt desservis. 
+
+Le produit des sanctions pécuniaires prévues à l'alinéa précédent est recouvré comme en matière de créances étrangères à
+l'impôt et au domaine et versé au fonds dédié à l'accompagnement de l'accessibilité universelle défini à l'article L.
+111-7-12 du code de la construction et de l'habitation. 
+
+Un décret en Conseil d'Etat pris après avis du Conseil national consultatif des personnes handicapées détermine les
+conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 7
+
+	**Cité par**:
+
+	  - Loi n°2015-988 du 5 août 2015 - art. 10 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7-12 (V)
+	  - Code des transports - art. D1112-24 (V)
+	  - Code des transports - art. R1112-11 (V)
+	  - Code des transports - art. R1112-23 (V)
+	  - Code général des collectivités territoriales - art. L2143-3 (VT)
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-1
+	  - Code des transports - art. L1112-2-2
+
+
 ###### Article L1112-3
 
 Tout matériel roulant acquis lors d'un renouvellement de matériel ou à l'occasion de l'extension des réseaux est accessible
 aux personnes handicapées ou à mobilité réduite.
 
+Le matériel roulant routier, guidé et ferroviaire en service le 13 février 2015 peut être exploité après cette date.
+Toutefois, une proportion minimale de matériel roulant affecté aux services réguliers et à la demande de transport public
+routier de voyageurs doit être accessible sur chaque service. Cette proportion et sa progression sont déterminées par décret
+en fonction du matériel roulant utilisé et du type de services de transport collectif de voyageurs. Le matériel roulant
+routier accessible est affecté en priorité aux lignes les plus fréquentées.
+
+Les règles relatives au matériel roulant des services de transport scolaire sont fixées à l'article L. 3111-7-1.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -285,29 +521,28 @@ aux personnes handicapées ou à mobilité réduite.
 	  - Code des transports - art. L1221-4 (V)
 	  - Code des transports - art. R3111-39 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M), alinéa 10, phrase 1, paragraphe II
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 6
 
 
 ###### Article L1112-4
 
-Lorsque la mise en accessibilité des réseaux existants s'avère techniquement impossible, des moyens de transport adaptés aux
-besoins des personnes handicapées ou dont la mobilité est réduite sont mis à leur disposition. L'autorité organisatrice de
-transport compétente dispose d'un délai de trois ans pour organiser et financer ces moyens de transport.
+Lorsque, dans un réseau existant, la mise en accessibilité d'un arrêt identifié comme prioritaire au sens de l'article L.
+1112-1 s'avère techniquement impossible en raison d'un obstacle impossible à surmonter sauf à procéder à des aménagements
+d'un coût manifestement disproportionné, des moyens de transport adaptés aux besoins des personnes handicapées ou dont la
+mobilité est réduite sont mis à leur disposition. L'autorité organisatrice de transport compétente dispose d'un délai de dix-
+huit mois à compter de la validation de l'impossibilité technique par l'autorité administrative pour organiser et financer
+ces moyens de transport. 
 
 Le coût de ces transports de substitution pour les usagers handicapés ne doit pas être supérieur au coût du transport public
 existant.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M), alinéa 5, paragraphe I
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -319,9 +554,13 @@ existant.
 	  - Code des transports - art. R1112-13 (V)
 	  - Code des transports - art. R1112-16 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-1 (V)
 
 
 ###### Article L1112-5
@@ -371,22 +610,22 @@ compte de l'accessibilité.
 
 ###### Article L1112-7
 
-L'autorité organisatrice de transport public met en place une procédure de dépôt de plainte concernant les obstacles à la
-libre circulation des personnes à mobilité réduite.
+L'autorité organisatrice de transport public met en place une procédure de signalement  concernant les obstacles à la libre
+circulation des personnes à mobilité réduite.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 45 (M), alinéa 7, paragraphe I
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
 	  - Loi n°2014-789 du 10 juillet 2014 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 6
 
 
 ###### Article L1112-8
@@ -2405,14 +2644,27 @@ La convention à durée déterminée mentionnée à l'article L. 1221-3 fixe la 
 fonctionnement et de financement du service. Elle définit les actions à entreprendre par l'une et par l'autre partie afin de
 favoriser l'exercice effectif du droit au transports et de promouvoir le transports public de personnes. 
 
+Elle précise le pourcentage de matériel roulant accessible affecté aux services réguliers et à la demande de transport public
+routier de voyageurs mis en œuvre au moment de la passation de la convention et, le cas échant, la progression de ce
+pourcentage pendant la durée de celle-ci en application du deuxième alinéa de l'article L. 1112-3. Elle prévoit des pénalités
+pour non-respect des obligations prévues par le premier alinéa de l'article L. 1112-3. 
+
+Quand l'autorité organisatrice de transport est une collectivité territoriale, elle délibère chaque année sur les conditions
+d'exécution, par le titulaire, du service public en matière d'accessibilité. Elle examine, le cas échéant, les pénalités
+appliquées pour non-respect des obligations de la convention en matière d'accessibilité. 
+
 Cette convention est résiliée de plein droit, en cas de radiation de l'entreprise du registre mentionné à l'article L.
 1421-1.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 7 (VT), alinéa 3, phrases 3 à 5, paragraphe II
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 8
 
 	**Cité par**:
 
@@ -2421,12 +2673,9 @@ Cette convention est résiliée de plein droit, en cas de radiation de l'entrepr
 
 	**Cite**:
 
-	  - Code des transports - art. L1221-3 (VD)
-	  - Code des transports - art. L1421-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Code des transports - art. L1112-3
+	  - Code des transports - art. L1221-3
+	  - Code des transports - art. L1421-1
 
 
 ###### Article L1221-5
@@ -2530,21 +2779,29 @@ désigner.
 
 ###### Article L1221-10
 
-Les régies de transports sont créées par délibération de l'autorité organisatrice.
+Les régies de transports sont créées par délibération de l'autorité organisatrice. 
+
+Chaque année, l'autorité organisatrice de transport délibère sur les conditions dans lesquelles la régie met en œuvre
+l'obligation d'accessibilité du service public, notamment en ce qui concerne la mise en service de matériel roulant
+accessible prévue à l'article L. 1112-3.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-891 du 16 août 1985 - art. 12 (VT), alinéa 2, phrase 2
-
-	**Cité par**:
-
-	  - Code des transports - art. R1221-1-1 (VD)
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 8
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-3
+
+	**Cité par**:
+
+	  - Code des transports - art. R1221-1-1 (VD)
 
 
 ###### Article L1221-11
@@ -9291,14 +9548,73 @@ articles L. 4433-20 et L. 4433-21 du code général des collectivités territori
 
 ###### Article L1821-1
 
-Les chapitres II et III du titre Ier du livre Ier, les titres II et III du livre III de la présente partie ne sont pas
-applicables à Mayotte.
+Le chapitre III du titre Ier du livre Ier, les titres II et III du livre III de la présente partie ne sont pas applicables à
+Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 15
+
+
+###### Article L1821-1-1
+
+Pour l'application à Mayotte de l'article L. 1112-1, les mots : “ avant le 13 février 2015 ” sont remplacés par les mots : “
+avant le 29 août 2018 ”. 
+
+Pour l'application à Mayotte de l'article L. 1112-2-1, les mots : “ dans les douze mois suivant la publication de
+l'ordonnance n° 2014-1090 du 26 septembre 2014 ” sont remplacés par les mots : “ avant le 28 février 2019 ”.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014
+	  - Code des transports - art. L1112-1
+	  - Code des transports - art. L1112-2-1
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 15
+
+
+###### Article L1821-1-2
+
+Pour l'application à Mayotte de l'article L. 1112-2-2 et jusqu'au 31 décembre 2015, les attributions dévolues à la commission
+départementale consultative de la protection civile, de la sécurité et de l'accessibilité sont attribuées à une commission de
+sécurité contre les risques d'incendie et de panique dans les établissements recevant du public dont le rôle, la composition
+et le fonctionnement sont définis par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 15
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-2
+
+
+###### Article L1821-1-3
+
+Pour l'application à Mayotte de l'article L. 1112-5, les mots : “ au 12 février 2005 ” sont remplacés par les mots : “ à la
+date de publication de la présente ordonnance ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 15
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-5
 
 
 ###### Article L1821-2
@@ -9425,8 +9741,8 @@ partie et par le titre II du livre V de la sixième partie du présent code appl
 
 ###### Article L1831-1
 
-Les dispositions de la section 2 du chapitre II et du chapitre IV du titre Ier ainsi que des titres II et III du livre II ne
-sont pas applicables à Saint-Barthélemy.
+Les dispositions        du chapitre IV du titre Ier ainsi que des titres II et III du livre II ne sont pas applicables à
+Saint-Barthélemy. 
 
 Les autres dispositions de la présente partie, à l'exception de celles du livre III, du titre III du livre IV, des titres II
 et III du livre VI et du livre VII, ne sont pas applicables à Saint-Barthélemy en tant qu'elles concernent les transports
@@ -9437,6 +9753,10 @@ routiers.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 16
 
 
 ###### Article L1831-2
@@ -16314,6 +16634,29 @@ décret en Conseil d'Etat.
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L3111-7-1
+
+Les représentants légaux d'un élève handicapé scolarisé à temps plein dont le projet personnalisé de scolarisation mentionné
+à l'article L. 112-2 du code de l'éducation prévoit l'utilisation du réseau de transport scolaire peuvent demander la mise en
+accessibilité des points d'arrêt de ce réseau les plus proches de son domicile et de l'établissement scolaire fréquenté. La
+mise en accessibilité ne peut alors être refusée qu'en cas d'impossibilité technique avérée définie à l'article L. 1112-4.
+Dans ce cas, un moyen de transport de substitution est organisé. Les autres points d'arrêt à l'usage exclusif du service de
+transport scolaire ne sont pas soumis à l'obligation d'accessibilité. Du matériel roulant routier accessible est affecté aux
+lignes dont certains points d'arrêt sont soumis à l'obligation d'accessibilité dans les conditions définies au présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L112-2
+	  - Code des transports - art. L1112-4 (V)
 
 
 ###### Article L3111-8
