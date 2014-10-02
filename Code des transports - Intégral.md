@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-09-28
+Version Consolidée au 2014-10-03
 
 # PARTIE LEGISLATIVE
 
@@ -16902,6 +16902,38 @@ d'Ile-de-France.
 
 ##### Chapitre II : Exécution des services occasionnels
 
+###### Article L3112-1
+
+Les services occasionnels, lorsqu'ils sont exécutés avec des véhicules de moins de dix places, sont soumis aux II et III de
+l'article L. 3120-2 et à l'article L. 3120-3. 
+
+Toutefois, le même article L. 3120-3 n'est pas applicable aux services organisés par une autorité organisatrice de transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cité par**:
+
+	  - Code des transports - art. L1811-2 (V)
+	  - Code des transports - art. L3114-2 (V)
+	  - Code des transports - art. L3143-4 (V)
+	  - Code des transports - art. L3511-3 (V)
+	  - Code des transports - art. L3521-2-1 (V)
+	  - Code des transports - art. L3551-1-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L3120-2 (V)
+	  - Code des transports - art. L3120-3 (V)
+
+
 ###### Article L3112-2
 
 Tout contrat passé pour l'exécution de services occasionnels doit comporter des clauses précisant l'objet de la prestation et
@@ -17107,6 +17139,43 @@ personnes réguliers et à la demande.
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L3114-4
+
+I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour un conducteur de véhicule de moins de dix places
+exécutant des services occasionnels, de contrevenir au 1° du II de l'article L. 3120-2. 
+
+II.-Les personnes physiques reconnues coupables de l'infraction mentionnée au I du présent article encourent également les
+peines complémentaires suivantes : 
+
+1° La suspension, pour une durée maximale de cinq ans, du permis de conduire ; 
+
+2° L'immobilisation, pour une durée maximale d'un an, du véhicule qui a servi à commettre l'infraction ; 
+
+3° La confiscation du véhicule qui a servi à commettre l'infraction. 
+
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction prévue au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du
+même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code des transports - art. L3120-2 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R3114-1 (V)
+	  - Code des transports - art. R3421-5-1 (V)
+
+
 ##### Chapitre V : Droits des passagers en transport par autobus et autocar
 
 ##### Section 1 : Services réguliers
@@ -17250,6 +17319,163 @@ présent article.
 
 #### TITRE II : LES TRANSPORTS PUBLICS PARTICULIERS
 
+##### Chapitre préliminaire : Dispositions générales
+
+###### Article L3120-1
+
+Le présent titre est applicable aux prestations de transport routier de personnes effectuées à titre onéreux avec des
+véhicules de moins de dix places, à l'exclusion des transports publics collectifs mentionnés au titre Ier de la présente
+partie et du transport privé routier de personnes mentionné au titre III.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cité par**:
+
+	  - Code des transports - art. L3120-2 (V)
+	  - Code des transports - art. L3120-3 (Ab)
+	  - Code des transports - art. L3120-4 (V)
+	  - Code des transports - art. L3120-5 (V)
+	  - Code des transports - art. L3124-13 (Ab)
+	  - Code des transports - art. L3143-4 (V)
+	  - Code des transports - art. R3124-13 (V)
+
+
+###### Article L3120-2
+
+I.-Les véhicules qui effectuent les prestations mentionnées à l'article L. 3120-1 ne peuvent pas être loués à la place. 
+
+II.-A moins de justifier de l'autorisation de stationnement mentionnée à l'article L. 3121-1, le conducteur d'un véhicule
+mentionné au I du présent article ne peut : 
+
+1° Prendre en charge un client sur la voie ouverte à la circulation publique, sauf s'il justifie d'une réservation
+préalable ; 
+
+2° S'arrêter, stationner ou circuler sur la voie ouverte à la circulation publique en quête de clients ; 
+
+3° Stationner sur la voie ouverte à la circulation publique, à l'abord des gares et des aérogares ou, le cas échéant, dans
+l'enceinte de celles-ci, au delà d'une durée, fixée par décret, précédant la prise en charge de clients, sauf s'il justifie
+d'une réservation préalable ou d'un contrat avec le client final. 
+
+III.-Sont interdits aux personnes réalisant des prestations mentionnées à l'article L. 3120-1 et aux intermédiaires auxquels
+elles ont recours : 
+
+1° Le fait d'informer un client, avant la réservation mentionnée au 1° du II du présent article, quel que soit le moyen
+utilisé, à la fois de la localisation et de la disponibilité d'un véhicule mentionné au I quand il est situé sur la voie
+ouverte à la circulation publique sans que son propriétaire ou son exploitant soit titulaire d'une autorisation de
+stationnement mentionnée à l'article L. 3121-1 ; 
+
+2° Le démarchage d'un client en vue de sa prise en charge dans les conditions mentionnées au 1° du II du présent article ; 
+
+3° Le fait de proposer à la vente ou de promouvoir une offre de prise en charge effectuée dans les conditions mentionnées au
+même 1°.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-891 du 16 août 1985 - art. 33 (VT)
+	  - Décret n°85-891 du 16 août 1985 - art. 46 (VT)
+	  - Code des transports - art. D3120-3 (V)
+	  - Code des transports - art. L3112-1 (V)
+	  - Code des transports - art. L3114-4 (M)
+	  - Code des transports - art. L3121-11 (V)
+	  - Code des transports - art. L3124-12 (V)
+	  - Code des transports - art. R3112-2 (VD)
+	  - Code des transports - art. R3120-2 (V)
+	  - Code des transports - art. R3124-11 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L3120-1 (V)
+	  - Code des transports - art. L3121-1 (V)
+
+
+###### Article L3120-3
+
+Toute personne qui se livre ou apporte son concours à l'organisation ou à la vente d'une prestation mentionnée à l'article L.
+3120-1 est responsable de plein droit, à l'égard du client, de la bonne exécution des obligations résultant du contrat, que
+ce contrat ait été conclu à distance ou non et que ces obligations soient à exécuter par elle-même ou par d'autres
+prestataires de services, sans préjudice de son droit de recours contre ceux-ci. 
+
+Toutefois, la personne mentionnée au premier alinéa du présent article peut s'exonérer de tout ou partie de sa responsabilité
+en apportant la preuve que l'inexécution ou la mauvaise exécution du contrat est imputable soit au client, soit au fait
+imprévisible et insurmontable d'un tiers étranger à la fourniture de la prestation prévue au contrat, soit à un cas de force
+majeure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 13 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L3112-1 (M)
+
+	**Cite**:
+
+	  - Code des transports - art. L3120-1
+
+
+###### Article L3120-4
+
+Les personnes qui fournissent des prestations mentionnées à l'article L. 3120-1 et celles qui les mettent en relation avec
+des clients, directement ou indirectement, doivent pouvoir justifier à tout moment de l'existence d'un contrat d'assurance
+couvrant leur responsabilité civile professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cite**:
+
+	  - Code des transports - art. L3120-1 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R3122-1 (VD)
+	  - Code des transports - art. R3122-10 (V)
+
+
+###### Article L3120-5
+
+Les prestations de transport mentionnées à l'article L. 3120-1 peuvent être effectuées avec des véhicules électriques ou
+hybrides, par dérogation aux caractéristiques techniques imposées par voie réglementaire en application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cité par**:
+
+	  - Arrêté du 17 mars 2015 - art. 2 (V)
+	  - Code des transports - art. R3120-11 (Ab)
+	  - Code des transports - art. R3121-12 (V)
+	  - Code des transports - art. R3121-3 (V)
+	  - Code des transports - art. R3122-6 (V)
+	  - Code des transports - art. R3123-3 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L3120-1 (V)
+
+
 ##### Chapitre Ier : Les taxis
 
 ##### Section 1 : Définition
@@ -17257,15 +17483,15 @@ présent article.
 ###### Article L3121-1
 
 Les taxis sont des véhicules automobiles comportant, outre le siège du conducteur, huit places assises au maximum, munis
-d'équipements spéciaux et dont le propriétaire ou l'exploitant est titulaire d'une autorisation de stationnement sur la voie
-publique, en attente de la clientèle, afin d'effectuer, à la demande de celle-ci et à titre onéreux, le transport particulier
-des personnes et de leurs bagages.
+d'équipements spéciaux et d'un terminal de paiement électronique, et dont le propriétaire ou l'exploitant est titulaire d'une
+autorisation de stationnement sur la voie publique, en attente de la clientèle, afin d'effectuer, à la demande de celle-ci et
+à titre onéreux, le transport particulier des personnes et de leurs bagages.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 1 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 	**Cité par**:
 
@@ -17281,30 +17507,39 @@ des personnes et de leurs bagages.
 	  - Code des transports - art. L3124-4 (V)
 	  - Code des transports - art. R3121-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 2
+
+
+###### Article L3121-1-1
+
+L'autorité administrative compétente pour délivrer les autorisations de stationnement mentionnées à l'article L. 3121-1 peut
+fixer des signes distinctifs communs à l'ensemble des taxis, notamment une couleur unique de ces véhicules automobiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code des transports - art. L3121-1
 
 
 ##### Section 2 : Profession d'exploitant de taxi
 
 ###### Article L3121-2
 
-Le titulaire de l'autorisation de stationnement prévue par l'article L. 3121-1 a la faculté de présenter à titre onéreux un
-successeur à l'autorité administrative  compétente pour délivrer celle-ci. 
+L'autorisation de stationnement prévue à l'article L. 3121-1 et délivrée postérieurement à la promulgation de la loi n°
+2014-1104 du 1er octobre 2014 relative aux taxis et aux voitures de transport avec chauffeur est incessible et a une durée de
+validité de cinq ans, renouvelable dans des conditions fixées par décret. 
 
-Cette faculté est subordonnée à l'exploitation effective et continue de l'autorisation de stationnement pendant une durée de
-cinq ans à compter de sa date de délivrance. 
-
-Toutefois, cette durée est de quinze ans dans les cas suivants : 
-
-1° Pour les titulaires d'autorisations nouvelles délivrées postérieurement au 21 janvier 1995 ; 
-
-2° Pour les titulaires d'autorisations délivrées antérieurement au 21 janvier 1995 et qui, en vertu des textes antérieurs, ne
-disposaient pas de la faculté de présenter à titre onéreux un successeur. 
-
-Dans ces deux cas, une fois la première mutation intervenue, la faculté de présenter à titre onéreux un successeur est
-constituée dans les conditions de droit commun, après une exploitation effective et continue de cinq ans.
+Toutefois, le titulaire d'une autorisation de stationnement délivrée avant la promulgation de la même loi a la faculté de
+présenter à titre onéreux un successeur à l'autorité administrative compétente pour délivrer l'autorisation. Cette faculté
+est subordonnée à l'exploitation effective et continue de l'autorisation de stationnement pendant une durée de quinze ans à
+compter de sa date de délivrance ou de cinq ans à compter de la date de la première mutation.
 
 **Liens relatifs à cet article**
 
@@ -17312,75 +17547,26 @@ constituée dans les conditions de droit commun, après une exploitation effecti
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+	**Cite**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014
+	  - Code des transports - art. L3121-1 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Code de la consommation - art. L141-1 (M)
 	  - Code des transports - art. L3121-3 (V)
-	  - Code des transports - art. L3121-4 (M)
-
-	**Cite**:
-
-	  - Code des transports - art. L3121-1
-
-
-###### Article L3121-3
-
-En cas de cessation d'activité totale ou partielle, de fusion avec une entreprise analogue ou de scission, et nonobstant les
-dispositions de l'article L. 3121-2, les entreprises de taxis exploitant plusieurs autorisations, dont le ou les
-représentants légaux ne conduisent pas eux-mêmes un véhicule, sont admises à présenter à titre onéreux un ou plusieurs
-successeurs à l'autorité administrative compétente. 
-
-Sous réserve des dispositions des titres II, III et IV du livre VI du code de commerce, la même faculté est reconnue, pendant
-la période de sauvegarde ou en cas de redressement judiciaire, selon le cas, à l'entreprise débitrice ou à l'administrateur
-judiciaire ou, en cas de liquidation judiciaire, au mandataire liquidateur. 
-
-En cas d'inaptitude définitive, constatée selon les modalités fixées par voie réglementaire, entraînant l'annulation du
-permis de conduire les véhicules de toutes les catégories, les titulaires d'autorisations de stationnement acquises à titre
-onéreux peuvent présenter un successeur sans condition de durée d'exploitation effective et continue. 
-
-Les bénéficiaires de cette faculté ne peuvent conduire un taxi, solliciter ou exploiter une ou plusieurs autorisations de
-stationnement qu'à l'issue d'une durée de cinq ans à compter de la date de présentation du successeur. 
-
-En cas de décès du titulaire d'une autorisation de stationnement, ses ayants droit bénéficient de la faculté de présentation
-pendant un délai d'un an à compter du décès.
-
-**Nota:**
-
-Aux termes de l'article 6 II de la loi n° 2014-1104 du 1er octobre 2014, ces dispositions s'appliquent, dans leur rédaction
-antérieure à la présente loi, aux autorisations de stationnement délivrées avant la publication de ladite loi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°95-66 du 20 janvier 1995 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 6
-
-	**Cité par**:
-
-	  - Arrêté du 19 janvier 2016 (V)
-	  - Code des transports - art. L3121-10 (M)
-
-	**Cite**:
-
-	  - Code des transports - art. L3121-1
+	  - Code des transports - art. L3121-4 (V)
 
 
 ###### Article L3121-4
 
-Les transactions prévues par les articles L. 3121-2 et L. 3121-3 sont répertoriées, avec mention de leur montant, dans un
-registre tenu par l'autorité administrative  compétente pour délivrer l'autorisation de stationnement. 
+Les transactions prévues par l'article L. 3121-2 sont répertoriées, avec mention de leur montant, dans un registre tenu par
+l'autorité administrative compétente pour délivrer l'autorisation de stationnement. 
 
 Le nouveau titulaire remet alors à cette autorité les documents justificatifs de l'exploitation effective et continue de
 l'autorisation par son prédécesseur. 
@@ -17396,11 +17582,11 @@ date de leur conclusion.
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 66
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L3121-2
+	  - Code des transports - art. L3121-2 (V)
 
 	**Cité par**:
 
@@ -17409,16 +17595,35 @@ date de leur conclusion.
 
 ###### Article L3121-5
 
-La délivrance de nouvelles autorisations par l'autorité administrative compétente n'ouvre pas droit à indemnité au profit des
-titulaires d'autorisations précédemment délivrées.
+La délivrance de nouvelles autorisations de stationnement par l'autorité administrative compétente n'ouvre pas droit à
+indemnité au profit des titulaires d'autorisations de stationnement délivrées avant la promulgation de la loi n° 2014-1104 du
+1er octobre 2014 relative aux taxis et aux voitures de transport avec chauffeur ou au profit des demandeurs inscrits sur
+liste d'attente. 
 
-Les nouvelles autorisations sont délivrées en fonction de listes d'attente rendues publiques.
+Les nouvelles autorisations sont délivrées en fonction de listes d'attente rendues publiques. Nul ne peut s'inscrire sur plus
+d'une liste d'attente. Les candidats à l'inscription sur liste d'attente doivent être titulaires d'une carte professionnelle
+prévue à l'article L. 3121-10 en cours de validité, délivrée par le représentant de l'Etat dans le département où
+l'autorisation de stationnement est demandée, et ne pas être déjà titulaires d'une autorisation de stationnement. 
+
+Seuls peuvent se voir délivrer une autorisation de stationnement les titulaires d'une carte professionnelle en cours de
+validité, délivrée par le représentant de l'Etat dans le département où l'autorisation de stationnement est délivrée. En
+outre, la délivrance est effectuée en priorité aux titulaires qui peuvent justifier de l'exercice de l'activité de conducteur
+de taxi pendant une période minimale de deux ans au cours des cinq ans précédant la date de l'inscription sur liste
+d'attente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 6 (Ab)
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 6
 
 	**Cité par**:
 
@@ -17427,10 +17632,6 @@ Les nouvelles autorisations sont délivrées en fonction de listes d'attente ren
 	  - Arrêté du 19 janvier 2016 (V)
 	  - Arrêté du 19 janvier 2016 - art. 1 (V)
 	  - Code des transports - art. R3121-13 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L3121-6
@@ -17553,13 +17754,22 @@ de formation qu'ils détiennent.
 ###### Article L3121-10
 
 L'exercice de l'activité de conducteur de taxi est subordonné à la délivrance d'une carte professionnelle par l'autorité
-administrative.
+administrative. Il est incompatible avec l'exercice de l'activité de conducteur de voiture de transport avec chauffeur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°95-66 du 20 janvier 1995 - art. 2 bis (VT), alinéa 1
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Cite**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 6
+	  - Code des transports - art. L3121-3
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 7
 
 	**Cité par**:
 
@@ -17569,22 +17779,19 @@ administrative.
 	  - Code des transports - art. R3121-16 (M)
 	  - Code des transports - art. R3121-17 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ##### Section 4 : Exécution du service
 
 ###### Article L3121-11
 
-En attente de clientèle, les taxis sont tenus de stationner dans leur commune de rattachement ou dans une commune faisant
-partie d'un service commun de taxis comprenant leur commune de rattachement. Ils peuvent également stationner dans les
-communes où ils ont fait l'objet d'une réservation préalable dont les conducteurs doivent apporter la preuve en cas de
-contrôle. Munis d'une réservation préalable, ils ne peuvent stationner à l'abord des gares et des aérogares ou, le cas
-échéant, dans l'enceinte de celles-ci, lorsqu'elles ne sont pas situées dans leur commune de rattachement ou dans une commune
-faisant partie d'un service commun comprenant leur commune de rattachement, au-delà d'une durée précédant la prise en charge
-de leur clientèle. La durée de ce stationnement est fixée par décret.
+L'autorisation de stationnement mentionnée à l'article L. 3121-1 du présent code permet aux conducteurs de taxis d'arrêter
+leur véhicule, de le stationner ou de le faire circuler sur la voie ouverte à la circulation publique en quête de clientèle
+dans leur commune de rattachement, dans une commune faisant partie d'un service commun de taxis comprenant leur commune de
+rattachement ou dans le ressort de l'autorisation de stationnement délivrée dans les conditions prévues à l'article L. 3642-2
+du code général des collectivités territoriales ou à l'article L. 5211-9-2 du même code. En dehors du ressort de
+l'autorisation de stationnement, les conducteurs de taxis sont soumis à l'article L. 3120-2 du présent code, notamment
+s'agissant de la prise en charge de la clientèle sur la voie ouverte à la circulation publique sous réserve de justification
+d'une réservation préalable.
 
 **Liens relatifs à cet article**
 
@@ -17599,7 +17806,41 @@ de leur clientèle. La durée de ce stationnement est fixée par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 135
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3642-2
+	  - Code général des collectivités territoriales - art. L5211-9-2
+
+
+###### Article L3121-11-2
+
+Un intermédiaire proposant à des clients de réserver un taxi ne peut interdire à l'exploitant ou au conducteur d'un taxi de
+prendre en charge un client en étant arrêté ou stationné ou en circulant sur la voie ouverte à la circulation publique, y
+compris quand la sollicitation du taxi par le client est intervenue par voie de communications électroniques ou par
+l'intermédiaire d'un tiers.
+
+Toute stipulation contractuelle contraire est réputée non écrite.
+
+Les dispositions du présent article sont d'ordre public.
+
+**Nota:**
+
+Conformément à l'article 16 de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions sont applicables aux
+contrats conclus avant la publication de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1 (VT)
+	  - Code de la consommation - art. L511-7 (M)
+	  - Code des transports - art. L3124-4 (M)
 
 
 ###### Article L3121-12
@@ -17619,20 +17860,33 @@ Les modalités d'application du présent chapitre sont fixées par décret en Co
 
 ##### Chapitre II : Les voitures de petite remise
 
+##### Chapitre II : Voitures de transport avec chauffeur
+
 ###### Article L3122-1
 
-Les voitures de petite remise sont des véhicules automobiles comportant, outre le siège du conducteur, huit places assises au
-maximum, mis, à titre onéreux, avec un conducteur, à la disposition des personnes qui en font la demande pour assurer leur
-transport et celui de leurs bagages. 
+Le présent chapitre s'applique aux entreprises qui mettent à la disposition de leur clientèle une ou plusieurs voitures de
+transport avec chauffeur, dans des conditions fixées à l'avance entre les parties. Ces entreprises sont soit des exploitants
+de voitures de transport avec chauffeur, soit des intermédiaires qui mettent en relation des exploitants et des clients. 
 
-Les dispositions applicables aux voitures de tourisme avec chauffeur sont fixées par les articles L. 231-1 à L. 231-4 du code
-du tourisme.
+Les modalités d'application du présent chapitre sont définies par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément au 16 VI de la loi n° 2014-1104 du 1er octobre 2014, les autorisations d'exploiter des voitures de petite remise
+régulièrement exploitées au 2 octobre 2014 demeurent, jusqu'à leur terme, régies par le chapitre II et la section 2 du
+chapitre IV du titre II du livre Ier de la troisième partie du code des transports et par le 26° de l'article 9 de
+l'ordonnance n° 2010-1307 du 28 octobre 2010 relative à la partie législative du code des transports, dans leur rédaction
+antérieure à la présente loi.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Loi n°77-6 du 3 janvier 1977 - art. 1 (Ab), alinéa 1
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
 
 	**Cité par**:
 
@@ -17643,40 +17897,6 @@ du tourisme.
 	  - Code des transports - art. L3122-5 (Ab)
 	  - Code des transports - art. L3122-6 (Ab)
 	  - Code des transports - art. L3551-1 (M)
-
-	**Cite**:
-
-	  - Code du tourisme. - art. L231-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L3122-2
-
-L'exploitation de voitures de petite remise est soumise à autorisation délivrée par l'autorité administrative.
-
-Cette autorisation ne peut être accordée qu'après avis conforme de l'autorité investie du pouvoir de police municipale dans
-les communes dans lesquelles une ou plusieurs autorisations d'exploitation de taxi ont été délivrées et sont effectivement
-utilisées. Toute autorisation est incessible.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-6 du 3 janvier 1977 - art. 2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la consommation - art. L141-1 (VT)
-	  - Code de la consommation - art. L511-7 (M)
-	  - Code de la consommation - art. R113-1 (Ab)
-	  - Code des transports - art. R3124-7 (An)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L3122-3
@@ -17717,70 +17937,19 @@ signe distinctif de caractère commercial, concernant leur activité de petite r
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L3122-4
+##### Section 1 : Dispositions communes aux exploitants et aux intermédiaires
 
-Les conditions d'application du présent chapitre sont précisées par voie réglementaire.
+###### Article L3122-2
 
-**Liens relatifs à cet article**
+Les conditions mentionnées à l'article L. 3122-1 incluent le prix total de la prestation, qui est déterminé lors de la
+réservation préalable mentionnée au 1° du II de l'article L. 3120-2. Toutefois, s'il est calculé uniquement en fonction de la
+durée de la prestation, le prix peut être, en tout ou partie, déterminé après la réalisation de cette prestation, dans le
+respect de l'article L. 113-3-1 du code de la consommation.
 
-	**Anciens textes**:
+**Nota:**
 
-	  - Loi n°77-6 du 3 janvier 1977 - art. 5 (Ab), en ce qui concerne les conditions d'application
-
-	**Cité par**:
-
-	  - Code des transports - art. L3122-3 (V)
-	  - Code des transports - art. L3141-2 (V)
-	  - Code des transports - art. R3122-1 (VD)
-	  - Code des transports - art. R3122-2 (VD)
-	  - Code des transports - art. R3122-9 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-##### Chapitre III : Les véhicules motorisés à deux ou trois roues
-
-###### Article L3123-1
-
-Les entreprises qui mettent à la disposition de leur clientèle, pour assurer leur transport ainsi que celui de leurs bagages,
-des motocyclettes ou des tricycles à moteur conduits par le propriétaire ou son préposé, suivant des conditions fixées à
-l'avance entre les parties, doivent disposer, dans des conditions fixées par voie réglementaire, de chauffeurs qualifiés et
-de véhicules adaptés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 5 (Ab), alinéas 1 et 2, paragraphes I et II
-
-	**Cité par**:
-
-	  - Code des transports - art. L3123-2 (V)
-	  - Code des transports - art. R3120-7 (V)
-	  - Code des transports - art. R3123-2 (M)
-	  - Code des transports - art. R3123-4 (V)
-	  - Code des transports - art. R3124-10 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L3123-2
-
-Les véhicules affectés à l'activité mentionnée à l'article L. 3123-1 ne peuvent ni stationner, ni circuler sur la voie
-publique en quête de clients. 
-
-Ils ne peuvent prendre en charge un client que si leur conducteur peut justifier d'une réservation préalable.
-
-Ils ne peuvent stationner à l'abord des gares et aérogares, dans le respect des règles du code de la route ou des règlements
-édictés par l'autorité compétente, que si leur conducteur peut justifier d'une réservation préalable.
-
-Sous la même condition de réservation préalable, ils ne peuvent stationner à l'abord des gares et des aérogares ou, le cas
-échéant, dans l'enceinte de celles-ci au-delà d'une durée précédant la prise en charge de leur clientèle. La durée de ce
-stationnement est fixée par décret.
+Dans sa décision n° 2015-468/469/472 QPC du 22 mai 2015 (NOR : CSCX1512314S), le Conseil constitutionnel a déclaré l'article
+L. 3122-2 du code des transports contraire à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -17790,20 +17959,156 @@ stationnement est fixée par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 135
-
-	**Cité par**:
-
-	  - Décret n°2014-371 du 26 mars 2014 - art. 1 (Ab)
-	  - Code des transports - art. L3124-9 (Ab)
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
 
 	**Abrogé par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 10
+	  - DÉCISION du 22 mai 2015 - art. 1, v. init.
 
 	**Cite**:
 
-	  - Code des transports - art. L3123-1 (M)
+	  - Code de la consommation - art. L113-3-1
+
+	**Cité par**:
+
+	  - Code de la consommation - art. L141-1 (VT)
+	  - Code de la consommation - art. L511-7 (M)
+	  - Code de la consommation - art. R113-1 (Ab)
+	  - Code des transports - art. R3124-7 (An)
+
+
+##### Section 2 : Dispositions relatives aux exploitants
+
+###### Article L3122-4
+
+Les exploitants disposent d'une ou de plusieurs voitures de transport avec chauffeur répondant à des conditions techniques et
+de confort définies par voie réglementaire et emploient un ou plusieurs conducteurs répondant aux conditions prévues à
+l'article L. 3122-8. 
+
+Ils justifient de capacités financières définies par le décret en Conseil d'Etat mentionné à l'article L. 3122-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
+
+	**Cite**:
+
+	  - Code des transports - art. L3122-1 (V)
+	  - Code des transports - art. L3122-8 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L3122-3 (V)
+	  - Code des transports - art. L3141-2 (V)
+	  - Code des transports - art. R3122-1 (VD)
+	  - Code des transports - art. R3122-2 (VD)
+	  - Code des transports - art. R3122-9 (M)
+
+
+##### Section 4 : Dispositions relatives au conducteur
+
+###### Article L3122-7
+
+Peuvent seules exercer l'activité de conducteur de voiture de transport avec chauffeur les personnes qui justifient de
+conditions d'aptitude professionnelle définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 2 février 2016 - art. 9 (Ab)
+	  - Code des transports - art. R3122-13 (VD)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 9 (V)
+
+
+###### Article L3122-8
+
+L'exercice de l'activité de conducteur de voiture de transport est subordonné à la délivrance d'une carte professionnelle par
+l'autorité administrative et est incompatible avec l'exercice de l'activité de conducteur de taxi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. L3122-4 (V)
+	  - Code des transports - art. R3122-1 (VD)
+	  - Code des transports - art. R3122-12 (V)
+
+
+###### Article L3122-9
+
+Dès l'achèvement de la prestation commandée au moyen d'une réservation préalable, le conducteur d'une voiture de transport
+avec chauffeur dans l'exercice de ses missions est tenu de retourner au lieu d'établissement de l'exploitant de cette voiture
+ou dans un lieu, hors de la chaussée, où le stationnement est autorisé, sauf s'il justifie d'une réservation préalable ou
+d'un contrat avec le client final.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 9
+
+
+##### Chapitre III : Les véhicules motorisés à deux ou trois roues
+
+###### Article L3123-1
+
+Les entreprises qui mettent à la disposition de leur clientèle, pour assurer leur transport ainsi que celui de leurs bagages,
+des motocyclettes ou des tricycles à moteur conduits par le propriétaire ou son préposé, suivant des conditions fixées à
+l'avance entre les parties, doivent disposer, dans des conditions fixées par voie réglementaire :
+
+1° De chauffeurs titulaires d'un certificat de capacité professionnelle ou, après stage d'adaptation ou épreuve d'aptitude,
+de chauffeurs, ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen qui sont titulaires d'un certificat de capacité professionnelle délivré par l'autorité compétente d'un de ces Etats
+où un tel certificat est exigé ou qui peuvent faire état de l'exercice de la profession dans un de ces Etats où un tel
+certificat n'est pas exigé pendant une durée minimale variable selon les titres de formation qu'ils détiennent ;
+
+2° D'un ou plusieurs véhicules adaptés répondant à des conditions techniques et de confort et sur lesquels doit être apposée
+une signalétique visible ;
+
+3° De chauffeurs titulaires, depuis au moins trois ans, de la catégorie du permis de conduire autorisant la conduite des
+véhicules prévus au premier alinéa ;
+
+4° D'un contrat d'assurance couvrant leur responsabilité civile en matière de véhicule et de transport de personnes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 14
+
+	**Cité par**:
+
+	  - Code des transports - art. L3123-2 (Ab)
+	  - Code des transports - art. R3120-7 (V)
+	  - Code des transports - art. R3123-2 (M)
+	  - Code des transports - art. R3123-4 (V)
+	  - Code des transports - art. R3124-10 (V)
 
 
 ###### Article L3123-2-1
@@ -17916,19 +18221,19 @@ Les modalités d'application de la présente section sont fixées par décret en
 
 ###### Article L3124-4
 
-I. ― Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'effectuer à la demande et à titre onéreux le
-transport particulier de personnes et de bagages sans être titulaire d'une autorisation de stationnement sur la voie publique
-en attente de clientèle, ou d'exercer l'activité de conducteur de taxi sans être titulaire de la carte professionnelle en
-cours de validité.
+I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait d'exercer l'activité d'exploitant taxi sans être
+titulaire de l'autorisation de stationnement mentionnée à l'article L. 3121-1. 
 
-II. - Les personnes physiques coupables de l'infraction prévue par le présent article encourent également les peines
-complémentaires suivantes :
+II.-Les personnes physiques coupables de l'infraction prévue par le présent article encourent également les peines
+complémentaires suivantes : 
 
-1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ;
+1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; 
 
-2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ;
+2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 
 
-3° La confiscation du véhicule qui a servi à commettre l'infraction.
+3° La confiscation du véhicule qui a servi à commettre l'infraction. 
+
+III.-Est puni de 15 000 € d'amende le fait de contrevenir au premier alinéa de l'article L. 3121-11-2.
 
 **Liens relatifs à cet article**
 
@@ -17938,7 +18243,13 @@ complémentaires suivantes :
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 135
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 1
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
+
+	**Cite**:
+
+	  - Code des transports - art. L3121-1 (V)
+	  - Code des transports - art. L3121-11-2 (V)
 
 	**Cité par**:
 
@@ -17981,96 +18292,16 @@ l'infraction définie par le I de l'article L. 3124-4 encourent, outre l'amende,
 
 ###### Article L3124-6
 
-En cas de non-respect des dispositions de l'article L. 3122-3, l'autorité administrative peut suspendre l'autorisation
-d'exploiter une voiture de petite remise pour une durée qui ne peut excéder six mois. 
-
-Elle peut aussi ordonner la mise en fourrière, aux frais de son propriétaire, de toute voiture de petite remise
-irrégulièrement exploitée jusqu'à décision de la juridiction saisie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-6 du 3 janvier 1977 - art. 4 (Ab), alinéa 1
-
-	**Cite**:
-
-	  - Code des transports - art. L3122-3 (V)
-
-	**Cité par**:
-
-	  - Code des transports - art. R3124-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L3124-7
-
-Les conditions d'application de la présente section sont précisées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-6 du 3 janvier 1977 - art. 5 (Ab), ecqc les sanctions
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-##### Sous-section 2 : Sanctions pénales
-
-###### Article L3124-8
-
-Est puni de 4 500 € d'amende le fait d'exploiter une voiture de petite remise sans autorisation ou malgré la suspension de
-cette autorisation.
-
-En cas de récidive, le tribunal peut en outre ordonner la confiscation du véhicule ayant servi à commettre l'infraction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-6 du 3 janvier 1977 - art. 4 (Ab), alinéas 2 et 3
-
-	**Codifié par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 11
-
-	**Cité par**:
-
-	  - Code des transports - art. L3531-1 (V)
-	  - Code des transports - art. L3541-1 (V)
-
-
-##### Section 3 : Dispositions relatives aux véhicules motorisés à deux ou trois roues
-
-###### Article L3124-9
-
-I. - Le fait de contrevenir aux dispositions de l'article L. 3123-2 est puni d'un an d'emprisonnement et d'une amende de 15
-000 €. 
-
-II. - Les personnes physiques coupables de l'infraction prévue au présent article encourent également les peines
-complémentaires suivantes : 
-
-1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; 
-
-2° L'immobilisation, pour une durée d'un an au plus, du véhicule qui a servi à commettre l'infraction ; 
-
-3° La confiscation du véhicule qui a servi à commettre l'infraction.
+En cas de violation, par un conducteur de voitures de transport, de la réglementation applicable à la profession, l'autorité
+administrative peut lui donner un avertissement ou procéder au retrait, temporaire ou définitif, de sa carte professionnelle.
 
 **Nota:**
 
-Dans sa décision n° 2013-318 QPC du 7 juin 2013 (NOR : CSCX1314798S), le Conseil constitutionnel a déclaré contraire à la
-Constitution le 4° de l'article L. 3124-9 du code des transports. La déclaration d'inconstitutionnalité de l'article 1er
-prend effet à compter de la publication de la présente décision dans les conditions prévues au considérant 21.
+Conformément à l'article 16 VI de la loi n° 2014-1104 du 1er octobre 2014, les autorisations d'exploiter des voitures de
+petite remise régulièrement exploitées à la date de publication de ladite loi, demeurent, jusqu'à leur terme, régies par le
+chapitre II et la section 2 du chapitre IV du titre II du livre Ier de la troisième partie du présent code et par le 26° de
+l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010 relative à la partie législative du code des transports, dans
+leur rédaction antérieure à la loi susmentionnée.
 
 **Liens relatifs à cet article**
 
@@ -18080,53 +18311,70 @@ prend effet à compter de la publication de la présente décision dans les cond
 
 	**Modifié par**:
 
-	  - Décision n°2013-318 QPC du 7 juin 2013 - art. 1, v. init.
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 11
 
 	**Abrogé par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
-
-	**Cite**:
-
-	  - Code des transports - art. L3123-2
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 9 (V)
 
 	**Cité par**:
 
-	  - Code des transports - art. L3124-10 (Ab)
+	  - Code des transports - art. R3124-4 (V)
 
 
-###### Article L3124-10
+##### Sous-section 2 : Sanctions pénales
 
-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
-l'infraction définie à l'article L. 3124-9 encourent, outre l'amende, suivant les modalités prévues par l'article 131-38 du
-code pénal, les peines prévues par les 8° et 9° de l'article 131-39 du même code.
+###### Article L3124-7
+
+I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de contrevenir aux articles L. 3122-3 et L. 3122-5. 
+
+II.-Les personnes physiques reconnues coupables de l'infraction prévue au I encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension, pour une durée maximale de cinq ans, du permis de conduire ; 
+
+2° L'immobilisation, pour une durée maximale d'un an, du véhicule qui a servi à commettre l'infraction ; 
+
+3° La confiscation du véhicule qui a servi à commettre l'infraction. 
+
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction prévue au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du
+même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
+
+**Nota:**
+
+Conformément à l'article 16 VI de la loi n° 2014-1104 du 1er octobre 2014, les autorisations d'exploiter des voitures de
+petite remise régulièrement exploitées à la date de publication de ladite loi, demeurent, jusqu'à leur terme, régies par le
+chapitre II et la section 2 du chapitre IV du titre II du livre Ier de la troisième partie du présent code et par le 26° de
+l'article 9 de l'ordonnance n° 2010-1307 du 28 octobre 2010 relative à la partie législative du code des transports, dans
+leur rédaction antérieure à la loi susmentionnée.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 5 (Ab), alinéas 11 à 13, paragraphe IV
 
 	**Codifié par**:
 
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 11
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code des transports - art. L3124-9 (Ab)
+	  - Code des transports - art. L3122-3
+	  - Code des transports - art. L3122-5 (Ab)
 
-	**Cité par**:
 
-	  - Code des transports - art. L3531-1 (V)
-	  - Code des transports - art. L3541-1 (V)
+##### Section 2 : Dispositions relatives aux voitures de transport avec chauffeur
 
+##### Sous-section 1 : Sanctions administratives
+
+##### Sous-section 2 : Sanctions pénales
+
+##### Section 3 : Dispositions relatives aux véhicules motorisés à deux ou trois roues
 
 ###### Article L3124-11
 
@@ -18147,6 +18395,76 @@ procéder au retrait, temporaire ou définitif, de sa carte professionnelle.
 	  - Code des transports - art. R3120-7 (V)
 	  - Code des transports - art. R3121-15 (V)
 	  - Code des transports - art. R3124-8 (V)
+
+
+##### Section 4 : Dispositions communes
+
+###### Article L3124-12
+
+I.-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de contrevenir au I et au 1° du II de l'article L.
+3120-2. 
+
+II.-Les personnes physiques reconnues coupables de l'infraction prévue au I du présent article encourent également les peines
+complémentaires suivantes : 
+
+1° La suspension, pour une durée maximale de cinq ans, du permis de conduire ; 
+
+2° L'immobilisation, pour une durée maximale d'un an, du véhicule qui a servi à commettre l'infraction ; 
+
+3° La confiscation du véhicule qui a servi à commettre l'infraction. 
+
+III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction prévue au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du
+même code, les peines prévues aux 8° et 9° de l'article 131-39 dudit code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code des transports - art. L3120-2 (V)
+
+
+###### Article L3124-13
+
+Est puni de deux ans d'emprisonnement et de 300 000 € d'amende le fait d'organiser un système de mise en relation de clients
+avec des personnes qui se livrent aux activités mentionnées à l'article L. 3120-1 sans être ni des entreprises de transport
+routier pouvant effectuer les services occasionnels mentionnés au chapitre II du titre Ier du présent livre, ni des taxis,
+des véhicules motorisés à deux ou trois roues ou des voitures de transport avec chauffeur au sens du présent titre. 
+
+Les personnes morales déclarées responsables pénalement du délit prévu au présent article encourent, outre l'amende suivant
+les modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même code.
+L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise. Les peines prévues aux 2° à 7° dudit article ne peuvent être prononcées que pour une
+durée maximale de cinq ans.
+
+**Nota:**
+
+Conformément à l'article 16 VII de la loi n° 2014-1104 du 1er octobre 2014, les présentes dispositions ne sont pas
+applicables aux personnes qui organisent un système de mise en relation des clients avec des exploitants de voitures de
+petite remise, disposant d'une autorisation, régulièrement exploitées à la date de publication de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 12
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1920 du 29 décembre 2016 - art. 13 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code des transports - art. L3120-1
 
 
 #### TITRE III : LE TRANSPORT PRIVE ROUTIER DE PERSONNES
@@ -20972,8 +21290,8 @@ remplacés par les mots : " par l'article L. 3452-2 ".
 
 ###### Article L3551-1
 
-Les articles L. 3113-2 et L. 3113-3, le chapitre V du titre Ier du livre Ier de la présente partie, l'article L. 3115-6, le
-second alinéa de l'article L. 3122-1 et les articles L. 3211-2 et L. 3211-3 ne s'appliquent pas à Saint-Pierre-et-Miquelon.
+Les articles L. 3113-2 et L. 3113-3, le chapitre V du titre Ier, le chapitre II et la section 2 du chapitre IV du titre II du
+livre Ier de la présente partie et les articles L. 3211-2 et L. 3211-3 ne s'appliquent pas à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -20983,13 +21301,11 @@ second alinéa de l'article L. 3122-1 et les articles L. 3211-2 et L. 3211-3 ne 
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 116
+	  - Loi n°2014-1104 du 1er octobre 2014 - art. 15
 
 	**Cite**:
 
-	  - Code des transports - art. L3113-2
-	  - Code des transports - art. L3115-6
-	  - Code des transports - art. L3122-1
+	  - Code des transports - art. L3113-2 (V)
 	  - Code des transports - art. L3211-2
 
 
