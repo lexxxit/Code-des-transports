@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-10-23
+Version Consolidée au 2014-11-07
 
 # PARTIE LEGISLATIVE
 
@@ -65291,6 +65291,8 @@ les enquêtes et la prévention des accidents et des incidents dans l'aviation c
 
 ##### Chapitre II : L'accès des personnes handicapées ou dont la mobilité  est réduite aux services de transport
 
+##### Section 1 : Dispositions applicables au matériel roulant
+
 ###### Article D1112-1
 
 Constituent le matériel roulant mentionné à l'article L. 1112-3 : 
@@ -65305,30 +65307,26 @@ cette même disposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 1, alinéas 1 à 3 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code des transports - art. D1112-2 (VD)
 	  - Code des transports - art. D1112-3 (V)
-	  - Code des transports - art. D1112-6 (M)
+	  - Code des transports - art. D1112-6 (V)
 	  - Code des transports - art. D1112-7 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. L1112-3 (V)
-	  - Code des transports - art. L1613-1 (V)
-	  - Code des transports - art. L2000-1 (V)
+	  - Code des transports - art. L1112-3
+	  - Code des transports - art. L1613-1
+	  - Code des transports - art. L2000-1
 
 
 ###### Article D1112-2
@@ -65364,23 +65362,19 @@ l'objet d'une modification substantielle, lorsque le marché principal les conce
 
 	**Cite**:
 
-	  - Décret n°59-157 du 7 janvier 1959 - art. 1 (V)
-	  - Décret n°85-891 du 16 août 1985 - art. 25 (V)
-	  - Décret n°2006-1279 du 19 octobre 2006 - art. 31 (V)
-	  - Code des transports - art. D1112-1 (V)
-	  - Code des transports - art. L1112-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 1, alinéas 4 à 6 (Ab)
+	  - Décret n°59-157 du 7 janvier 1959 - art. 1
+	  - Décret n°85-891 du 16 août 1985 - art. 25
+	  - Décret n°2006-1279 du 19 octobre 2006 - art. 31
+	  - Code des transports - art. D1112-1
+	  - Code des transports - art. L1112-1
 
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 
 ###### Article D1112-3
@@ -65394,26 +65388,22 @@ autres catégories d'usagers, avec la plus grande autonomie possible et sans dan
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 2, alinéa 1 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L114 (V)
-	  - Code des transports - art. D1112-1 (V)
+	  - Code de l'action sociale et des familles - art. L114
+	  - Code des transports - art. D1112-1
 
 	**Cité par**:
 
-	  - Code des transports - art. D1112-6 (M)
+	  - Code des transports - art. D1112-6 (V)
 
 
 ###### Article D1112-4
@@ -65431,17 +65421,13 @@ transport.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 2, alinéas 2 à 5 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 
 ###### Article D1112-5
@@ -65463,17 +65449,13 @@ et adaptée aux capacités de perception et de compréhension des personnes hand
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 2, alinéas 6 à 10 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 
 ###### Article D1112-6
@@ -65489,25 +65471,21 @@ mentionnés à l'article D. 1112-7.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 3 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code des transports - art. D1112-1 (V)
+	  - Code des transports - art. D1112-1 (M)
 	  - Code des transports - art. D1112-3 (V)
 	  - Code des transports - art. D1112-7 (V)
-	  - Code des transports - art. L1613-1 (V)
-	  - Code des transports - art. L1613-4 (V)
+	  - Code des transports - art. L1613-1
+	  - Code des transports - art. L1613-4
 
 
 ###### Article D1112-7
@@ -65520,26 +65498,688 @@ modification substantielle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°2006-138 du 9 février 2006 - art. 4 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - DEPLACE: Décret n°2014-1323 du 4 novembre 2014 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 18 décembre 2015 (V)
-	  - Code des transports - art. D1112-6 (M)
+	  - Code des transports - art. D1112-6 (V)
 
 	**Cite**:
 
-	  - Code des transports - art. D1112-1 (V)
+	  - Code des transports - art. D1112-1
+
+
+##### Section 2 : Dispositions applicables aux points d'arrêt
+
+###### Article D1112-8
+
+Au sens de la présente section, on entend par : 
+
+1° Gare accessible ou point d'arrêt accessible :
+
+- soit un arrêt de transport public routier de personnes ou de transport guidé au sens des articles 1er et 2 du décret n°
+2003-425 du 9 mai 2003 relatif à la sécurité des transports publics guidés qui répond aux dispositions de l'article 1er du
+décret n° 2006-1658 du 21 décembre 2006 relatif aux prescriptions techniques pour l'accessibilité de la voirie et des espaces
+publics ou, lorsqu'il s'agit d'un établissement recevant du public au sens de l'article R. 123-2 du code de la construction
+et de l'habitation, aux dispositions de l'article R. 111-19-8 de ce code ;
+
+- soit un point d'arrêt ferroviaire qui répond aux dispositions de l'annexe de la décision 2008/164/ CE de la Commission
+européenne du 21 décembre 2007 sur la spécification technique d'interopérabilité relative aux personnes à mobilité réduite
+dans le système ferroviaire transeuropéen conventionnel et à grande vitesse ainsi qu'aux dispositions de l'article R.
+111-19-8 du code de la construction et de l'habitation lorsqu'il s'agit d'un établissement recevant du public au sens de
+l'article R. 123-2 de ce code ; 
+
+2° Fréquentation d'un arrêt : la moyenne journalière, pour les deux dernières années disponibles à la date de la publication
+du présent décret, du cumul des montées et des descentes ou du double des montées de voyageurs ; 
+
+3° Ligne routière urbaine structurante : en dehors de l'Ile-de-France, dans les périmètres de transports urbains définis par
+l'article L. 1231-4, au sein d'un réseau hiérarchisé, une ligne exploitée avec des autobus et aménagée en site propre, sur
+tout ou partie de son tracé ainsi qu'une ligne ou un groupe de lignes exploitées avec des autobus présentant le plus grand
+nombre de passages moyen par jour, hors samedis, dimanches, jours féries et vacances scolaires, identifiées par l'autorité
+organisatrice de transports ; 
+
+4° Pôle d'échanges : un lieu où s'effectuent des correspondances entre les points d'arrêt d'au moins deux lignes de transport
+public, aménagé pour faciliter les déplacements des voyageurs entre ces points ; 
+
+5° Pôle générateur de déplacements : un immeuble ou un groupe d'immeubles accueillant plus de 300 travailleurs ou habitants
+ou un établissement recevant du public classé dans la première, deuxième ou troisième catégorie, en application de l'article
+R. 123-19 du code de la construction et de l'habitation ; 
+
+6° Structure d'accueil pour personnes handicapées ou personnes âgées : établissements et services d'accueil ou d'hébergement
+pour personnes âgées ou personnes handicapées définis par les 2°, 3°, 5°, 6°, 7°, 11° et 12° du I de l'article L. 312-1 du
+code de l'action sociale et des familles et classés dans la première à la quatrième catégorie des établissements recevant du
+public, en application de l'article R. 123-19 du code de la construction et de l'habitation ; 
+
+7° Transport public routier urbain : un service public de transport routier de personnes, régulier ou à la demande, organisé
+dans le cadre des dispositions de l'article L. 1231-1 ; 
+
+8° Transport public routier non urbain : un service public de transport routier de personnes, régulier ou à la demande,
+organisé dans le cadre des dispositions des articles L. 3111-1 à L. 3111-6 et L. 3111-11.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2003-425 du 9 mai 2003 - art. 1
+	  - Décret n°2003-425 du 9 mai 2003 - art. 2
+	  - Décret n°2006-1658 du 21 décembre 2006 - art. 1
+	  - Code de l'action sociale et des familles - art. L312-1
+	  - Code de la construction et de l'habitation. - art. R*111-19-8
+	  - Code de la construction et de l'habitation. - art. R*123-19
+	  - Code de la construction et de l'habitation. - art. R*123-2
+	  - Code des transports - art. L1231-1
+	  - Code des transports - art. L1231-4
+	  - Code des transports - art. L3111-1
+	  - Code des transports - art. L3111-11
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+
+###### Article D1112-9
+
+L'autorité organisatrice de transport compétente ou, en l'absence d'une telle autorité, l'Etat, établit, pour chaque mode de
+transport collectif, une liste des arrêts qui, par application des critères définis aux articles D. 1112-10 à D. 1112-12,
+doivent être de façon prioritaire rendus accessibles aux personnes handicapées ou dont la mobilité est réduite, conformément
+aux dispositions de l'article L. 1112-1. 
+
+Cette liste est approuvée par l'organe délibérant de l'autorité organisatrice de transport et, pour l'Etat, fixée par arrêté
+du ministre chargé des transports. 
+
+L'autorité organisatrice de transport ou l'Etat peut dresser une liste complémentaire d'arrêts qu'elle prévoit de rendre
+également accessibles compte tenu de considérations particulières, liste qui est approuvée dans les conditions prévues à
+l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 2017 - art. 2 (V)
+	  - Code des transports - art. R1112-13 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. D1112-10
+	  - Code des transports - art. L1112-1
+
+
+###### Article D1112-10
+
+I. - Pour les transports publics routiers urbains et non urbains de personnes en dehors de l'Ile-de-France, un point d'arrêt
+ou une gare est prioritaire au sens de l'article L. 1112-1 dès lors qu'il répond à au moins l'une des conditions suivantes : 
+
+1° Il est situé sur une ligne structurante d'un réseau de transport public urbain ; 
+
+2° Il est desservi par au moins deux lignes de transport public ; 
+
+3° Il constitue un pôle d'échanges ; 
+
+4° Il est situé dans un rayon de 200 mètres autour d'un pôle générateur de déplacements ou d'une structure d'accueil pour
+personnes handicapées ou personnes âgées. 
+
+II. - Lorsque l'application des critères définis au I ne conduit pas à identifier un point d'arrêt ou gare prioritaire dans
+une commune desservie, l'autorité organisatrice de transport détermine :
+
+- pour les réseaux urbains, au moins un point d'arrêt à rendre accessible dans la commune ;
+
+- pour les réseaux non urbains, au moins un point d'arrêt à rendre accessible dans la principale zone agglomérée de la
+commune, dès lors que cette zone est desservie et que la population de la commune est supérieure à 1 000 habitants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+	**Cité par**:
+
+	  - Code des transports - art. D1112-9 (V)
+	  - Code des transports - art. R1112-13 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-1
+
+
+###### Article D1112-11
+
+I.-Pour les transports publics routiers de personnes dans la région Ile-de-France, un point d'arrêt ou une gare est
+prioritaire au sens de l'article L. 1112-1 dès lors qu'il est situé sur l'une des lignes définies comme prioritaires par le
+Syndicat des transports d'Ile-de-France en tenant compte de la fréquentation, de l'organisation du réseau de transport et de
+la desserte du territoire et qu'il répond à au moins l'une des conditions suivantes : 
+
+1° Il est desservi par au moins deux lignes de transport public ; 
+
+2° Il constitue un pôle d'échanges ; 
+
+3° Il est situé dans un rayon de 200 mètres autour d'un pôle générateur de déplacements ou d'une structure d'accueil pour
+personnes handicapées ou personnes âgées. 
+
+II.-Lorsque l'application des conditions prévues au I n'aboutit pas à rendre prioritaires au moins 70 % des arrêts de la
+ligne en cause, le Syndicat des transports d'Ile-de-France détermine un ou plusieurs points d'arrêt à rendre accessibles afin
+d'atteindre ce seuil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-1
+
+	**Cité par**:
+
+	  - Code des transports - art. R1112-13 (V)
+
+
+###### Article D1112-12
+
+I.-Pour les transports ferroviaires et pour les services de transport empruntant les lignes du réseau express régional d'Ile-
+de-France, un point d'arrêt existant ou une gare existante est prioritaire au sens de l'article L. 1112-1, s'il n'appartient
+pas aux réseaux souterrains remplissant les conditions fixées par l'article L. 1112-5 et s'il répond au moins à l'une des
+conditions suivantes : 
+
+1° La fréquentation y est supérieure à 5 000 voyageurs par jour en Ile-de-France et 1 000 voyageurs par jour hors Ile-de-
+France ; 
+
+2° Il est situé dans un rayon de 200 mètres autour d'une structure d'accueil pour personnes handicapées ou personnes âgées. 
+
+La mise en accessibilité des points d'arrêt prioritaires ainsi identifiés s'effectue sans préjudice de l'application aux
+infrastructures existantes des dispositions du point 7.3.1 de l'annexe de la décision 2008/164/ CE de la Commission du 21
+décembre 2007 sur la spécification technique d'interopérabilité relative aux personnes à mobilité réduite dans le système
+ferroviaire transeuropéen conventionnel et à grande vitesse. 
+
+II.-Lorsque l'application des conditions prévues au I ne permet pas de répondre à l'objectif que tout point d'arrêt
+ferroviaire non accessible se situe à moins de 50 kilomètres, sur la même ligne, d'un point d'arrêt ferroviaire accessible,
+l'autorité organisatrice de transport ou, en l'absence d'une telle autorité, l'Etat, détermine un point d'arrêt à rendre
+accessible afin d'atteindre cet objectif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-1
+	  - Code des transports - art. L1112-5
+
+
+###### Article D1112-13
+
+Pour les transports publics guidés, tous les points d'arrêt et gares qui n'appartiennent pas aux réseaux souterrains
+remplissant les conditions fixées par l'article L. 1112-5 sont prioritaires au sens de l'article L. 1112-1, à l'exception de
+ceux qui sont desservis par les services de transport empruntant les lignes du réseau express régional d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-1
+	  - Code des transports - art. L1112-5
+
+
+###### Article D1112-14
+
+L'autorité organisatrice de transport compétente ou l'Etat consulte des associations de personnes handicapées ou dont la
+mobilité est réduite et, le cas échéant, les gestionnaires de la voirie, des points d'arrêt ferroviaires et de toute autre
+infrastructure concernée ainsi que les autres autorités organisatrices de transport intéressées, sur le projet de liste
+comportant l'ensemble des arrêts ainsi identifiés, avant de le soumettre à l'approbation de son organe délibérant ou de fixer
+la liste par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+
+###### Article D1112-15
+
+La mise en accessibilité aux personnes handicapées ou dont la mobilité est réduite, d'un point d'arrêt routier est considérée
+comme techniquement impossible notamment lorsque la voirie qui supporte le point d'arrêt présente une pente supérieure à 5 %
+ou que l'emprise de ce point d'arrêt est trop étroite pour permettre le respect de la distance minimale de 1,50 m prévue pour
+le retournement de la personne en fauteuil roulant sur le point d'arrêt une fois la rampe déployée, et qu'aucune autre
+solution technique, tel le déplacement du point d'arrêt, ne permettrait sa mise en accessibilité sans nuire à la sécurité des
+usagers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1323 du 4 novembre 2014 - art. 2
+
+
+##### Section 3 : Schémas directeurs d'accessibilité - agendas d'accessibilité programmée pour la mise en accessibilité des services de transport public de voyageurs
+
+##### Sous-section 1 : Compétences
+
+###### Article R1112-11
+
+I.-L'autorité administrative qui, en application des dispositions du III de l'article L. 1112-2-1, est compétente pour
+approuver le schéma directeur d'accessibilité-agenda d'accessibilité programmée statue sur les demandes tendant à la
+prorogation du délai de dépôt de ce schéma prévue au même III de l'article L. 1112-2-1 présentées par l'autorité
+organisatrice de transport auteur de ce schéma. 
+
+II.-L'autorité administrative qui, en application des dispositions du III de l'article L. 1112-2-1, a approuvé le schéma
+directeur d'accessibilité-agenda d'accessibilité programmée prend les décisions relatives à la prorogation du délai de mise
+en œuvre de ce schéma prévue à l'article L. 1112-2-3, celles relatives aux sanctions prévues au II de l'article L. 1112-2-4
+ainsi que celles relatives à la procédure de carence et aux sanctions prévues au III du même article. Les sanctions prévues
+par le deuxième alinéa du I de l'article L. 1112-2-4 sont prononcées par le représentant de l'Etat de chacun des départements
+concernés par le schéma, et, pour les services ferroviaires d'intérêt national, par le ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-1
+	  - Code des transports - art. L1112-2-3
+	  - Code des transports - art. L1112-2-4
+
+	**Cité par**:
+
+	  - Code des transports - art. R1112-19 (V)
+
+
+##### Sous-section 2 : Elaboration
+
+###### Article R1112-12
+
+I.-L'autorité organisatrice de transport ou, en l'absence d'une telle autorité, l'Etat coordonne, dans le cadre de
+l'élaboration d'un schéma directeur d'accessibilité-agenda d'accessibilité programmée pour le service de transport public de
+voyageurs dont elle est responsable, les modalités de la mise en accessibilité des points d'arrêt prioritaires prévus par le
+I de l'article L. 1112-2-1, pour lesquels elle a, le cas échéant, été désignée chef de file en application du II du même
+article. 
+
+II.-Le projet de schéma directeur d'accessibilité-agenda d'accessibilité programmée comporte, pour chacun des points d'arrêt
+prioritaires, les engagements pris par les maîtres d'ouvrage pour réaliser les aménagements nécessaires à la mise en
+accessibilité qui leur incombent et les financements correspondants. Ces maîtres d'ouvrage et financeurs cosignent le projet.
+Lorsque ces engagements font défaut, le projet indique les mesures nécessaires et les personnes susceptibles d'en assurer la
+charge. 
+
+III.-Les parties intéressées par le service de transport dont l'avis doit être sollicité sur le projet de schéma en
+application du II de l'article L. 1112-2-1 sont, outre les gestionnaires mentionnés par ces dispositions, les gestionnaires
+du service de transport ainsi que des associations de personnes handicapées et d'usagers choisies par l'autorité
+organisatrice de transport, qui réunit ces parties au sein d'un comité constitué à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-1
+
+	**Cité par**:
+
+	  - Code des transports - art. R1112-16 (V)
+
+
+###### Article R1112-13
+
+I.-Le schéma directeur d'accessibilité-agenda d'accessibilité programmée indique le ou les services de transport public de
+voyageurs et le département sur lesquels il porte et la collectivité publique qui en est responsable, exception faite des
+services ferroviaires d'intérêt national pour lesquels est élaboré un schéma directeur d'accessibilité-agenda d'accessibilité
+programmée unique. 
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée comprend : 
+
+1° Une présentation de ce ou ces services et notamment : 
+
+a) La description du réseau ou des réseaux de transport public de voyageurs, en identifiant, s'il y a lieu, les lignes
+structurantes mentionnées au 1° du I de l'article D. 1112-10 et pour l'Ile-de-France les lignes prioritaires mentionnées au I
+de l'article D. 1112-11 ; 
+
+b) La description du matériel roulant accessible qui y est affecté et les lignes dotées de ce matériel roulant accessible ; 
+
+c) L'accessibilité des points d'arrêt et, pour les gares et autres points d'arrêt d'un service de transport de voyageurs
+ferroviaire, celle de leurs bâtiments et installations ; 
+
+2° La liste des points d'arrêt prioritaires établie en application des dispositions de l'article D. 1112-9, assortie, le cas
+échéant, de la liste complémentaire prévue par cet article, les caractéristiques associées à ces points d'arrêt et les
+travaux à mener pour les rendre accessibles. Pour un service de transport de voyageurs ferroviaire, le schéma comprend la
+liste des bâtiments et installations associés aux gares et autres points d'arrêt ferroviaires prioritaires et la présentation
+des travaux à y mener pour les rendre accessibles ainsi que la description des mesures de substitution à mettre en place pour
+les gares qui ne constituent pas des points d'arrêt prioritaires ; 
+
+3° Les demandes de dérogation motivées par une impossibilité technique avérée au sens de l'article L. 1112-4, assorties de
+toutes pièces permettant d'en apprécier le bien-fondé et de la présentation des mesures de substitution envisagées et pour
+les établissements recevant du public, la liste des points susceptibles de faire l'objet de la demande de dérogation prévue
+par l'article R. 111-19-10 du code de la construction et de l'habitation ; 
+
+4° La programmation présentant, sur chacune des périodes et sur chacune des années de la première période, le début et la fin
+prévisionnels des actions de mise en accessibilité de chaque point d'arrêt prioritaire et les engagements des maîtres
+d'ouvrage, ou à défaut, les actions nécessaires et les personnes qui sont susceptibles d'en assurer la charge ; 
+
+5° L'estimation financière de la mise en accessibilité ainsi que la répartition de ces coûts sur chaque période et sur chaque
+année de la première période et les concours financiers prévus des différents financeurs, ou, à défaut, les financements
+nécessaires et les personnes qui pourraient y contribuer ; 
+
+6° Les modalités de formation des personnels en contact avec le public aux besoins des usagers handicapés ainsi que le
+calendrier de formation sur chacune des périodes et sur chacune des années de la première période, le nombre des personnes
+devant bénéficier de formation ainsi que la durée en nombre d'heures des actions de formation et celles d'information des
+usagers relatives au service de transport public accessible à toutes les formes de handicap ainsi que son calendrier de mise
+en œuvre présentant toutes les actions y concourant sur chacune des périodes et sur chacune des années de la première
+période ; 
+
+7° La description des modalités de mise en œuvre et de suivi de l'exécution du schéma directeur d'accessibilité-agenda
+d'accessibilité programmée ainsi que celles de l'actualisation à laquelle il donne lieu, notamment lorsqu'est fait le bilan
+des actions nécessaires à la mise en accessibilité prévu par l'article R. 1112-22. 
+
+II.-Lorsque le ou les services de transport public de voyageurs concernent plus d'un département, le schéma directeur
+d'accessibilité-agenda d'accessibilité programmée comporte également un préambule qui indique : 
+
+a) Les orientations et les priorités, notamment géographiques et techniques, retenues pour la mise en accessibilité ainsi que
+les raisons de ces choix ; 
+
+b) Le coût de mise en accessibilité de l'ensemble du service pour chaque maître d'ouvrage ainsi que les concours apportés par
+les différents financeurs. 
+
+La présentation prévue au 1° du I et les éléments mentionnés au 4° du même I portent alors sur l'ensemble des départements
+pour chacun du ou des services de transport concernés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R111-19-10
+	  - Code des transports - art. D1112-10
+	  - Code des transports - art. D1112-11
+	  - Code des transports - art. D1112-9
+	  - Code des transports - art. L1112-4
+	  - Code des transports - art. R1112-22
+
+
+##### Sous-section 3 : Instruction de la demande 
+
+###### Article R1112-14
+
+Le schéma directeur d'accessibilité-agenda d'accessibilité programmée est adressé, en deux exemplaires par pli recommandé
+avec demande d'avis de réception, à l'autorité compétente pour l'approuver en application du III de l'article L. 1112-2-1,
+accompagné, lorsque l'autorité organisatrice de transport est une collectivité territoriale, de la délibération adoptant ce
+schéma. 
+
+La demande peut porter simultanément sur plusieurs schémas directeurs d'accessibilité-agendas d'accessibilité programmée. 
+
+Pour les services de transport ferroviaire, une copie de la demande est également adressée à chacune des commissions pour
+l'accessibilité prévues à l'article L. 2143-3 du code général des collectivités territoriales des communes où sont implantés
+les bâtiments et installations accessibles au public des gares prioritaires qui la transfèrent, le cas échéant, à la
+commission intercommunale compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2143-3
+	  - Code des transports - art. L1112-2-1
+
+
+###### Article R1112-15
+
+Le délai d'instruction de la demande d'approbation d'un schéma directeur d'accessibilité-agenda d'accessibilité programmée
+fixé par le III de l'article L. 1112-2-1 court à compter de la réception du dossier complet ou des pièces qui le complètent. 
+
+Lorsque le dossier joint à la demande est incomplet, l'autorité à laquelle il est adressé indique, dans le délai de deux mois
+à compter de la réception de la demande, par lettre recommandée avec demande d'avis de réception ou par courrier
+électronique, les pièces manquantes et le délai imparti pour les produire, qui ne peut être supérieur à un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-1
+
+
+###### Article R1112-16
+
+Le projet de schéma directeur d'accessibilité-agenda d'accessibilité programmée est transmis pour avis à la commission
+consultative départementale de sécurité et d'accessibilité prévue à l'article R. 111-19-30 du code de la construction et de
+l'habitation qui se prononce sur le respect, par ce projet, des règles d'accessibilité et sur les demandes de dérogation
+motivées par une impossibilité technique, au sens de l'article L. 1112-4, qu'il comporte. 
+
+Lorsque ce projet comporte le préambule prévu par l'avant-dernier alinéa du I de l'article L. 1112-2-1, la commission du
+département dans lequel est implanté le siège de l'autorité organisatrice de transport auteur du projet se prononce également
+sur ce préambule et sur les autres éléments qui portent sur plusieurs départements prévus au II de l'article R. 1112-12. 
+
+Lorsque la commission ne s'est pas prononcée dans un délai de deux mois à compter de sa saisine sur le projet de schéma
+directeur d'accessibilité-agenda d'accessibilité programmée, elle est réputée avoir émis un avis.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R111-19-30
+	  - Code des transports - art. L1112-2-1
+	  - Code des transports - art. L1112-4
+	  - Code des transports - art. R1112-12
+
+
+##### Sous-section 4 : Décision d'approbation 
+
+###### Article R1112-17
+
+I.-Un schéma directeur d'accessibilité-agenda d'accessibilité programmée ne peut être approuvé que si les travaux et actions
+prévus pour assurer l'accessibilité des points d'arrêt prioritaires des services de transport sont conformes aux règles
+d'accessibilité qui leur sont applicables et s'il ressort de la présentation des travaux et actions à réaliser pour
+l'accessibilité des bâtiments et installations associés aux points d'arrêt prioritaires des services de transport
+ferroviaire, qu'ils devraient permettre d'assurer la conformité aux règles d'accessibilité aux personnes handicapées qui leur
+sont respectivement applicables. 
+
+II.-Lorsque le dossier de demande d'approbation du schéma directeur d'accessibilité-agenda d'accessibilité programmée n'a pas
+été déposé dans le délai imparti, que ce délai résulte des dispositions générales ou d'une décision individuelle, et que ce
+retard n'est pas justifié, la durée du dépassement du délai imparti pour le dépôt du schéma est imputée sur la durée
+d'exécution de ce schéma.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+
+###### Article R1112-18
+
+I.-Le défaut de notification d'une décision sur la demande d'approbation d'un schéma directeur d'accessibilité-agenda
+d'accessibilité programmée à l'expiration du délai prévu par le III de l'article L. 1112-2-1 vaut approbation implicite du
+schéma et, le cas échéant, octroi implicite des dérogations pour impossibilité technique avérée sollicitées. 
+
+II.-Lorsque l'autorité compétente envisage de refuser l'approbation du schéma directeur d'accessibilité-agenda
+d'accessibilité programmée, elle peut demander à l'auteur du projet de lui soumettre un projet modifié, sur des points et
+dans un délai qu'elle indique. En ce cas, les consultations prévues sur le projet sont limitées à ces modifications. 
+
+III.-Lorsque l'approbation d'un schéma directeur d'accessibilité-agenda d'accessibilité programmée est refusée, l'autorité
+qui prend cette décision peut également préciser le délai laissé pour présenter un nouveau projet, qui ne peut excéder six
+mois. 
+
+IV.-Le préfet ayant statué sur la demande de schéma directeur d'accessibilité-agenda d'accessibilité programmée tient à jour,
+sur le site internet de la préfecture, un document retraçant les demandes d'approbation enregistrées, les services de
+transports publics de voyageurs concernés, la décision prise ainsi que la durée octroyée pour mettre en œuvre le schéma. 
+
+V.-Lorsqu'un schéma directeur d'accessibilité des services de transports a été élaboré en application du I de l'article L.
+1112-2, le schéma directeur d'accessibilité-agenda d'accessibilité programmée approuvé dans les conditions prévues par la
+présente section s'y substitue à la date de son approbation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2
+	  - Code des transports - art. L1112-2-1
+
+	**Cité par**:
+
+	  - Code des transports - art. R1112-21 (V)
+
+
+##### Sous-section 5 : Prorogation des délais 
+
+###### Article R1112-19
+
+I.-Les demandes de prorogation de délais sont adressées par pli recommandé, avec demande d'avis de réception à l'autorité
+compétente mentionnée au R. 1112-11 au plus tard trois mois avant l'expiration du délai imparti soit pour déposer le schéma
+directeur d'accessibilité-agenda d'accessibilité programmée, soit pour achever l'exécution de celui-ci. 
+
+II.-Le contenu du dossier de la demande de prorogation des délais de dépôt ou d'exécution du schéma directeur
+d'accessibilité-agenda d'accessibilité programmée est fixé par un arrêté du ministre chargé des transports et du ministre
+chargé des finances qui précise notamment les éléments de justification des difficultés financières qui peuvent être apportés
+à l'appui de la demande et prévoit que le cas de force majeure et les difficultés techniques ou administratives sont établis
+par tous éléments utiles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 mai 2015 - art. 1 (V)
+	  - Code des transports - art. R1112-21 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. R1112-11
+
+
+###### Article R1112-20
+
+Le délai d'instruction de la demande de prorogation des délais de dépôt ou de mise en œuvre d'un schéma directeur
+d'accessibilité-agenda d'accessibilité programmée est de trois mois à compter de la date de réception du dossier complet ou
+des pièces qui le complètent. 
+
+Lorsque le dossier est incomplet, l'autorité à laquelle il est adressé indique, par lettre recommandée avec demande d'avis de
+réception dans le délai d'un mois à compter de la réception de la demande, les pièces manquantes et le délai imparti pour les
+produire, qui ne peut être supérieur à un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+
+###### Article R1112-21
+
+I.-La décision d'accorder une prorogation de délai précise la durée octroyée. 
+
+A défaut de notification d'une décision explicite du préfet dans le délai de trois mois à compter de la date à laquelle il a
+reçu la demande, la demande de prorogation est réputée rejetée. 
+
+II.-Lorsque la demande de prorogation des délais de dépôt est refusée, l'autorité qui prend cette décision précise le délai
+laissé pour présenter de nouveau à l'approbation un schéma directeur d'accessibilité-agenda d'accessibilité programmée qui ne
+peut excéder six mois. 
+
+III.-Le bénéfice de la prorogation de la durée d'exécution d'un schéma directeur d'accessibilité-agenda d'accessibilité
+programmée de douze mois prévue par le second alinéa de l'article L. 1112-2-3 est accordé notamment quand l'analyse du
+dossier fait apparaître le dépassement des seuils déterminés par l'arrêté prévu par le II de l'article R. 1112-19. 
+
+IV.-Les décisions de prorogation de délai sont enregistrées sur le document relatif aux schémas directeur d'accessibilité-
+agendas d'accessibilité programmée disponible sur le site internet de la préfecture prévu par le III de l'article R. 1112-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 mai 2015 (V)
+	  - Arrêté du 27 mai 2015 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L1112-2-3
+	  - Code des transports - art. R1112-18
+	  - Code des transports - art. R1112-19
+
+
+##### Sous-section 6 : Suivi de l'avancement du schéma 
+
+###### Article R1112-22
+
+I.-Sont adressés, par l'autorité qui a élaboré le schéma directeur d'accessibilité-agenda d'accessibilité programmée, à
+l'autorité qui l'a approuvé, par pli recommandé avec demande d'avis de réception : 
+
+1° A l'issue de la première année, un point de situation ; 
+
+2° A l'issue de chaque période intermédiaire, un bilan des actions nécessaires à la mise en accessibilité qui ont été
+effectuées. 
+
+Lorsque le schéma directeur d'accessibilité-agenda d'accessibilité programmée concerne un service de transport ferroviaire,
+ces bilans sont également adressés aux commissions pour l'accessibilité prévues à l'article L. 2143-3 du code général des
+collectivités territoriales des communes où sont implantés les bâtiments et installations associés aux gares qui les
+concernent qui les transfèrent, le cas échéant, à la commission intercommunale compétente. 
+
+II.-Le bilan prévu au 2° du I indique notamment les actualisations du schéma qui ont été décidées pour prendre en compte
+notamment les modifications intervenues dans les périmètres des services de transport, les modalités d'exploitation des
+points d'arrêt ferroviaires, la localisation et la taille des pôle d'échanges, des pôles générateurs de déplacement et des
+structures d'accueil pour personnes handicapées ou pour personnes âgées ainsi que les évolutions démographiques,
+réglementaires et technologiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 2017 - art. 2 (V)
+	  - Code des transports - art. R1112-13 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2143-3
 
 
 #### TITRE II : LA CONTINUITÉ TERRITORIALE
@@ -75972,8 +76612,7 @@ fixées par les dispositions des articles R. 4433-1 à R. 4433-22 du code géné
 
 ###### Article R1821-1
 
-Les dispositions du chapitre II du titre Ier du livre Ier ainsi que des titres II et III du livre III ne sont pas applicables
-à Mayotte.
+Les dispositions           des titres II et III du livre III ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -75981,9 +76620,28 @@ Les dispositions du chapitre II du titre Ier du livre Ier ainsi que des titres I
 
 	  - Décret n°2014-530 du 22 mai 2014 - art.
 
+	**Modifié par**:
+
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 2
+
+
+###### Article R1821-2
+
+Pour l'application des dispositions de la section 3 du chapitre II du titre Ier du livre Ier et jusqu'au 31 décembre 2015,
+les attributions dévolues à la commission consultative départementale de sécurité et d'accessibilité prévues à l'article R.
+111-19-30 du code de la construction et de l'habitation sont attribuées à une commission de sécurité contre les risques
+d'incendie et de panique dans les établissements recevant du public, dont le rôle, la composition et le fonctionnement sont
+définis par arrêté préfectoral.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2014-530 du 22 mai 2014 - art.
+	  - Décret n°2014-1321 du 4 novembre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. R111-19-30 (V)
 
 
 #### TITRE III : SAINT-BARTHÉLEMY
