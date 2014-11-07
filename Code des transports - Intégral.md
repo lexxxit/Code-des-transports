@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-11-07
+Version Consolidée au 2014-11-08
 
 # PARTIE LEGISLATIVE
 
@@ -3546,17 +3546,26 @@ d'infrastructures de transport.
 
 ###### Article L1231-12
 
-Il est régi par les dispositions des articles L. 5721-2 et suivants du code général des collectivités territoriales.
+Il est régi par les dispositions des articles L. 5721-2 et suivants du code général des collectivités territoriales. 
+
+Il peut instituer un versement destiné au financement des transports en commun dans les conditions prévues aux articles L.
+5722-7 et L. 5722-7-1 du même code.
+
+**Nota:**
+
+Conformément à l'article 43 III de l'ordonnance n° 2014-1335 du 6 novembre 2014 les présentes dispositions s'appliquent à
+compter des impositions dues au titre de 2015.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 30-1 (VT), alinéa 3
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 11
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5721-2 (VT)
+	  - Code général des collectivités territoriales - art. L5721-2 (V)
+	  - Code général des collectivités territoriales - art. L5722-7 (V)
 
 	**Codifié par**:
 
