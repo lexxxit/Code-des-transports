@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-11-23
+Version Consolidée au 2014-12-02
 
 # PARTIE LEGISLATIVE
 
@@ -99310,6 +99310,423 @@ réglementaire ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 ## CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES
 
+### LIVRE IV : LE TRANSPORT MARITIME
+
+
+#### TITRE IV : ACTIVITÉS PRIVÉES DE PROTECTION DES NAVIRES
+
+##### Chapitre II : Modalités d'exercice de l'activité privée de protection des navires 
+
+##### Section 2 : Armement et tenue des agents 
+
+
+###### Article D5442-1-1
+
+Les équipements de protection balistique mentionnés à l'article L. 5442-3 sont constitués au minimum, par agent, d'un gilet
+pare-balles NIJ niveau III A avec plaque additionnelle NIJ type IV et d'un casque NIJ niveau III A.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. D5764-2 (V)
+	  - Code des transports - art. D5764-3 (Ab)
+	  - Code des transports - art. D5774-2 (V)
+	  - Code des transports - art. D5774-3 (Ab)
+	  - Code des transports - art. D5784-2 (V)
+	  - Code des transports - art. D5784-3 (Ab)
+	  - Code des transports - art. D5794-2 (V)
+	  - Code des transports - art. D5794-3 (Ab)
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-3
+
+
+###### Article D5442-1-2
+
+Les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont embarqués à bord des navires concernés dans
+les quantités suivantes : 
+
+1° Une arme à feu d'épaule telle que définie au a du 1° de l'article R. 5442-1 par agent et, au plus, parmi les armes
+suivantes : une arme à feu d'épaule telle que définie au b du 1° de l'article R. 5442-1 par agent, une arme à feu de poing
+telle que définie au 2° de l'article R. 5442-1 par agent, une arme à impulsion électrique telle que définie au 3° de
+l'article R. 5442-1 par agent et un générateur d'aérosol tel que défini au 4° de l'article R. 5442-1 par agent ; 
+
+2° Au maximum, deux armes à feu de poing et deux armes à feu d'épaule supplémentaires telles que définies aux 1° et 2° de
+l'article R. 5442-1 par équipe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. D5764-3 (M)
+	  - Code des transports - art. D5774-3 (M)
+	  - Code des transports - art. D5784-3 (M)
+	  - Code des transports - art. D5794-3 (M)
+
+	**Cite**:
+
+	  - Code des transports - art. R5442-1
+
+
+###### Article R5442-1
+
+En application de l'article L. 5442-5, les entreprises privées de protection des navires mentionnées à l'article L. 5441-1
+peuvent être autorisées à acquérir, détenir, transporter et mettre à disposition de leurs agents les armes, éléments d'armes
+et munitions suivants : 
+
+1° Armes à feu d'épaule : 
+
+a) A répétition semi-automatique dont le projectile a un diamètre supérieur ou égal à 5,56 mm et inférieur à 12,7 mm classées
+au a du 2° et au 4° de la catégorie B ; 
+
+b) A répétition à canon lisse munies d'un dispositif de rechargement à pompe classées au f du 2° de la catégorie B ; 
+
+2° Armes à feu de poing dont le projectile a un diamètre inférieur ou égal à 9 mm classées au 1° de la catégorie B ; 
+
+3° Armes à impulsion électrique permettant de provoquer un choc électrique à distance classées au 6° de la catégorie B ; 
+
+4° Générateurs d'aérosols lacrymogènes ou incapacitants d'une capacité inférieure ou égale à 100 ml classés au b du 2° de la
+catégorie D ; 
+
+5° Munitions des armes mentionnées aux 1° à 3° du présent article ainsi que les munitions avec projectile contenant un
+mélange s'enflammant au contact de l'air classées au 2° de la catégorie A2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. D5442-1-2 (V)
+	  - Code des transports - art. R5442-2 (V)
+	  - Code des transports - art. R5442-3 (V)
+	  - Code des transports - art. R5442-4 (V)
+	  - Code des transports - art. R5764-1 (V)
+	  - Code des transports - art. R5774-1 (V)
+	  - Code des transports - art. R5784-1 (V)
+	  - Code des transports - art. R5784-2 (Ab)
+	  - Code des transports - art. R5794-1 (V)
+
+	**Cite**:
+
+	  - Code des transports - art. L5441-1
+	  - Code des transports - art. L5442-5
+
+
+###### Article R5442-2
+
+L'autorisation mentionnée à l'article R. 5442-1 est délivrée dans les conditions suivantes : 
+
+1° L'autorisation est délivrée par le préfet du département où se trouve le siège de l'entreprise privée de protection des
+navires, par le préfet de police lorsque le siège se trouve à Paris ou hors du territoire national et par le préfet de police
+des Bouches-du-Rhône lorsque le siège se trouve dans le département des Bouches-du-Rhône ; 
+
+2° La demande d'autorisation est accompagnée des pièces suivantes : 
+
+a) Extrait de l'inscription au registre du commerce et des sociétés ou document équivalent pour les entreprises dont le siège
+est à l'étranger ; 
+
+b) Pièce justificative de l'état civil et de la nationalité du représentant de la personne morale ; 
+
+c) Copie de l'autorisation d'exercice de l'activité privée de protection des navires délivrée à l'entreprise ; 
+
+d) Document mentionnant le type, la marque, le modèle et le calibre des armes faisant l'objet de la demande ; 
+
+e) Le cas échéant, liste des armes déjà détenues ; 
+
+f) Justification des dispositifs de stockage et de protection contre le vol au sein de l'entreprise. 
+
+Le silence gardé pendant deux mois par le préfet sur la demande d'autorisation vaut décision de rejet ; 
+
+3° L'autorisation court à partir de sa date de délivrance et est délivrée pour une durée maximale de cinq ans. Elle est
+notifiée par tout moyen permettant de donner une date certaine, dans les quinze jours qui suivent la délivrance. Elle
+mentionne le type, la marque, le modèle et le calibre des armes autorisées ; 
+
+4° La demande de renouvellement doit être déposée au plus tard trois mois avant la date d'expiration de l'autorisation. Un
+récépissé valant autorisation provisoire de détention à compter de la date d'expiration de l'autorisation jusqu'à la décision
+expresse de renouvellement est délivré ; 
+
+5° L'autorisation peut être retirée par l'autorité qui l'a délivrée pour des raisons d'ordre public ou de sécurité des
+personnes ; 
+
+6° L'autorisation est caduque si l'entreprise cesse de remplir les conditions mentionnées à l'article L. 612-9 du code de la
+sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. R5442-1
+	  - Code de la sécurité intérieure - art. L612-9
+
+	**Cité par**:
+
+	  - Code des transports - art. R5442-4 (V)
+	  - Code des transports - art. R5764-1 (V)
+	  - Code des transports - art. R5774-1 (V)
+	  - Code des transports - art. R5784-1 (V)
+	  - Code des transports - art. R5794-1 (V)
+
+
+###### Article R5442-3
+
+Sur le territoire national, les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont conservés au sein
+de l'entreprise dans les conditions prévues aux articles R. 314-2 à R. 314-6 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. R5442-1
+	  - Code de la sécurité intérieure - art. R314-2
+
+	**Cité par**:
+
+	  - Code des transports - art. R5784-3 (V)
+	  - Code des transports - art. R5794-1 (M)
+
+
+###### Article R5442-4
+
+Tout transport sur le territoire national d'armes, d'éléments d'armes ou de munitions mentionnés à l'article R. 5442-1 par
+une entreprise privée de protection des navires fait l'objet par cette dernière, au plus tard soixante-douze heures avant la
+date prévue pour ce transport, d'une déclaration préalable au préfet du département du lieu de départ, qui en délivre
+récépissé. 
+
+Cette déclaration comporte : 
+
+1° L'identité et la qualité de la personne chargée du transport ; 
+
+2° Le jour et les lieux de départ et d'arrivée ; 
+
+3° La liste des armes transportées, avec indication de leur type, marque, modèle, calibre et numéro de série ; 
+
+4° La quantité des munitions transportées ; 
+
+5° Une copie de l'autorisation prévue à l'article R. 5442-2. 
+
+Les armes sont transportées de manière à ne pas être immédiatement utilisables, soit en recourant à un dispositif technique
+répondant à cet objectif, soit par démontage de leurs pièces de sécurité. 
+
+Le transport et l'expédition des armes, éléments d'armes et munitions sont effectués dans les conditions prévues par les
+articles R. 315-13 à R. 315-18 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. R5442-1
+	  - Code des transports - art. R5442-2
+	  - Code de la sécurité intérieure - art. R315-13
+
+	**Cité par**:
+
+	  - Code des transports - art. R5784-4 (V)
+	  - Code des transports - art. R5794-2 (Ab)
+
+
+###### Article R5442-5
+
+Lorsque les armes et munitions doivent être embarquées à bord d'un navire en escale dans un port, le capitaine du navire ou
+son représentant accompagne la personne chargée par l'entreprise de leur transport, depuis l'entrée de l'installation
+portuaire jusqu'au bord. Au débarquement dans un port, le capitaine du navire ou son représentant accompagne la personne
+chargée du transport jusqu'à la sortie de l'installation portuaire. 
+
+La personne chargée du transport des armes et munitions sur le territoire national conserve cette responsabilité lors du
+transfert dans le port. Elle rend compte immédiatement à l'autorité portuaire de tout incident survenu à l'occasion de ce
+transfert.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. R5764-1 (V)
+	  - Code des transports - art. R5774-1 (V)
+	  - Code des transports - art. R5784-1 (V)
+	  - Code des transports - art. R5794-1 (V)
+
+
+###### Article R5442-6
+
+I.-Dès avant l'arrivée dans la zone mentionnée à l'article L. 5442-1, le capitaine du navire examine avec le chef de l'équipe
+de protection les mesures permettant d'assurer la protection du navire et les règles relatives au stockage et à l'usage des
+armes. En tant que de besoin, ces mesures sont arrêtées par le capitaine, sur proposition du chef de l'équipe de protection. 
+
+Le capitaine porte à la connaissance de l'équipe les paramètres de sécurité, de sûreté et d'exploitation propres au navire. 
+
+II.-En dehors des zones mentionnées à l'article L. 5442-1, les armes, éléments d'armes et les munitions sont stockés à bord
+du navire dans des locaux séparés et fermés à clé, dont la garde incombe au chef de l'équipe de protection. 
+
+III.-Dans les zones mentionnées à l'article L. 5442-1 : 
+
+1° La vérification par les agents de protection du bon fonctionnement des armes et l'entraînement au tir nécessitent, au cas
+par cas, l'autorisation préalable du capitaine ; 
+
+2° La décision d'armer les agents de protection en vue d'assurer leur activité de protection du navire est prise par le
+capitaine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-1
+
+	**Cité par**:
+
+	  - Code des transports - art. R5764-1 (V)
+	  - Code des transports - art. R5774-1 (V)
+	  - Code des transports - art. R5784-1 (V)
+	  - Code des transports - art. R5794-1 (V)
+
+
+##### Section 3 : Droits et obligations
+
+###### Article D5442-7
+
+La déclaration prévue au dernier alinéa de l'article L. 5442-7 contient les informations suivantes : 
+
+1° Le nom et le numéro OMI du navire concerné ; 
+
+2° La date et le lieu de l'embarquement et du débarquement prévus des agents de l'entreprise privée de protection des navires
+ainsi que de leurs armes, éléments d'armes et munitions ; 
+
+3° L'itinéraire planifié et le temps de trajet estimé ; 
+
+4° Le nombre d'agents de l'entreprise privée de protection des navires à embarquer. 
+
+Cette déclaration est transmise au ministre chargé des transports par l'intermédiaire des points de contact définis au
+paragraphe 1.4 de la règle 13 du chapitre XI-2 de la convention internationale de 1974 pour la sauvegarde de la vie en mer
+(convention SOLAS).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code des transports - art. D5764-2 (V)
+	  - Code des transports - art. D5764-3 (Ab)
+	  - Code des transports - art. D5774-2 (V)
+	  - Code des transports - art. D5774-3 (Ab)
+	  - Code des transports - art. D5784-3 (Ab)
+	  - Code des transports - art. D5794-2 (V)
+	  - Code des transports - art. D5794-3 (Ab)
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-7
+
+
+###### Article D5442-8
+
+La déclaration à l'embarquement des agents de l'entreprise privée de protection des navires ou des armes et de leurs
+munitions prévue au dernier alinéa de l'article L. 5442-8 contient les informations suivantes : 
+
+1° Le nom et le numéro du navire concerné ; 
+
+2° La date et le lieu de l'embarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs armes,
+éléments d'armes et munitions ; 
+
+3° La date et le lieu estimés du débarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs
+armes, éléments d'armes et munitions ; 
+
+4° L'itinéraire planifié et le temps de trajet estimé ; 
+
+5° Le nombre d'agents de l'entreprise privée de protection des navires à embarquer, leur nom, prénom et date de naissance,
+leur nationalité, le numéro de leur carte professionnelle et l'identité du chef de l'équipe à bord du navire. 
+
+Lors du débarquement des agents ou des armes et de leurs munitions, la déclaration prévue au dernier alinéa de l'article L.
+5442-8 contient les informations suivantes : 
+
+1° Le nom et le numéro du navire concerné ; 
+
+2° La date et le lieu du débarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs armes,
+éléments d'armes et munitions. 
+
+Ces déclarations sont transmises au commandant de la zone maritime concerné par la prestation et, en cas d'embarquement ou de
+débarquement dans un port français, au préfet de département concerné, à l'autorité portuaire et à l'exploitant de
+l'installation portuaire où accoste le navire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-8
+
+
+###### Article D5442-9
+
+Le rapport mentionné au deuxième alinéa de l'article L. 5442-12 comprend au moins les éléments suivants : 
+
+1° L'heure, le lieu et la durée de l'incident ; 
+
+2° La description détaillée des événements qui ont abouti à l'incident ; 
+
+3° La nature de l'attaque (type et taille du ou des navires utilisés, méthode d'approche et armes utilisées) ; 
+
+4° Le nombre des assaillants, leur description et la langue parlée par ces assaillants ; 
+
+5° L'identité des agents de l'équipe de protection dans l'incident ; 
+
+6° Les témoignages écrits de ces agents ; 
+
+7° Les détails sur les armes et munitions utilisées par les agents de l'équipe de protection ; 
+
+8° Les lésions corporelles ou les dommages matériels subis ; 
+
+9° Toute violation de la discipline par les agents de l'équipe de protection ; 
+
+10° Les enseignements tirés de l'incident et, s'il y a lieu, les procédures recommandées pour éviter qu'il ne se reproduise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-12
+
+
 ### LIVRE V : LES GENS DE MER
 
 #### TITRE VI : CONDITIONS SOCIALES DU PAYS D'ACCUEIL 
@@ -99702,6 +100119,289 @@ L'amende est prononcée autant de fois qu'il y a de gens de mer concernés.
 	**Créé par**:
 
 	  - Décret n°2014-881 du 1er août 2014 - art. 1
+
+
+### LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+#### TITRE VI : NOUVELLE-CALÉDONIE
+
+##### Chapitre IV : Le transport maritime
+
+###### Article D5764-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables en Nouvelle-Calédonie, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014 pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014
+	  - Code des transports - art. D5442-1-1
+	  - Code des transports - art. D5442-1-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5764-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables en Nouvelle-Calédonie, dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5764-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014
+	  - Code des transports - art. R5764-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5764-2
+
+La référence au préfet de département est remplacée par la référence au haut-commissaire de la République en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+	**Cité par**:
+
+	  - Code des transports - art. R5764-1 (M)
+
+
+#### TITRE VII : POLYNÉSIE FRANÇAISE
+
+
+##### Chapitre IV : Le transport maritime
+
+###### Article D5774-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables en Polynésie française, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014
+	  - Code des transports - art. D5442-1-1
+	  - Code des transports - art. D5442-1-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5774-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables en Polynésie française dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5774-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014
+	  - Code des transports - art. R5774-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5774-2
+
+La référence au préfet de département est remplacée par la référence au haut-commissaire de la République en Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+	**Cité par**:
+
+	  - Code des transports - art. R5774-1 (M)
+
+
+#### TITRE VIII : WALLIS-ET-FUTUNA
+
+
+##### Chapitre IV : Le transport maritime
+
+###### Article D5784-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables dans les îles Wallis et Futuna, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014
+	  - Code des transports - art. D5442-1-1
+	  - Code des transports - art. D5442-1-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5784-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables à Wallis-et-Futuna dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5784-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014
+	  - Code des transports - art. R5784-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5784-2
+
+I.-La référence au préfet de département est remplacée par la référence à l'administrateur supérieur des îles Wallis et
+Futuna. 
+
+II.-L'article R. 5442-3 est ainsi rédigé : 
+
+“ Dans les îles Wallis et Futuna, les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont conservés au
+sein de l'entreprise dans des conditions équivalentes à celles prévues par les articles R. 314-2 à R. 314-6 du code de la
+sécurité intérieure. ” 
+
+III.-Le dernier alinéa de l'article L. 5442-4 est ainsi rédigé : 
+
+“ Le transport et l'expédition de ces armes, de leurs éléments et munitions sont effectués dans des conditions équivalentes à
+celles prévues par les articles R. 315-13 à R. 315-18 du code de la sécurité intérieure. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+	**Cite**:
+
+	  - Code des transports - art. L5442-4
+	  - Code des transports - art. R5442-1 (V)
+	  - Code de la sécurité intérieure - art. R314-2 (V)
+	  - Code de la sécurité intérieure - art. R315-13 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R5784-1 (M)
+
+
+#### TITRE IX : TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES
+
+
+##### Chapitre IV : Le transport maritime
+
+###### Article D5794-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant du décret n° 2014-1419 du 28
+novembre 2014pris pour l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports
+et relatif aux modalités d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014
+	  - Code des transports - art. D5442-1-1
+	  - Code des transports - art. D5442-1-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5794-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV dans leur rédaction résultant du décret n° 2014-1416
+du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de protection des navires, à l'exception de
+l'article R. 5442-3, sont applicables dans les Terres australes et antarctiques françaises sous réserve des adaptations
+prévues à l'article R. 5794-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014
+	  - Code des transports - art. R5442-3
+	  - Code des transports - art. R5794-2
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5794-2
+
+I.-La référence au préfet de département est remplacée par la référence à l'administrateur supérieur des Terres australes et
+antarctiques françaises. 
+
+II.-Le dernier alinéa de l'article R. 5442-4 est ainsi rédigé : 
+
+“ Le transport et l'expédition de ces armes, de leurs éléments et munitions sont effectués dans des conditions équivalentes à
+celles prévues par les articles R. 315-13 à R. 315-18 du code de la sécurité intérieure. ”
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+	**Cite**:
+
+	  - Code des transports - art. R5442-4
+	  - Code de la sécurité intérieure - art. R315-13 (V)
+
+	**Cité par**:
+
+	  - Code des transports - art. R5794-1 (M)
 
 
 # PARTIE REGLEMENTAIRE - Arrêtés 
