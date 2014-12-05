@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-12-02
+Version Consolidée au 2014-12-06
 
 # PARTIE LEGISLATIVE
 
@@ -99309,6 +99309,88 @@ réglementaire ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 
 ## CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES
+
+### LIVRE III : LES PORTS MARITIMES
+
+#### TITRE III : POLICE DES PORTS MARITIMES
+
+##### Chapitre Ier : Dispositions générales
+
+##### Section 1 : Champ d'application et principes généraux d'organisation
+
+###### Article R*5331-1
+
+La zone maritime et fluviale de régulation est délimitée :
+
+1° Pour les grands ports maritimes et les ports autonomes, par un arrêté conjoint du préfet maritime ou du délégué du
+Gouvernement pour l'action de l'Etat en mer territorialement compétent et du préfet du département, pris après avis
+respectivement du directoire ou du conseil d'administration du port ;
+
+2° Pour les autres ports, par un arrêté conjoint du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en
+mer territorialement compétent, du préfet de département pour ce qui concerne, le cas échéant, la partie fluviale de la zone,
+et de l'autorité investie du pouvoir de police portuaire.
+
+Dans le cas où ces installations portuaires sont implantées sur le territoire de plusieurs départements, un arrêté du Premier
+ministre détermine le préfet de département compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1440 du 4 décembre 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. R*301-1 (Ab)
+
+
+###### Article R*5331-6
+
+L'autorité administrative mentionnée aux articles L. 5331-5 et L. 5331-6 est le préfet du département où sont implantées les
+installations du port. 
+
+Dans le cas où ces installations sont implantées sur le territoire de plusieurs départements, un arrêté du Premier ministre
+détermine le préfet de département compétent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1440 du 4 décembre 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. R*301-2 (Ab)
+
+	**Cite**:
+
+	  - Code des transports - art. L5331-5
+	  - Code des transports - art. L5331-6
+
+
+##### Chapitre II : Sûreté portuaire
+
+##### Section 1 : Organisation administrative
+
+##### Sous-section 3 : Compétences du représentant de l'Etat dans le département
+
+###### Article R*5332-6
+
+Lorsque l'emprise d'un port s'étend sur plusieurs départements, un arrêté du ministre de l'intérieur, pris après avis du
+ministre chargé des transports, désigne le préfet de département qui exerce les prérogatives dévolues par le présent chapitre
+au représentant de l'Etat dans le département. Cet arrêté prévoit les modalités d'information des préfets des autres
+départements sur lesquels s'étend le port.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1440 du 4 décembre 2014 - art.
+
+	**Anciens textes**:
+
+	  - Code des ports maritimes - art. R321-6 (Ab)
+
 
 ### LIVRE IV : LE TRANSPORT MARITIME
 
